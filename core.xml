@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI Operator Library</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>The core track: 27 episodes, the strongest three for each layer of a personal Agent OS. Numbers match the full library. Audio streams from each show's original host.</description>
+<itunes:author>Private curated library</itunes:author>
+<itunes:summary>The core track: 27 episodes, the strongest three for each layer of a personal Agent OS. Numbers match the full library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>Private curated library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/cover.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/cover.jpg</url><title>AI Operator Library</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>01 · L0 · Build With AI · 2026-04-07 · # 156 Build Karpathy's Second Brain With Obsidian + Claude Code</title>
+<link>https://podcasts.apple.com/us/podcast/156-build-karpathys-second-brain-with-obsidian-claude-code/id1689819329?i=1000760078049</link>
+<guid isPermaLink="false">timlib3c-01</guid>
+<pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
+<description>Build With AI · Nick Spisak (AI agent builder) with host Corey Ganim · aired April 7, 2026
+L0 Second Brain · BUILD · HIGH priority
+
+Why it's here: Live sub-20-minute build of Karpathy's framework as a one-click Claude Skill with a setup wizard plus `ingest`, `query` and `lint` commands over an Obsidian vault; covers Web Clipper capture into `raw/`, vault file structure and graph view.
+
+Original episode: https://podcasts.apple.com/us/podcast/156-build-karpathys-second-brain-with-obsidian-claude-code/id1689819329?i=1000760078049</description>
+<itunes:summary>Build With AI · Nick Spisak (AI agent builder) with host Corey Ganim · aired April 7, 2026
+L0 Second Brain · BUILD · HIGH priority
+
+Why it's here: Live sub-20-minute build of Karpathy's framework as a one-click Claude Skill with a setup wizard plus `ingest`, `query` and `lint` commands over an Obsidian vault; covers Web Clipper capture into `raw/`, vault file structure and graph view.
+
+Original episode: https://podcasts.apple.com/us/podcast/156-build-karpathys-second-brain-with-obsidian-claude-code/id1689819329?i=1000760078049</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Build With AI</strong> &middot; Nick Spisak (AI agent builder) with host Corey Ganim &middot; aired April 7, 2026</p><p>L0 Second Brain &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Live sub-20-minute build of Karpathy&#x27;s framework as a one-click Claude Skill with a setup wizard plus `ingest`, `query` and `lint` commands over an Obsidian vault; covers Web Clipper capture into `raw/`, vault file structure and graph view.</p><p><a href="https://podcasts.apple.com/us/podcast/156-build-karpathys-second-brain-with-obsidian-claude-code/id1689819329?i=1000760078049">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/156-build-karpathys-second-brain-with-obsidian-claude-code/id1689819329?i=1000760078049</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/d0fe7c2a/8a59a7e1.mp3" length="32168604" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/f6a2ee2b24473905.jpg"/>
+<itunes:duration>1341</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>27</itunes:episode>
+</item>
+<item>
+<title>02 · L0 · Build With AI · 2026-05-08 · # 163 I Built the ULTIMATE AI Second Brain (Karpathy's LLM Wiki Setup Guide)</title>
+<link>https://podcasts.apple.com/us/podcast/163-i-built-the-ultimate-ai-second-brain-karpathys/id1689819329?i=1000766727680</link>
+<guid isPermaLink="false">timlib3c-02</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+<description>Build With AI · Corey Ganim (host, solo) · aired May 8, 2026
+L0 Second Brain · BUILD · HIGH priority
+
+Why it's here: The clearest end-to-end LLM-wiki build: three operations (ingest / query / lint) and three layers (raw sources → wiki → schema/tags), with the reasoning for choosing an always-on agent over Claude Code, OpenClaw or plain Obsidian, and Telegram capture wired in.
+
+Original episode: https://podcasts.apple.com/us/podcast/163-i-built-the-ultimate-ai-second-brain-karpathys/id1689819329?i=1000766727680</description>
+<itunes:summary>Build With AI · Corey Ganim (host, solo) · aired May 8, 2026
+L0 Second Brain · BUILD · HIGH priority
+
+Why it's here: The clearest end-to-end LLM-wiki build: three operations (ingest / query / lint) and three layers (raw sources → wiki → schema/tags), with the reasoning for choosing an always-on agent over Claude Code, OpenClaw or plain Obsidian, and Telegram capture wired in.
+
+Original episode: https://podcasts.apple.com/us/podcast/163-i-built-the-ultimate-ai-second-brain-karpathys/id1689819329?i=1000766727680</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Build With AI</strong> &middot; Corey Ganim (host, solo) &middot; aired May 8, 2026</p><p>L0 Second Brain &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> The clearest end-to-end LLM-wiki build: three operations (ingest / query / lint) and three layers (raw sources → wiki → schema/tags), with the reasoning for choosing an always-on agent over Claude Code, OpenClaw or plain Obsidian, and Telegram capture wired in.</p><p><a href="https://podcasts.apple.com/us/podcast/163-i-built-the-ultimate-ai-second-brain-karpathys/id1689819329?i=1000766727680">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/163-i-built-the-ultimate-ai-second-brain-karpathys/id1689819329?i=1000766727680</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/3e92bab2/d1eb8a0c.mp3" length="35871736" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/2a7a28644951e770.jpg"/>
+<itunes:duration>1121</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>26</itunes:episode>
+</item>
+<item>
+<title>03 · L0 · The Startup Ideas Podcast · 2026-02-23 · How I Use Obsidian + Claude Code to Run My Life</title>
+<link>https://podcasts.apple.com/us/podcast/how-i-use-obsidian-claude-code-to-run-my-life/id1593424985?i=1000751070268</link>
+<guid isPermaLink="false">timlib3c-03</guid>
+<pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Vin (&quot;Internet Vin&quot;), builder; host Greg Isenberg (feed lists social handle only) · aired February 23, 2026
+L0 Second Brain · BUILD · HIGH priority
+
+Why it's here: 59-minute live walkthrough of Claude Code reading and cross-referencing an entire vault of interlinked markdown notes — tracing how an idea evolved over years, generating contextual ideas, and building custom slash commands over the vault.
+
+Original episode: https://podcasts.apple.com/us/podcast/how-i-use-obsidian-claude-code-to-run-my-life/id1593424985?i=1000751070268</description>
+<itunes:summary>The Startup Ideas Podcast · Vin (&quot;Internet Vin&quot;), builder; host Greg Isenberg (feed lists social handle only) · aired February 23, 2026
+L0 Second Brain · BUILD · HIGH priority
+
+Why it's here: 59-minute live walkthrough of Claude Code reading and cross-referencing an entire vault of interlinked markdown notes — tracing how an idea evolved over years, generating contextual ideas, and building custom slash commands over the vault.
+
+Original episode: https://podcasts.apple.com/us/podcast/how-i-use-obsidian-claude-code-to-run-my-life/id1593424985?i=1000751070268</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Vin (&quot;Internet Vin&quot;), builder; host Greg Isenberg (feed lists social handle only) &middot; aired February 23, 2026</p><p>L0 Second Brain &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> 59-minute live walkthrough of Claude Code reading and cross-referencing an entire vault of interlinked markdown notes — tracing how an idea evolved over years, generating contextual ideas, and building custom slash commands over the vault.</p><p><a href="https://podcasts.apple.com/us/podcast/how-i-use-obsidian-claude-code-to-run-my-life/id1593424985?i=1000751070268">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/how-i-use-obsidian-claude-code-to-run-my-life/id1593424985?i=1000751070268</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01KJ5Y98SC1DH4R9AGXHMVRWWX.mp3" length="42442502" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/c57de28f3d633ff8.jpg"/>
+<itunes:duration>3536</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>25</itunes:episode>
+</item>
+<item>
+<title>09 · L1 · Build With AI · 2026-04-23 · # 160 EASY Claude Cowork Setup (full beginner tutorial)</title>
+<link>https://podcasts.apple.com/us/podcast/160-easy-claude-cowork-setup-full-beginner-tutorial/id1689819329?i=1000763270796</link>
+<guid isPermaLink="false">timlib3c-09</guid>
+<pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+<description>Build With AI · Corey Ganim (host, solo) · aired April 23, 2026
+L1 Identity · BUILD · HIGH priority
+
+Why it's here: Builds the three identity files on screen — About Me, Brand Voice, Working Style — then generates global instructions that tie them together, plus a quarterly context-review task and a security review. Closest thing to a fill-in-the-blanks IDENTITY layer.
+
+Original episode: https://podcasts.apple.com/us/podcast/160-easy-claude-cowork-setup-full-beginner-tutorial/id1689819329?i=1000763270796</description>
+<itunes:summary>Build With AI · Corey Ganim (host, solo) · aired April 23, 2026
+L1 Identity · BUILD · HIGH priority
+
+Why it's here: Builds the three identity files on screen — About Me, Brand Voice, Working Style — then generates global instructions that tie them together, plus a quarterly context-review task and a security review. Closest thing to a fill-in-the-blanks IDENTITY layer.
+
+Original episode: https://podcasts.apple.com/us/podcast/160-easy-claude-cowork-setup-full-beginner-tutorial/id1689819329?i=1000763270796</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Build With AI</strong> &middot; Corey Ganim (host, solo) &middot; aired April 23, 2026</p><p>L1 Identity &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Builds the three identity files on screen — About Me, Brand Voice, Working Style — then generates global instructions that tie them together, plus a quarterly context-review task and a security review. Closest thing to a fill-in-the-blanks IDENTITY layer.</p><p><a href="https://podcasts.apple.com/us/podcast/160-easy-claude-cowork-setup-full-beginner-tutorial/id1689819329?i=1000763270796">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/160-easy-claude-cowork-setup-full-beginner-tutorial/id1689819329?i=1000763270796</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/9ba94a46/22ad95bf.mp3" length="51561066" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/046140ceb97399f1.jpg"/>
+<itunes:duration>1612</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>24</itunes:episode>
+</item>
+<item>
+<title>10 · L1 · How I AI · 2026-04-13 · Claude Cowork 101: How to automate your workday without touching code</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Cowork-101-How-to-automate-your-workday-without-touching-code--JJ-Englert-Tenex-e3hkad0</link>
+<guid isPermaLink="false">timlib3c-10</guid>
+<pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · JJ Englert (community enablement lead, Tenex) · aired April 13, 2026
+L1 Identity · BUILD · HIGH priority
+
+Why it's here: The &quot;brain&quot; file strategy — one preferences document Claude reads every session — plus analysing your own sent mail to generate a writing skill in your voice, and a three-persona &quot;sub-advisory board&quot; that reviews your work.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Cowork-101-How-to-automate-your-workday-without-touching-code--JJ-Englert-Tenex-e3hkad0</description>
+<itunes:summary>How I AI · JJ Englert (community enablement lead, Tenex) · aired April 13, 2026
+L1 Identity · BUILD · HIGH priority
+
+Why it's here: The &quot;brain&quot; file strategy — one preferences document Claude reads every session — plus analysing your own sent mail to generate a writing skill in your voice, and a three-persona &quot;sub-advisory board&quot; that reviews your work.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Cowork-101-How-to-automate-your-workday-without-touching-code--JJ-Englert-Tenex-e3hkad0</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; JJ Englert (community enablement lead, Tenex) &middot; aired April 13, 2026</p><p>L1 Identity &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> The &quot;brain&quot; file strategy — one preferences document Claude reads every session — plus analysing your own sent mail to generate a writing skill in your voice, and a three-persona &quot;sub-advisory board&quot; that reviews your work.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Cowork-101-How-to-automate-your-workday-without-touching-code--JJ-Englert-Tenex-e3hkad0">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Cowork-101-How-to-automate-your-workday-without-touching-code--JJ-Englert-Tenex-e3hkad0</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/118155104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-9%2F421750617-44100-2-473db93ecdba3.mp3" length="48176482" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/f9681d23221c3c50.jpg"/>
+<itunes:duration>00:50:11</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>23</itunes:episode>
+</item>
+<item>
+<title>11 · L1 · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
+<link>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</link>
+<guid isPermaLink="false">timlib3c-11</guid>
+<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
+L1 Identity · BUILD · HIGH priority
+
+Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
+
+Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</description>
+<itunes:summary>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
+L1 Identity · BUILD · HIGH priority
+
+Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
+
+Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Greg Isenberg &middot; aired August 17, 2026</p><p>L1 Identity &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Greg&#x27;s system for turning Claude Code into an &#x27;AI employee&#x27; by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.</p><p><a href="https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3" length="34675357" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/042c1de3824616f8.jpg"/>
+<itunes:duration>2890</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>22</itunes:episode>
+</item>
+<item>
+<title>16 · L2 · The AI Daily Brief · 2026-04-03 · How to Build a Personal Context Portfolio and MCP Server</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</link>
+<guid isPermaLink="false">timlib3c-16</guid>
+<pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore (host, Build episode) · aired April 3, 2026
+L2 Context · BUILD · HIGH priority
+
+Why it's here: Builds a structured set of markdown files that act as an operating manual about you, so no agent has to re-ask who you are; ships with DIY templates on GitHub. (MCP appears only as the delivery mechanism at the end.)
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore (host, Build episode) · aired April 3, 2026
+L2 Context · BUILD · HIGH priority
+
+Why it's here: Builds a structured set of markdown files that act as an operating manual about you, so no agent has to re-ask who you are; ships with DIY templates on GitHub. (MCP appears only as the delivery mechanism at the end.)
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore (host, Build episode) &middot; aired April 3, 2026</p><p>L2 Context &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Builds a structured set of markdown files that act as an operating manual about you, so no agent has to re-ask who you are; ships with DIY templates on GitHub. (MCP appears only as the delivery mechanism at the end.)</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/117898549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2F421332826-44100-2-45e725e18c8.mp3" length="23536116" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/6793f957e3cb8062.jpg"/>
+<itunes:duration>00:24:30</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>21</itunes:episode>
+</item>
+<item>
+<title>17 · L2 · How I AI · 2026-01-19 · Claude Code for product managers: research, writing, context libraries, custom to-do system, and more</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</link>
+<guid isPermaLink="false">timlib3c-17</guid>
+<pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Teresa Torres (author, *Continuous Discovery Habits*) · aired January 19, 2026
+L2 Context · BUILD · HIGH priority
+
+Why it's here: A non-developer moves off Trello onto a markdown task system inside Claude Code and shows how she organises context files so Claude gets more effective without being overwhelmed — the &quot;3-5 single-page files&quot; discipline in practice.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</description>
+<itunes:summary>How I AI · Teresa Torres (author, *Continuous Discovery Habits*) · aired January 19, 2026
+L2 Context · BUILD · HIGH priority
+
+Why it's here: A non-developer moves off Trello onto a markdown task system inside Claude Code and shows how she organises context files so Claude gets more effective without being overwhelmed — the &quot;3-5 single-page files&quot; discipline in practice.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Teresa Torres (author, *Continuous Discovery Habits*) &middot; aired January 19, 2026</p><p>L2 Context &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> A non-developer moves off Trello onto a markdown task system inside Claude Code and shows how she organises context files so Claude gets more effective without being overwhelmed — the &quot;3-5 single-page files&quot; discipline in practice.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/113539418/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-5%2F415539861-44100-2-a86e76070855d.mp3" length="41482866" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/f8b02a2e21491d01.jpg"/>
+<itunes:duration>00:43:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>20</itunes:episode>
+</item>
+<item>
+<title>18 · L2 · The AI Daily Brief · 2026-08-14 · How to Decide What Work AI Should Do for You: The AI Deputization Audit</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</link>
+<guid isPermaLink="false">timlib3c-18</guid>
+<pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore · aired August 14, 2026
+L2 Context · Method · HIGH priority
+
+Why it's here: NLW's AI Deputization Audit: a named framework for sorting your work into what you hand over, what you do alongside AI, and what stays yours — the decision step before any layer gets built.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore · aired August 14, 2026
+L2 Context · Method · HIGH priority
+
+Why it's here: NLW's AI Deputization Audit: a named framework for sorting your work into what you hand over, what you do alongside AI, and what stays yours — the decision step before any layer gets built.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore &middot; aired August 14, 2026</p><p>L2 Context &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> NLW&#x27;s AI Deputization Audit: a named framework for sorting your work into what you hand over, what you do alongside AI, and what stays yours — the decision step before any layer gets built.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/124238408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429864343-44100-2-18aa36cf02186.mp3" length="27852381" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/6a44a2beed709852.jpg"/>
+<itunes:duration>00:29:00</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>19</itunes:episode>
+</item>
+<item>
+<title>25 · L3 · How I AI · 2025-10-22 · Claude Skills explained: How to create reusable AI workflows</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</link>
+<guid isPermaLink="false">timlib3c-25</guid>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo build) · aired October 22, 2025
+L3 Skills · BUILD · HIGH priority
+
+Why it's here: Builds skills from scratch and dissects the structure — metadata, instructions, linked files — how they differ from Projects and custom GPTs, and how to validate them with folder references. Worked examples: changelog → newsletter, demo notes → follow-up email.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</description>
+<itunes:summary>How I AI · Claire Vo (host, solo build) · aired October 22, 2025
+L3 Skills · BUILD · HIGH priority
+
+Why it's here: Builds skills from scratch and dissects the structure — metadata, instructions, linked files — how they differ from Projects and custom GPTs, and how to validate them with folder references. Worked examples: changelog → newsletter, demo notes → follow-up email.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired October 22, 2025</p><p>L3 Skills &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Builds skills from scratch and dissects the structure — metadata, instructions, linked files — how they differ from Projects and custom GPTs, and how to validate them with folder references. Worked examples: changelog → newsletter, demo notes → follow-up email.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/110017154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F409723713-44100-2-ef0ea6ade7352.mp3" length="26292975" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/dc2a1aad6b8e24e1.jpg"/>
+<itunes:duration>00:27:23</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>18</itunes:episode>
+</item>
+<item>
+<title>26 · L3 · The Startup Ideas Podcast · 2025-10-27 · Claude Skills: The NEW Way to Build AI Agents (Live Tutorial)</title>
+<link>https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</link>
+<guid isPermaLink="false">timlib3c-26</guid>
+<pubDate>Sun, 09 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Amir (guest builder; feed gives first name only) with Greg Isenberg · aired October 27, 2025
+L3 Skills · BUILD · HIGH priority
+
+Why it's here: Live builds three skills end to end (UTM generator, A/B test idea generator, marketing-analytics analyzer, then a tweet→newsletter converter) and explains context rot as the reason to move work out of chat and into skill files.
+
+Original episode: https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</description>
+<itunes:summary>The Startup Ideas Podcast · Amir (guest builder; feed gives first name only) with Greg Isenberg · aired October 27, 2025
+L3 Skills · BUILD · HIGH priority
+
+Why it's here: Live builds three skills end to end (UTM generator, A/B test idea generator, marketing-analytics analyzer, then a tweet→newsletter converter) and explains context rot as the reason to move work out of chat and into skill files.
+
+Original episode: https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Amir (guest builder; feed gives first name only) with Greg Isenberg &middot; aired October 27, 2025</p><p>L3 Skills &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Live builds three skills end to end (UTM generator, A/B test idea generator, marketing-analytics analyzer, then a tweet→newsletter converter) and explains context rot as the reason to move work out of chat and into skill files.</p><p><a href="https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01K8KDMSF0X9NHSFP4K7Y7S3XF.mp3" length="23824928" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/2ba3c1f72a45af3f.jpg"/>
+<itunes:duration>1985</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>17</itunes:episode>
+</item>
+<item>
+<title>27 · L3 · The Startup Ideas Podcast · 2025-12-24 · Set Up Claude Skills in 21 Mins (for Non-Technical People)</title>
+<link>https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</link>
+<guid isPermaLink="false">timlib3c-27</guid>
+<pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Greg Isenberg (host, solo) · aired December 24, 2025
+L3 Skills · BUILD · HIGH priority
+
+Why it's here: The genuinely non-technical version: where to enable Skills, the &quot;create a skill together&quot; flow, building a conversion-focused copy-review skill, installing it, testing it on real assets, then a 10-step process for iterating the skill over time.
+
+Original episode: https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</description>
+<itunes:summary>The Startup Ideas Podcast · Greg Isenberg (host, solo) · aired December 24, 2025
+L3 Skills · BUILD · HIGH priority
+
+Why it's here: The genuinely non-technical version: where to enable Skills, the &quot;create a skill together&quot; flow, building a conversion-focused copy-review skill, installing it, testing it on real assets, then a 10-step process for iterating the skill over time.
+
+Original episode: https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Greg Isenberg (host, solo) &middot; aired December 24, 2025</p><p>L3 Skills &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> The genuinely non-technical version: where to enable Skills, the &quot;create a skill together&quot; flow, building a conversion-focused copy-review skill, installing it, testing it on real assets, then a 10-step process for iterating the skill over time.</p><p><a href="https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01KD93XR4FW16XXRS93E4H51HX.mp3" length="14384797" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/8e8c4aa6b1b572b1.jpg"/>
+<itunes:duration>1198</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>16</itunes:episode>
+</item>
+<item>
+<title>41 · L4 · How I AI · 2026-02-25 · 5 OpenClaw agents run my home, finances, and code</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</link>
+<guid isPermaLink="false">timlib3c-41</guid>
+<pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
+L4 Memory · BUILD · HIGH priority
+
+Why it's here: Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</description>
+<itunes:summary>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
+L4 Memory · BUILD · HIGH priority
+
+Why it's here: Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Jesse Genet (entrepreneur and homeschooling parent) &middot; aired February 25, 2026</p><p>L4 Memory &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/115952214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418896511-44100-2-4cc405a9ab7e7.mp3" length="47489357" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/e037cbc31f699fda.jpg"/>
+<itunes:duration>00:49:28</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>15</itunes:episode>
+</item>
+<item>
+<title>42 · L4 · How I AI · 2026-03-30 · How to turn Claude Code into your personal life operating system</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-turn-Claude-Code-into-your-personal-life-operating-system--Hilary-Gridley-e3gvpjo</link>
+<guid isPermaLink="false">timlib3c-42</guid>
+<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Hilary Gridley (entrepreneur; ex-Head of Core Product, Whoop) · aired March 30, 2026
+L4 Memory · BUILD · HIGH priority
+
+Why it's here: Her &quot;anti-system system&quot;: rather than configuring preferences up front, Claude Code observes and writes a preference file that improves over time — process memory that accrues instead of being authored. Includes an iPhone back-tap capture shortcut and a 10x-impact rule for what to automate.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-turn-Claude-Code-into-your-personal-life-operating-system--Hilary-Gridley-e3gvpjo</description>
+<itunes:summary>How I AI · Hilary Gridley (entrepreneur; ex-Head of Core Product, Whoop) · aired March 30, 2026
+L4 Memory · BUILD · HIGH priority
+
+Why it's here: Her &quot;anti-system system&quot;: rather than configuring preferences up front, Claude Code observes and writes a preference file that improves over time — process memory that accrues instead of being authored. Includes an iPhone back-tap capture shortcut and a 10x-impact rule for what to automate.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-turn-Claude-Code-into-your-personal-life-operating-system--Hilary-Gridley-e3gvpjo</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Hilary Gridley (entrepreneur; ex-Head of Core Product, Whoop) &middot; aired March 30, 2026</p><p>L4 Memory &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Her &quot;anti-system system&quot;: rather than configuring preferences up front, Claude Code observes and writes a preference file that improves over time — process memory that accrues instead of being authored. Includes an iPhone back-tap capture shortcut and a 10x-impact rule for what to automate.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-turn-Claude-Code-into-your-personal-life-operating-system--Hilary-Gridley-e3gvpjo">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-turn-Claude-Code-into-your-personal-life-operating-system--Hilary-Gridley-e3gvpjo</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/117482552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F420895762-44100-2-1836e69f20dff.mp3" length="49657729" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/c5e8aa1fb53e0ea6.jpg"/>
+<itunes:duration>00:51:43</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>14</itunes:episode>
+</item>
+<item>
+<title>43 · L4 · The Cognitive Revolution · 2026-08-14 · Lindy Teammate: Flo Crivello on Multiplayer Agents, Memory &amp; Why He'd Ban the Chinese Models He Uses</title>
+<link>https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello-on-multiplayer-agents-memory-why-he-d-ban-the-chinese-models-he-uses/</link>
+<guid isPermaLink="false">timlib3c-43</guid>
+<pubDate>Sat, 08 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Flo Crivello, CEO of Lindy · aired August 14, 2026
+L4 Memory · Method · HIGH priority
+
+Why it's here: Flo Crivello launches Lindy Teammate, an agent that lives in Slack and accumulates a team's shared context, and argues intelligence without accumulated context is worth less than an ordinary coworker — the clearest published case for the Memory layer.
+
+Original episode: https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello-on-multiplayer-agents-memory-why-he-d-ban-the-chinese-models-he-uses/</description>
+<itunes:summary>The Cognitive Revolution · Flo Crivello, CEO of Lindy · aired August 14, 2026
+L4 Memory · Method · HIGH priority
+
+Why it's here: Flo Crivello launches Lindy Teammate, an agent that lives in Slack and accumulates a team's shared context, and argues intelligence without accumulated context is worth less than an ordinary coworker — the clearest published case for the Memory layer.
+
+Original episode: https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello-on-multiplayer-agents-memory-why-he-d-ban-the-chinese-models-he-uses/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Flo Crivello, CEO of Lindy &middot; aired August 14, 2026</p><p>L4 Memory &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Flo Crivello launches Lindy Teammate, an agent that lives in Slack and accumulates a team&#x27;s shared context, and argues intelligence without accumulated context is worth less than an ordinary coworker — the clearest published case for the Memory layer.</p><p><a href="https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello-on-multiplayer-agents-memory-why-he-d-ban-the-chinese-models-he-uses/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello-on-multiplayer-agents-memory-why-he-d-ban-the-chinese-models-he-uses/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP7395722514.mp3" length="121476116" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/ecbe43eb9efcb659.jpg"/>
+<itunes:duration>7613</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>13</itunes:episode>
+</item>
+<item>
+<title>46 · L5 · How I AI · 2026-02-02 · How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41</link>
+<guid isPermaLink="false">timlib3c-46</guid>
+<pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Reid Robinson (Principal AI Product Strategist, Zapier) · aired February 2, 2026
+L5 Connections · BUILD · HIGH priority
+
+Why it's here: Curated tool collections wired to calendar, notes and CRM so the agent actually writes back — plus using a Claude Project's instructions to make tool calls reliable, and a support-ticket loop that keeps the knowledge base current.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41</description>
+<itunes:summary>How I AI · Reid Robinson (Principal AI Product Strategist, Zapier) · aired February 2, 2026
+L5 Connections · BUILD · HIGH priority
+
+Why it's here: Curated tool collections wired to calendar, notes and CRM so the agent actually writes back — plus using a Claude Project's instructions to make tool calls reliable, and a support-ticket loop that keeps the knowledge base current.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Reid Robinson (Principal AI Product Strategist, Zapier) &middot; aired February 2, 2026</p><p>L5 Connections &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Curated tool collections wired to calendar, notes and CRM so the agent actually writes back — plus using a Claude Project&#x27;s instructions to make tool calls reliable, and a support-ticket loop that keeps the knowledge base current.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114599489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F417103228-44100-2-c19ea01a84e8b.mp3" length="38852230" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/83079e1007d8415f.jpg"/>
+<itunes:duration>00:40:28</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>12</itunes:episode>
+</item>
+<item>
+<title>47 · L5 · How I AI · 2026-01-28 · I gave Clawdbot (aka Moltbot) access to my computer, calendar, and emails: Here's what happened</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</link>
+<guid isPermaLink="false">timlib3c-47</guid>
+<pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo) · aired January 28, 2026
+L5 Connections · BUILD · HIGH priority
+
+Why it's here: The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</description>
+<itunes:summary>How I AI · Claire Vo (host, solo) · aired January 28, 2026
+L5 Connections · BUILD · HIGH priority
+
+Why it's here: The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo) &middot; aired January 28, 2026</p><p>L5 Connections &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114652427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F416973257-44100-2-5e9f3b248cbc6.mp3" length="53557288" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/da3440e36d945a31.jpg"/>
+<itunes:duration>00:55:47</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode>
+</item>
+<item>
+<title>48 · L5 · How I AI · 2026-04-08 · I built a custom Slack inbox. It was easier than you'd think.</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2</link>
+<guid isPermaLink="false">timlib3c-48</guid>
+<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Yash Tekriwal (Head of Education, Clay) · aired April 8, 2026
+L5 Connections · BUILD · HIGH priority
+
+Why it's here: A Slack digest that sorts 150+ daily notifications into action-required / need-to-read / FYI, plus the rule for splitting deterministic work (APIs, structured data) from subjective work (categorisation, summarisation).
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2</description>
+<itunes:summary>How I AI · Yash Tekriwal (Head of Education, Clay) · aired April 8, 2026
+L5 Connections · BUILD · HIGH priority
+
+Why it's here: A Slack digest that sorts 150+ daily notifications into action-required / need-to-read / FYI, plus the rule for splitting deterministic work (APIs, structured data) from subjective work (categorisation, summarisation).
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Yash Tekriwal (Head of Education, Clay) &middot; aired April 8, 2026</p><p>L5 Connections &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> A Slack digest that sorts 150+ daily notifications into action-required / need-to-read / FYI, plus the rule for splitting deterministic work (APIs, structured data) from subjective work (categorisation, summarisation).</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/117815138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-7%2F421619264-44100-2-d0bd204a7d251.mp3" length="42829948" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/c3c997cf50fe6d04.jpg"/>
+<itunes:duration>00:44:36</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
+<title>58 · L6 · How I AI · 2025-10-13 · Evals, error analysis, and better prompts: A systematic approach to improving your AI products</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</link>
+<guid isPermaLink="false">timlib3c-58</guid>
+<pubDate>Fri, 07 Aug 2026 18:00:00 +0000</pubDate>
+<description>How I AI · Hamel Husain (independent ML engineer / AI consultant) · aired October 13, 2025
+L6 Verification · BUILD · HIGH priority
+
+Why it's here: The lightweight-eval episode for a non-engineer: a step-by-step error-analysis loop, building a custom annotation view to read AI transcripts fast, and why binary pass/fail beats 1-5 scores. Worked on a real client system.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</description>
+<itunes:summary>How I AI · Hamel Husain (independent ML engineer / AI consultant) · aired October 13, 2025
+L6 Verification · BUILD · HIGH priority
+
+Why it's here: The lightweight-eval episode for a non-engineer: a step-by-step error-analysis loop, building a custom annotation view to read AI transcripts fast, and why binary pass/fail beats 1-5 scores. Worked on a real client system.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Hamel Husain (independent ML engineer / AI consultant) &middot; aired October 13, 2025</p><p>L6 Verification &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> The lightweight-eval episode for a non-engineer: a step-by-step error-analysis loop, building a custom annotation view to read AI transcripts fast, and why binary pass/fail beats 1-5 scores. Worked on a real client system.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/109445935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-12%2F409134728-44100-2-28739bcb0ce11.mp3" length="52620642" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/51a88365138fd5c1.jpg"/>
+<itunes:duration>00:54:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>59 · L6 · Lenny's Podcast · 2025-09-25 · Why AI evals are the hottest new skill for product builders</title>
+<link>https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</link>
+<guid isPermaLink="false">timlib3c-59</guid>
+<pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+<description>Lenny's Podcast · Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) · aired September 25, 2025
+L6 Verification · Method · HIGH priority
+
+Why it's here: Open coding → axial coding as a way to turn scattered failures into a small set of named failure modes, code-based evals vs LLM-as-judge, and an explicit &quot;30 minutes a week after setup&quot; budget — the realistic VERIFICATION cadence for a busy operator.
+
+Original episode: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</description>
+<itunes:summary>Lenny's Podcast · Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) · aired September 25, 2025
+L6 Verification · Method · HIGH priority
+
+Why it's here: Open coding → axial coding as a way to turn scattered failures into a small set of named failure modes, code-based evals vs LLM-as-judge, and an explicit &quot;30 minutes a week after setup&quot; budget — the realistic VERIFICATION cadence for a busy operator.
+
+Original episode: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Lenny&#x27;s Podcast</strong> &middot; Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) &middot; aired September 25, 2025</p><p>L6 Verification &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Open coding → axial coding as a way to turn scattered failures into a small set of named failure modes, code-based evals vs LLM-as-judge, and an explicit &quot;30 minutes a week after setup&quot; budget — the realistic VERIFICATION cadence for a busy operator.</p><p><a href="https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill">Open the original episode &rarr;</a><br/>https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/173871171/7bdfb70fc57c74b9c056af79747dc9ac.mp3" length="102280741" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/181bdba25afd6cf8.jpg"/>
+<itunes:duration>6393</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>60 · L6 · The Cognitive Revolution · 2025-09-18 · Can We Stop AI Deception? Apollo Research Tests OpenAI's Deliberative Alignment, w/ Marius Hobbhahn</title>
+<link>https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</link>
+<guid isPermaLink="false">timlib3c-60</guid>
+<pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Marius Hobbhahn · aired September 18, 2025
+L6 Verification · Method · HIGH priority
+
+Why it's here: Apollo's evaluations of models that scheme and conceal — the concrete argument for why you verify agent output rather than trust a confident summary.
+
+Original episode: https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</description>
+<itunes:summary>The Cognitive Revolution · Marius Hobbhahn · aired September 18, 2025
+L6 Verification · Method · HIGH priority
+
+Why it's here: Apollo's evaluations of models that scheme and conceal — the concrete argument for why you verify agent output rather than trust a confident summary.
+
+Original episode: https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Marius Hobbhahn &middot; aired September 18, 2025</p><p>L6 Verification &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Apollo&#x27;s evaluations of models that scheme and conceal — the concrete argument for why you verify agent output rather than trust a confident summary.</p><p><a href="https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8867156376.mp3?updated=1758214814" length="121244843" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/006a52b9c4fa737c.jpg"/>
+<itunes:duration>7736</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>66 · L7 · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
+<guid isPermaLink="false">timlib3c-66</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
+L7 Automations · BUILD · HIGH priority
+
+Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</description>
+<itunes:summary>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
+L7 Automations · BUILD · HIGH priority
+
+Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired June 17, 2026</p><p>L7 Automations &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/0ee55f5bd030aa0e.jpg"/>
+<itunes:duration>00:29:06</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>67 · L7 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</link>
+<guid isPermaLink="false">timlib3c-67</guid>
+<pubDate>Thu, 06 Aug 2026 18:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo build) · aired May 27, 2026
+L7 Automations · BUILD · HIGH priority
+
+Why it's here: How to write a `/goal` with measurable outcomes, verification methods and constraints so an agent runs unattended for hours — demonstrated on non-technical work: 3,900 emails cleaned to 68, hundreds of Linear tasks reorganised. Includes when *not* to use it.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</description>
+<itunes:summary>How I AI · Claire Vo (host, solo build) · aired May 27, 2026
+L7 Automations · BUILD · HIGH priority
+
+Why it's here: How to write a `/goal` with measurable outcomes, verification methods and constraints so an agent runs unattended for hours — demonstrated on non-technical work: 3,900 emails cleaned to 68, hundreds of Linear tasks reorganised. Includes when *not* to use it.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired May 27, 2026</p><p>L7 Automations &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> How to write a `/goal` with measurable outcomes, verification methods and constraints so an agent runs unattended for hours — demonstrated on non-technical work: 3,900 emails cleaned to 68, hundreds of Linear tasks reorganised. Includes when *not* to use it.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120583384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424944949-44100-2-5bf9048d90ac.mp3" length="29122977" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/c631ce6971f69cbb.jpg"/>
+<itunes:duration>00:30:20</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>68 · L7 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
+<link>https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</link>
+<guid isPermaLink="false">timlib3c-68</guid>
+<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+<description>Build With AI · Corey Ganim (host, solo) · aired April 14, 2026
+L7 Automations · BUILD · HIGH priority
+
+Why it's here: Disambiguates routine vs schedule vs loop in plain language, then builds one from an existing skill on screen: repo connection, system-prompt config, trigger options and connector permissions until it's live.
+
+Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</description>
+<itunes:summary>Build With AI · Corey Ganim (host, solo) · aired April 14, 2026
+L7 Automations · BUILD · HIGH priority
+
+Why it's here: Disambiguates routine vs schedule vs loop in plain language, then builds one from an existing skill on screen: repo connection, system-prompt config, trigger options and connector permissions until it's live.
+
+Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Build With AI</strong> &middot; Corey Ganim (host, solo) &middot; aired April 14, 2026</p><p>L7 Automations &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Disambiguates routine vs schedule vs loop in plain language, then builds one from an existing skill on screen: repo connection, system-prompt config, trigger options and connector permissions until it&#x27;s live.</p><p><a href="https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/6972a421/b97f5f42.mp3" length="7460322" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/b531555f1fd8074a.jpg"/>
+<itunes:duration>311</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>79 · L8 · The Cognitive Revolution · 2026-06-10 · Babysitting the Machine: Glean's Rebecca Hinds on the Hidden Human Labor of AI at Work</title>
+<link>https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/</link>
+<guid isPermaLink="false">timlib3c-79</guid>
+<pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Nathan Labenz interview · aired June 10, 2026
+L8 Judgment · Method · HIGH priority
+
+Why it's here: 6,000-worker Work AI Index: 87% use AI and claim 13 hrs/week saved, yet only 13% of organizations perform better — names the botsitting tax directly.
+
+Original episode: https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/</description>
+<itunes:summary>The Cognitive Revolution · Nathan Labenz interview · aired June 10, 2026
+L8 Judgment · Method · HIGH priority
+
+Why it's here: 6,000-worker Work AI Index: 87% use AI and claim 13 hrs/week saved, yet only 13% of organizations perform better — names the botsitting tax directly.
+
+Original episode: https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Nathan Labenz interview &middot; aired June 10, 2026</p><p>L8 Judgment &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> 6,000-worker Work AI Index: 87% use AI and claim 13 hrs/week saved, yet only 13% of organizations perform better — names the botsitting tax directly.</p><p><a href="https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8886328000.mp3" length="101742658" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/1330c73b2eee744a.jpg"/>
+<itunes:duration>6380</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>80 · L8 · The Cognitive Revolution · 2025-08-02 · The Revolution in Services: General Catalyst's AI Rollup Strategy, with Marc Bhargava</title>
+<link>https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/</link>
+<guid isPermaLink="false">timlib3c-80</guid>
+<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Marc Bhargava · aired August 2, 2025
+L8 Judgment · Method · HIGH priority
+
+Why it's here: Marc Bhargava on buying services businesses and re-basing their cost structure with AI — the thesis most adjacent to your own roll-up and valuation work.
+
+Original episode: https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/</description>
+<itunes:summary>The Cognitive Revolution · Marc Bhargava · aired August 2, 2025
+L8 Judgment · Method · HIGH priority
+
+Why it's here: Marc Bhargava on buying services businesses and re-basing their cost structure with AI — the thesis most adjacent to your own roll-up and valuation work.
+
+Original episode: https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Marc Bhargava &middot; aired August 2, 2025</p><p>L8 Judgment &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Marc Bhargava on buying services businesses and re-basing their cost structure with AI — the thesis most adjacent to your own roll-up and valuation work.</p><p><a href="https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9823390404.mp3?updated=1754123680" length="77693724" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/b2c9bb85e11befc2.jpg"/>
+<itunes:duration>5043</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>81 · L8 · The Cognitive Revolution · 2025-11-27 · AI-Led Sales: How 1Mind's Superhumans Drive Exponential Growth, from the Agents of Scale Podcast</title>
+<link>https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/</link>
+<guid isPermaLink="false">timlib3c-81</guid>
+<pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Nathan Labenz interview · aired November 27, 2025
+L8 Judgment · Method · MEDIUM priority
+
+Why it's here: Hard numbers from an AI-led sales motion: cycles from 22 days to 2, deal size doubled, 76% of pipeline AI-sourced, and a policy of promoting people who automate their own job.
+
+Original episode: https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/</description>
+<itunes:summary>The Cognitive Revolution · Nathan Labenz interview · aired November 27, 2025
+L8 Judgment · Method · MEDIUM priority
+
+Why it's here: Hard numbers from an AI-led sales motion: cycles from 22 days to 2, deal size doubled, 76% of pipeline AI-sourced, and a policy of promoting people who automate their own job.
+
+Original episode: https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Nathan Labenz interview &middot; aired November 27, 2025</p><p>L8 Judgment &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> Hard numbers from an AI-led sales motion: cycles from 22 days to 2, deal size doubled, 76% of pipeline AI-sourced, and a policy of promoting people who automate their own job.</p><p><a href="https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP3581866483.mp3" length="48505442" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/887ecf98f6956955.jpg"/>
+<itunes:duration>3082</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
