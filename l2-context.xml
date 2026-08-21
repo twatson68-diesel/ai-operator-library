@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · L2 Context</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Three to five dated single-page files: priorities, stakeholders, what got rejected. Layer 2 of a personal Agent OS — 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Three to five dated single-page files: priorities, stakeholders, what got rejected. Layer 2 of a personal Agent OS — 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l2-context.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l2-context.jpg</url><title>AI OS · L2 Context</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>16 · The AI Daily Brief · 2026-04-03 · How to Build a Personal Context Portfolio and MCP Server</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</link>
+<guid isPermaLink="false">aios-l2-16</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore (host, Build episode) · aired April 3, 2026
+BUILD · HIGH priority · L2 Context
+
+Why it's here: Builds a structured set of markdown files that act as an operating manual about you, so no agent has to re-ask who you are; ships with DIY templates on GitHub. (MCP appears only as the delivery mechanism at the end.)
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore (host, Build episode) · aired April 3, 2026
+BUILD · HIGH priority · L2 Context
+
+Why it's here: Builds a structured set of markdown files that act as an operating manual about you, so no agent has to re-ask who you are; ships with DIY templates on GitHub. (MCP appears only as the delivery mechanism at the end.)
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore (host, Build episode) &middot; aired April 3, 2026</p><p>BUILD &middot; HIGH priority &middot; L2 Context</p><p><strong>Why it's here:</strong> Builds a structured set of markdown files that act as an operating manual about you, so no agent has to re-ask who you are; ships with DIY templates on GitHub. (MCP appears only as the delivery mechanism at the end.)</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Build-a-Personal-Context-Portfolio-and-MCP-Server-e3hcfrl</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/117898549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2F421332826-44100-2-45e725e18c8.mp3" length="23536116" type="audio/mpeg"/>
+<itunes:duration>00:24:30</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>17 · How I AI · 2026-01-19 · Claude Code for product managers: research, writing, context libraries, custom to-do system, and more</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</link>
+<guid isPermaLink="false">aios-l2-17</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Teresa Torres (author, *Continuous Discovery Habits*) · aired January 19, 2026
+BUILD · HIGH priority · L2 Context
+
+Why it's here: A non-developer moves off Trello onto a markdown task system inside Claude Code and shows how she organises context files so Claude gets more effective without being overwhelmed — the &quot;3-5 single-page files&quot; discipline in practice.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</description>
+<itunes:summary>How I AI · Teresa Torres (author, *Continuous Discovery Habits*) · aired January 19, 2026
+BUILD · HIGH priority · L2 Context
+
+Why it's here: A non-developer moves off Trello onto a markdown task system inside Claude Code and shows how she organises context files so Claude gets more effective without being overwhelmed — the &quot;3-5 single-page files&quot; discipline in practice.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Teresa Torres (author, *Continuous Discovery Habits*) &middot; aired January 19, 2026</p><p>BUILD &middot; HIGH priority &middot; L2 Context</p><p><strong>Why it's here:</strong> A non-developer moves off Trello onto a markdown task system inside Claude Code and shows how she organises context files so Claude gets more effective without being overwhelmed — the &quot;3-5 single-page files&quot; discipline in practice.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-product-managers-research--writing--context-libraries--custom-to-do-system--and-more--Teresa-Torres-e3d7esq</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/113539418/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-5%2F415539861-44100-2-a86e76070855d.mp3" length="41482866" type="audio/mpeg"/>
+<itunes:duration>00:43:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>18 · The AI Daily Brief · 2026-08-14 · How to Decide What Work AI Should Do for You: The AI Deputization Audit</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</link>
+<guid isPermaLink="false">aios-l2-18</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore · aired August 14, 2026
+Method · HIGH priority · L2 Context
+
+Why it's here: NLW's AI Deputization Audit: a named framework for sorting your work into what you hand over, what you do alongside AI, and what stays yours — the decision step before any layer gets built.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore · aired August 14, 2026
+Method · HIGH priority · L2 Context
+
+Why it's here: NLW's AI Deputization Audit: a named framework for sorting your work into what you hand over, what you do alongside AI, and what stays yours — the decision step before any layer gets built.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore &middot; aired August 14, 2026</p><p>Method &middot; HIGH priority &middot; L2 Context</p><p><strong>Why it's here:</strong> NLW&#x27;s AI Deputization Audit: a named framework for sorting your work into what you hand over, what you do alongside AI, and what stays yours — the decision step before any layer gets built.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Decide-What-Work-AI-Should-Do-for-You-The-AI-Deputization-Audit-e3ndv48</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/124238408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429864343-44100-2-18aa36cf02186.mp3" length="27852381" type="audio/mpeg"/>
+<itunes:duration>00:29:00</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>19 · The AI Daily Brief · 2026-08-18 · The AI Engineering Skills Map for Knowledge Workers</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Engineering-Skills-Map-for-Knowledge-Workers-e3nj56h</link>
+<guid isPermaLink="false">aios-l2-19</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore · aired August 18, 2026
+Method · HIGH priority · L2 Context
+
+Why it's here: NLW's five-skill map for knowledge work with agents, built around the domain judgment AI can't replace — pairs directly with the Deputization Audit as the other half of deciding what goes to an agent.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Engineering-Skills-Map-for-Knowledge-Workers-e3nj56h</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore · aired August 18, 2026
+Method · HIGH priority · L2 Context
+
+Why it's here: NLW's five-skill map for knowledge work with agents, built around the domain judgment AI can't replace — pairs directly with the Deputization Audit as the other half of deciding what goes to an agent.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Engineering-Skills-Map-for-Knowledge-Workers-e3nj56h</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore &middot; aired August 18, 2026</p><p>Method &middot; HIGH priority &middot; L2 Context</p><p><strong>Why it's here:</strong> NLW&#x27;s five-skill map for knowledge work with agents, built around the domain judgment AI can&#x27;t replace — pairs directly with the Deputization Audit as the other half of deciding what goes to an agent.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Engineering-Skills-Map-for-Knowledge-Workers-e3nj56h">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Engineering-Skills-Map-for-Knowledge-Workers-e3nj56h</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/124408465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F430095623-44100-2-9e94421297cfc.mp3" length="25615045" type="audio/mpeg"/>
+<itunes:duration>00:26:40</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>20 · The Cognitive Revolution · 2025-11-20 · Escaping AI Slop: How Atlassian Gives AI Teammates Taste, Knowledge, &amp; Workflows, w- Sherif Mansour</title>
+<link>https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</link>
+<guid isPermaLink="false">aios-l2-20</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Sherif Mansour · aired November 20, 2025
+Method · HIGH priority · L2 Context
+
+Why it's here: The Taste / Knowledge / Workflow split for why agent output feels generic, plus Atlassian's Teamwork Graph as an alternative to plain retrieval.
+
+Original episode: https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</description>
+<itunes:summary>The Cognitive Revolution · Sherif Mansour · aired November 20, 2025
+Method · HIGH priority · L2 Context
+
+Why it's here: The Taste / Knowledge / Workflow split for why agent output feels generic, plus Atlassian's Teamwork Graph as an alternative to plain retrieval.
+
+Original episode: https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Sherif Mansour &middot; aired November 20, 2025</p><p>Method &middot; HIGH priority &middot; L2 Context</p><p><strong>Why it's here:</strong> The Taste / Knowledge / Workflow split for why agent output feels generic, plus Atlassian&#x27;s Teamwork Graph as an alternative to plain retrieval.</p><p><a href="https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9122483639.mp3?updated=1763638704" length="93431341" type="audio/mpeg"/>
+<itunes:duration>6010</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>21 · Master Claude Chat, Cowork, Code · 2026-03-03 · 4. Curing &quot;AI Amnesia&quot; (Mastering Claude Projects and Persistent Context)</title>
+<link>https://podcasts.apple.com/us/podcast/4-curing-ai-amnesia-mastering-claude-projects-and/id1882007947?i=1000752893596</link>
+<guid isPermaLink="false">aios-l2-21</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>Master Claude Chat, Cowork, Code · Host (solo) · aired March 3, 2026
+Method · MEDIUM priority · L2 Context
+
+Why it's here: A three-layer schema for custom instructions — Foundation (rules/standards), Patterns, Operational (daily workflows) — and a blunt argument against the &quot;instruction dump&quot; that makes performance worse. Good template for splitting context into separate pages.
+
+Original episode: https://podcasts.apple.com/us/podcast/4-curing-ai-amnesia-mastering-claude-projects-and/id1882007947?i=1000752893596</description>
+<itunes:summary>Master Claude Chat, Cowork, Code · Host (solo) · aired March 3, 2026
+Method · MEDIUM priority · L2 Context
+
+Why it's here: A three-layer schema for custom instructions — Foundation (rules/standards), Patterns, Operational (daily workflows) — and a blunt argument against the &quot;instruction dump&quot; that makes performance worse. Good template for splitting context into separate pages.
+
+Original episode: https://podcasts.apple.com/us/podcast/4-curing-ai-amnesia-mastering-claude-projects-and/id1882007947?i=1000752893596</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; Host (solo) &middot; aired March 3, 2026</p><p>Method &middot; MEDIUM priority &middot; L2 Context</p><p><strong>Why it's here:</strong> A three-layer schema for custom instructions — Foundation (rules/standards), Patterns, Operational (daily workflows) — and a blunt argument against the &quot;instruction dump&quot; that makes performance worse. Good template for splitting context into separate pages.</p><p><a href="https://podcasts.apple.com/us/podcast/4-curing-ai-amnesia-mastering-claude-projects-and/id1882007947?i=1000752893596">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/4-curing-ai-amnesia-mastering-claude-projects-and/id1882007947?i=1000752893596</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/116329168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F596460a1-9e83-5a2a-b65f-b03820402963.m4a" length="50379092" type="audio/x-m4a"/>
+<itunes:duration>00:26:05</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>22 · Everyday AI · 2026-04-23 · Ep 762: Agentic Context Carry: 3 Steps to Improve Cowork and scheduled AI Workflows (Start Here Series Vol 22)</title>
+<link>https://podcasts.apple.com/us/podcast/ep-762-agentic-context-carry-3-steps-to-improve-cowork/id1683401861?i=1000763255419</link>
+<guid isPermaLink="false">aios-l2-22</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>Everyday AI · Jordan Wilson (host, solo) · aired April 23, 2026
+Method · MEDIUM priority · L2 Context
+
+Why it's here: Three concrete steps for making context survive from one scheduled agent run to the next, aimed at the &quot;where is that email / which Slack channel&quot; problem a small-company CEO actually has.
+
+Original episode: https://podcasts.apple.com/us/podcast/ep-762-agentic-context-carry-3-steps-to-improve-cowork/id1683401861?i=1000763255419</description>
+<itunes:summary>Everyday AI · Jordan Wilson (host, solo) · aired April 23, 2026
+Method · MEDIUM priority · L2 Context
+
+Why it's here: Three concrete steps for making context survive from one scheduled agent run to the next, aimed at the &quot;where is that email / which Slack channel&quot; problem a small-company CEO actually has.
+
+Original episode: https://podcasts.apple.com/us/podcast/ep-762-agentic-context-carry-3-steps-to-improve-cowork/id1683401861?i=1000763255419</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Everyday AI</strong> &middot; Jordan Wilson (host, solo) &middot; aired April 23, 2026</p><p>Method &middot; MEDIUM priority &middot; L2 Context</p><p><strong>Why it's here:</strong> Three concrete steps for making context survive from one scheduled agent run to the next, aimed at the &quot;where is that email / which Slack channel&quot; problem a small-company CEO actually has.</p><p><a href="https://podcasts.apple.com/us/podcast/ep-762-agentic-context-carry-3-steps-to-improve-cowork/id1683401861?i=1000763255419">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/ep-762-agentic-context-carry-3-steps-to-improve-cowork/id1683401861?i=1000763255419</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19063490-ep-762-agentic-context-carry-3-steps-to-improve-cowork-and-scheduled-ai-workflows-start-here-series-vol-22.mp3" length="24882630" type="audio/mpeg"/>
+<itunes:duration>2068</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>23 · Latent Space · 2025-09-11 · Context Engineering for Agents — Lance Martin, LangChain</title>
+<link>https://www.latent.space/p/context-engineering-for-agents-lance</link>
+<guid isPermaLink="false">aios-l2-23</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>Latent Space · Lance Martin (LangChain) · aired September 11, 2025
+Method · MEDIUM priority · L2 Context
+
+Why it's here: The reference conversation on how agent contexts fail and how to write, select and compress them — the theory behind why your CONTEXT files should be short, dated and few. Method discussion aimed at engineers, not a build.
+
+Original episode: https://www.latent.space/p/context-engineering-for-agents-lance</description>
+<itunes:summary>Latent Space · Lance Martin (LangChain) · aired September 11, 2025
+Method · MEDIUM priority · L2 Context
+
+Why it's here: The reference conversation on how agent contexts fail and how to write, select and compress them — the theory behind why your CONTEXT files should be short, dated and few. Method discussion aimed at engineers, not a build.
+
+Original episode: https://www.latent.space/p/context-engineering-for-agents-lance</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Lance Martin (LangChain) &middot; aired September 11, 2025</p><p>Method &middot; MEDIUM priority &middot; L2 Context</p><p><strong>Why it's here:</strong> The reference conversation on how agent contexts fail and how to write, select and compress them — the theory behind why your CONTEXT files should be short, dated and few. Method discussion aimed at engineers, not a build.</p><p><a href="https://www.latent.space/p/context-engineering-for-agents-lance">Open the original episode &rarr;</a><br/>https://www.latent.space/p/context-engineering-for-agents-lance</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/186621786/4c0898bc1806008a4e6d53f95c7f32bd.mp3" length="55244635" type="audio/mpeg"/>
+<itunes:duration>3453</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>24 · The AI Daily Brief · 2025-06-26 · Context Engineering: What It Is and Why It Matters</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Engineering-What-It-Is-and-Why-It-Matters-e34o948</link>
+<guid isPermaLink="false">aios-l2-24</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Whittemore solo · aired June 26, 2025
+Method · MEDIUM priority · L2 Context
+
+Why it's here: The clean split between prompt engineering (one request) and context engineering (files, background, environment) — the vocabulary underneath your CONTEXT layer.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Engineering-What-It-Is-and-Why-It-Matters-e34o948</description>
+<itunes:summary>The AI Daily Brief · Whittemore solo · aired June 26, 2025
+Method · MEDIUM priority · L2 Context
+
+Why it's here: The clean split between prompt engineering (one request) and context engineering (files, background, environment) — the vocabulary underneath your CONTEXT layer.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Engineering-What-It-Is-and-Why-It-Matters-e34o948</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Whittemore solo &middot; aired June 26, 2025</p><p>Method &middot; MEDIUM priority &middot; L2 Context</p><p><strong>Why it's here:</strong> The clean split between prompt engineering (one request) and context engineering (files, background, environment) — the vocabulary underneath your CONTEXT layer.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Engineering-What-It-Is-and-Why-It-Matters-e34o948">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Engineering-What-It-Is-and-Why-It-Matters-e34o948</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/104653384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-26%2F402827570-44100-2-03738c2fc4934.mp3" length="22710229" type="audio/mpeg"/>
+<itunes:duration>00:23:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>

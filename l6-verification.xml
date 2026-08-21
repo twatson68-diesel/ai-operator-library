@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · L6 Verification</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. Layer 6 of a personal Agent OS — 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. Layer 6 of a personal Agent OS — 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l6-verification.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l6-verification.jpg</url><title>AI OS · L6 Verification</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>58 · How I AI · 2025-10-13 · Evals, error analysis, and better prompts: A systematic approach to improving your AI products</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</link>
+<guid isPermaLink="false">aios-l6-58</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Hamel Husain (independent ML engineer / AI consultant) · aired October 13, 2025
+BUILD · HIGH priority · L6 Verification
+
+Why it's here: The lightweight-eval episode for a non-engineer: a step-by-step error-analysis loop, building a custom annotation view to read AI transcripts fast, and why binary pass/fail beats 1-5 scores. Worked on a real client system.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</description>
+<itunes:summary>How I AI · Hamel Husain (independent ML engineer / AI consultant) · aired October 13, 2025
+BUILD · HIGH priority · L6 Verification
+
+Why it's here: The lightweight-eval episode for a non-engineer: a step-by-step error-analysis loop, building a custom annotation view to read AI transcripts fast, and why binary pass/fail beats 1-5 scores. Worked on a real client system.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Hamel Husain (independent ML engineer / AI consultant) &middot; aired October 13, 2025</p><p>BUILD &middot; HIGH priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> The lightweight-eval episode for a non-engineer: a step-by-step error-analysis loop, building a custom annotation view to read AI transcripts fast, and why binary pass/fail beats 1-5 scores. Worked on a real client system.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/109445935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-12%2F409134728-44100-2-28739bcb0ce11.mp3" length="52620642" type="audio/mpeg"/>
+<itunes:duration>00:54:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>59 · Lenny's Podcast · 2025-09-25 · Why AI evals are the hottest new skill for product builders</title>
+<link>https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</link>
+<guid isPermaLink="false">aios-l6-59</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>Lenny's Podcast · Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) · aired September 25, 2025
+Method · HIGH priority · L6 Verification
+
+Why it's here: Open coding → axial coding as a way to turn scattered failures into a small set of named failure modes, code-based evals vs LLM-as-judge, and an explicit &quot;30 minutes a week after setup&quot; budget — the realistic VERIFICATION cadence for a busy operator.
+
+Original episode: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</description>
+<itunes:summary>Lenny's Podcast · Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) · aired September 25, 2025
+Method · HIGH priority · L6 Verification
+
+Why it's here: Open coding → axial coding as a way to turn scattered failures into a small set of named failure modes, code-based evals vs LLM-as-judge, and an explicit &quot;30 minutes a week after setup&quot; budget — the realistic VERIFICATION cadence for a busy operator.
+
+Original episode: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Lenny&#x27;s Podcast</strong> &middot; Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) &middot; aired September 25, 2025</p><p>Method &middot; HIGH priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Open coding → axial coding as a way to turn scattered failures into a small set of named failure modes, code-based evals vs LLM-as-judge, and an explicit &quot;30 minutes a week after setup&quot; budget — the realistic VERIFICATION cadence for a busy operator.</p><p><a href="https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill">Open the original episode &rarr;</a><br/>https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/173871171/7bdfb70fc57c74b9c056af79747dc9ac.mp3" length="102280741" type="audio/mpeg"/>
+<itunes:duration>6393</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>60 · The Cognitive Revolution · 2025-09-18 · Can We Stop AI Deception? Apollo Research Tests OpenAI's Deliberative Alignment, w/ Marius Hobbhahn</title>
+<link>https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</link>
+<guid isPermaLink="false">aios-l6-60</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Marius Hobbhahn · aired September 18, 2025
+Method · HIGH priority · L6 Verification
+
+Why it's here: Apollo's evaluations of models that scheme and conceal — the concrete argument for why you verify agent output rather than trust a confident summary.
+
+Original episode: https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</description>
+<itunes:summary>The Cognitive Revolution · Marius Hobbhahn · aired September 18, 2025
+Method · HIGH priority · L6 Verification
+
+Why it's here: Apollo's evaluations of models that scheme and conceal — the concrete argument for why you verify agent output rather than trust a confident summary.
+
+Original episode: https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Marius Hobbhahn &middot; aired September 18, 2025</p><p>Method &middot; HIGH priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Apollo&#x27;s evaluations of models that scheme and conceal — the concrete argument for why you verify agent output rather than trust a confident summary.</p><p><a href="https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8867156376.mp3?updated=1758214814" length="121244843" type="audio/mpeg"/>
+<itunes:duration>7736</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>61 · How I AI · 2026-08-05 · Build an AI code review bot in 30 minutes with Vercel Eve</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1</link>
+<guid isPermaLink="false">aios-l6-61</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo build) · aired August 5, 2026
+BUILD · MEDIUM priority · L6 Verification
+
+Why it's here: Builds &quot;Merge Mommy,&quot; a reviewer agent that scores every change across six named risk dimensions (blast radius, reversibility, etc.), auto-approves the low-risk ones and escalates the rest to a human in Slack. The risk-scoring rubric is the transferable part.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1</description>
+<itunes:summary>How I AI · Claire Vo (host, solo build) · aired August 5, 2026
+BUILD · MEDIUM priority · L6 Verification
+
+Why it's here: Builds &quot;Merge Mommy,&quot; a reviewer agent that scores every change across six named risk dimensions (blast radius, reversibility, etc.), auto-approves the low-risk ones and escalates the rest to a human in Slack. The risk-scoring rubric is the transferable part.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired August 5, 2026</p><p>BUILD &middot; MEDIUM priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Builds &quot;Merge Mommy,&quot; a reviewer agent that scores every change across six named risk dimensions (blast radius, reversibility, etc.), auto-approves the low-risk ones and escalates the rest to a human in Slack. The risk-scoring rubric is the transferable part.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/123730209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429208229-44100-2-a07b2ada738a9.mp3" length="23259427" type="audio/mpeg"/>
+<itunes:duration>00:24:13</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>62 · Practical AI · 2025-10-16 · Dealing with increasingly complicated agents</title>
+<link>https://practicalai.show/332</link>
+<guid isPermaLink="false">aios-l6-62</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>Practical AI · Donato Capitella · aired October 16, 2025
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Penetration-test stories on prompt injection and data exfiltration — the failure mode to design against before your agents touch Salesforce and email.
+
+Original episode: https://practicalai.show/332</description>
+<itunes:summary>Practical AI · Donato Capitella · aired October 16, 2025
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Penetration-test stories on prompt injection and data exfiltration — the failure mode to design against before your agents touch Salesforce and email.
+
+Original episode: https://practicalai.show/332</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Donato Capitella &middot; aired October 16, 2025</p><p>Method &middot; MEDIUM priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Penetration-test stories on prompt injection and data exfiltration — the failure mode to design against before your agents touch Salesforce and email.</p><p><a href="https://practicalai.show/332">Open the original episode &rarr;</a><br/>https://practicalai.show/332</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/e60866e6/972751fe.mp3" length="52859185" type="audio/mpeg"/>
+<itunes:duration>3296</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>63 · Practical AI · 2025-10-30 · While loops with tool calls</title>
+<link>https://practicalai.show/334</link>
+<guid isPermaLink="false">aios-l6-63</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>Practical AI · Jared Zoneraich (PromptLayer) · aired October 30, 2025
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Versioning and testing prompts as artifacts rather than guesses, plus a crawl-walk-run path for a non-engineer — the cheapest VERIFICATION habit to adopt.
+
+Original episode: https://practicalai.show/334</description>
+<itunes:summary>Practical AI · Jared Zoneraich (PromptLayer) · aired October 30, 2025
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Versioning and testing prompts as artifacts rather than guesses, plus a crawl-walk-run path for a non-engineer — the cheapest VERIFICATION habit to adopt.
+
+Original episode: https://practicalai.show/334</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Jared Zoneraich (PromptLayer) &middot; aired October 30, 2025</p><p>Method &middot; MEDIUM priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Versioning and testing prompts as artifacts rather than guesses, plus a crawl-walk-run path for a non-engineer — the cheapest VERIFICATION habit to adopt.</p><p><a href="https://practicalai.show/334">Open the original episode &rarr;</a><br/>https://practicalai.show/334</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/ca41b93c/a54b2afe.mp3" length="43151515" type="audio/mpeg"/>
+<itunes:duration>2685</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>64 · The Cognitive Revolution · 2026-02-08 · AGI-Pilled Cyber Defense: Automating Digital Forensics w/ Asymmetric Security Founder Alexis Carlier</title>
+<link>https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/</link>
+<guid isPermaLink="false">aios-l6-64</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Asymmetric Security Founder Alexis Carlier · aired February 8, 2026
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Automating forensic investigation end to end — a working template for an agent whose entire job is checking whether something went wrong.
+
+Original episode: https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/</description>
+<itunes:summary>The Cognitive Revolution · Asymmetric Security Founder Alexis Carlier · aired February 8, 2026
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Automating forensic investigation end to end — a working template for an agent whose entire job is checking whether something went wrong.
+
+Original episode: https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Asymmetric Security Founder Alexis Carlier &middot; aired February 8, 2026</p><p>Method &middot; MEDIUM priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Automating forensic investigation end to end — a working template for an agent whose entire job is checking whether something went wrong.</p><p><a href="https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8609917791.mp3?updated=1770545229" length="70352243" type="audio/mpeg"/>
+<itunes:duration>4567</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>65 · The Cognitive Revolution · 2025-11-30 · Underwriting Superintelligence: How AIUC is using Insurance, Standards, and Audits to Accelerate Adoption while Minimizing Risks</title>
+<link>https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/</link>
+<guid isPermaLink="false">aios-l6-65</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Nathan Labenz interview · aired November 30, 2025
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Insurance, standards and audits as the assurance layer for agent deployment — the vocabulary for deciding what you'd actually sign off on.
+
+Original episode: https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/</description>
+<itunes:summary>The Cognitive Revolution · Nathan Labenz interview · aired November 30, 2025
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Insurance, standards and audits as the assurance layer for agent deployment — the vocabulary for deciding what you'd actually sign off on.
+
+Original episode: https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Nathan Labenz interview &middot; aired November 30, 2025</p><p>Method &middot; MEDIUM priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Insurance, standards and audits as the assurance layer for agent deployment — the vocabulary for deciding what you&#x27;d actually sign off on.</p><p><a href="https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP2136733206.mp3?updated=1764495878" length="67824441" type="audio/mpeg"/>
+<itunes:duration>4410</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
