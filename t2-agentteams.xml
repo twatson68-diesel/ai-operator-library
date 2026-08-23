@@ -4,9 +4,9 @@
 <title>AI OS · Agent Teams</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Agents working together: orchestrator/worker, delegation, shared state, coordination failure — including the skeptics. 17 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Agents working together: orchestrator/worker, delegation, shared state, coordination failure — including the skeptics. 19 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Agents working together: orchestrator/worker, delegation, shared state, coordination failure — including the skeptics. 17 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Agents working together: orchestrator/worker, delegation, shared state, coordination failure — including the skeptics. 19 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
 <itunes:duration>00:29:06</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>17</itunes:episode>
+<itunes:episode>19</itunes:episode>
 </item>
 <item>
 <title>71 · MLOps Community Podcast · 2026-08-17 · How To Delegate To An Agent Like You Would An Employee?</title>
@@ -57,13 +57,36 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/How-To-
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/124326856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F429984635-44100-2-e769f50a2303f.mp3" length="53051558" type="audio/mpeg"/>
 <itunes:duration>00:55:15</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>16</itunes:episode>
+<itunes:episode>18</itunes:episode>
 </item>
 <item>
-<title>72 · Latent Space · 2026-05-28 · The Age of Async Agents — Cognition's Walden Yan &amp; OpenInspect's Cole Murray</title>
-<link>https://www.latent.space/p/cognition</link>
+<title>72 · The Startup Ideas Podcast · 2026-08-21 · Grok Bot: make a 1 person company with agents</title>
+<link>https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</link>
 <guid isPermaLink="false">aios-t2-72</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Billy Howell (The Rundown) · aired August 21, 2026
+BUILD · HIGH priority · T2 Agent Teams
+
+Why it's here: Billy Howell runs a real one-person business on Grok Bot agent teams, including a 6,000-reader local newsletter — an operator-scale agent team with revenue attached, not a demo.
+
+Original episode: https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</description>
+<itunes:summary>The Startup Ideas Podcast · Billy Howell (The Rundown) · aired August 21, 2026
+BUILD · HIGH priority · T2 Agent Teams
+
+Why it's here: Billy Howell runs a real one-person business on Grok Bot agent teams, including a 6,000-reader local newsletter — an operator-scale agent team with revenue attached, not a demo.
+
+Original episode: https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Billy Howell (The Rundown) &middot; aired August 21, 2026</p><p>BUILD &middot; HIGH priority &middot; T2 Agent Teams</p><p><strong>Why it's here:</strong> Billy Howell runs a real one-person business on Grok Bot agent teams, including a 6,000-reader local newsletter — an operator-scale agent team with revenue attached, not a demo.</p><p><a href="https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01M0JRD6SQ7W0TWNA4KJB400CA.mp3" length="31926858" type="audio/mpeg"/>
+<itunes:duration>2661</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>17</itunes:episode>
+</item>
+<item>
+<title>73 · Latent Space · 2026-05-28 · The Age of Async Agents — Cognition's Walden Yan &amp; OpenInspect's Cole Murray</title>
+<link>https://www.latent.space/p/cognition</link>
+<guid isPermaLink="false">aios-t2-73</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>Latent Space · Walden Yan (Cognition), Cole Murray (OpenInspect) · aired May 28, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -80,13 +103,13 @@ Original episode: https://www.latent.space/p/cognition</itunes:summary>
 <enclosure url="https://api.substack.com/feed/podcast/199607874/583bc5ffc268ed91c9847c65cd631492.mp3" length="65319221" type="audio/mpeg"/>
 <itunes:duration>4082</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>15</itunes:episode>
+<itunes:episode>16</itunes:episode>
 </item>
 <item>
-<title>73 · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
+<title>74 · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
 <link>https://www.latent.space/p/harness-eng</link>
-<guid isPermaLink="false">aios-t2-73</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-74</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -103,13 +126,13 @@ Original episode: https://www.latent.space/p/harness-eng</itunes:summary>
 <enclosure url="https://api.substack.com/feed/podcast/193478192/2c0fb135ac3f9193c58922fcaf1b81a8.mp3" length="52357357" type="audio/mpeg"/>
 <itunes:duration>4363</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>14</itunes:episode>
+<itunes:episode>15</itunes:episode>
 </item>
 <item>
-<title>74 · Latent Space · 2026-04-15 · Notion's Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
+<title>75 · Latent Space · 2026-04-15 · Notion's Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
 <link>https://www.latent.space/p/notion</link>
-<guid isPermaLink="false">aios-t2-74</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-75</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>Latent Space · Simon Last (co-founder), Sarah Sachs (Notion AI) · aired April 15, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -126,13 +149,13 @@ Original episode: https://www.latent.space/p/notion</itunes:summary>
 <enclosure url="https://api.substack.com/feed/podcast/194195821/10f31b379fbf657fd80757e3b4244e4f.mp3" length="55647445" type="audio/mpeg"/>
 <itunes:duration>4637</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>13</itunes:episode>
+<itunes:episode>14</itunes:episode>
 </item>
 <item>
-<title>75 · MLOps Community Podcast #383 · 2026-06-09 · From Single-Player to Multi-Player: Operating AI Agents at Scale</title>
+<title>76 · MLOps Community Podcast #383 · 2026-06-09 · From Single-Player to Multi-Player: Operating AI Agents at Scale</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/From-Single-Player-to-Multi-Player-Operating-AI-Agents-at-Scale-e3khpk8</link>
-<guid isPermaLink="false">aios-t2-75</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-76</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>MLOps Community Podcast #383 · James Everingham (CEO, Guild.ai; ex-Meta Head of Dev Infra) · aired June 9, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -149,13 +172,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/From-Si
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/121218120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425793095-44100-2-8cd03c8414f57.mp3" length="53665958" type="audio/mpeg"/>
 <itunes:duration>00:55:54</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>13</itunes:episode>
 </item>
 <item>
-<title>76 · MLOps Community Podcast #368 · 2026-04-07 · Getting Humans Out of the Way: How to Work with Teams of Agents</title>
+<title>77 · MLOps Community Podcast #368 · 2026-04-07 · Getting Humans Out of the Way: How to Work with Teams of Agents</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Getting-Humans-Out-of-the-Way-How-to-Work-with-Teams-of-Agents-e3hi4i7</link>
-<guid isPermaLink="false">aios-t2-76</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-77</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>MLOps Community Podcast #368 · Rob Ennals (creator of Broomy, open-source multi-agent IDE; ex-Meta/Google) · aired April 7, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -172,13 +195,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Getting
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/118083591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-7%2F421574935-44100-2-1778740e3245a.mp3" length="48495803" type="audio/mpeg"/>
 <itunes:duration>00:50:30</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
+<itunes:episode>12</itunes:episode>
 </item>
 <item>
-<title>77 · MLOps Community Podcast · 2026-06-19 · Sandboxing, Agent Harnesses, and Agent Teamwork</title>
+<title>78 · MLOps Community Podcast · 2026-06-19 · Sandboxing, Agent Harnesses, and Agent Teamwork</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Sandboxing--Agent-Harnesses--and-Agent-Teamwork-e3kts75</link>
-<guid isPermaLink="false">aios-t2-77</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-78</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>MLOps Community Podcast · Shahram Anver (co-founder/CEO, Cleric; ex-Gojek platform eng) · aired June 19, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -195,13 +218,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Sandbox
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/121613989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426331761-44100-2-c40bf1d026825.mp3" length="76703868" type="audio/mpeg"/>
 <itunes:duration>01:19:53</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>11</itunes:episode>
 </item>
 <item>
-<title>78 · How I AI · 2026-03-25 · How Stripe built &quot;minions&quot;—AI coding agents that ship 1,300 PRs weekly from Slack reactions</title>
+<title>79 · How I AI · 2026-03-25 · How Stripe built &quot;minions&quot;—AI coding agents that ship 1,300 PRs weekly from Slack reactions</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Stripe-built-minionsAI-coding-agents-that-ship-1-300-PRs-weekly-from-Slack-reactions--Steve-Kaliski-Stripe-engineer-e3gqvee</link>
-<guid isPermaLink="false">aios-t2-78</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-79</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Steve Kaliski (engineer, Stripe) · aired March 25, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -218,13 +241,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/117324686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420636150-44100-2-d29d4504f7d52.mp3" length="40252394" type="audio/mpeg"/>
 <itunes:duration>00:41:55</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>79 · TWIML AI Podcast #765 · 2026-04-16 · How Capital One Delivers Multi-Agent Systems with Rashmi Shetty</title>
+<title>80 · TWIML AI Podcast #765 · 2026-04-16 · How Capital One Delivers Multi-Agent Systems with Rashmi Shetty</title>
 <link>https://twimlai.com/podcast/twimlai/how-capital-one-delivers-multi-agent-systems</link>
-<guid isPermaLink="false">aios-t2-79</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-80</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>TWIML AI Podcast #765 · Rashmi Shetty (Sr. Director, Enterprise GenAI Platform, Capital One) · aired April 16, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -241,13 +264,13 @@ Original episode: https://twimlai.com/podcast/twimlai/how-capital-one-delivers-m
 <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN9114691307.mp3?updated=1776383902" length="51935920" type="audio/mpeg"/>
 <itunes:duration>3258</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>80 · The Data Exchange · 2026-04-02 · Are Multi-Agent Systems More Complex Than They Need to Be?</title>
+<title>81 · The Data Exchange · 2026-04-02 · Are Multi-Agent Systems More Complex Than They Need to Be?</title>
 <link>https://podcasts.apple.com/us/podcast/are-multi-agent-systems-more-complex-than-they-need-to-be/id1487704458?i=1000758837487</link>
-<guid isPermaLink="false">aios-t2-80</guid>
-<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-81</guid>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Data Exchange · Arun Kumar (UC San Diego) · aired April 2, 2026
 Method · HIGH priority · T2 Agent Teams
 
@@ -264,13 +287,13 @@ Original episode: https://podcasts.apple.com/us/podcast/are-multi-agent-systems-
 <enclosure url="https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/682433/episodes/18907204-are-multi-agent-systems-more-complex-than-they-need-to-be.mp3" length="37735341" type="audio/mpeg"/>
 <itunes:duration>3141</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>81 · AI Engineering Podcast (ep. 70) · 2025-11-24 · Context as Code, DevX as Leverage: Accelerating Software with Multi-Agent Workflows</title>
+<title>82 · AI Engineering Podcast (ep. 70) · 2025-11-24 · Context as Code, DevX as Leverage: Accelerating Software with Multi-Agent Workflows</title>
 <link>https://www.aiengineeringpodcast.com/agor-multi-player-multi-agent-engineering-episode-70</link>
-<guid isPermaLink="false">aios-t2-81</guid>
-<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-82</guid>
+<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
 <description>AI Engineering Podcast (ep. 70) · Max Beauchemin (creator of Apache Airflow &amp; Superset; Agor) · aired November 24, 2025
 Method · HIGH priority · T2 Agent Teams
 
@@ -287,13 +310,13 @@ Original episode: https://www.aiengineeringpodcast.com/agor-multi-player-multi-a
 <enclosure url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6389954251734695544a901724-7644-4990-9b6d-00f12ef3878e.mp3" length="57427263" type="audio/mpeg"/>
 <itunes:duration>00:59:49</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>82 · The Cognitive Revolution · 2025-08-16 · Autonomous Organizations: Vending Bench &amp; Beyond, w/ Lukas Petersson &amp; Axel Backlund of Andon Labs</title>
+<title>83 · The Cognitive Revolution · 2025-08-16 · Autonomous Organizations: Vending Bench &amp; Beyond, w/ Lukas Petersson &amp; Axel Backlund of Andon Labs</title>
 <link>https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/</link>
-<guid isPermaLink="false">aios-t2-82</guid>
-<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-83</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Lukas Petersson &amp; Axel Backlund of Andon Labs · aired August 16, 2025
 Method · HIGH priority · T2 Agent Teams
 
@@ -310,13 +333,13 @@ Original episode: https://www.cognitiverevolution.ai/autonomous-organizations-ve
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8503666800.mp3?updated=1755363378" length="101374431" type="audio/mpeg"/>
 <itunes:duration>6523</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>83 · Build With AI · 2026-05-27 · # 167 I built an AI agent finance department (full build)</title>
+<title>84 · Build With AI · 2026-05-27 · # 167 I built an AI agent finance department (full build)</title>
 <link>https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226</link>
-<guid isPermaLink="false">aios-t2-83</guid>
-<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-84</guid>
+<pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
 <description>Build With AI · Mike Dion (senior corporate finance professional) with Corey Ganim · aired May 27, 2026
 BUILD · MEDIUM priority · T2 Agent Teams
 
@@ -333,13 +356,13 @@ Original episode: https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-
 <enclosure url="https://media.transistor.fm/e22d8c08/bfc06e09.mp3" length="83942874" type="audio/mpeg"/>
 <itunes:duration>2624</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>84 · Practical AI · 2026-08-06 · Models, Harnesses, and Multi-Agent Systems</title>
+<title>85 · Practical AI · 2026-08-06 · Models, Harnesses, and Multi-Agent Systems</title>
 <link>https://practicalai.show/367</link>
-<guid isPermaLink="false">aios-t2-84</guid>
-<pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-85</guid>
+<pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
 <description>Practical AI · Daniel Whitenack &amp; Chris Benson · aired August 6, 2026
 Method · MEDIUM priority · T2 Agent Teams
 
@@ -356,13 +379,13 @@ Original episode: https://practicalai.show/367</itunes:summary>
 <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/063cfaad/23dc320d.mp3" length="47999683" type="audio/mpeg"/>
 <itunes:duration>2998</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>85 · The Data Exchange · 2026-08-20 · An Agent Is Just an LLM in a For-Loop</title>
+<title>86 · The Data Exchange · 2026-08-20 · An Agent Is Just an LLM in a For-Loop</title>
 <link>https://thedataexchange.media/maarten-grootendorst-orm-books/</link>
-<guid isPermaLink="false">aios-t2-85</guid>
-<pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-86</guid>
+<pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Data Exchange · Maarten Grootendorst (author, *Hands-On Large Language Models*; creator of BERTopic) · aired August 20, 2026
 Method · MEDIUM priority · T2 Agent Teams
 
@@ -379,13 +402,36 @@ Original episode: https://thedataexchange.media/maarten-grootendorst-orm-books/<
 <enclosure url="https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/682433/episodes/19638187-an-agent-is-just-an-llm-in-a-for-loop.mp3" length="25442597" type="audio/mpeg"/>
 <itunes:duration>2117</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>87 · Latent Space · 2026-08-21 · Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
+<link>https://www.latent.space/p/simile</link>
+<guid isPermaLink="false">aios-t2-87</guid>
+<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+<description>Latent Space · Joon Sung Park (Simile AI) · aired August 21, 2026
+Method · MEDIUM priority · T2 Agent Teams
+
+Why it's here: Joon Sung Park, who built the original generative-agent societies, on simulation as a scaling law — agent populations as the unit of study rather than single agents.
+
+Original episode: https://www.latent.space/p/simile</description>
+<itunes:summary>Latent Space · Joon Sung Park (Simile AI) · aired August 21, 2026
+Method · MEDIUM priority · T2 Agent Teams
+
+Why it's here: Joon Sung Park, who built the original generative-agent societies, on simulation as a scaling law — agent populations as the unit of study rather than single agents.
+
+Original episode: https://www.latent.space/p/simile</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Joon Sung Park (Simile AI) &middot; aired August 21, 2026</p><p>Method &middot; MEDIUM priority &middot; T2 Agent Teams</p><p><strong>Why it's here:</strong> Joon Sung Park, who built the original generative-agent societies, on simulation as a scaling law — agent populations as the unit of study rather than single agents.</p><p><a href="https://www.latent.space/p/simile">Open the original episode &rarr;</a><br/>https://www.latent.space/p/simile</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/212197985/1840b68798a88f3dcc9324819d08a31f.mp3" length="66845749" type="audio/mpeg"/>
+<itunes:duration>4178</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>86 · The Cognitive Revolution · 2025-07-02 · The AI Village: Previewing the Giga-Agent Future with Adam Binksmith, Founder of AI Digest</title>
+<title>88 · The Cognitive Revolution · 2025-07-02 · The AI Village: Previewing the Giga-Agent Future with Adam Binksmith, Founder of AI Digest</title>
 <link>https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/</link>
-<guid isPermaLink="false">aios-t2-86</guid>
-<pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t2-88</guid>
+<pubDate>Sun, 16 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Adam Binksmith, Founder of AI Digest · aired July 2, 2025
 Method · MEDIUM priority · T2 Agent Teams
 

@@ -710,33 +710,33 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/How-To-
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>72 · Track · Latent Space · 2026-05-28 · The Age of Async Agents — Cognition's Walden Yan &amp; OpenInspect's Cole Murray</title>
-<link>https://www.latent.space/p/cognition</link>
+<title>72 · Track · The Startup Ideas Podcast · 2026-08-21 · Grok Bot: make a 1 person company with agents</title>
+<link>https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</link>
 <guid isPermaLink="false">timlib3c-72</guid>
 <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-<description>Latent Space · Walden Yan (Cognition), Cole Murray (OpenInspect) · aired May 28, 2026
-Track 2 Agent Teams · Method · HIGH priority
+<description>The Startup Ideas Podcast · Billy Howell (The Rundown) · aired August 21, 2026
+Track 2 Agent Teams · BUILD · HIGH priority
 
-Why it's here: Async/background agent fleets from the team that argued against naive multi-agent parallelism — where async coordination pays and where it fragments context.
+Why it's here: Billy Howell runs a real one-person business on Grok Bot agent teams, including a 6,000-reader local newsletter — an operator-scale agent team with revenue attached, not a demo.
 
-Original episode: https://www.latent.space/p/cognition</description>
-<itunes:summary>Latent Space · Walden Yan (Cognition), Cole Murray (OpenInspect) · aired May 28, 2026
-Track 2 Agent Teams · Method · HIGH priority
+Original episode: https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</description>
+<itunes:summary>The Startup Ideas Podcast · Billy Howell (The Rundown) · aired August 21, 2026
+Track 2 Agent Teams · BUILD · HIGH priority
 
-Why it's here: Async/background agent fleets from the team that argued against naive multi-agent parallelism — where async coordination pays and where it fragments context.
+Why it's here: Billy Howell runs a real one-person business on Grok Bot agent teams, including a 6,000-reader local newsletter — an operator-scale agent team with revenue attached, not a demo.
 
-Original episode: https://www.latent.space/p/cognition</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Walden Yan (Cognition), Cole Murray (OpenInspect) &middot; aired May 28, 2026</p><p>Track 2 Agent Teams &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Async/background agent fleets from the team that argued against naive multi-agent parallelism — where async coordination pays and where it fragments context.</p><p><a href="https://www.latent.space/p/cognition">Open the original episode &rarr;</a><br/>https://www.latent.space/p/cognition</p>]]></content:encoded>
-<enclosure url="https://api.substack.com/feed/podcast/199607874/583bc5ffc268ed91c9847c65cd631492.mp3" length="65319221" type="audio/mpeg"/>
-<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/199607874/d8e216e78ecdbcd9c655825359d96895.jpg"/>
-<itunes:duration>4082</itunes:duration>
+Original episode: https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Billy Howell (The Rundown) &middot; aired August 21, 2026</p><p>Track 2 Agent Teams &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Billy Howell runs a real one-person business on Grok Bot agent teams, including a 6,000-reader local newsletter — an operator-scale agent team with revenue attached, not a demo.</p><p><a href="https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01M0JRD6SQ7W0TWNA4KJB400CA.mp3" length="31926858" type="audio/mpeg"/>
+<itunes:image href="https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg"/>
+<itunes:duration>2661</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>87 · Track · Data Engineering Podcast (ep. 514) · 2026-08-02 · Why Multi-Agent Systems Need Shared State, Graph Semantics, and Governance</title>
+<title>89 · Track · Data Engineering Podcast (ep. 514) · 2026-08-02 · Why Multi-Agent Systems Need Shared State, Graph Semantics, and Governance</title>
 <link>https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514</link>
-<guid isPermaLink="false">timlib3c-87</guid>
+<guid isPermaLink="false">timlib3c-89</guid>
 <pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
 <description>Data Engineering Podcast (ep. 514) · Ragnor Comerford (OmniGraph) · aired August 2, 2026
 Track 3 Graphs · Method · HIGH priority
@@ -758,9 +758,9 @@ Original episode: https://www.dataengineeringpodcast.com/omnigraph-lakehouse-ver
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>88 · Track · Data Engineering Podcast (ep. 502) · 2026-02-22 · From Data Models to Mind Models: Designing AI Memory at Scale</title>
+<title>90 · Track · Data Engineering Podcast (ep. 502) · 2026-02-22 · From Data Models to Mind Models: Designing AI Memory at Scale</title>
 <link>https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502</link>
-<guid isPermaLink="false">timlib3c-88</guid>
+<guid isPermaLink="false">timlib3c-90</guid>
 <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
 <description>Data Engineering Podcast (ep. 502) · Vasilije &quot;Vas&quot; Markovich (founder, Cognee) · aired February 22, 2026
 Track 3 Graphs · Method · HIGH priority
@@ -782,9 +782,9 @@ Original episode: https://www.dataengineeringpodcast.com/agentic-memory-design-a
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>89 · Track · The Data Exchange · 2026-07-02 · The Data Layer Enterprise AI Has Been Missing</title>
+<title>91 · Track · The Data Exchange · 2026-07-02 · The Data Layer Enterprise AI Has Been Missing</title>
 <link>https://thedataexchange.media/andrew-moore-lovelace/</link>
-<guid isPermaLink="false">timlib3c-89</guid>
+<guid isPermaLink="false">timlib3c-91</guid>
 <pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Data Exchange · Andrew Moore (Lovelace; ex-Google Cloud AI, ex-CMU dean) · aired July 2, 2026
 Track 3 Graphs · Method · HIGH priority
