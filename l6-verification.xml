@@ -4,9 +4,9 @@
 <title>AI OS · L6 Verification</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. Layer 6 of a personal Agent OS — 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. Layer 6 of a personal Agent OS — 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -14,9 +14,9 @@
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l6-verification.jpg"/>
 <image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l6-verification.jpg</url><title>AI OS · L6 Verification</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>58 · How I AI · 2025-10-13 · Evals, error analysis, and better prompts: A systematic approach to improving your AI products</title>
+<title>38 · How I AI · 2025-10-13 · Evals, error analysis, and better prompts: A systematic approach to improving your AI products</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Evals--error-analysis--and-better-prompts-A-systematic-approach-to-improving-your-AI-products--Hamel-Husain-ML-engineer-e39ahbf</link>
-<guid isPermaLink="false">aios-l6-58</guid>
+<guid isPermaLink="false">aios-l6-38</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Hamel Husain (independent ML engineer / AI consultant) · aired October 13, 2025
 BUILD · HIGH priority · L6 Verification
@@ -37,9 +37,9 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Eval
 <itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>59 · Lenny's Podcast · 2025-09-25 · Why AI evals are the hottest new skill for product builders</title>
+<title>39 · Lenny's Podcast · 2025-09-25 · Why AI evals are the hottest new skill for product builders</title>
 <link>https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill</link>
-<guid isPermaLink="false">aios-l6-59</guid>
+<guid isPermaLink="false">aios-l6-39</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>Lenny's Podcast · Hamel Husain &amp; Shreya Shankar (creators of the leading AI evals course) · aired September 25, 2025
 Method · HIGH priority · L6 Verification
@@ -60,9 +60,9 @@ Original episode: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottes
 <itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>60 · The Cognitive Revolution · 2025-09-18 · Can We Stop AI Deception? Apollo Research Tests OpenAI's Deliberative Alignment, w/ Marius Hobbhahn</title>
+<title>40 · The Cognitive Revolution · 2025-09-18 · Can We Stop AI Deception? Apollo Research Tests OpenAI's Deliberative Alignment, w/ Marius Hobbhahn</title>
 <link>https://www.cognitiverevolution.ai/can-we-stop-ai-deception-apollo-research-tests-openais-deliberative-alignment-w-marius-hobbhahn/</link>
-<guid isPermaLink="false">aios-l6-60</guid>
+<guid isPermaLink="false">aios-l6-40</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Marius Hobbhahn · aired September 18, 2025
 Method · HIGH priority · L6 Verification
@@ -83,9 +83,9 @@ Original episode: https://www.cognitiverevolution.ai/can-we-stop-ai-deception-ap
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>61 · How I AI · 2026-08-05 · Build an AI code review bot in 30 minutes with Vercel Eve</title>
+<title>41 · How I AI · 2026-08-05 · Build an AI code review bot in 30 minutes with Vercel Eve</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1</link>
-<guid isPermaLink="false">aios-l6-61</guid>
+<guid isPermaLink="false">aios-l6-41</guid>
 <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired August 5, 2026
 BUILD · MEDIUM priority · L6 Verification
@@ -106,9 +106,9 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Buil
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>62 · Practical AI · 2025-10-16 · Dealing with increasingly complicated agents</title>
+<title>42 · Practical AI · 2025-10-16 · Dealing with increasingly complicated agents</title>
 <link>https://practicalai.show/332</link>
-<guid isPermaLink="false">aios-l6-62</guid>
+<guid isPermaLink="false">aios-l6-42</guid>
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>Practical AI · Donato Capitella · aired October 16, 2025
 Method · MEDIUM priority · L6 Verification
@@ -129,9 +129,9 @@ Original episode: https://practicalai.show/332</itunes:summary>
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>63 · Practical AI · 2025-10-30 · While loops with tool calls</title>
+<title>43 · Practical AI · 2025-10-30 · While loops with tool calls</title>
 <link>https://practicalai.show/334</link>
-<guid isPermaLink="false">aios-l6-63</guid>
+<guid isPermaLink="false">aios-l6-43</guid>
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>Practical AI · Jared Zoneraich (PromptLayer) · aired October 30, 2025
 Method · MEDIUM priority · L6 Verification
@@ -152,9 +152,9 @@ Original episode: https://practicalai.show/334</itunes:summary>
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>64 · The Cognitive Revolution · 2026-02-08 · AGI-Pilled Cyber Defense: Automating Digital Forensics w/ Asymmetric Security Founder Alexis Carlier</title>
+<title>44 · The Cognitive Revolution · 2026-02-08 · AGI-Pilled Cyber Defense: Automating Digital Forensics w/ Asymmetric Security Founder Alexis Carlier</title>
 <link>https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/</link>
-<guid isPermaLink="false">aios-l6-64</guid>
+<guid isPermaLink="false">aios-l6-44</guid>
 <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Asymmetric Security Founder Alexis Carlier · aired February 8, 2026
 Method · MEDIUM priority · L6 Verification
@@ -175,9 +175,9 @@ Original episode: https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-au
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>65 · The Cognitive Revolution · 2025-11-30 · Underwriting Superintelligence: How AIUC is using Insurance, Standards, and Audits to Accelerate Adoption while Minimizing Risks</title>
+<title>45 · The Cognitive Revolution · 2025-11-30 · Underwriting Superintelligence: How AIUC is using Insurance, Standards, and Audits to Accelerate Adoption while Minimizing Risks</title>
 <link>https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/</link>
-<guid isPermaLink="false">aios-l6-65</guid>
+<guid isPermaLink="false">aios-l6-45</guid>
 <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired November 30, 2025
 Method · MEDIUM priority · L6 Verification

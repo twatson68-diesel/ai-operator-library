@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · Openclaw</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Running fleets, internals and architecture, permissioning, and what breaks at scale. 13 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Running fleets, internals and architecture, permissioning, and what breaks at scale. 13 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t1-openclaw.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t1-openclaw.jpg</url><title>AI OS · Openclaw</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>57 · How I AI · 2026-02-25 · 5 OpenClaw agents run my home, finances, and code</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</link>
+<guid isPermaLink="false">aios-t1-57</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</description>
+<itunes:summary>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Jesse Genet (entrepreneur and homeschooling parent) &middot; aired February 25, 2026</p><p>BUILD &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/115952214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418896511-44100-2-4cc405a9ab7e7.mp3" length="47489357" type="audio/mpeg"/>
+<itunes:duration>00:49:28</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>13</itunes:episode>
+</item>
+<item>
+<title>58 · How I AI · 2026-01-28 · I gave Clawdbot (aka Moltbot) access to my computer, calendar, and emails: Here's what happened</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</link>
+<guid isPermaLink="false">aios-t1-58</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo) · aired January 28, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</description>
+<itunes:summary>How I AI · Claire Vo (host, solo) · aired January 28, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo) &middot; aired January 28, 2026</p><p>BUILD &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114652427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F416973257-44100-2-5e9f3b248cbc6.mp3" length="53557288" type="audio/mpeg"/>
+<itunes:duration>00:55:47</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>12</itunes:episode>
+</item>
+<item>
+<title>59 · Lenny's Podcast · 2026-03-29 · From skeptic to true believer: How OpenClaw changed my life</title>
+<link>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</link>
+<guid isPermaLink="false">aios-t1-59</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>Lenny's Podcast · Claire Vo (founder, ChatPRD; host of How I AI) · aired March 29, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: Step-by-step install and setup of nine agents across spare Mac Minis and old laptops, the &quot;don't install it on your main computer&quot; rule, why specialised agents beat one generalist, and the security risks — after it deleted her family calendar on attempt one.
+
+Original episode: https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</description>
+<itunes:summary>Lenny's Podcast · Claire Vo (founder, ChatPRD; host of How I AI) · aired March 29, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: Step-by-step install and setup of nine agents across spare Mac Minis and old laptops, the &quot;don't install it on your main computer&quot; rule, why specialised agents beat one generalist, and the security risks — after it deleted her family calendar on attempt one.
+
+Original episode: https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Lenny&#x27;s Podcast</strong> &middot; Claire Vo (founder, ChatPRD; host of How I AI) &middot; aired March 29, 2026</p><p>BUILD &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Step-by-step install and setup of nine agents across spare Mac Minis and old laptops, the &quot;don&#x27;t install it on your main computer&quot; rule, why specialised agents beat one generalist, and the security risks — after it deleted her family calendar on attempt one.</p><p><a href="https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo">Open the original episode &rarr;</a><br/>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/192012054/43f7fc06ec41bb364e4e6fc4aa8bf033.mp3" length="102323373" type="audio/mpeg"/>
+<itunes:duration>6395</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode>
+</item>
+<item>
+<title>60 · OpenClaw Cast · 2026-08-14 · Two AI Agents Can Turn Your Server Against Itself</title>
+<link>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/Two-AI-Agents-Can-Turn-Your-Server-Against-Itself-e3ndj1k</link>
+<guid isPermaLink="false">aios-t1-60</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>OpenClaw Cast · Cleo &amp; Dev (hosts) · aired August 14, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: Parallel agents with conflicting goals on shared resources produced a multi-agent turf war; they build a Task Lease Guard and a conflict drill in response.
+
+Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/Two-AI-Agents-Can-Turn-Your-Server-Against-Itself-e3ndj1k</description>
+<itunes:summary>OpenClaw Cast · Cleo &amp; Dev (hosts) · aired August 14, 2026
+BUILD · HIGH priority · T1 Openclaw
+
+Why it's here: Parallel agents with conflicting goals on shared resources produced a multi-agent turf war; they build a Task Lease Guard and a conflict drill in response.
+
+Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/Two-AI-Agents-Can-Turn-Your-Server-Against-Itself-e3ndj1k</itunes:summary>
+<content:encoded><![CDATA[<p><strong>OpenClaw Cast</strong> &middot; Cleo &amp; Dev (hosts) &middot; aired August 14, 2026</p><p>BUILD &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Parallel agents with conflicting goals on shared resources produced a multi-agent turf war; they build a Task Lease Guard and a conflict drill in response.</p><p><a href="https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/Two-AI-Agents-Can-Turn-Your-Server-Against-Itself-e3ndj1k">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/Two-AI-Agents-Can-Turn-Your-Server-Against-Itself-e3ndj1k</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10f77d9e4/podcast/play/124226036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F4ce760ae-5a0a-db88-245a-a82be37e5425.m4a" length="40933908" type="audio/x-m4a"/>
+<itunes:duration>00:21:11</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
+<title>61 · The ClawCast · 2026-08-12 · Episode 7 — Unfiltered Q&amp;A with OpenClaw Founder Peter Steinberger</title>
+<link>https://openclaw.ai/podcast/episode-7</link>
+<guid isPermaLink="false">aios-t1-61</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>The ClawCast · Peter Steinberger (creator) · aired August 12, 2026
+Method · HIGH priority · T1 Openclaw
+
+Why it's here: Roadmap-level detail on cloud multiplayer, shared team servers, agent-to-agent collaboration, memory redesign and model routing.
+
+Original episode: https://openclaw.ai/podcast/episode-7</description>
+<itunes:summary>The ClawCast · Peter Steinberger (creator) · aired August 12, 2026
+Method · HIGH priority · T1 Openclaw
+
+Why it's here: Roadmap-level detail on cloud multiplayer, shared team servers, agent-to-agent collaboration, memory redesign and model routing.
+
+Original episode: https://openclaw.ai/podcast/episode-7</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The ClawCast</strong> &middot; Peter Steinberger (creator) &middot; aired August 12, 2026</p><p>Method &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Roadmap-level detail on cloud multiplayer, shared team servers, agent-to-agent collaboration, memory redesign and model routing.</p><p><a href="https://openclaw.ai/podcast/episode-7">Open the original episode &rarr;</a><br/>https://openclaw.ai/podcast/episode-7</p>]]></content:encoded>
+<enclosure url="https://r.zen.ai/r/cdn.simplecast.com/media/audio/transcoded/75c667ea-2739-4306-96be-e15097ef0853/24832310-78fe-4898-91be-6db33696c4ba/episodes/audio/group/8640a9bc-3cfc-456e-a5a5-e4eda7589eff/group-item/6a020b38-34da-4c15-bb5b-a70e7032812a/128_default_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf" length="41995327" type="audio/mpeg"/>
+<itunes:duration>00:43:44</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>62 · MLOps Community Podcast #378 · 2026-05-19 · Autonomous Agents at Work: From OpenClaw Hype to Enterprise Reality</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/Autonomous-Agents-at-Work-From-OpenClaw-Hype-to-Enterprise-Reality-e3jj7u3</link>
+<guid isPermaLink="false">aios-t1-62</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>MLOps Community Podcast #378 · Pramod Krishnan (Managing Director, AI Managed Services, PwC US) · aired May 19, 2026
+Method · HIGH priority · T1 Openclaw
+
+Why it's here: Enterprise governance view: 3-tier work classification and the control frameworks PwC requires before an autonomous agent touches production.
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Autonomous-Agents-at-Work-From-OpenClaw-Hype-to-Enterprise-Reality-e3jj7u3</description>
+<itunes:summary>MLOps Community Podcast #378 · Pramod Krishnan (Managing Director, AI Managed Services, PwC US) · aired May 19, 2026
+Method · HIGH priority · T1 Openclaw
+
+Why it's here: Enterprise governance view: 3-tier work classification and the control frameworks PwC requires before an autonomous agent touches production.
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Autonomous-Agents-at-Work-From-OpenClaw-Hype-to-Enterprise-Reality-e3jj7u3</itunes:summary>
+<content:encoded><![CDATA[<p><strong>MLOps Community Podcast #378</strong> &middot; Pramod Krishnan (Managing Director, AI Managed Services, PwC US) &middot; aired May 19, 2026</p><p>Method &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Enterprise governance view: 3-tier work classification and the control frameworks PwC requires before an autonomous agent touches production.</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Autonomous-Agents-at-Work-From-OpenClaw-Hype-to-Enterprise-Reality-e3jj7u3">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Autonomous-Agents-at-Work-From-OpenClaw-Hype-to-Enterprise-Reality-e3jj7u3</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/120216963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424456257-44100-2-d636e656a7239.mp3" length="40629811" type="audio/mpeg"/>
+<itunes:duration>00:42:19</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>63 · The AI Daily Brief · 2026-02-12 · How I Built My 10-Agent OpenClaw Team</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Built-My-10-Agent-OpenClaw-Team-e3ev5p8</link>
+<guid isPermaLink="false">aios-t1-63</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief · NLW (host, solo build teardown) · aired February 12, 2026
+BUILD · MEDIUM priority · T1 Openclaw
+
+Why it's here: Ten-agent architecture: builder bot, research agents, PM agents, chief-of-staff layer, plus heartbeats, mobile management and security tradeoffs.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Built-My-10-Agent-OpenClaw-Team-e3ev5p8</description>
+<itunes:summary>The AI Daily Brief · NLW (host, solo build teardown) · aired February 12, 2026
+BUILD · MEDIUM priority · T1 Openclaw
+
+Why it's here: Ten-agent architecture: builder bot, research agents, PM agents, chief-of-staff layer, plus heartbeats, mobile management and security tradeoffs.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Built-My-10-Agent-OpenClaw-Team-e3ev5p8</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; NLW (host, solo build teardown) &middot; aired February 12, 2026</p><p>BUILD &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Ten-agent architecture: builder bot, research agents, PM agents, chief-of-staff layer, plus heartbeats, mobile management and security tradeoffs.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Built-My-10-Agent-OpenClaw-Team-e3ev5p8">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Built-My-10-Agent-OpenClaw-Team-e3ev5p8</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/115365096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-11%2F417916900-44100-2-a1eab8b0be297.mp3" length="22046928" type="audio/mpeg"/>
+<itunes:duration>00:22:57</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>64 · The Startup Ideas Podcast · 2026-03-19 · My OpenClaw setup that finally works (Complete Walkthrough)</title>
+<link>https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-finally-works-complete-walkthrough/id1593424985?i=1000756206071</link>
+<guid isPermaLink="false">aios-t1-64</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Moritz Kremb (OpenClaw power user, agency builder, Berlin) · aired March 19, 2026
+BUILD · MEDIUM priority · T1 Openclaw
+
+Why it's here: 10-step optimization pass — memory repair, model selection, security basics — then two production systems (video pipeline, conversational CRM).
+
+Original episode: https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-finally-works-complete-walkthrough/id1593424985?i=1000756206071</description>
+<itunes:summary>The Startup Ideas Podcast · Moritz Kremb (OpenClaw power user, agency builder, Berlin) · aired March 19, 2026
+BUILD · MEDIUM priority · T1 Openclaw
+
+Why it's here: 10-step optimization pass — memory repair, model selection, security basics — then two production systems (video pipeline, conversational CRM).
+
+Original episode: https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-finally-works-complete-walkthrough/id1593424985?i=1000756206071</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Moritz Kremb (OpenClaw power user, agency builder, Berlin) &middot; aired March 19, 2026</p><p>BUILD &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> 10-step optimization pass — memory repair, model selection, security basics — then two production systems (video pipeline, conversational CRM).</p><p><a href="https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-finally-works-complete-walkthrough/id1593424985?i=1000756206071">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-finally-works-complete-walkthrough/id1593424985?i=1000756206071</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01KM3QFN84KH5N0KBCKX9NN91D.mp3" length="46573715" type="audio/mpeg"/>
+<itunes:duration>3881</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>65 · The AI Daily Brief · 2026-03-08 · 10 OpenClaw Lessons for Building Agent Teams</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</link>
+<guid isPermaLink="false">aios-t1-65</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore (host, solo) · aired March 8, 2026
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: Ten patterns from the first month of real OpenClaw deployments, including simple file-based orchestration and the need to design explicit memory systems rather than hoping the agent remembers.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore (host, solo) · aired March 8, 2026
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: Ten patterns from the first month of real OpenClaw deployments, including simple file-based orchestration and the need to design explicit memory systems rather than hoping the agent remembers.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore (host, solo) &middot; aired March 8, 2026</p><p>Method &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Ten patterns from the first month of real OpenClaw deployments, including simple file-based orchestration and the need to design explicit memory systems rather than hoping the agent remembers.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/116572598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2F419535977-44100-2-0ed2b983d24b9.mp3" length="27849455" type="audio/mpeg"/>
+<itunes:duration>00:29:00</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>66 · Lex Fridman Podcast · 2026-02-11 · #491 – OpenClaw: The Viral AI Agent that Broke the Internet</title>
+<link>https://lexfridman.com/peter-steinberger/</link>
+<guid isPermaLink="false">aios-t1-66</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<description>Lex Fridman Podcast · Peter Steinberger (creator of OpenClaw) · aired February 11, 2026
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: Long-form origin/architecture interview with the creator — design intent behind giving one agent full machine access.
+
+Original episode: https://lexfridman.com/peter-steinberger/</description>
+<itunes:summary>Lex Fridman Podcast · Peter Steinberger (creator of OpenClaw) · aired February 11, 2026
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: Long-form origin/architecture interview with the creator — design intent behind giving one agent full machine access.
+
+Original episode: https://lexfridman.com/peter-steinberger/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Lex Fridman Podcast</strong> &middot; Peter Steinberger (creator of OpenClaw) &middot; aired February 11, 2026</p><p>Method &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Long-form origin/architecture interview with the creator — design intent behind giving one agent full machine access.</p><p><a href="https://lexfridman.com/peter-steinberger/">Open the original episode &rarr;</a><br/>https://lexfridman.com/peter-steinberger/</p>]]></content:encoded>
+<enclosure url="https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_peter_steinberger.mp3" length="5242880" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>67 · Lenny's Podcast · Claire Vo (founder, ChatPRD; host, How I AI) · From skeptic to true believer: How OpenClaw changed my life</title>
+<link>2026-03-29</link>
+<guid isPermaLink="false">aios-t1-67</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<description>Lenny's Podcast · Claire Vo · aired Claire Vo (founder, ChatPRD; host, How I AI)
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: YES
+
+Original episode: 2026-03-29</description>
+<itunes:summary>Lenny's Podcast · Claire Vo · aired Claire Vo (founder, ChatPRD; host, How I AI)
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: YES
+
+Original episode: 2026-03-29</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Lenny&#x27;s Podcast</strong> &middot; Claire Vo &middot; aired Claire Vo (founder, ChatPRD; host, How I AI)</p><p>Method &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> YES</p><p><a href="2026-03-29">Open the original episode &rarr;</a><br/>2026-03-29</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/192012054/43f7fc06ec41bb364e4e6fc4aa8bf033.mp3" length="102323373" type="audio/mpeg"/>
+<itunes:duration>6395</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>68 · How I AI · Jesse Genet (entrepreneur, homeschooling parent) · 5 OpenClaw agents run my home, finances, and code</title>
+<link>2026-02-25</link>
+<guid isPermaLink="false">aios-t1-68</guid>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Jesse Genet · aired Jesse Genet (entrepreneur, homeschooling parent)
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: YES
+
+Original episode: 2026-02-25</description>
+<itunes:summary>How I AI · Jesse Genet · aired Jesse Genet (entrepreneur, homeschooling parent)
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: YES
+
+Original episode: 2026-02-25</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Jesse Genet &middot; aired Jesse Genet (entrepreneur, homeschooling parent)</p><p>Method &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> YES</p><p><a href="2026-02-25">Open the original episode &rarr;</a><br/>2026-02-25</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/115952214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418896511-44100-2-4cc405a9ab7e7.mp3" length="47489357" type="audio/mpeg"/>
+<itunes:duration>00:49:28</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>69 · The Cognitive Revolution · 2026-03-08 · Try this at Home: Jesse Genet on OpenClaw Agents for Homeschool &amp; How to Live Your Best AI Life</title>
+<link>https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</link>
+<guid isPermaLink="false">aios-t1-69</guid>
+<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Nathan Labenz interview · aired March 8, 2026
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: A non-technical operator running a team of agents with real onboarding, roles and guardrails — the delegation mechanics, from the Cognitive Revolution side.
+
+Original episode: https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</description>
+<itunes:summary>The Cognitive Revolution · Nathan Labenz interview · aired March 8, 2026
+Method · MEDIUM priority · T1 Openclaw
+
+Why it's here: A non-technical operator running a team of agents with real onboarding, roles and guardrails — the delegation mechanics, from the Cognitive Revolution side.
+
+Original episode: https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Nathan Labenz interview &middot; aired March 8, 2026</p><p>Method &middot; MEDIUM priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> A non-technical operator running a team of agents with real onboarding, roles and guardrails — the delegation mechanics, from the Cognitive Revolution side.</p><p><a href="https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP2684733094.mp3?updated=1772993170" length="118288790" type="audio/mpeg"/>
+<itunes:duration>7564</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>

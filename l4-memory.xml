@@ -4,9 +4,9 @@
 <title>AI OS · L4 Memory</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>What persists across sessions: decisions, lessons, observed preferences. Layer 4 of a personal Agent OS — 5 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>What persists across sessions: decisions, lessons, observed preferences. 3 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>What persists across sessions: decisions, lessons, observed preferences. Layer 4 of a personal Agent OS — 5 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>What persists across sessions: decisions, lessons, observed preferences. 3 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -14,33 +14,10 @@
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l4-memory.jpg"/>
 <image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l4-memory.jpg</url><title>AI OS · L4 Memory</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>41 · How I AI · 2026-02-25 · 5 OpenClaw agents run my home, finances, and code</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</link>
-<guid isPermaLink="false">aios-l4-41</guid>
-<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
-<description>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
-BUILD · HIGH priority · L4 Memory
-
-Why it's here: Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</description>
-<itunes:summary>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
-BUILD · HIGH priority · L4 Memory
-
-Why it's here: Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Jesse Genet (entrepreneur and homeschooling parent) &middot; aired February 25, 2026</p><p>BUILD &middot; HIGH priority &middot; L4 Memory</p><p><strong>Why it's here:</strong> Five scoped agents, each with its own SOUL.md persona file on its own Mac Mini, layered over an Obsidian second brain — plus the &quot;decision file&quot; trick for persisting what was decided and why, and treating agent onboarding like employee onboarding.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/115952214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418896511-44100-2-4cc405a9ab7e7.mp3" length="47489357" type="audio/mpeg"/>
-<itunes:duration>00:49:28</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
-</item>
-<item>
-<title>42 · How I AI · 2026-03-30 · How to turn Claude Code into your personal life operating system</title>
+<title>25 · How I AI · 2026-03-30 · How to turn Claude Code into your personal life operating system</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-turn-Claude-Code-into-your-personal-life-operating-system--Hilary-Gridley-e3gvpjo</link>
-<guid isPermaLink="false">aios-l4-42</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l4-25</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Hilary Gridley (entrepreneur; ex-Head of Core Product, Whoop) · aired March 30, 2026
 BUILD · HIGH priority · L4 Memory
 
@@ -57,13 +34,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/117482552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F420895762-44100-2-1836e69f20dff.mp3" length="49657729" type="audio/mpeg"/>
 <itunes:duration>00:51:43</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>43 · The Cognitive Revolution · 2026-08-14 · Lindy Teammate: Flo Crivello on Multiplayer Agents, Memory &amp; Why He'd Ban the Chinese Models He Uses</title>
+<title>26 · The Cognitive Revolution · 2026-08-14 · Lindy Teammate: Flo Crivello on Multiplayer Agents, Memory &amp; Why He'd Ban the Chinese Models He Uses</title>
 <link>https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello-on-multiplayer-agents-memory-why-he-d-ban-the-chinese-models-he-uses/</link>
-<guid isPermaLink="false">aios-l4-43</guid>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l4-26</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Flo Crivello, CEO of Lindy · aired August 14, 2026
 Method · HIGH priority · L4 Memory
 
@@ -80,13 +57,13 @@ Original episode: https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP7395722514.mp3" length="121476116" type="audio/mpeg"/>
 <itunes:duration>7613</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>44 · Master Claude Chat, Cowork, Code · 2026-05-15 · 15. Managing Context Rot (Thinking Like an Ops Team)</title>
+<title>27 · Master Claude Chat, Cowork, Code · 2026-05-15 · 15. Managing Context Rot (Thinking Like an Ops Team)</title>
 <link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--Managing-Context-Rot-Thinking-Like-an-Ops-Team-e3jd233</link>
-<guid isPermaLink="false">aios-l4-44</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l4-27</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · aired May 15, 2026
 Method · HIGH priority · L4 Memory
 
@@ -102,29 +79,6 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--M
 <content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired May 15, 2026</p><p>Method &middot; HIGH priority &middot; L4 Memory</p><p><strong>Why it's here:</strong> Context rot as the silent failure mode of long sessions: old decisions linger, rejected ideas stay buried in the thread, and outdated assumptions keep steering the model — the exact decay your supersede-and-archive rules exist to prevent.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--Managing-Context-Rot-Thinking-Like-an-Ops-Team-e3jd233">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--Managing-Context-Rot-Thinking-Like-an-Ops-Team-e3jd233</p>]]></content:encoded>
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/120014371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2Fb49584eb-42e6-3881-db80-e2ff2ce6f1c6.m4a" length="105825685" type="audio/x-m4a"/>
 <itunes:duration>00:54:48</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>2</itunes:episode>
-</item>
-<item>
-<title>45 · The AI Daily Brief · 2026-03-08 · 10 OpenClaw Lessons for Building Agent Teams</title>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</link>
-<guid isPermaLink="false">aios-l4-45</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
-<description>The AI Daily Brief · Nathaniel Whittemore (host, solo) · aired March 8, 2026
-Method · MEDIUM priority · L4 Memory
-
-Why it's here: Ten patterns from the first month of real OpenClaw deployments, including simple file-based orchestration and the need to design explicit memory systems rather than hoping the agent remembers.
-
-Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</description>
-<itunes:summary>The AI Daily Brief · Nathaniel Whittemore (host, solo) · aired March 8, 2026
-Method · MEDIUM priority · L4 Memory
-
-Why it's here: Ten patterns from the first month of real OpenClaw deployments, including simple file-based orchestration and the need to design explicit memory systems rather than hoping the agent remembers.
-
-Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore (host, solo) &middot; aired March 8, 2026</p><p>Method &middot; MEDIUM priority &middot; L4 Memory</p><p><strong>Why it's here:</strong> Ten patterns from the first month of real OpenClaw deployments, including simple file-based orchestration and the need to design explicit memory systems rather than hoping the agent remembers.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/116572598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2F419535977-44100-2-0ed2b983d24b9.mp3" length="27849455" type="audio/mpeg"/>
-<itunes:duration>00:29:00</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>

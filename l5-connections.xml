@@ -4,9 +4,9 @@
 <title>AI OS · L5 Connections</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Agents acting in real systems — email, calendar, CRM — and how to scope permissions. Layer 5 of a personal Agent OS — 12 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Agents acting in real systems — email, calendar, CRM — and how to scope permissions. 10 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Agents acting in real systems — email, calendar, CRM — and how to scope permissions. Layer 5 of a personal Agent OS — 12 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Agents acting in real systems — email, calendar, CRM — and how to scope permissions. 10 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -14,9 +14,9 @@
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l5-connections.jpg"/>
 <image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l5-connections.jpg</url><title>AI OS · L5 Connections</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>46 · How I AI · 2026-02-02 · How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis</title>
+<title>28 · How I AI · 2026-02-02 · How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41</link>
-<guid isPermaLink="false">aios-l5-46</guid>
+<guid isPermaLink="false">aios-l5-28</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Reid Robinson (Principal AI Product Strategist, Zapier) · aired February 2, 2026
 BUILD · HIGH priority · L5 Connections
@@ -34,36 +34,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114599489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F417103228-44100-2-c19ea01a84e8b.mp3" length="38852230" type="audio/mpeg"/>
 <itunes:duration>00:40:28</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>47 · How I AI · 2026-01-28 · I gave Clawdbot (aka Moltbot) access to my computer, calendar, and emails: Here's what happened</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</link>
-<guid isPermaLink="false">aios-l5-47</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<description>How I AI · Claire Vo (host, solo) · aired January 28, 2026
-BUILD · HIGH priority · L5 Connections
-
-Why it's here: The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</description>
-<itunes:summary>How I AI · Claire Vo (host, solo) · aired January 28, 2026
-BUILD · HIGH priority · L5 Connections
-
-Why it's here: The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo) &middot; aired January 28, 2026</p><p>BUILD &middot; HIGH priority &middot; L5 Connections</p><p><strong>Why it's here:</strong> The permissioning episode: zero-to-one install on a real machine, the security warnings not to ignore, and how she reasoned about scope, identity, model choice and cost before handing an agent her messaging apps and files.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114652427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F416973257-44100-2-5e9f3b248cbc6.mp3" length="53557288" type="audio/mpeg"/>
-<itunes:duration>00:55:47</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
-</item>
-<item>
-<title>48 · How I AI · 2026-04-08 · I built a custom Slack inbox. It was easier than you'd think.</title>
+<title>29 · How I AI · 2026-04-08 · I built a custom Slack inbox. It was easier than you'd think.</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2</link>
-<guid isPermaLink="false">aios-l5-48</guid>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-29</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Yash Tekriwal (Head of Education, Clay) · aired April 8, 2026
 BUILD · HIGH priority · L5 Connections
 
@@ -80,13 +57,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-bu
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/117815138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-7%2F421619264-44100-2-d0bd204a7d251.mp3" length="42829948" type="audio/mpeg"/>
 <itunes:duration>00:44:36</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>49 · How I AI · 2025-12-29 · How Webflow's CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption</title>
+<title>30 · How I AI · 2025-12-29 · How Webflow's CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Webflows-CPO-built-an-AI-chief-of-staff-to-manage-her-calendar--prep-for-meetings--and-drive-AI-adoption--Rachel-Wolan-e3com7s</link>
-<guid isPermaLink="false">aios-l5-49</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-30</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Rachel Wolan (Chief Product Officer, Webflow) · aired December 29, 2025
 BUILD · HIGH priority · L5 Connections
 
@@ -103,13 +80,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/113055420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-23%2F414926038-44100-2-97725bef7bbcb.mp3" length="41983581" type="audio/mpeg"/>
 <itunes:duration>00:43:43</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>50 · How I AI · 2025-12-15 · How Zapier's EA built an army of AI interns to automate meeting prep, strengthen team culture, and scale internal alignment</title>
+<title>31 · How I AI · 2025-12-15 · How Zapier's EA built an army of AI interns to automate meeting prep, strengthen team culture, and scale internal alignment</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Zapiers-EA-built-an-army-of-AI-interns-to-automate-meeting-prep--strengthen-team-culture--and-scale-internal-alignment--Cortney-Hickey-e3c2g6o</link>
-<guid isPermaLink="false">aios-l5-50</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-31</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · Cortney Hickey (Executive Assistant to the CEO, Zapier) · aired December 15, 2025
 BUILD · HIGH priority · L5 Connections
 
@@ -126,36 +103,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/112328344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-8%2F414009104-44100-2-5362744862464.mp3" length="42764328" type="audio/mpeg"/>
 <itunes:duration>00:44:32</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
-</item>
-<item>
-<title>51 · Lenny's Podcast · 2026-03-29 · From skeptic to true believer: How OpenClaw changed my life</title>
-<link>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</link>
-<guid isPermaLink="false">aios-l5-51</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-<description>Lenny's Podcast · Claire Vo (founder, ChatPRD; host of How I AI) · aired March 29, 2026
-BUILD · HIGH priority · L5 Connections
-
-Why it's here: Step-by-step install and setup of nine agents across spare Mac Minis and old laptops, the &quot;don't install it on your main computer&quot; rule, why specialised agents beat one generalist, and the security risks — after it deleted her family calendar on attempt one.
-
-Original episode: https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</description>
-<itunes:summary>Lenny's Podcast · Claire Vo (founder, ChatPRD; host of How I AI) · aired March 29, 2026
-BUILD · HIGH priority · L5 Connections
-
-Why it's here: Step-by-step install and setup of nine agents across spare Mac Minis and old laptops, the &quot;don't install it on your main computer&quot; rule, why specialised agents beat one generalist, and the security risks — after it deleted her family calendar on attempt one.
-
-Original episode: https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Lenny&#x27;s Podcast</strong> &middot; Claire Vo (founder, ChatPRD; host of How I AI) &middot; aired March 29, 2026</p><p>BUILD &middot; HIGH priority &middot; L5 Connections</p><p><strong>Why it's here:</strong> Step-by-step install and setup of nine agents across spare Mac Minis and old laptops, the &quot;don&#x27;t install it on your main computer&quot; rule, why specialised agents beat one generalist, and the security risks — after it deleted her family calendar on attempt one.</p><p><a href="https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo">Open the original episode &rarr;</a><br/>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</p>]]></content:encoded>
-<enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/192012054/43f7fc06ec41bb364e4e6fc4aa8bf033.mp3" length="102323373" type="audio/mpeg"/>
-<itunes:duration>6395</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
 <itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>52 · The Cognitive Revolution · 2025-03-29 · Shortwave Rides the Tidal Wave: Inbox Agents, Hyper-Growth &amp; Hiring AI Managers, with CEO Andrew Lee</title>
+<title>32 · The Cognitive Revolution · 2025-03-29 · Shortwave Rides the Tidal Wave: Inbox Agents, Hyper-Growth &amp; Hiring AI Managers, with CEO Andrew Lee</title>
 <link>https://www.cognitiverevolution.ai/shortwave-rides-the-tidal-wave-inbox-agents-hyper-growth-hiring-ai-managers-with-ceo-andrew-lee/</link>
-<guid isPermaLink="false">aios-l5-52</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-32</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · CEO Andrew Lee · aired March 29, 2025
 Method · HIGH priority · L5 Connections
 
@@ -175,10 +129,10 @@ Original episode: https://www.cognitiverevolution.ai/shortwave-rides-the-tidal-w
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>53 · The Cognitive Revolution · 2025-10-22 · Always Bet on the Models: How Tasklet Puts the Agency in Agents, with CEO Andrew Lee</title>
+<title>33 · The Cognitive Revolution · 2025-10-22 · Always Bet on the Models: How Tasklet Puts the Agency in Agents, with CEO Andrew Lee</title>
 <link>https://www.cognitiverevolution.ai/always-bet-on-the-models-how-tasklet-puts-the-agency-in-agents-with-ceo-andrew-lee/</link>
-<guid isPermaLink="false">aios-l5-53</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-33</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · CEO Andrew Lee · aired October 22, 2025
 Method · HIGH priority · L5 Connections
 
@@ -198,10 +152,10 @@ Original episode: https://www.cognitiverevolution.ai/always-bet-on-the-models-ho
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>54 · How I AI · 2026-01-05 · Zapier's CEO shares his personal AI stack</title>
+<title>34 · How I AI · 2026-01-05 · Zapier's CEO shares his personal AI stack</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Zapiers-CEO-shares-his-personal-AI-stack--Wade-Foster-e3cv2n5</link>
-<guid isPermaLink="false">aios-l5-54</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-34</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Wade Foster (Zapier) · aired January 5, 2026
 BUILD · MEDIUM priority · L5 Connections
 
@@ -221,10 +175,10 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Zapi
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>55 · How I AI · 2025-06-02 · The AI playbook that saved ElevenLabs $100k+</title>
+<title>35 · How I AI · 2025-06-02 · The AI playbook that saved ElevenLabs $100k+</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-exact-AI-playbook-using-MCPs--custom-GPTs--Granola-that-saved-ElevenLabs-100k-and-helps-them-ship-daily--Luke-Harries-Head-of-Growth-e33jekk</link>
-<guid isPermaLink="false">aios-l5-55</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-35</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · Luke Harries (ElevenLabs) · aired June 2, 2025
 BUILD · MEDIUM priority · L5 Connections
 
@@ -244,10 +198,10 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>56 · The Cognitive Revolution · 2026-05-15 · Three Kinds of Software Survive: Tasklet's Andrew Lee on Competing to be a Horizontal Platform</title>
+<title>36 · The Cognitive Revolution · 2026-05-15 · Three Kinds of Software Survive: Tasklet's Andrew Lee on Competing to be a Horizontal Platform</title>
 <link>https://www.cognitiverevolution.ai/three-kinds-of-software-survive-tasklet-s-andrew-lee-on-competing-to-be-a-horizontal-platform/</link>
-<guid isPermaLink="false">aios-l5-56</guid>
-<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-36</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired May 15, 2026
 Method · MEDIUM priority · L5 Connections
 
@@ -267,10 +221,10 @@ Original episode: https://www.cognitiverevolution.ai/three-kinds-of-software-sur
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>57 · The Cognitive Revolution · 2025-10-05 · The Customer Service Revolution: Building Fin, with Eoghan McCabe &amp; Fergal Reid of Intercom</title>
+<title>37 · The Cognitive Revolution · 2025-10-05 · The Customer Service Revolution: Building Fin, with Eoghan McCabe &amp; Fergal Reid of Intercom</title>
 <link>https://www.cognitiverevolution.ai/the-customer-service-revolution-building-fin-with-eoghan-mccabe-fergal-reid-of-intercom/</link>
-<guid isPermaLink="false">aios-l5-57</guid>
-<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l5-37</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Eoghan McCabe &amp; Fergal Reid of Intercom · aired October 5, 2025
 Method · MEDIUM priority · L5 Connections
 

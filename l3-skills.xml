@@ -4,9 +4,9 @@
 <title>AI OS · L3 Skills</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Your repeatable work written as instruction files the agent invokes on its own. Layer 3 of a personal Agent OS — 16 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Your repeatable work written as instruction files the agent invokes on its own. 11 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Your repeatable work written as instruction files the agent invokes on its own. Layer 3 of a personal Agent OS — 16 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Your repeatable work written as instruction files the agent invokes on its own. 11 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -14,79 +14,10 @@
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l3-skills.jpg"/>
 <image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l3-skills.jpg</url><title>AI OS · L3 Skills</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>25 · How I AI · 2025-10-22 · Claude Skills explained: How to create reusable AI workflows</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</link>
-<guid isPermaLink="false">aios-l3-25</guid>
-<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
-<description>How I AI · Claire Vo (host, solo build) · aired October 22, 2025
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: Builds skills from scratch and dissects the structure — metadata, instructions, linked files — how they differ from Projects and custom GPTs, and how to validate them with folder references. Worked examples: changelog → newsletter, demo notes → follow-up email.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</description>
-<itunes:summary>How I AI · Claire Vo (host, solo build) · aired October 22, 2025
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: Builds skills from scratch and dissects the structure — metadata, instructions, linked files — how they differ from Projects and custom GPTs, and how to validate them with folder references. Worked examples: changelog → newsletter, demo notes → follow-up email.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired October 22, 2025</p><p>BUILD &middot; HIGH priority &middot; L3 Skills</p><p><strong>Why it's here:</strong> Builds skills from scratch and dissects the structure — metadata, instructions, linked files — how they differ from Projects and custom GPTs, and how to validate them with folder references. Worked examples: changelog → newsletter, demo notes → follow-up email.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Skills-explained-How-to-create-reusable-AI-workflows-e39rv62</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/110017154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F409723713-44100-2-ef0ea6ade7352.mp3" length="26292975" type="audio/mpeg"/>
-<itunes:duration>00:27:23</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>16</itunes:episode>
-</item>
-<item>
-<title>26 · The Startup Ideas Podcast · 2025-10-27 · Claude Skills: The NEW Way to Build AI Agents (Live Tutorial)</title>
-<link>https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</link>
-<guid isPermaLink="false">aios-l3-26</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<description>The Startup Ideas Podcast · Amir (guest builder; feed gives first name only) with Greg Isenberg · aired October 27, 2025
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: Live builds three skills end to end (UTM generator, A/B test idea generator, marketing-analytics analyzer, then a tweet→newsletter converter) and explains context rot as the reason to move work out of chat and into skill files.
-
-Original episode: https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</description>
-<itunes:summary>The Startup Ideas Podcast · Amir (guest builder; feed gives first name only) with Greg Isenberg · aired October 27, 2025
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: Live builds three skills end to end (UTM generator, A/B test idea generator, marketing-analytics analyzer, then a tweet→newsletter converter) and explains context rot as the reason to move work out of chat and into skill files.
-
-Original episode: https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Amir (guest builder; feed gives first name only) with Greg Isenberg &middot; aired October 27, 2025</p><p>BUILD &middot; HIGH priority &middot; L3 Skills</p><p><strong>Why it's here:</strong> Live builds three skills end to end (UTM generator, A/B test idea generator, marketing-analytics analyzer, then a tweet→newsletter converter) and explains context rot as the reason to move work out of chat and into skill files.</p><p><a href="https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/claude-skills-the-new-way-to-build-ai-agents-live-tutorial/id1593424985?i=1000733743194</p>]]></content:encoded>
-<enclosure url="https://episode.flightcast.com/01K8KDMSF0X9NHSFP4K7Y7S3XF.mp3" length="23824928" type="audio/mpeg"/>
-<itunes:duration>1985</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>15</itunes:episode>
-</item>
-<item>
-<title>27 · The Startup Ideas Podcast · 2025-12-24 · Set Up Claude Skills in 21 Mins (for Non-Technical People)</title>
-<link>https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</link>
-<guid isPermaLink="false">aios-l3-27</guid>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
-<description>The Startup Ideas Podcast · Greg Isenberg (host, solo) · aired December 24, 2025
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: The genuinely non-technical version: where to enable Skills, the &quot;create a skill together&quot; flow, building a conversion-focused copy-review skill, installing it, testing it on real assets, then a 10-step process for iterating the skill over time.
-
-Original episode: https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</description>
-<itunes:summary>The Startup Ideas Podcast · Greg Isenberg (host, solo) · aired December 24, 2025
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: The genuinely non-technical version: where to enable Skills, the &quot;create a skill together&quot; flow, building a conversion-focused copy-review skill, installing it, testing it on real assets, then a 10-step process for iterating the skill over time.
-
-Original episode: https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Greg Isenberg (host, solo) &middot; aired December 24, 2025</p><p>BUILD &middot; HIGH priority &middot; L3 Skills</p><p><strong>Why it's here:</strong> The genuinely non-technical version: where to enable Skills, the &quot;create a skill together&quot; flow, building a conversion-focused copy-review skill, installing it, testing it on real assets, then a 10-step process for iterating the skill over time.</p><p><a href="https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/set-up-claude-skills-in-21-mins-for-non-technical-people/id1593424985?i=1000742639469</p>]]></content:encoded>
-<enclosure url="https://episode.flightcast.com/01KD93XR4FW16XXRS93E4H51HX.mp3" length="14384797" type="audio/mpeg"/>
-<itunes:duration>1198</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>14</itunes:episode>
-</item>
-<item>
-<title>28 · How I AI · 2026-07-08 · What a harness is and how to build one with Claude Agent SDK</title>
+<title>14 · How I AI · 2026-07-08 · What a harness is and how to build one with Claude Agent SDK</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/What-a-harness-is-and-how-to-build-one-with-Claude-Agent-SDK-e3lnv0k</link>
-<guid isPermaLink="false">aios-l3-28</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-14</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired July 8, 2026
 BUILD · HIGH priority · L3 Skills
 
@@ -103,13 +34,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/What
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/122468820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427472067-44100-2-b6d14be11b2df.mp3" length="23613857" type="audio/mpeg"/>
 <itunes:duration>00:24:35</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>13</itunes:episode>
+<itunes:episode>11</itunes:episode>
 </item>
 <item>
-<title>29 · Build With AI · 2026-04-01 · # 154 I Replaced an 8-Person Marketing Team With Claude Code (full tutorial)</title>
+<title>15 · Build With AI · 2026-04-01 · # 154 I Replaced an 8-Person Marketing Team With Claude Code (full tutorial)</title>
 <link>https://podcasts.apple.com/us/podcast/154-i-replaced-an-8-person-marketing-team-with/id1689819329?i=1000758592576</link>
-<guid isPermaLink="false">aios-l3-29</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-15</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>Build With AI · James Dickerson (&quot;The Boring Marketer,&quot; growth consultant) with Corey Ganim · aired April 1, 2026
 BUILD · HIGH priority · L3 Skills
 
@@ -126,13 +57,13 @@ Original episode: https://podcasts.apple.com/us/podcast/154-i-replaced-an-8-pers
 <enclosure url="https://media.transistor.fm/9de157be/da3e90cf.mp3" length="103696062" type="audio/mpeg"/>
 <itunes:duration>4321</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>30 · Practical AI · 2025-12-17 · Beyond chatbots: agents that tackle your SOPs</title>
+<title>16 · Practical AI · 2025-12-17 · Beyond chatbots: agents that tackle your SOPs</title>
 <link>https://practicalai.show/341</link>
-<guid isPermaLink="false">aios-l3-30</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-16</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>Practical AI · Jason Beutler (RoboSource) · aired December 17, 2025
 BUILD · HIGH priority · L3 Skills
 
@@ -149,36 +80,13 @@ Original episode: https://practicalai.show/341</itunes:summary>
 <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/49afc59f/0704690c.mp3" length="44217343" type="audio/mpeg"/>
 <itunes:duration>2753</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>31 · How I AI · 2026-08-10 · Claude Code for normal people: skills, voice mode, and how to collaborate with AI</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci</link>
-<guid isPermaLink="false">aios-l3-31</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
-<description>How I AI · Grace Clarke, AI educator · aired August 10, 2026
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: Grace Clarke taught herself Claude Code as a non-engineer and now runs her service business on tools she built with it — a pipeline operator, a proposal maker and a Gmail agent — plus how she uses voice mode to work with it.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci</description>
-<itunes:summary>How I AI · Grace Clarke, AI educator · aired August 10, 2026
-BUILD · HIGH priority · L3 Skills
-
-Why it's here: Grace Clarke taught herself Claude Code as a non-engineer and now runs her service business on tools she built with it — a pipeline operator, a proposal maker and a Gmail agent — plus how she uses voice mode to work with it.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Grace Clarke, AI educator &middot; aired August 10, 2026</p><p>BUILD &middot; HIGH priority &middot; L3 Skills</p><p><strong>Why it's here:</strong> Grace Clarke taught herself Claude Code as a non-engineer and now runs her service business on tools she built with it — a pipeline operator, a proposal maker and a Gmail agent — plus how she uses voice mode to work with it.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/123920210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-7%2F429434781-44100-2-277c703cc484c.mp3" length="41417664" type="audio/mpeg"/>
-<itunes:duration>00:43:08</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
-</item>
-<item>
-<title>32 · The AI Daily Brief · 2026-04-02 · Agent Skills Masterclass</title>
+<title>17 · The AI Daily Brief · 2026-04-02 · Agent Skills Masterclass</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/Agent-Skills-Masterclass-e3hasv7</link>
-<guid isPermaLink="false">aios-l3-32</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-17</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>The AI Daily Brief · Nufar Gaspar (Agent OS creator) with Nathaniel Whittemore · aired April 2, 2026
 Method · HIGH priority · L3 Skills
 
@@ -195,13 +103,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agent-Ski
 <enclosure url="https://anchor.fm/s/f7cac464/podcast/play/117846439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-2%2F421263700-44100-2-9b311e0101063.mp3" length="31698859" type="audio/mpeg"/>
 <itunes:duration>00:33:01</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>33 · The Startup Ideas Podcast · 2026-08-19 · You need to be skillsmaxxing (10x your Claude/Codex)</title>
+<title>18 · The Startup Ideas Podcast · 2026-08-19 · You need to be skillsmaxxing (10x your Claude/Codex)</title>
 <link>https://podcasts.apple.com/us/podcast/you-need-to-be-skillsmaxxing-10x-your-claude-codex/id1593424985?i=1000784410060</link>
-<guid isPermaLink="false">aios-l3-33</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-18</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Remy (AI with Remy) · aired August 19, 2026
 Method · HIGH priority · L3 Skills
 
@@ -218,13 +126,13 @@ Original episode: https://podcasts.apple.com/us/podcast/you-need-to-be-skillsmax
 <enclosure url="https://episode.flightcast.com/01M0DR8D67MGV0MW7RZMNNM818.mp3" length="23359112" type="audio/mpeg"/>
 <itunes:duration>1947</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>34 · The Cognitive Revolution · 2026-04-08 · Calm AI for Crazy Days: Inside Granola's Design Philosophy, with co-founder Sam Stephenson</title>
+<title>19 · The Cognitive Revolution · 2026-04-08 · Calm AI for Crazy Days: Inside Granola's Design Philosophy, with co-founder Sam Stephenson</title>
 <link>https://www.cognitiverevolution.ai/calm-ai-for-crazy-days-inside-granola-s-design-philosophy-with-co-founder-sam-stephenson/</link>
-<guid isPermaLink="false">aios-l3-34</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-19</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · co-founder Sam Stephenson · aired April 8, 2026
 Method · HIGH priority · L3 Skills
 
@@ -241,13 +149,13 @@ Original episode: https://www.cognitiverevolution.ai/calm-ai-for-crazy-days-insi
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP1426446848.mp3?updated=1775679601" length="87771526" type="audio/mpeg"/>
 <itunes:duration>5656</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>35 · The Cognitive Revolution · 2026-01-14 · Snowflake VP of AI Baris Gultekin on Bringing AI to Data, Agent Design, Text-2-SQL, RAG &amp; More</title>
+<title>20 · The Cognitive Revolution · 2026-01-14 · Snowflake VP of AI Baris Gultekin on Bringing AI to Data, Agent Design, Text-2-SQL, RAG &amp; More</title>
 <link>https://www.cognitiverevolution.ai/bringing-ai-to-data-agent-design-text-2-sql-rag-more-w-snowflake-vp-of-ai-baris-gultekin/</link>
-<guid isPermaLink="false">aios-l3-35</guid>
-<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-20</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired January 14, 2026
 Method · HIGH priority · L3 Skills
 
@@ -264,13 +172,13 @@ Original episode: https://www.cognitiverevolution.ai/bringing-ai-to-data-agent-d
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP3836858561.mp3?updated=1768403237" length="92625287" type="audio/mpeg"/>
 <itunes:duration>5960</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>36 · Build With AI · 2026-03-18 · # 150 I Built A $100K Research Assistant With Claude Code (for FREE)</title>
+<title>21 · Build With AI · 2026-03-18 · # 150 I Built A $100K Research Assistant With Claude Code (for FREE)</title>
 <link>https://podcasts.apple.com/us/podcast/150-i-built-a-%24100k-research-assistant-with-claude/id1689819329?i=1000755902942</link>
-<guid isPermaLink="false">aios-l3-36</guid>
-<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-21</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>Build With AI · Adam Sandler (Viable Edge) with Corey Ganim · aired March 18, 2026
 BUILD · MEDIUM priority · L3 Skills
 
@@ -287,13 +195,13 @@ Original episode: https://podcasts.apple.com/us/podcast/150-i-built-a-%24100k-re
 <enclosure url="https://media.transistor.fm/7721614a/7d348b24.mp3" length="77241746" type="audio/mpeg"/>
 <itunes:duration>3219</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>37 · How I AI · 2026-08-17 · How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder</title>
+<title>22 · How I AI · 2026-08-17 · How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-a-solo-founder-used-Codex-and-ChatGPT-to-launch-a-fashion-brand-without-engineers--Yana-Welinder-e3nc7u2</link>
-<guid isPermaLink="false">aios-l3-37</guid>
-<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-22</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Yana Welinder, founder of Yana Bana · aired August 17, 2026
 BUILD · MEDIUM priority · L3 Skills
 
@@ -310,36 +218,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/124181890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429853406-44100-2-1164e7f5d191d.mp3" length="31560514" type="audio/mpeg"/>
 <itunes:duration>00:32:52</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
-</item>
-<item>
-<title>38 · Master Claude Chat, Cowork, Code · 2026-04-19 · 13. Teaching Claude New Tricks (Encapsulating Knowledge with Agent Skills)</title>
-<link>https://podcasts.apple.com/us/podcast/13-teaching-claude-new-tricks-encapsulating-knowledge/id1882007947?i=1000762244870</link>
-<guid isPermaLink="false">aios-l3-38</guid>
-<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-<description>Master Claude Chat, Cowork, Code · Host (solo) · aired April 19, 2026
-Method · MEDIUM priority · L3 Skills
-
-Why it's here: Anatomy of the SKILL.md file itself — YAML frontmatter and, critically, how to write the trigger description so Claude invokes the right SOP without being told. Framed as turning existing company SOPs into executable workflows.
-
-Original episode: https://podcasts.apple.com/us/podcast/13-teaching-claude-new-tricks-encapsulating-knowledge/id1882007947?i=1000762244870</description>
-<itunes:summary>Master Claude Chat, Cowork, Code · Host (solo) · aired April 19, 2026
-Method · MEDIUM priority · L3 Skills
-
-Why it's here: Anatomy of the SKILL.md file itself — YAML frontmatter and, critically, how to write the trigger description so Claude invokes the right SOP without being told. Framed as turning existing company SOPs into executable workflows.
-
-Original episode: https://podcasts.apple.com/us/podcast/13-teaching-claude-new-tricks-encapsulating-knowledge/id1882007947?i=1000762244870</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; Host (solo) &middot; aired April 19, 2026</p><p>Method &middot; MEDIUM priority &middot; L3 Skills</p><p><strong>Why it's here:</strong> Anatomy of the SKILL.md file itself — YAML frontmatter and, critically, how to write the trigger description so Claude invokes the right SOP without being told. Framed as turning existing company SOPs into executable workflows.</p><p><a href="https://podcasts.apple.com/us/podcast/13-teaching-claude-new-tricks-encapsulating-knowledge/id1882007947?i=1000762244870">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/13-teaching-claude-new-tricks-encapsulating-knowledge/id1882007947?i=1000762244870</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/118687700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F91dde8b3-3268-3c93-cf51-db6cf8edf4aa.m4a" length="73261649" type="audio/x-m4a"/>
-<itunes:duration>00:37:56</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>39 · Latent Space · 2026-01-17 · Brex's AI Hail Mary</title>
+<title>23 · Latent Space · 2026-01-17 · Brex's AI Hail Mary</title>
 <link>https://www.latent.space/p/brexs-ai-hail-mary-with-cto-james</link>
-<guid isPermaLink="false">aios-l3-39</guid>
-<pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-23</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>Latent Space · James Reggio (Brex CTO) · aired January 17, 2026
 Method · MEDIUM priority · L3 Skills
 
@@ -359,10 +244,10 @@ Original episode: https://www.latent.space/p/brexs-ai-hail-mary-with-cto-james</
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>40 · The Cognitive Revolution · 2026-06-17 · Radically Better Reasoning: Elicit's Andreas Stuhlmüller &amp; Jungwon Byun on World Models for Research</title>
+<title>24 · The Cognitive Revolution · 2026-06-17 · Radically Better Reasoning: Elicit's Andreas Stuhlmüller &amp; Jungwon Byun on World Models for Research</title>
 <link>https://www.cognitiverevolution.ai/radically-better-reasoning-elicit-s-andreas-stuhlmuller-jungwon-byun-on-world-models-for-research/</link>
-<guid isPermaLink="false">aios-l3-40</guid>
-<pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-24</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired June 17, 2026
 Method · MEDIUM priority · L3 Skills
 

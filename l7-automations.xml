@@ -4,9 +4,9 @@
 <title>AI OS · L7 Automations</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. Layer 7 of a personal Agent OS — 13 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 7 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. Layer 7 of a personal Agent OS — 13 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 7 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -14,33 +14,10 @@
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations.jpg"/>
 <image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>66 · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
-<guid isPermaLink="false">aios-l7-66</guid>
-<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
-<description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
-BUILD · HIGH priority · L7 Automations
-
-Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</description>
-<itunes:summary>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
-BUILD · HIGH priority · L7 Automations
-
-Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired June 17, 2026</p><p>BUILD &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
-<itunes:duration>00:29:06</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>13</itunes:episode>
-</item>
-<item>
-<title>67 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
+<title>46 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</link>
-<guid isPermaLink="false">aios-l7-67</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-46</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired May 27, 2026
 BUILD · HIGH priority · L7 Automations
 
@@ -57,13 +34,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120583384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424944949-44100-2-5bf9048d90ac.mp3" length="29122977" type="audio/mpeg"/>
 <itunes:duration>00:30:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>68 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
+<title>47 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
 <link>https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</link>
-<guid isPermaLink="false">aios-l7-68</guid>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-47</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>Build With AI · Corey Ganim (host, solo) · aired April 14, 2026
 BUILD · HIGH priority · L7 Automations
 
@@ -80,13 +57,13 @@ Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines
 <enclosure url="https://media.transistor.fm/6972a421/b97f5f42.mp3" length="7460322" type="audio/mpeg"/>
 <itunes:duration>311</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>69 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
+<title>48 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
 <link>https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/How-We-Built-Claudie--Our-AI-Project-Manager-Full-Walkthrough-e3ekprc</link>
-<guid isPermaLink="false">aios-l7-69</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-48</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>AI &amp; I (Every) · Natalia Quintero (Head of AI Consulting, Every) with Dan Shipper · aired February 4, 2026
 BUILD · HIGH priority · L7 Automations
 
@@ -103,13 +80,13 @@ Original episode: https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gp
 <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/ec562607/3ce518e5.mp3" length="113461230" type="audio/mpeg"/>
 <itunes:duration>2835</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>70 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
+<title>49 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
 <link>https://podcasts.apple.com/us/podcast/8-the-ai-that-works-while-you-sleep-scheduled-tasks/id1882007947?i=1000753740190</link>
-<guid isPermaLink="false">aios-l7-70</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-49</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · Host (solo) · aired March 7, 2026
 Method · HIGH priority · L7 Automations
 
@@ -126,13 +103,13 @@ Original episode: https://podcasts.apple.com/us/podcast/8-the-ai-that-works-whil
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/116525964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-7%2F691fb70e-a7ef-e965-95f1-1cf3428790e8.m4a" length="87079379" type="audio/x-m4a"/>
 <itunes:duration>00:45:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>71 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
+<title>50 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
 <link>https://podcasts.apple.com/us/podcast/how-to-build-an-ai-native-company-in-2026/id1593424985?i=1000783021863</link>
-<guid isPermaLink="false">aios-l7-71</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-50</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Allie K. Miller · aired August 12, 2026
 Method · HIGH priority · L7 Automations
 
@@ -149,13 +126,13 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-build-an-ai-nativ
 <enclosure url="https://episode.flightcast.com/01KZVQSXWRWPAD2EK2Y8V5G8D5.mp3" length="34896353" type="audio/mpeg"/>
 <itunes:duration>2908</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>72 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
+<title>51 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
 <link>https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conversation-on-ai-agents-with-flo-crivello/</link>
-<guid isPermaLink="false">aios-l7-72</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-51</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Flo Crivello · aired June 21, 2025
 Method · HIGH priority · L7 Automations
 
@@ -172,59 +149,13 @@ Original episode: https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conver
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9047546818.mp3?updated=1751620788" length="78209321" type="audio/mpeg"/>
 <itunes:duration>5075</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>73 · The Cognitive Revolution · 2025-08-16 · Autonomous Organizations: Vending Bench &amp; Beyond, w/ Lukas Petersson &amp; Axel Backlund of Andon Labs</title>
-<link>https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/</link>
-<guid isPermaLink="false">aios-l7-73</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-<description>The Cognitive Revolution · Lukas Petersson &amp; Axel Backlund of Andon Labs · aired August 16, 2025
-Method · HIGH priority · L7 Automations
-
-Why it's here: Andon Labs on agents left to run a business unattended and exactly how they fail over long horizons — the empirical case for why Automations comes last.
-
-Original episode: https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/</description>
-<itunes:summary>The Cognitive Revolution · Lukas Petersson &amp; Axel Backlund of Andon Labs · aired August 16, 2025
-Method · HIGH priority · L7 Automations
-
-Why it's here: Andon Labs on agents left to run a business unattended and exactly how they fail over long horizons — the empirical case for why Automations comes last.
-
-Original episode: https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Lukas Petersson &amp; Axel Backlund of Andon Labs &middot; aired August 16, 2025</p><p>Method &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Andon Labs on agents left to run a business unattended and exactly how they fail over long horizons — the empirical case for why Automations comes last.</p><p><a href="https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/</p>]]></content:encoded>
-<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8503666800.mp3?updated=1755363378" length="101374431" type="audio/mpeg"/>
-<itunes:duration>6523</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
-</item>
-<item>
-<title>74 · Build With AI · 2026-05-27 · # 167 I built an AI agent finance department (full build)</title>
-<link>https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226</link>
-<guid isPermaLink="false">aios-l7-74</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
-<description>Build With AI · Mike Dion (senior corporate finance professional) with Corey Ganim · aired May 27, 2026
-BUILD · MEDIUM priority · L7 Automations
-
-Why it's here: No-code build of a CFO agent (&quot;Charles&quot;) that routes to FP&amp;A, Accounting and Treasury sub-agents, with the delegation logic shown live and a deliberate model split — reasoning model for the router, cheap models for specialists. Direct template for a back-office function.
-
-Original episode: https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226</description>
-<itunes:summary>Build With AI · Mike Dion (senior corporate finance professional) with Corey Ganim · aired May 27, 2026
-BUILD · MEDIUM priority · L7 Automations
-
-Why it's here: No-code build of a CFO agent (&quot;Charles&quot;) that routes to FP&amp;A, Accounting and Treasury sub-agents, with the delegation logic shown live and a deliberate model split — reasoning model for the router, cheap models for specialists. Direct template for a back-office function.
-
-Original episode: https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Build With AI</strong> &middot; Mike Dion (senior corporate finance professional) with Corey Ganim &middot; aired May 27, 2026</p><p>BUILD &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> No-code build of a CFO agent (&quot;Charles&quot;) that routes to FP&amp;A, Accounting and Treasury sub-agents, with the delegation logic shown live and a deliberate model split — reasoning model for the router, cheap models for specialists. Direct template for a back-office function.</p><p><a href="https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226</p>]]></content:encoded>
-<enclosure url="https://media.transistor.fm/e22d8c08/bfc06e09.mp3" length="83942874" type="audio/mpeg"/>
-<itunes:duration>2624</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
-</item>
-<item>
-<title>75 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
+<title>52 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
 <link>https://www.buzzsprout.com/2175779/episodes/19635247</link>
-<guid isPermaLink="false">aios-l7-75</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-52</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>Everyday AI · Jordan Wilson · aired August 12, 2026
 BUILD · MEDIUM priority · L7 Automations
 
@@ -240,75 +171,6 @@ Original episode: https://www.buzzsprout.com/2175779/episodes/19635247</itunes:s
 <content:encoded><![CDATA[<p><strong>Everyday AI</strong> &middot; Jordan Wilson &middot; aired August 12, 2026</p><p>BUILD &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Walks through where scheduled tasks actually live in Claude, Gemini and ChatGPT — the feature is hard to find in all three, and this is the stepping stone from prompting to an unattended desktop worker.</p><p><a href="https://www.buzzsprout.com/2175779/episodes/19635247">Open the original episode &rarr;</a><br/>https://www.buzzsprout.com/2175779/episodes/19635247</p>]]></content:encoded>
 <enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19635247-ep-839-scheduling-ai-how-to-easily-make-ai-work-for-you-in-claude-gemini-and-chatgpt.mp3" length="34212629" type="audio/mpeg"/>
 <itunes:duration>2846</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
-</item>
-<item>
-<title>76 · Practical AI · 2026-08-06 · Models, Harnesses, and Multi-Agent Systems</title>
-<link>https://practicalai.show/367</link>
-<guid isPermaLink="false">aios-l7-76</guid>
-<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
-<description>Practical AI · Daniel Whitenack &amp; Chris Benson · aired August 6, 2026
-Method · MEDIUM priority · L7 Automations
-
-Why it's here: Separates models from agents from harnesses from multi-agent fleets in plain terms — the harness explanation you wanted after the Latent Space episode on the same idea turned out to have no audio.
-
-Original episode: https://practicalai.show/367</description>
-<itunes:summary>Practical AI · Daniel Whitenack &amp; Chris Benson · aired August 6, 2026
-Method · MEDIUM priority · L7 Automations
-
-Why it's here: Separates models from agents from harnesses from multi-agent fleets in plain terms — the harness explanation you wanted after the Latent Space episode on the same idea turned out to have no audio.
-
-Original episode: https://practicalai.show/367</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Daniel Whitenack &amp; Chris Benson &middot; aired August 6, 2026</p><p>Method &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Separates models from agents from harnesses from multi-agent fleets in plain terms — the harness explanation you wanted after the Latent Space episode on the same idea turned out to have no audio.</p><p><a href="https://practicalai.show/367">Open the original episode &rarr;</a><br/>https://practicalai.show/367</p>]]></content:encoded>
-<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/063cfaad/23dc320d.mp3" length="47999683" type="audio/mpeg"/>
-<itunes:duration>2998</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
-</item>
-<item>
-<title>77 · The Cognitive Revolution · 2026-03-08 · Try this at Home: Jesse Genet on OpenClaw Agents for Homeschool &amp; How to Live Your Best AI Life</title>
-<link>https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</link>
-<guid isPermaLink="false">aios-l7-77</guid>
-<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-<description>The Cognitive Revolution · Nathan Labenz interview · aired March 8, 2026
-Method · MEDIUM priority · L7 Automations
-
-Why it's here: A non-technical operator running a team of agents with real onboarding, roles and guardrails — the delegation mechanics, from the Cognitive Revolution side.
-
-Original episode: https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</description>
-<itunes:summary>The Cognitive Revolution · Nathan Labenz interview · aired March 8, 2026
-Method · MEDIUM priority · L7 Automations
-
-Why it's here: A non-technical operator running a team of agents with real onboarding, roles and guardrails — the delegation mechanics, from the Cognitive Revolution side.
-
-Original episode: https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Nathan Labenz interview &middot; aired March 8, 2026</p><p>Method &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> A non-technical operator running a team of agents with real onboarding, roles and guardrails — the delegation mechanics, from the Cognitive Revolution side.</p><p><a href="https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</p>]]></content:encoded>
-<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP2684733094.mp3?updated=1772993170" length="118288790" type="audio/mpeg"/>
-<itunes:duration>7564</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>2</itunes:episode>
-</item>
-<item>
-<title>78 · The Cognitive Revolution · 2025-07-02 · The AI Village: Previewing the Giga-Agent Future with Adam Binksmith, Founder of AI Digest</title>
-<link>https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/</link>
-<guid isPermaLink="false">aios-l7-78</guid>
-<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
-<description>The Cognitive Revolution · Adam Binksmith, Founder of AI Digest · aired July 2, 2025
-Method · MEDIUM priority · L7 Automations
-
-Why it's here: Observations from agents working together in the open over weeks — what coordination looks like without a human in the loop, and where it degrades.
-
-Original episode: https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/</description>
-<itunes:summary>The Cognitive Revolution · Adam Binksmith, Founder of AI Digest · aired July 2, 2025
-Method · MEDIUM priority · L7 Automations
-
-Why it's here: Observations from agents working together in the open over weeks — what coordination looks like without a human in the loop, and where it degrades.
-
-Original episode: https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Adam Binksmith, Founder of AI Digest &middot; aired July 2, 2025</p><p>Method &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Observations from agents working together in the open over weeks — what coordination looks like without a human in the loop, and where it degrades.</p><p><a href="https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/</p>]]></content:encoded>
-<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP2339373847.mp3?updated=1751587747" length="78958485" type="audio/mpeg"/>
-<itunes:duration>5122</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>

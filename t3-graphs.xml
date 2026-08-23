@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · Graphs</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Knowledge graphs as agent memory: graph-vs-vector, GraphRAG and its critics, context graphs, entity resolution. 15 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Knowledge graphs as agent memory: graph-vs-vector, GraphRAG and its critics, context graphs, entity resolution. 15 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t3-graphs.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t3-graphs.jpg</url><title>AI OS · Graphs</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>87 · Data Engineering Podcast (ep. 514) · 2026-08-02 · Why Multi-Agent Systems Need Shared State, Graph Semantics, and Governance</title>
+<link>https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514</link>
+<guid isPermaLink="false">aios-t3-87</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>Data Engineering Podcast (ep. 514) · Ragnor Comerford (OmniGraph) · aired August 2, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Git-style branching/merging of a graph so probabilistic writers (agents) can share state safely; built on object storage, Lance, Arrow, DataFusion. Includes company-&quot;brain&quot; and SDLC-graph use cases.
+
+Original episode: https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514</description>
+<itunes:summary>Data Engineering Podcast (ep. 514) · Ragnor Comerford (OmniGraph) · aired August 2, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Git-style branching/merging of a graph so probabilistic writers (agents) can share state safely; built on object storage, Lance, Arrow, DataFusion. Includes company-&quot;brain&quot; and SDLC-graph use cases.
+
+Original episode: https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Data Engineering Podcast (ep. 514)</strong> &middot; Ragnor Comerford (OmniGraph) &middot; aired August 2, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Git-style branching/merging of a graph so probabilistic writers (agents) can share state safely; built on object storage, Lance, Arrow, DataFusion. Includes company-&quot;brain&quot; and SDLC-graph use cases.</p><p><a href="https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514">Open the original episode &rarr;</a><br/>https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514</p>]]></content:encoded>
+<enclosure url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6392130619121105521c1e7e44-b4c7-4b7f-931a-c3e4a96937bf.mp3" length="59753624" type="audio/mpeg"/>
+<itunes:duration>01:02:15</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>15</itunes:episode>
+</item>
+<item>
+<title>88 · Data Engineering Podcast (ep. 502) · 2026-02-22 · From Data Models to Mind Models: Designing AI Memory at Scale</title>
+<link>https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502</link>
+<guid isPermaLink="false">aios-t3-88</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>Data Engineering Podcast (ep. 502) · Vasilije &quot;Vas&quot; Markovich (founder, Cognee) · aired February 22, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Graph+vector memory layers, permanent vs session memory, temporal relevance and decay, multi-tenant isolation, trace-based scoring — with logistics control-tower examples.
+
+Original episode: https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502</description>
+<itunes:summary>Data Engineering Podcast (ep. 502) · Vasilije &quot;Vas&quot; Markovich (founder, Cognee) · aired February 22, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Graph+vector memory layers, permanent vs session memory, temporal relevance and decay, multi-tenant isolation, trace-based scoring — with logistics control-tower examples.
+
+Original episode: https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Data Engineering Podcast (ep. 502)</strong> &middot; Vasilije &quot;Vas&quot; Markovich (founder, Cognee) &middot; aired February 22, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Graph+vector memory layers, permanent vs session memory, temporal relevance and decay, multi-tenant isolation, trace-based scoring — with logistics control-tower examples.</p><p><a href="https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502">Open the original episode &rarr;</a><br/>https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502</p>]]></content:encoded>
+<enclosure url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/639073981323893202146bcc19-cf93-4fa2-9e96-70bb5d041afc.mp3" length="55473304" type="audio/mpeg"/>
+<itunes:duration>00:57:47</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>14</itunes:episode>
+</item>
+<item>
+<title>89 · The Data Exchange · 2026-07-02 · The Data Layer Enterprise AI Has Been Missing</title>
+<link>https://thedataexchange.media/andrew-moore-lovelace/</link>
+<guid isPermaLink="false">aios-t3-89</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Data Exchange · Andrew Moore (Lovelace; ex-Google Cloud AI, ex-CMU dean) · aired July 2, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Knowledge graphs plus entity resolution as the missing substrate for enterprise agents.
+
+Original episode: https://thedataexchange.media/andrew-moore-lovelace/</description>
+<itunes:summary>The Data Exchange · Andrew Moore (Lovelace; ex-Google Cloud AI, ex-CMU dean) · aired July 2, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Knowledge graphs plus entity resolution as the missing substrate for enterprise agents.
+
+Original episode: https://thedataexchange.media/andrew-moore-lovelace/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Data Exchange</strong> &middot; Andrew Moore (Lovelace; ex-Google Cloud AI, ex-CMU dean) &middot; aired July 2, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Knowledge graphs plus entity resolution as the missing substrate for enterprise agents.</p><p><a href="https://thedataexchange.media/andrew-moore-lovelace/">Open the original episode &rarr;</a><br/>https://thedataexchange.media/andrew-moore-lovelace/</p>]]></content:encoded>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/682433/episodes/19397000-the-data-layer-enterprise-ai-has-been-missing.mp3" length="36716853" type="audio/mpeg"/>
+<itunes:duration>3056</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>13</itunes:episode>
+</item>
+<item>
+<title>90 · The Data Exchange · 2025-11-26 · Building the Knowledge Layer Your Agents Need</title>
+<link>https://podcasts.apple.com/us/podcast/building-the-knowledge-layer-your-agents-need/id1487704458?i=1000738515705</link>
+<guid isPermaLink="false">aios-t3-90</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>The Data Exchange · Philip Rathle (CTO, Neo4j) · aired November 26, 2025
+Method · HIGH priority · T3 Graphs
+
+Why it's here: What a production knowledge layer under agents actually requires, from the CTO shipping it.
+
+Original episode: https://podcasts.apple.com/us/podcast/building-the-knowledge-layer-your-agents-need/id1487704458?i=1000738515705</description>
+<itunes:summary>The Data Exchange · Philip Rathle (CTO, Neo4j) · aired November 26, 2025
+Method · HIGH priority · T3 Graphs
+
+Why it's here: What a production knowledge layer under agents actually requires, from the CTO shipping it.
+
+Original episode: https://podcasts.apple.com/us/podcast/building-the-knowledge-layer-your-agents-need/id1487704458?i=1000738515705</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Data Exchange</strong> &middot; Philip Rathle (CTO, Neo4j) &middot; aired November 26, 2025</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> What a production knowledge layer under agents actually requires, from the CTO shipping it.</p><p><a href="https://podcasts.apple.com/us/podcast/building-the-knowledge-layer-your-agents-need/id1487704458?i=1000738515705">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/building-the-knowledge-layer-your-agents-need/id1487704458?i=1000738515705</p>]]></content:encoded>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/682433/episodes/18219101-building-the-knowledge-layer-your-agents-need.mp3" length="34365834" type="audio/mpeg"/>
+<itunes:duration>2860</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>12</itunes:episode>
+</item>
+<item>
+<title>91 · Weaviate Podcast #139 · 2026-06-01 · Knowledge Engineering with Bradley Allen</title>
+<link>https://podcasters.spotify.com/pod/show/weaviate/episodes/Knowledge-Engineering-with-Bradley-Allen---Weaviate-Podcast-139-e3k6alv</link>
+<guid isPermaLink="false">aios-t3-91</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>Weaviate Podcast #139 · Dr. Bradley Allen (knowledge engineering veteran) · aired June 1, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Deep on ontologies in practice — classes, relations, A-box/T-box, description logic, subsumption reasoning — and the unresolved cost/maintenance problem of formal graphs.
+
+Original episode: https://podcasters.spotify.com/pod/show/weaviate/episodes/Knowledge-Engineering-with-Bradley-Allen---Weaviate-Podcast-139-e3k6alv</description>
+<itunes:summary>Weaviate Podcast #139 · Dr. Bradley Allen (knowledge engineering veteran) · aired June 1, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Deep on ontologies in practice — classes, relations, A-box/T-box, description logic, subsumption reasoning — and the unresolved cost/maintenance problem of formal graphs.
+
+Original episode: https://podcasters.spotify.com/pod/show/weaviate/episodes/Knowledge-Engineering-with-Bradley-Allen---Weaviate-Podcast-139-e3k6alv</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Weaviate Podcast #139</strong> &middot; Dr. Bradley Allen (knowledge engineering veteran) &middot; aired June 1, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Deep on ontologies in practice — classes, relations, A-box/T-box, description logic, subsumption reasoning — and the unresolved cost/maintenance problem of formal graphs.</p><p><a href="https://podcasters.spotify.com/pod/show/weaviate/episodes/Knowledge-Engineering-with-Bradley-Allen---Weaviate-Podcast-139-e3k6alv">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/weaviate/episodes/Knowledge-Engineering-with-Bradley-Allen---Weaviate-Podcast-139-e3k6alv</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/cffc3468/podcast/play/120842367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2Fe9ef5766-5fd9-33e1-8fd6-18d8f3f06500.mp3" length="117810797" type="audio/mpeg"/>
+<itunes:duration>01:00:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode>
+</item>
+<item>
+<title>92 · TWIML AI Podcast #763 · 2026-03-10 · Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi</title>
+<link>https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-graphs-autonomous-software-development</link>
+<guid isPermaLink="false">aios-t3-92</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>TWIML AI Podcast #763 · Sid Pardeshi (co-founder/CTO, Blitzy) · aired March 10, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Hybrid graph+vector grounding for large repos, dynamic agent personas, and orchestration of large agent swarms; argues effective context windows have plateaued.
+
+Original episode: https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-graphs-autonomous-software-development</description>
+<itunes:summary>TWIML AI Podcast #763 · Sid Pardeshi (co-founder/CTO, Blitzy) · aired March 10, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Hybrid graph+vector grounding for large repos, dynamic agent personas, and orchestration of large agent swarms; argues effective context windows have plateaued.
+
+Original episode: https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-graphs-autonomous-software-development</itunes:summary>
+<content:encoded><![CDATA[<p><strong>TWIML AI Podcast #763</strong> &middot; Sid Pardeshi (co-founder/CTO, Blitzy) &middot; aired March 10, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Hybrid graph+vector grounding for large repos, dynamic agent personas, and orchestration of large agent swarms; argues effective context windows have plateaued.</p><p><a href="https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-graphs-autonomous-software-development">Open the original episode &rarr;</a><br/>https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-graphs-autonomous-software-development</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN3982555965.mp3?updated=1773185885" length="72995365" type="audio/mpeg"/>
+<itunes:duration>4574</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
+<title>93 · GraphGeeks Graph Chat · 2026-04-30 · Graph Chat with William Lyon on AI Agents, Graph Memory, and the Return to Neo4j</title>
+<link>https://podcasts.apple.com/us/podcast/graph-chat-with-william-lyon-on-ai-agents-graph-memory/id1741850482?i=1000764990131</link>
+<guid isPermaLink="false">aios-t3-93</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>GraphGeeks Graph Chat · William Lyon (Neo4j product team) w/ Amy Hodler · aired April 30, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Maps graph structures onto episodic / semantic / procedural memory for agents — beyond retrieval into graph-based reasoning.
+
+Original episode: https://podcasts.apple.com/us/podcast/graph-chat-with-william-lyon-on-ai-agents-graph-memory/id1741850482?i=1000764990131</description>
+<itunes:summary>GraphGeeks Graph Chat · William Lyon (Neo4j product team) w/ Amy Hodler · aired April 30, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Maps graph structures onto episodic / semantic / procedural memory for agents — beyond retrieval into graph-based reasoning.
+
+Original episode: https://podcasts.apple.com/us/podcast/graph-chat-with-william-lyon-on-ai-agents-graph-memory/id1741850482?i=1000764990131</itunes:summary>
+<content:encoded><![CDATA[<p><strong>GraphGeeks Graph Chat</strong> &middot; William Lyon (Neo4j product team) w/ Amy Hodler &middot; aired April 30, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Maps graph structures onto episodic / semantic / procedural memory for agents — beyond retrieval into graph-based reasoning.</p><p><a href="https://podcasts.apple.com/us/podcast/graph-chat-with-william-lyon-on-ai-agents-graph-memory/id1741850482?i=1000764990131">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/graph-chat-with-william-lyon-on-ai-agents-graph-memory/id1741850482?i=1000764990131</p>]]></content:encoded>
+<enclosure url="https://audio4.redcircle.com/episodes/2c491134-2a54-4cb2-8f9f-5ea59b867ec5/stream.mp3" length="7979676" type="audio/mpeg"/>
+<itunes:duration>498</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>94 · GraphGeeks Graph Chat · 2026-02-25 · Graph Chat: Neo4j's Philip Rathle on Neuro-symbolic AI and Infinigraph</title>
+<link>https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip-rathle-on-neuro-symbolic-ai/id1741850482?i=1000751577674</link>
+<guid isPermaLink="false">aios-t3-94</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>GraphGeeks Graph Chat · Philip Rathle (CTO, Neo4j) w/ Amy Hodler · aired February 25, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Why similarity search fails high-stakes queries, &quot;gray box&quot; explainability from deterministic graph data, agent meta-knowledge, and vertical sharding for 100-TB graphs.
+
+Original episode: https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip-rathle-on-neuro-symbolic-ai/id1741850482?i=1000751577674</description>
+<itunes:summary>GraphGeeks Graph Chat · Philip Rathle (CTO, Neo4j) w/ Amy Hodler · aired February 25, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Why similarity search fails high-stakes queries, &quot;gray box&quot; explainability from deterministic graph data, agent meta-knowledge, and vertical sharding for 100-TB graphs.
+
+Original episode: https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip-rathle-on-neuro-symbolic-ai/id1741850482?i=1000751577674</itunes:summary>
+<content:encoded><![CDATA[<p><strong>GraphGeeks Graph Chat</strong> &middot; Philip Rathle (CTO, Neo4j) w/ Amy Hodler &middot; aired February 25, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Why similarity search fails high-stakes queries, &quot;gray box&quot; explainability from deterministic graph data, agent meta-knowledge, and vertical sharding for 100-TB graphs.</p><p><a href="https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip-rathle-on-neuro-symbolic-ai/id1741850482?i=1000751577674">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip-rathle-on-neuro-symbolic-ai/id1741850482?i=1000751577674</p>]]></content:encoded>
+<enclosure url="https://audio4.redcircle.com/episodes/5eb22df0-22f9-494a-8afc-ef02d75e768d/stream.mp3" length="17364950" type="audio/mpeg"/>
+<itunes:duration>1085</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>95 · GraphGeeks Graph Chat · 2026-02-05 · Graph Chat: Multimodal GraphRAG and Agentic Observability with David Hughes</title>
+<link>https://podcasts.apple.com/us/podcast/graph-chat-multimodal-graphrag-and-agentic-observability/id1741850482?i=1000748384215</link>
+<guid isPermaLink="false">aios-t3-95</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>GraphGeeks Graph Chat · David Hughes (Solutions Architect, Enterprise Knowledge) w/ Bryce Merkl Sasaki · aired February 5, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Computation graphs, memory inspection and deterministic returns using BAML and DSPy — engineering rigor for agent observability.
+
+Original episode: https://podcasts.apple.com/us/podcast/graph-chat-multimodal-graphrag-and-agentic-observability/id1741850482?i=1000748384215</description>
+<itunes:summary>GraphGeeks Graph Chat · David Hughes (Solutions Architect, Enterprise Knowledge) w/ Bryce Merkl Sasaki · aired February 5, 2026
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Computation graphs, memory inspection and deterministic returns using BAML and DSPy — engineering rigor for agent observability.
+
+Original episode: https://podcasts.apple.com/us/podcast/graph-chat-multimodal-graphrag-and-agentic-observability/id1741850482?i=1000748384215</itunes:summary>
+<content:encoded><![CDATA[<p><strong>GraphGeeks Graph Chat</strong> &middot; David Hughes (Solutions Architect, Enterprise Knowledge) w/ Bryce Merkl Sasaki &middot; aired February 5, 2026</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Computation graphs, memory inspection and deterministic returns using BAML and DSPy — engineering rigor for agent observability.</p><p><a href="https://podcasts.apple.com/us/podcast/graph-chat-multimodal-graphrag-and-agentic-observability/id1741850482?i=1000748384215">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/graph-chat-multimodal-graphrag-and-agentic-observability/id1741850482?i=1000748384215</p>]]></content:encoded>
+<enclosure url="https://audio4.redcircle.com/episodes/a7ee36a6-2735-41ba-ba16-7b86c7ea6d3f/stream.mp3" length="9025828" type="audio/mpeg"/>
+<itunes:duration>564</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>96 · GraphGeeks Graph Chat · 2025-10-24 · Emerging AI Memory and Graphs with Dave Bechberger</title>
+<link>https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-graphs-with-dave-bechberger/id1741850482?i=1000733369179</link>
+<guid isPermaLink="false">aios-t3-96</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<description>GraphGeeks Graph Chat · Dave Bechberger (graph DB practitioner/author) w/ Amy Hodler · aired October 24, 2025
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Practitioner view of graph-backed agent memory patterns and where graph DBs fit versus vector stores.
+
+Original episode: https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-graphs-with-dave-bechberger/id1741850482?i=1000733369179</description>
+<itunes:summary>GraphGeeks Graph Chat · Dave Bechberger (graph DB practitioner/author) w/ Amy Hodler · aired October 24, 2025
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Practitioner view of graph-backed agent memory patterns and where graph DBs fit versus vector stores.
+
+Original episode: https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-graphs-with-dave-bechberger/id1741850482?i=1000733369179</itunes:summary>
+<content:encoded><![CDATA[<p><strong>GraphGeeks Graph Chat</strong> &middot; Dave Bechberger (graph DB practitioner/author) w/ Amy Hodler &middot; aired October 24, 2025</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Practitioner view of graph-backed agent memory patterns and where graph DBs fit versus vector stores.</p><p><a href="https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-graphs-with-dave-bechberger/id1741850482?i=1000733369179">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-graphs-with-dave-bechberger/id1741850482?i=1000733369179</p>]]></content:encoded>
+<enclosure url="https://audio4.redcircle.com/episodes/3be6e9ac-d3eb-4ce0-8db1-346d18fb8378/stream.mp3" length="34523846" type="audio/mpeg"/>
+<itunes:duration>2157</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>97 · MLOps Community Podcast #236 · 2024-05-28 · Managing Small Knowledge Graphs for Multi-agent Systems</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/Managing-Small-Knowledge-Graphs-for-Multi-agent-Systems--Tom-Smoker--236-e2k72go</link>
+<guid isPermaLink="false">aios-t3-97</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<description>MLOps Community Podcast #236 · Tom Smoker (technical founder, whyhow.ai) · aired May 28, 2024
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Why *small*, scoped knowledge graphs beat one big graph when uncertainty compounds across many agents in a pipeline.
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Managing-Small-Knowledge-Graphs-for-Multi-agent-Systems--Tom-Smoker--236-e2k72go</description>
+<itunes:summary>MLOps Community Podcast #236 · Tom Smoker (technical founder, whyhow.ai) · aired May 28, 2024
+Method · HIGH priority · T3 Graphs
+
+Why it's here: Why *small*, scoped knowledge graphs beat one big graph when uncertainty compounds across many agents in a pipeline.
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Managing-Small-Knowledge-Graphs-for-Multi-agent-Systems--Tom-Smoker--236-e2k72go</itunes:summary>
+<content:encoded><![CDATA[<p><strong>MLOps Community Podcast #236</strong> &middot; Tom Smoker (technical founder, whyhow.ai) &middot; aired May 28, 2024</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Why *small*, scoped knowledge graphs beat one big graph when uncertainty compounds across many agents in a pipeline.</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Managing-Small-Knowledge-Graphs-for-Multi-agent-Systems--Tom-Smoker--236-e2k72go">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Managing-Small-Knowledge-Graphs-for-Multi-agent-Systems--Tom-Smoker--236-e2k72go</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/87312344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-28%2F379019901-44100-2-1487a68198056.mp3" length="62093687" type="audio/mpeg"/>
+<itunes:duration>01:04:40</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>98 · The Cognitive Revolution · 2025-11-20 · Escaping AI Slop: How Atlassian Gives AI Teammates Taste, Knowledge, &amp; Workflows, w- Sherif Mansour</title>
+<link>https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</link>
+<guid isPermaLink="false">aios-t3-98</guid>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<description>The Cognitive Revolution · Sherif Mansour · aired November 20, 2025
+Method · HIGH priority · T3 Graphs
+
+Why it's here: The Taste / Knowledge / Workflow split for why agent output feels generic, plus Atlassian's Teamwork Graph as an alternative to plain retrieval.
+
+Original episode: https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</description>
+<itunes:summary>The Cognitive Revolution · Sherif Mansour · aired November 20, 2025
+Method · HIGH priority · T3 Graphs
+
+Why it's here: The Taste / Knowledge / Workflow split for why agent output feels generic, plus Atlassian's Teamwork Graph as an alternative to plain retrieval.
+
+Original episode: https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Cognitive Revolution</strong> &middot; Sherif Mansour &middot; aired November 20, 2025</p><p>Method &middot; HIGH priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> The Taste / Knowledge / Workflow split for why agent output feels generic, plus Atlassian&#x27;s Teamwork Graph as an alternative to plain retrieval.</p><p><a href="https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/">Open the original episode &rarr;</a><br/>https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</p>]]></content:encoded>
+<enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9122483639.mp3?updated=1763638704" length="93431341" type="audio/mpeg"/>
+<itunes:duration>6010</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>99 · GraphGeeks Graph Chat · 2026-08-10 · Why AI Agents Need Knowledge Graphs: A Chat with Glasswing Ventures' James Massaquoi</title>
+<link>https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowledge-graphs-a-chat-with-glasswing/id1741850482?i=1000782045600</link>
+<guid isPermaLink="false">aios-t3-99</guid>
+<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+<description>GraphGeeks Graph Chat · James Massaquoi (Glasswing Ventures) w/ Amy Hodler · aired August 10, 2026
+Method · MEDIUM priority · T3 Graphs
+
+Why it's here: Includes a **critique of &quot;context graph&quot; hype** and where the line between graph DBs, auxiliary memory models and agent architecture is blurring.
+
+Original episode: https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowledge-graphs-a-chat-with-glasswing/id1741850482?i=1000782045600</description>
+<itunes:summary>GraphGeeks Graph Chat · James Massaquoi (Glasswing Ventures) w/ Amy Hodler · aired August 10, 2026
+Method · MEDIUM priority · T3 Graphs
+
+Why it's here: Includes a **critique of &quot;context graph&quot; hype** and where the line between graph DBs, auxiliary memory models and agent architecture is blurring.
+
+Original episode: https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowledge-graphs-a-chat-with-glasswing/id1741850482?i=1000782045600</itunes:summary>
+<content:encoded><![CDATA[<p><strong>GraphGeeks Graph Chat</strong> &middot; James Massaquoi (Glasswing Ventures) w/ Amy Hodler &middot; aired August 10, 2026</p><p>Method &middot; MEDIUM priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Includes a **critique of &quot;context graph&quot; hype** and where the line between graph DBs, auxiliary memory models and agent architecture is blurring.</p><p><a href="https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowledge-graphs-a-chat-with-glasswing/id1741850482?i=1000782045600">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowledge-graphs-a-chat-with-glasswing/id1741850482?i=1000782045600</p>]]></content:encoded>
+<enclosure url="https://audio4.redcircle.com/episodes/41df6b55-fb7b-4cd6-95ec-f935e4dbc2ed/stream.mp3" length="8465345" type="audio/mpeg"/>
+<itunes:duration>529</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>100 · Practical AI · 2024-09-25 · GraphRAG (beyond the hype)</title>
+<link>https://share.transistor.fm/s/d2299d84</link>
+<guid isPermaLink="false">aios-t3-100</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>Practical AI · Prashanth Rao (graph/AI engineer) · aired September 25, 2024
+Method · MEDIUM priority · T3 Graphs
+
+Why it's here: The **GraphRAG-critic** reference episode: what is real, what is hype, and which use cases justify graph construction cost.
+
+Original episode: https://share.transistor.fm/s/d2299d84</description>
+<itunes:summary>Practical AI · Prashanth Rao (graph/AI engineer) · aired September 25, 2024
+Method · MEDIUM priority · T3 Graphs
+
+Why it's here: The **GraphRAG-critic** reference episode: what is real, what is hype, and which use cases justify graph construction cost.
+
+Original episode: https://share.transistor.fm/s/d2299d84</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Prashanth Rao (graph/AI engineer) &middot; aired September 25, 2024</p><p>Method &middot; MEDIUM priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> The **GraphRAG-critic** reference episode: what is real, what is hype, and which use cases justify graph construction cost.</p><p><a href="https://share.transistor.fm/s/d2299d84">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/d2299d84</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/d2299d84/fcae2902.mp3" length="53073428" type="audio/mpeg"/>
+<itunes:duration>3302</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>101 · The AI Daily Brief · 2026-01-05 · Context Graphs: AI's Next Big Idea</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Graphs-AIs-Next-Big-Idea-e3d7hej</link>
+<guid isPermaLink="false">aios-t3-101</guid>
+<pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief · NLW (host) · aired January 5, 2026
+Method · MEDIUM priority · T3 Graphs
+
+Why it's here: Distinguishes context graphs from systems of record and classic knowledge graphs; argues capturing *decision traces* (the why) is the gate on scalable org autonomy.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Graphs-AIs-Next-Big-Idea-e3d7hej</description>
+<itunes:summary>The AI Daily Brief · NLW (host) · aired January 5, 2026
+Method · MEDIUM priority · T3 Graphs
+
+Why it's here: Distinguishes context graphs from systems of record and classic knowledge graphs; argues capturing *decision traces* (the why) is the gate on scalable org autonomy.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Graphs-AIs-Next-Big-Idea-e3d7hej</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; NLW (host) &middot; aired January 5, 2026</p><p>Method &middot; MEDIUM priority &middot; T3 Graphs</p><p><strong>Why it's here:</strong> Distinguishes context graphs from systems of record and classic knowledge graphs; argues capturing *decision traces* (the why) is the gate on scalable org autonomy.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Graphs-AIs-Next-Big-Idea-e3d7hej">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Graphs-AIs-Next-Big-Idea-e3d7hej</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/113542035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-5%2F415541300-44100-2-e0c2726b31802.mp3" length="24924994" type="audio/mpeg"/>
+<itunes:duration>00:25:57</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
