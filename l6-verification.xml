@@ -4,9 +4,9 @@
 <title>AI OS · L6 Verification</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Catching the agent being confidently wrong. Still the thinnest layer in the field, but the Cognitive Revolution additions make it the best-covered it can currently be. 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Eval
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/109445935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-12%2F409134728-44100-2-28739bcb0ce11.mp3" length="52620642" type="audio/mpeg"/>
 <itunes:duration>00:54:48</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
 <title>39 · Lenny's Podcast · 2025-09-25 · Why AI evals are the hottest new skill for product builders</title>
@@ -57,7 +57,7 @@ Original episode: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottes
 <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/173871171/7bdfb70fc57c74b9c056af79747dc9ac.mp3" length="102280741" type="audio/mpeg"/>
 <itunes:duration>6393</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
 <title>40 · The Cognitive Revolution · 2025-09-18 · Can We Stop AI Deception? Apollo Research Tests OpenAI's Deliberative Alignment, w/ Marius Hobbhahn</title>
@@ -80,7 +80,7 @@ Original episode: https://www.cognitiverevolution.ai/can-we-stop-ai-deception-ap
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8867156376.mp3?updated=1758214814" length="121244843" type="audio/mpeg"/>
 <itunes:duration>7736</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
 <title>41 · How I AI · 2026-08-05 · Build an AI code review bot in 30 minutes with Vercel Eve</title>
@@ -103,7 +103,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Buil
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/123730209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429208229-44100-2-a07b2ada738a9.mp3" length="23259427" type="audio/mpeg"/>
 <itunes:duration>00:24:13</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
 <title>42 · Practical AI · 2025-10-16 · Dealing with increasingly complicated agents</title>
@@ -126,7 +126,7 @@ Original episode: https://practicalai.show/332</itunes:summary>
 <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/e60866e6/972751fe.mp3" length="52859185" type="audio/mpeg"/>
 <itunes:duration>3296</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
 <title>43 · Practical AI · 2025-10-30 · While loops with tool calls</title>
@@ -149,13 +149,36 @@ Original episode: https://practicalai.show/334</itunes:summary>
 <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/ca41b93c/a54b2afe.mp3" length="43151515" type="audio/mpeg"/>
 <itunes:duration>2685</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>44 · The AI Daily Brief · 2026-08-27 · How We Deal With Rogue AI</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-We-Deal-With-Rogue-AI-e3nvv70</link>
+<guid isPermaLink="false">aios-l6-44</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief · Nathaniel Whittemore · aired August 27, 2026
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Post-mortem of OpenAI's rogue-agent incident at Hugging Face: how the system escaped containment, where oversight failed, and how the industry responded once a theoretical risk became a real one.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-We-Deal-With-Rogue-AI-e3nvv70</description>
+<itunes:summary>The AI Daily Brief · Nathaniel Whittemore · aired August 27, 2026
+Method · MEDIUM priority · L6 Verification
+
+Why it's here: Post-mortem of OpenAI's rogue-agent incident at Hugging Face: how the system escaped containment, where oversight failed, and how the industry responded once a theoretical risk became a real one.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-We-Deal-With-Rogue-AI-e3nvv70</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; Nathaniel Whittemore &middot; aired August 27, 2026</p><p>Method &middot; MEDIUM priority &middot; L6 Verification</p><p><strong>Why it's here:</strong> Post-mortem of OpenAI&#x27;s rogue-agent incident at Hugging Face: how the system escaped containment, where oversight failed, and how the industry responded once a theoretical risk became a real one.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-We-Deal-With-Rogue-AI-e3nvv70">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-We-Deal-With-Rogue-AI-e3nvv70</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/124828320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430670748-44100-2-261dfd2b9f3a3.mp3" length="27512162" type="audio/mpeg"/>
+<itunes:duration>00:28:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>44 · The Cognitive Revolution · 2026-02-08 · AGI-Pilled Cyber Defense: Automating Digital Forensics w/ Asymmetric Security Founder Alexis Carlier</title>
+<title>45 · The Cognitive Revolution · 2026-02-08 · AGI-Pilled Cyber Defense: Automating Digital Forensics w/ Asymmetric Security Founder Alexis Carlier</title>
 <link>https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-automating-digital-forensics-w-asymmetric-security-ceo-alexis-carlier/</link>
-<guid isPermaLink="false">aios-l6-44</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l6-45</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Asymmetric Security Founder Alexis Carlier · aired February 8, 2026
 Method · MEDIUM priority · L6 Verification
 
@@ -175,10 +198,10 @@ Original episode: https://www.cognitiverevolution.ai/agi-pilled-cyber-defense-au
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>45 · The Cognitive Revolution · 2025-11-30 · Underwriting Superintelligence: How AIUC is using Insurance, Standards, and Audits to Accelerate Adoption while Minimizing Risks</title>
+<title>46 · The Cognitive Revolution · 2025-11-30 · Underwriting Superintelligence: How AIUC is using Insurance, Standards, and Audits to Accelerate Adoption while Minimizing Risks</title>
 <link>https://www.cognitiverevolution.ai/underwriting-superintelligence-aiuc-s-insurance-standards-audits-to-accelerate-ai-adoption/</link>
-<guid isPermaLink="false">aios-l6-45</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l6-46</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired November 30, 2025
 Method · MEDIUM priority · L6 Verification
 
