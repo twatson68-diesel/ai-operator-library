@@ -4,9 +4,9 @@
 <title>AI OS · L8 Judgment</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Not a build layer. What an operator should know about where this is actually working, what it costs, and what it's doing to businesses like yours. 4 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Not a build layer. What an operator should know about where this is actually working, what it costs, and what it's doing to businesses like yours. 5 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Not a build layer. What an operator should know about where this is actually working, what it costs, and what it's doing to businesses like yours. 4 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Not a build layer. What an operator should know about where this is actually working, what it costs, and what it's doing to businesses like yours. 5 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -14,9 +14,9 @@
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l8-judgment.jpg"/>
 <image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l8-judgment.jpg</url><title>AI OS · L8 Judgment</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>53 · The Cognitive Revolution · 2026-06-10 · Babysitting the Machine: Glean's Rebecca Hinds on the Hidden Human Labor of AI at Work</title>
+<title>55 · The Cognitive Revolution · 2026-06-10 · Babysitting the Machine: Glean's Rebecca Hinds on the Hidden Human Labor of AI at Work</title>
 <link>https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/</link>
-<guid isPermaLink="false">aios-l8-53</guid>
+<guid isPermaLink="false">aios-l8-55</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired June 10, 2026
 Method · HIGH priority · L8 Judgment
@@ -34,12 +34,12 @@ Original episode: https://www.cognitiverevolution.ai/babysitting-the-machine-gle
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8886328000.mp3" length="101742658" type="audio/mpeg"/>
 <itunes:duration>6380</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>54 · The Cognitive Revolution · 2025-08-02 · The Revolution in Services: General Catalyst's AI Rollup Strategy, with Marc Bhargava</title>
+<title>56 · The Cognitive Revolution · 2025-08-02 · The Revolution in Services: General Catalyst's AI Rollup Strategy, with Marc Bhargava</title>
 <link>https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/</link>
-<guid isPermaLink="false">aios-l8-54</guid>
+<guid isPermaLink="false">aios-l8-56</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Marc Bhargava · aired August 2, 2025
 Method · HIGH priority · L8 Judgment
@@ -57,13 +57,36 @@ Original episode: https://www.cognitiverevolution.ai/the-revolution-in-services-
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9823390404.mp3?updated=1754123680" length="77693724" type="audio/mpeg"/>
 <itunes:duration>5043</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>57 · This Week in AI · Wed, 10 Ju · Hermes Agent, NotebookLM &amp; LiveKit Founders on the AI Agent Race | TWiAI 17</title>
+<link>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</link>
+<guid isPermaLink="false">aios-l8-57</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired Wed, 10 Ju
+Method · MEDIUM priority · L8 Judgment
+
+Why it's here: Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.
+
+Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</description>
+<itunes:summary>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired Wed, 10 Ju
+Method · MEDIUM priority · L8 Judgment
+
+Why it's here: Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.
+
+Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</itunes:summary>
+<content:encoded><![CDATA[<p><strong>This Week in AI</strong> &middot; Founders of Hermes Agent, NotebookLM and LiveKit &middot; aired Wed, 10 Ju</p><p>Method &middot; MEDIUM priority &middot; L8 Judgment</p><p><strong>Why it's here:</strong> Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.</p><p><a href="https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10803d078/podcast/play/121295841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-10%2F425898135-44100-2-00850ad918182.mp3" length="85317171" type="audio/mpeg"/>
+<itunes:duration>01:28:52</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>55 · The Cognitive Revolution · 2025-11-27 · AI-Led Sales: How 1Mind's Superhumans Drive Exponential Growth, from the Agents of Scale Podcast</title>
+<title>58 · The Cognitive Revolution · 2025-11-27 · AI-Led Sales: How 1Mind's Superhumans Drive Exponential Growth, from the Agents of Scale Podcast</title>
 <link>https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/</link>
-<guid isPermaLink="false">aios-l8-55</guid>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l8-58</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired November 27, 2025
 Method · MEDIUM priority · L8 Judgment
 
@@ -83,10 +106,10 @@ Original episode: https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-su
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>56 · The Cognitive Revolution · 2025-01-29 · Aaron Levie, CEO of Box, on Box AI, Enterprise Enthusiasm, and the Evolution of SaaS</title>
+<title>59 · The Cognitive Revolution · 2025-01-29 · Aaron Levie, CEO of Box, on Box AI, Enterprise Enthusiasm, and the Evolution of SaaS</title>
 <link>https://www.cognitiverevolution.ai/aaron-levie-ceo-of-box-on-box-ai-enterprise-enthusiasm-and-the-evolution-of-saas/</link>
-<guid isPermaLink="false">aios-l8-56</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l8-59</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired January 29, 2025
 Method · MEDIUM priority · L8 Judgment
 

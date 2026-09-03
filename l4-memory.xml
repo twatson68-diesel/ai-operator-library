@@ -4,9 +4,9 @@
 <title>AI OS · L4 Memory</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>What persists across sessions: decisions, lessons, observed preferences. 3 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>What persists across sessions: decisions, lessons, observed preferences. 5 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>What persists across sessions: decisions, lessons, observed preferences. 3 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>What persists across sessions: decisions, lessons, observed preferences. 5 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/117482552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F420895762-44100-2-1836e69f20dff.mp3" length="49657729" type="audio/mpeg"/>
 <itunes:duration>00:51:43</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
 <title>25 · The Cognitive Revolution · 2026-08-14 · Lindy Teammate: Flo Crivello on Multiplayer Agents, Memory &amp; Why He'd Ban the Chinese Models He Uses</title>
@@ -57,7 +57,7 @@ Original episode: https://www.cognitiverevolution.ai/lindy-teammate-flo-crivello
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP7395722514.mp3" length="121476116" type="audio/mpeg"/>
 <itunes:duration>7613</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>2</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
 <title>26 · Master Claude Chat, Cowork, Code · 2026-05-15 · 15. Managing Context Rot (Thinking Like an Ops Team)</title>
@@ -79,6 +79,52 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--M
 <content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired May 15, 2026</p><p>Method &middot; HIGH priority &middot; L4 Memory</p><p><strong>Why it's here:</strong> Context rot as the silent failure mode of long sessions: old decisions linger, rejected ideas stay buried in the thread, and outdated assumptions keep steering the model — the exact decay your supersede-and-archive rules exist to prevent.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--Managing-Context-Rot-Thinking-Like-an-Ops-Team-e3jd233">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/15--Managing-Context-Rot-Thinking-Like-an-Ops-Team-e3jd233</p>]]></content:encoded>
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/120014371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2Fb49584eb-42e6-3881-db80-e2ff2ce6f1c6.m4a" length="105825685" type="audio/x-m4a"/>
 <itunes:duration>00:54:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>27 · Practical AI · Thu, 21 Ma · Hermes Agent: Agents that grow with you</title>
+<link>https://share.transistor.fm/s/451da102</link>
+<guid isPermaLink="false">aios-l4-27</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired Thu, 21 Ma
+Method · HIGH priority · L4 Memory
+
+Why it's here: Nous Research's CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.
+
+Original episode: https://share.transistor.fm/s/451da102</description>
+<itunes:summary>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired Thu, 21 Ma
+Method · HIGH priority · L4 Memory
+
+Why it's here: Nous Research's CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.
+
+Original episode: https://share.transistor.fm/s/451da102</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) &middot; aired Thu, 21 Ma</p><p>Method &middot; HIGH priority &middot; L4 Memory</p><p><strong>Why it's here:</strong> Nous Research&#x27;s CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.</p><p><a href="https://share.transistor.fm/s/451da102">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/451da102</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/451da102/629a058c.mp3" length="49677807" type="audio/mpeg"/>
+<itunes:duration>3102</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>28 · Behind the Craft · Sun, 02 Au · Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</link>
+<guid isPermaLink="false">aios-l4-28</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired Sun, 02 Au
+Method · HIGH priority · L4 Memory
+
+Why it's here: The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</description>
+<itunes:summary>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired Sun, 02 Au
+Method · HIGH priority · L4 Memory
+
+Why it's here: The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Karan Malhotra (co-founder, Nous Research) &middot; aired Sun, 02 Au</p><p>Method &middot; HIGH priority &middot; L4 Memory</p><p><strong>Why it's here:</strong> The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123578120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F428997642-44100-2-959440e09f2bb.mp3" length="44870007" type="audio/mpeg"/>
+<itunes:duration>00:46:44</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>
