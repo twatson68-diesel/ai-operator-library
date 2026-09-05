@@ -4,19 +4,19 @@
 <title>AI OS · Openclaw</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Running fleets, internals and architecture, permissioning, and what breaks at scale. 12 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Running fleets, internals and architecture, permissioning, and what breaks at scale. 11 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Running fleets, internals and architecture, permissioning, and what breaks at scale. 12 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Running fleets, internals and architecture, permissioning, and what breaks at scale. 11 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t1-openclaw-20260904.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t1-openclaw-20260904.jpg</url><title>AI OS · Openclaw</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t1-openclaw-20260905.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t1-openclaw-20260905.jpg</url><title>AI OS · Openclaw</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>60 · How I AI · 2026-02-25 · 5 OpenClaw agents run my home, finances, and code</title>
+<title>54 · How I AI · 2026-02-25 · 5 OpenClaw agents run my home, finances, and code</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/5-OpenClaw-agents-run-my-home--finances--and-code--Jesse-Genet-e3fh34m</link>
-<guid isPermaLink="false">aios-t1-60</guid>
+<guid isPermaLink="false">aios-t1-54</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Jesse Genet (entrepreneur and homeschooling parent) · aired February 25, 2026
 BUILD · HIGH priority · T1 Openclaw
@@ -34,12 +34,12 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/5-Op
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/115952214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418896511-44100-2-4cc405a9ab7e7.mp3" length="47489357" type="audio/mpeg"/>
 <itunes:duration>00:49:28</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>11</itunes:episode>
 </item>
 <item>
-<title>61 · How I AI · 2026-01-28 · I gave Clawdbot (aka Moltbot) access to my computer, calendar, and emails: Here's what happened</title>
+<title>55 · How I AI · 2026-01-28 · I gave Clawdbot (aka Moltbot) access to my computer, calendar, and emails: Here's what happened</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-gave-Clawdbot-aka-Moltbot-access-to-my-computer--calendar--and-emails-Heres-what-happened-e3e9dqb</link>
-<guid isPermaLink="false">aios-t1-61</guid>
+<guid isPermaLink="false">aios-t1-55</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo) · aired January 28, 2026
 BUILD · HIGH priority · T1 Openclaw
@@ -57,12 +57,12 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-ga
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114652427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F416973257-44100-2-5e9f3b248cbc6.mp3" length="53557288" type="audio/mpeg"/>
 <itunes:duration>00:55:47</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>62 · Lenny's Podcast · 2026-03-29 · From skeptic to true believer: How OpenClaw changed my life</title>
+<title>56 · Lenny's Podcast · 2026-03-29 · From skeptic to true believer: How OpenClaw changed my life</title>
 <link>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</link>
-<guid isPermaLink="false">aios-t1-62</guid>
+<guid isPermaLink="false">aios-t1-56</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>Lenny's Podcast · Claire Vo (founder, ChatPRD; host of How I AI) · aired March 29, 2026
 BUILD · HIGH priority · T1 Openclaw
@@ -80,12 +80,12 @@ Original episode: https://www.lennysnewsletter.com/p/how-openclaw-changed-my-lif
 <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/192012054/43f7fc06ec41bb364e4e6fc4aa8bf033.mp3" length="102323373" type="audio/mpeg"/>
 <itunes:duration>6395</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>63 · OpenClaw Cast · 2026-08-14 · Two AI Agents Can Turn Your Server Against Itself</title>
+<title>57 · OpenClaw Cast · 2026-08-14 · Two AI Agents Can Turn Your Server Against Itself</title>
 <link>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/Two-AI-Agents-Can-Turn-Your-Server-Against-Itself-e3ndj1k</link>
-<guid isPermaLink="false">aios-t1-63</guid>
+<guid isPermaLink="false">aios-t1-57</guid>
 <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>OpenClaw Cast · Cleo &amp; Dev (hosts) · aired August 14, 2026
 BUILD · HIGH priority · T1 Openclaw
@@ -103,12 +103,12 @@ Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1
 <enclosure url="https://anchor.fm/s/10f77d9e4/podcast/play/124226036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F4ce760ae-5a0a-db88-245a-a82be37e5425.m4a" length="40933908" type="audio/x-m4a"/>
 <itunes:duration>00:21:11</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>64 · The ClawCast · 2026-08-12 · Episode 7 — Unfiltered Q&amp;A with OpenClaw Founder Peter Steinberger</title>
+<title>58 · The ClawCast · 2026-08-12 · Episode 7 — Unfiltered Q&amp;A with OpenClaw Founder Peter Steinberger</title>
 <link>https://openclaw.ai/podcast/episode-7</link>
-<guid isPermaLink="false">aios-t1-64</guid>
+<guid isPermaLink="false">aios-t1-58</guid>
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The ClawCast · Peter Steinberger (creator) · aired August 12, 2026
 Method · HIGH priority · T1 Openclaw
@@ -126,12 +126,12 @@ Original episode: https://openclaw.ai/podcast/episode-7</itunes:summary>
 <enclosure url="https://r.zen.ai/r/cdn.simplecast.com/media/audio/transcoded/75c667ea-2739-4306-96be-e15097ef0853/24832310-78fe-4898-91be-6db33696c4ba/episodes/audio/group/8640a9bc-3cfc-456e-a5a5-e4eda7589eff/group-item/6a020b38-34da-4c15-bb5b-a70e7032812a/128_default_tc.mp3?aid=rss_feed&amp;feed=gvtxUiIf" length="41995327" type="audio/mpeg"/>
 <itunes:duration>00:43:44</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>65 · MLOps Community Podcast #378 · 2026-05-19 · Autonomous Agents at Work: From OpenClaw Hype to Enterprise Reality</title>
+<title>59 · MLOps Community Podcast #378 · 2026-05-19 · Autonomous Agents at Work: From OpenClaw Hype to Enterprise Reality</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Autonomous-Agents-at-Work-From-OpenClaw-Hype-to-Enterprise-Reality-e3jj7u3</link>
-<guid isPermaLink="false">aios-t1-65</guid>
+<guid isPermaLink="false">aios-t1-59</guid>
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>MLOps Community Podcast #378 · Pramod Krishnan (Managing Director, AI Managed Services, PwC US) · aired May 19, 2026
 Method · HIGH priority · T1 Openclaw
@@ -149,36 +149,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Autonom
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/120216963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424456257-44100-2-d636e656a7239.mp3" length="40629811" type="audio/mpeg"/>
 <itunes:duration>00:42:19</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
-</item>
-<item>
-<title>66 · OpenClaw Cast · 2026-05-08 · OpenClaw Just Got Stable Releases — Is There Any Reason to Use Hermes Now?</title>
-<link>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</link>
-<guid isPermaLink="false">aios-t1-66</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
-<description>OpenClaw Cast · Cleo and Dev (hosts) · aired May 8, 2026
-Method · HIGH priority · T1 Openclaw
-
-Why it's here: Direct harness-vs-harness comparison after OpenClaw shipped stable releases: whether the stability gap that pushed users to Hermes still justifies switching, plus a member running OpenClaw as a full sysadmin on local Qwen with zero internet exposure.
-
-Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</description>
-<itunes:summary>OpenClaw Cast · Cleo and Dev (hosts) · aired May 8, 2026
-Method · HIGH priority · T1 Openclaw
-
-Why it's here: Direct harness-vs-harness comparison after OpenClaw shipped stable releases: whether the stability gap that pushed users to Hermes still justifies switching, plus a member running OpenClaw as a full sysadmin on local Qwen with zero internet exposure.
-
-Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</itunes:summary>
-<content:encoded><![CDATA[<p><strong>OpenClaw Cast</strong> &middot; Cleo and Dev (hosts) &middot; aired May 8, 2026</p><p>Method &middot; HIGH priority &middot; T1 Openclaw</p><p><strong>Why it's here:</strong> Direct harness-vs-harness comparison after OpenClaw shipped stable releases: whether the stability gap that pushed users to Hermes still justifies switching, plus a member running OpenClaw as a full sysadmin on local Qwen with zero internet exposure.</p><p><a href="https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/10f77d9e4/podcast/play/119693959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-8%2F4b03917d-469c-dd9c-afc9-4868d5c82a0b.m4a" length="39848856" type="audio/x-m4a"/>
-<itunes:duration>00:20:38</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>67 · The AI Daily Brief · 2026-02-12 · How I Built My 10-Agent OpenClaw Team</title>
+<title>60 · The AI Daily Brief · 2026-02-12 · How I Built My 10-Agent OpenClaw Team</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Built-My-10-Agent-OpenClaw-Team-e3ev5p8</link>
-<guid isPermaLink="false">aios-t1-67</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t1-60</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>The AI Daily Brief · NLW (host, solo build teardown) · aired February 12, 2026
 BUILD · MEDIUM priority · T1 Openclaw
 
@@ -198,10 +175,10 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-I-Bui
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>68 · The Startup Ideas Podcast · 2026-03-19 · My OpenClaw setup that finally works (Complete Walkthrough)</title>
+<title>61 · The Startup Ideas Podcast · 2026-03-19 · My OpenClaw setup that finally works (Complete Walkthrough)</title>
 <link>https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-finally-works-complete-walkthrough/id1593424985?i=1000756206071</link>
-<guid isPermaLink="false">aios-t1-68</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t1-61</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Moritz Kremb (OpenClaw power user, agency builder, Berlin) · aired March 19, 2026
 BUILD · MEDIUM priority · T1 Openclaw
 
@@ -221,10 +198,10 @@ Original episode: https://podcasts.apple.com/us/podcast/my-openclaw-setup-that-f
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>69 · The AI Daily Brief · 2026-03-08 · 10 OpenClaw Lessons for Building Agent Teams</title>
+<title>62 · The AI Daily Brief · 2026-03-08 · 10 OpenClaw Lessons for Building Agent Teams</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenClaw-Lessons-for-Building-Agent-Teams-e3g40vm</link>
-<guid isPermaLink="false">aios-t1-69</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t1-62</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>The AI Daily Brief · Nathaniel Whittemore (host, solo) · aired March 8, 2026
 Method · MEDIUM priority · T1 Openclaw
 
@@ -244,10 +221,10 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/10-OpenCl
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>70 · Lex Fridman Podcast · 2026-02-11 · #491 – OpenClaw: The Viral AI Agent that Broke the Internet</title>
+<title>63 · Lex Fridman Podcast · 2026-02-11 · #491 – OpenClaw: The Viral AI Agent that Broke the Internet</title>
 <link>https://lexfridman.com/peter-steinberger/</link>
-<guid isPermaLink="false">aios-t1-70</guid>
-<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t1-63</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>Lex Fridman Podcast · Peter Steinberger (creator of OpenClaw) · aired February 11, 2026
 Method · MEDIUM priority · T1 Openclaw
 
@@ -267,10 +244,10 @@ Original episode: https://lexfridman.com/peter-steinberger/</itunes:summary>
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>71 · The Cognitive Revolution · 2026-03-08 · Try this at Home: Jesse Genet on OpenClaw Agents for Homeschool &amp; How to Live Your Best AI Life</title>
+<title>64 · The Cognitive Revolution · 2026-03-08 · Try this at Home: Jesse Genet on OpenClaw Agents for Homeschool &amp; How to Live Your Best AI Life</title>
 <link>https://www.cognitiverevolution.ai/try-this-at-home-jesse-genet-on-openclaw-agents-for-homeschool-how-to-live-your-best-ai-life/</link>
-<guid isPermaLink="false">aios-t1-71</guid>
-<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t1-64</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired March 8, 2026
 Method · MEDIUM priority · T1 Openclaw
 

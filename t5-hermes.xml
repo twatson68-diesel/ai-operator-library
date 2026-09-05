@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · Hermes</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Hermes Agent: the self-improving harness from Nous Research. Setups, the skills-and-memory loop, VPS deployments, and honest comparisons against OpenClaw. 10 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Hermes Agent: the self-improving harness from Nous Research. Setups, the skills-and-memory loop, VPS deployments, and honest comparisons against OpenClaw. 10 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t5-hermes-20260905.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t5-hermes-20260905.jpg</url><title>AI OS · Hermes</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>120 · The Growth Podcast · 2026-08-28 · How to build a Company Operating System with Hermes and OpenClaw</title>
+<link>https://www.news.aakashg.com/p/company-os-hermes-openclaw</link>
+<guid isPermaLink="false">aios-t5-120</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>The Growth Podcast · Mikhail Shcheglov (CPO, OLX Classifieds) · aired August 28, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: Five months running a company operating system on OpenClaw plus Hermes: a knowledge graph covering 54% of company context, tracked as a personal KPI, with the agent making backlog calls ahead of his PMs.
+
+Original episode: https://www.news.aakashg.com/p/company-os-hermes-openclaw</description>
+<itunes:summary>The Growth Podcast · Mikhail Shcheglov (CPO, OLX Classifieds) · aired August 28, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: Five months running a company operating system on OpenClaw plus Hermes: a knowledge graph covering 54% of company context, tracked as a personal KPI, with the agent making backlog calls ahead of his PMs.
+
+Original episode: https://www.news.aakashg.com/p/company-os-hermes-openclaw</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Growth Podcast</strong> &middot; Mikhail Shcheglov (CPO, OLX Classifieds) &middot; aired August 28, 2026</p><p>BUILD &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> Five months running a company operating system on OpenClaw plus Hermes: a knowledge graph covering 54% of company context, tracked as a personal KPI, with the agent making backlog calls ahead of his PMs.</p><p><a href="https://www.news.aakashg.com/p/company-os-hermes-openclaw">Open the original episode &rarr;</a><br/>https://www.news.aakashg.com/p/company-os-hermes-openclaw</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/212868183/a34952ca3b9a098c9c086cecd9596853.mp3" length="63724702" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
+<title>121 · Tool Use - AI Conversations · 2026-04-14 · Hermes Agent has won. Here's why</title>
+<link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</link>
+<guid isPermaLink="false">aios-t5-121</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>Tool Use - AI Conversations · aired April 14, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: A Nous Research co-founder walks the three-layer memory model and the self-improving skills loop, then the concrete jobs people run on it — a video dubbing pipeline and CAD hardware sourcing.
+
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</description>
+<itunes:summary>Tool Use - AI Conversations · aired April 14, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: A Nous Research co-founder walks the three-layer memory model and the self-improving skills loop, then the concrete jobs people run on it — a video dubbing pipeline and CAD hardware sourcing.
+
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Tool Use - AI Conversations</strong> &middot; aired April 14, 2026</p><p>BUILD &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> A Nous Research co-founder walks the three-layer memory model and the self-improving skills loop, then the concrete jobs people run on it — a video dubbing pipeline and CAD hardware sourcing.</p><p><a href="https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/118442819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F422052970-44100-2-25906159f3563.mp3" length="33939538" type="audio/mpeg"/>
+<itunes:duration>00:35:21</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>122 · The Great Spin Up · 2026-04-22 · Hermes Agents, Signal vs Noise, LLM Wikis,  Talking to Animals, the Abundance Paradox</title>
+<link>https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</link>
+<guid isPermaLink="false">aios-t5-122</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>The Great Spin Up · aired April 22, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: River's build log: Hermes on a $10/month Hetzner VPS behind a Telegram gateway with open models via OpenRouter, including the SSH problems that came with it.
+
+Original episode: https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</description>
+<itunes:summary>The Great Spin Up · aired April 22, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: River's build log: Hermes on a $10/month Hetzner VPS behind a Telegram gateway with open models via OpenRouter, including the SSH problems that came with it.
+
+Original episode: https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Great Spin Up</strong> &middot; aired April 22, 2026</p><p>BUILD &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> River&#x27;s build log: Hermes on a $10/month Hetzner VPS behind a Telegram gateway with open models via OpenRouter, including the SSH problems that came with it.</p><p><a href="https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</p>]]></content:encoded>
+<enclosure url="https://api.riverside.com/hosting-analytics/media/949043a52e89bf1077dcf214c248b4bac28ed79d42398bfc28571d861e40a921/eyJlcGlzb2RlSWQiOiJiNTUyNWUzMi0yYzAyLTRkOWMtOWJjNC02ZTI1YjZiMGY5YzQiLCJwb2RjYXN0SWQiOiIyMjY3YzU2ZS1hZTYzLTQ2ZTItYTUzZS1iM2MwYWZlNzdkZmQiLCJhY2NvdW50SWQiOiI2NzU5ZDE1ODA0YmM3ODBhODJiMjE0ZTkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNjllODdhNmQ2MTA3OWVhMGU4ZWFiYTU2L3RoZS1ncmVhdC1zcGluLXVwLWNvbXBvc2VyLTIwMjYtNC0yMl9fOS0zNi0xMy5tcDMifQ==.mp3" length="112471083" type="audio/mpeg"/>
+<itunes:duration>01:18:06</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>123 · Tina Huang · 2026-08-26 · My FULL Hermes Agent Setup (HermesOS)</title>
+<link>https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</link>
+<guid isPermaLink="false">aios-t5-123</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>Tina Huang · aired August 26, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: Tina Huang's multi-agent 'HermesOS' layout on a one-click VPS, walked profile by profile — the closest thing to a full reference architecture on tape.
+
+Original episode: https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</description>
+<itunes:summary>Tina Huang · aired August 26, 2026
+BUILD · HIGH priority · T5 Hermes
+
+Why it's here: Tina Huang's multi-agent 'HermesOS' layout on a one-click VPS, walked profile by profile — the closest thing to a full reference architecture on tape.
+
+Original episode: https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Tina Huang</strong> &middot; aired August 26, 2026</p><p>BUILD &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> Tina Huang&#x27;s multi-agent &#x27;HermesOS&#x27; layout on a one-click VPS, walked profile by profile — the closest thing to a full reference architecture on tape.</p><p><a href="https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</p>]]></content:encoded>
+<enclosure url="https://traffic.megaphone.fm/PODAGEN3996715942.mp3" length="12952442" type="audio/mpeg"/>
+<itunes:duration>1074</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>124 · OpenClaw Cast · 2026-05-08 · OpenClaw Just Got Stable Releases — Is There Any Reason to Use Hermes Now?</title>
+<link>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</link>
+<guid isPermaLink="false">aios-t5-124</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>OpenClaw Cast · Cleo and Dev (hosts) · aired May 8, 2026
+Method · HIGH priority · T5 Hermes
+
+Why it's here: Direct harness-vs-harness comparison after OpenClaw shipped stable releases: whether the stability gap that pushed users to Hermes still justifies switching, plus a member running OpenClaw as a full sysadmin on local Qwen with zero internet exposure.
+
+Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</description>
+<itunes:summary>OpenClaw Cast · Cleo and Dev (hosts) · aired May 8, 2026
+Method · HIGH priority · T5 Hermes
+
+Why it's here: Direct harness-vs-harness comparison after OpenClaw shipped stable releases: whether the stability gap that pushed users to Hermes still justifies switching, plus a member running OpenClaw as a full sysadmin on local Qwen with zero internet exposure.
+
+Original episode: https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</itunes:summary>
+<content:encoded><![CDATA[<p><strong>OpenClaw Cast</strong> &middot; Cleo and Dev (hosts) &middot; aired May 8, 2026</p><p>Method &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> Direct harness-vs-harness comparison after OpenClaw shipped stable releases: whether the stability gap that pushed users to Hermes still justifies switching, plus a member running OpenClaw as a full sysadmin on local Qwen with zero internet exposure.</p><p><a href="https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/digital-nomad-on-fire1/episodes/OpenClaw-Just-Got-Stable-Releases--Is-There-Any-Reason-to-Use-Hermes-Now-e3j3967</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10f77d9e4/podcast/play/119693959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-8%2F4b03917d-469c-dd9c-afc9-4868d5c82a0b.m4a" length="39848856" type="audio/x-m4a"/>
+<itunes:duration>00:20:38</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>125 · Practical AI · 2026-05-21 · Hermes Agent: Agents that grow with you</title>
+<link>https://share.transistor.fm/s/451da102</link>
+<guid isPermaLink="false">aios-t5-125</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired May 21, 2026
+Method · HIGH priority · T5 Hermes
+
+Why it's here: Nous Research's CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.
+
+Original episode: https://share.transistor.fm/s/451da102</description>
+<itunes:summary>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired May 21, 2026
+Method · HIGH priority · T5 Hermes
+
+Why it's here: Nous Research's CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.
+
+Original episode: https://share.transistor.fm/s/451da102</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) &middot; aired May 21, 2026</p><p>Method &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> Nous Research&#x27;s CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.</p><p><a href="https://share.transistor.fm/s/451da102">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/451da102</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/451da102/629a058c.mp3" length="49677807" type="audio/mpeg"/>
+<itunes:duration>3102</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>126 · Behind the Craft · 2026-08-02 · Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</link>
+<guid isPermaLink="false">aios-t5-126</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired August 2, 2026
+Method · HIGH priority · T5 Hermes
+
+Why it's here: The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</description>
+<itunes:summary>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired August 2, 2026
+Method · HIGH priority · T5 Hermes
+
+Why it's here: The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Karan Malhotra (co-founder, Nous Research) &middot; aired August 2, 2026</p><p>Method &middot; HIGH priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123578120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F428997642-44100-2-959440e09f2bb.mp3" length="44870007" type="audio/mpeg"/>
+<itunes:duration>00:46:44</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>127 · This Week in AI · 2026-06-10 · Hermes Agent, NotebookLM &amp; LiveKit Founders on the AI Agent Race | TWiAI 17</title>
+<link>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</link>
+<guid isPermaLink="false">aios-t5-127</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired June 10, 2026
+Method · MEDIUM priority · T5 Hermes
+
+Why it's here: Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.
+
+Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</description>
+<itunes:summary>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired June 10, 2026
+Method · MEDIUM priority · T5 Hermes
+
+Why it's here: Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.
+
+Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</itunes:summary>
+<content:encoded><![CDATA[<p><strong>This Week in AI</strong> &middot; Founders of Hermes Agent, NotebookLM and LiveKit &middot; aired June 10, 2026</p><p>Method &middot; MEDIUM priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.</p><p><a href="https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10803d078/podcast/play/121295841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-10%2F425898135-44100-2-00850ad918182.mp3" length="85317171" type="audio/mpeg"/>
+<itunes:duration>01:28:52</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>128 · AI with Arun Show · 2026-08-22 · Hermes Agent: Assessing Memory, Reasoning, and Reliability in Open-Source AI</title>
+<link>https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</link>
+<guid isPermaLink="false">aios-t5-128</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>AI with Arun Show · aired August 22, 2026
+Method · MEDIUM priority · T5 Hermes
+
+Why it's here: Sainik Ghosh of UC Berkeley demos the cross-session profile on travel preferences and automated resume screening, and warns about silent filtering failures you won't notice.
+
+Original episode: https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</description>
+<itunes:summary>AI with Arun Show · aired August 22, 2026
+Method · MEDIUM priority · T5 Hermes
+
+Why it's here: Sainik Ghosh of UC Berkeley demos the cross-session profile on travel preferences and automated resume screening, and warns about silent filtering failures you won't notice.
+
+Original episode: https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</itunes:summary>
+<content:encoded><![CDATA[<p><strong>AI with Arun Show</strong> &middot; aired August 22, 2026</p><p>Method &middot; MEDIUM priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> Sainik Ghosh of UC Berkeley demos the cross-session profile on travel preferences and automated resume screening, and warns about silent filtering failures you won&#x27;t notice.</p><p><a href="https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/c866b5c/podcast/play/124570340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Fb88a4b18-21ff-45be-3898-fa1364b3d134.m4a" length="39050675" type="audio/x-m4a"/>
+<itunes:duration>00:20:13</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>129 · The Sovereign Agent Podcast · 2026-07-28 · Stop Renting AI How Hermes Agent Turns Daily Tasks Into Permanent Enterprise Assets</title>
+<link>https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</link>
+<guid isPermaLink="false">aios-t5-129</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<description>The Sovereign Agent Podcast · aired July 28, 2026
+Method · MEDIUM priority · T5 Hermes
+
+Why it's here: The case against single-frontier-model lock-in: reusable skills as durable company assets rather than rented chat sessions.
+
+Original episode: https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</description>
+<itunes:summary>The Sovereign Agent Podcast · aired July 28, 2026
+Method · MEDIUM priority · T5 Hermes
+
+Why it's here: The case against single-frontier-model lock-in: reusable skills as durable company assets rather than rented chat sessions.
+
+Original episode: https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Sovereign Agent Podcast</strong> &middot; aired July 28, 2026</p><p>Method &middot; MEDIUM priority &middot; T5 Hermes</p><p><strong>Why it's here:</strong> The case against single-frontier-model lock-in: reusable skills as durable company assets rather than rented chat sessions.</p><p><a href="https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets">Open the original episode &rarr;</a><br/>https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</p>]]></content:encoded>
+<enclosure url="https://podcasts.beehiiv.com/2785ac3c-1550-4cf3-934d-1ff5e89213d3/019fa6e6-b053-7aaa-9dee-3d4dc3aba084/019fa6ea-0347-7968-b3dc-061073fc059b/019fa6ea-06ce-774d-8b74-c01092eff49f.mp3" length="35797378" type="audio/mpeg"/>
+<itunes:duration>2203</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
