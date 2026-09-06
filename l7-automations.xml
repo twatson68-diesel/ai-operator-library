@@ -4,19 +4,19 @@
 <title>AI OS · L7 Automations</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 7 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 7 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-20260905.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-20260905.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-20260906.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-20260906.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>43 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
+<title>44 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</link>
-<guid isPermaLink="false">aios-l7-43</guid>
+<guid isPermaLink="false">aios-l7-44</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired May 27, 2026
 BUILD · HIGH priority · L7 Automations
@@ -34,12 +34,12 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120583384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424944949-44100-2-5bf9048d90ac.mp3" length="29122977" type="audio/mpeg"/>
 <itunes:duration>00:30:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>44 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
+<title>45 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
 <link>https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</link>
-<guid isPermaLink="false">aios-l7-44</guid>
+<guid isPermaLink="false">aios-l7-45</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>Build With AI · Corey Ganim (host, solo) · aired April 14, 2026
 BUILD · HIGH priority · L7 Automations
@@ -57,12 +57,12 @@ Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines
 <enclosure url="https://media.transistor.fm/6972a421/b97f5f42.mp3" length="7460322" type="audio/mpeg"/>
 <itunes:duration>311</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>45 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
+<title>46 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
 <link>https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/How-We-Built-Claudie--Our-AI-Project-Manager-Full-Walkthrough-e3ekprc</link>
-<guid isPermaLink="false">aios-l7-45</guid>
+<guid isPermaLink="false">aios-l7-46</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>AI &amp; I (Every) · Natalia Quintero (Head of AI Consulting, Every) with Dan Shipper · aired February 4, 2026
 BUILD · HIGH priority · L7 Automations
@@ -80,13 +80,36 @@ Original episode: https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gp
 <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/ec562607/3ce518e5.mp3" length="113461230" type="audio/mpeg"/>
 <itunes:duration>2835</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>47 · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-09-03 · Agentic Loops for Knowledge Workers</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Loops-for-Knowledge-Workers-e3oaiu2</link>
+<guid isPermaLink="false">aios-l7-47</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>The AI Daily Brief: Artificial Intelligence News and Analysis · aired September 3, 2026
+BUILD · HIGH priority · L7 Automations
+
+Why it's here: Nufar Gaspar — whose architecture your own system is built on — on designing verifiable finish lines for agentic loops, choosing which tasks to loop, and preventing runaway cost and compounding errors.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Loops-for-Knowledge-Workers-e3oaiu2</description>
+<itunes:summary>The AI Daily Brief: Artificial Intelligence News and Analysis · aired September 3, 2026
+BUILD · HIGH priority · L7 Automations
+
+Why it's here: Nufar Gaspar — whose architecture your own system is built on — on designing verifiable finish lines for agentic loops, choosing which tasks to loop, and preventing runaway cost and compounding errors.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Loops-for-Knowledge-Workers-e3oaiu2</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief: Artificial Intelligence News and Analysis</strong> &middot; aired September 3, 2026</p><p>BUILD &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Nufar Gaspar — whose architecture your own system is built on — on designing verifiable finish lines for agentic loops, choosing which tasks to loop, and preventing runaway cost and compounding errors.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Loops-for-Knowledge-Workers-e3oaiu2">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Loops-for-Knowledge-Workers-e3oaiu2</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/125176194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431145568-44100-2-0e1697b267ed2.mp3" length="54805732" type="audio/mpeg"/>
+<itunes:duration>00:57:05</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>46 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
+<title>48 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
 <link>https://podcasts.apple.com/us/podcast/8-the-ai-that-works-while-you-sleep-scheduled-tasks/id1882007947?i=1000753740190</link>
-<guid isPermaLink="false">aios-l7-46</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-48</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · Host (solo) · aired March 7, 2026
 Method · HIGH priority · L7 Automations
 
@@ -106,10 +129,10 @@ Original episode: https://podcasts.apple.com/us/podcast/8-the-ai-that-works-whil
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>47 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
+<title>49 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
 <link>https://podcasts.apple.com/us/podcast/how-to-build-an-ai-native-company-in-2026/id1593424985?i=1000783021863</link>
-<guid isPermaLink="false">aios-l7-47</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-49</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Allie K. Miller · aired August 12, 2026
 Method · HIGH priority · L7 Automations
 
@@ -129,10 +152,10 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-build-an-ai-nativ
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>48 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
+<title>50 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
 <link>https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conversation-on-ai-agents-with-flo-crivello/</link>
-<guid isPermaLink="false">aios-l7-48</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-50</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Flo Crivello · aired June 21, 2025
 Method · HIGH priority · L7 Automations
 
@@ -152,10 +175,10 @@ Original episode: https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conver
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>49 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
+<title>51 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
 <link>https://www.buzzsprout.com/2175779/episodes/19635247</link>
-<guid isPermaLink="false">aios-l7-49</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-51</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>Everyday AI · Jordan Wilson · aired August 12, 2026
 BUILD · MEDIUM priority · L7 Automations
 

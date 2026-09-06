@@ -4,15 +4,15 @@
 <title>AI OS · L3 Skills</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Your repeatable work written as instruction files the agent invokes on its own. 10 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Your repeatable work written as instruction files the agent invokes on its own. 11 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Your repeatable work written as instruction files the agent invokes on its own. 10 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Your repeatable work written as instruction files the agent invokes on its own. 11 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l3-skills-20260905.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l3-skills-20260905.jpg</url><title>AI OS · L3 Skills</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l3-skills-20260906.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l3-skills-20260906.jpg</url><title>AI OS · L3 Skills</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
 <title>14 · How I AI · 2026-07-08 · What a harness is and how to build one with Claude Agent SDK</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/What-a-harness-is-and-how-to-build-one-with-Claude-Agent-SDK-e3lnv0k</link>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/What
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/122468820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427472067-44100-2-b6d14be11b2df.mp3" length="23613857" type="audio/mpeg"/>
 <itunes:duration>00:24:35</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>11</itunes:episode>
 </item>
 <item>
 <title>15 · Build With AI · 2026-04-01 · # 154 I Replaced an 8-Person Marketing Team With Claude Code (full tutorial)</title>
@@ -57,7 +57,7 @@ Original episode: https://podcasts.apple.com/us/podcast/154-i-replaced-an-8-pers
 <enclosure url="https://media.transistor.fm/9de157be/da3e90cf.mp3" length="103696062" type="audio/mpeg"/>
 <itunes:duration>4321</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
 <title>16 · Practical AI · 2025-12-17 · Beyond chatbots: agents that tackle your SOPs</title>
@@ -80,13 +80,36 @@ Original episode: https://practicalai.show/341</itunes:summary>
 <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/49afc59f/0704690c.mp3" length="44217343" type="audio/mpeg"/>
 <itunes:duration>2753</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>17 · How I AI · 2026-08-31 · How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-I-turned-Claude-into-a-self-improving-PM-assistant--Daniel-Blum-PM--Melio-e3nunqh</link>
+<guid isPermaLink="false">aios-l3-17</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>How I AI · aired August 31, 2026
+BUILD · HIGH priority · L3 Skills
+
+Why it's here: Daniel Blum, PM at Melio, on a year-old Claude and Cowork system that runs his Notion board and improves its own instructions — the closest published analogue to your own setup.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-I-turned-Claude-into-a-self-improving-PM-assistant--Daniel-Blum-PM--Melio-e3nunqh</description>
+<itunes:summary>How I AI · aired August 31, 2026
+BUILD · HIGH priority · L3 Skills
+
+Why it's here: Daniel Blum, PM at Melio, on a year-old Claude and Cowork system that runs his Notion board and improves its own instructions — the closest published analogue to your own setup.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-I-turned-Claude-into-a-self-improving-PM-assistant--Daniel-Blum-PM--Melio-e3nunqh</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; aired August 31, 2026</p><p>BUILD &middot; HIGH priority &middot; L3 Skills</p><p><strong>Why it's here:</strong> Daniel Blum, PM at Melio, on a year-old Claude and Cowork system that runs his Notion board and improves its own instructions — the closest published analogue to your own setup.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-I-turned-Claude-into-a-self-improving-PM-assistant--Daniel-Blum-PM--Melio-e3nunqh">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-I-turned-Claude-into-a-self-improving-PM-assistant--Daniel-Blum-PM--Melio-e3nunqh</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/124787985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430681978-44100-2-86c3a890c1727.mp3" length="44287790" type="audio/mpeg"/>
+<itunes:duration>00:46:07</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>17 · The AI Daily Brief · 2026-04-02 · Agent Skills Masterclass</title>
+<title>18 · The AI Daily Brief · 2026-04-02 · Agent Skills Masterclass</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/Agent-Skills-Masterclass-e3hasv7</link>
-<guid isPermaLink="false">aios-l3-17</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-18</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The AI Daily Brief · Nufar Gaspar (Agent OS creator) with Nathaniel Whittemore · aired April 2, 2026
 Method · HIGH priority · L3 Skills
 
@@ -106,10 +129,10 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agent-Ski
 <itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>18 · The Startup Ideas Podcast · 2026-08-19 · You need to be skillsmaxxing (10x your Claude/Codex)</title>
+<title>19 · The Startup Ideas Podcast · 2026-08-19 · You need to be skillsmaxxing (10x your Claude/Codex)</title>
 <link>https://podcasts.apple.com/us/podcast/you-need-to-be-skillsmaxxing-10x-your-claude-codex/id1593424985?i=1000784410060</link>
-<guid isPermaLink="false">aios-l3-18</guid>
-<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-19</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Remy (AI with Remy) · aired August 19, 2026
 Method · HIGH priority · L3 Skills
 
@@ -129,10 +152,10 @@ Original episode: https://podcasts.apple.com/us/podcast/you-need-to-be-skillsmax
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>19 · The Cognitive Revolution · 2026-04-08 · Calm AI for Crazy Days: Inside Granola's Design Philosophy, with co-founder Sam Stephenson</title>
+<title>20 · The Cognitive Revolution · 2026-04-08 · Calm AI for Crazy Days: Inside Granola's Design Philosophy, with co-founder Sam Stephenson</title>
 <link>https://www.cognitiverevolution.ai/calm-ai-for-crazy-days-inside-granola-s-design-philosophy-with-co-founder-sam-stephenson/</link>
-<guid isPermaLink="false">aios-l3-19</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-20</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · co-founder Sam Stephenson · aired April 8, 2026
 Method · HIGH priority · L3 Skills
 
@@ -152,10 +175,10 @@ Original episode: https://www.cognitiverevolution.ai/calm-ai-for-crazy-days-insi
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>20 · Build With AI · 2026-03-18 · # 150 I Built A $100K Research Assistant With Claude Code (for FREE)</title>
+<title>21 · Build With AI · 2026-03-18 · # 150 I Built A $100K Research Assistant With Claude Code (for FREE)</title>
 <link>https://podcasts.apple.com/us/podcast/150-i-built-a-%24100k-research-assistant-with-claude/id1689819329?i=1000755902942</link>
-<guid isPermaLink="false">aios-l3-20</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-21</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>Build With AI · Adam Sandler (Viable Edge) with Corey Ganim · aired March 18, 2026
 BUILD · MEDIUM priority · L3 Skills
 
@@ -175,10 +198,10 @@ Original episode: https://podcasts.apple.com/us/podcast/150-i-built-a-%24100k-re
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>21 · How I AI · 2026-08-17 · How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder</title>
+<title>22 · How I AI · 2026-08-17 · How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-a-solo-founder-used-Codex-and-ChatGPT-to-launch-a-fashion-brand-without-engineers--Yana-Welinder-e3nc7u2</link>
-<guid isPermaLink="false">aios-l3-21</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-22</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Yana Welinder, founder of Yana Bana · aired August 17, 2026
 BUILD · MEDIUM priority · L3 Skills
 
@@ -198,10 +221,10 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>22 · Latent Space · 2026-01-17 · Brex's AI Hail Mary</title>
+<title>23 · Latent Space · 2026-01-17 · Brex's AI Hail Mary</title>
 <link>https://www.latent.space/p/brexs-ai-hail-mary-with-cto-james</link>
-<guid isPermaLink="false">aios-l3-22</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-23</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>Latent Space · James Reggio (Brex CTO) · aired January 17, 2026
 Method · MEDIUM priority · L3 Skills
 
@@ -221,10 +244,10 @@ Original episode: https://www.latent.space/p/brexs-ai-hail-mary-with-cto-james</
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>23 · The Cognitive Revolution · 2026-06-17 · Radically Better Reasoning: Elicit's Andreas Stuhlmüller &amp; Jungwon Byun on World Models for Research</title>
+<title>24 · The Cognitive Revolution · 2026-06-17 · Radically Better Reasoning: Elicit's Andreas Stuhlmüller &amp; Jungwon Byun on World Models for Research</title>
 <link>https://www.cognitiverevolution.ai/radically-better-reasoning-elicit-s-andreas-stuhlmuller-jungwon-byun-on-world-models-for-research/</link>
-<guid isPermaLink="false">aios-l3-23</guid>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l3-24</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired June 17, 2026
 Method · MEDIUM priority · L3 Skills
 
