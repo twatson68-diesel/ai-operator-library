@@ -11,12 +11,12 @@
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t5-hermes-20260906.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t5-hermes-20260906.jpg</url><title>AI OS · Hermes</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t5-hermes-20260908.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t5-hermes-20260908.jpg</url><title>AI OS · Hermes</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>124 · The Growth Podcast · 2026-08-28 · How to build a Company Operating System with Hermes and OpenClaw</title>
+<title>77 · The Growth Podcast · 2026-08-28 · How to build a Company Operating System with Hermes and OpenClaw</title>
 <link>https://www.news.aakashg.com/p/company-os-hermes-openclaw</link>
-<guid isPermaLink="false">aios-t5-124</guid>
+<guid isPermaLink="false">aios-t5-77</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Growth Podcast · Mikhail Shcheglov (CPO, OLX Classifieds) · aired August 28, 2026
 BUILD · HIGH priority · T5 Hermes
@@ -37,9 +37,9 @@ Original episode: https://www.news.aakashg.com/p/company-os-hermes-openclaw</itu
 <itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>125 · Tool Use - AI Conversations · 2026-04-14 · Hermes Agent has won. Here's why</title>
+<title>78 · Tool Use - AI Conversations · 2026-04-14 · Hermes Agent has won. Here's why</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</link>
-<guid isPermaLink="false">aios-t5-125</guid>
+<guid isPermaLink="false">aios-t5-78</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · aired April 14, 2026
 BUILD · HIGH priority · T5 Hermes
@@ -60,9 +60,9 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Herme
 <itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>126 · The Great Spin Up · 2026-04-22 · Hermes Agents, Signal vs Noise, LLM Wikis,  Talking to Animals, the Abundance Paradox</title>
+<title>79 · The Great Spin Up · 2026-04-22 · Hermes Agents, Signal vs Noise, LLM Wikis,  Talking to Animals, the Abundance Paradox</title>
 <link>https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</link>
-<guid isPermaLink="false">aios-t5-126</guid>
+<guid isPermaLink="false">aios-t5-79</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Great Spin Up · aired April 22, 2026
 BUILD · HIGH priority · T5 Hermes
@@ -83,9 +83,9 @@ Original episode: https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-
 <itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>127 · Tina Huang · 2026-08-26 · My FULL Hermes Agent Setup (HermesOS)</title>
+<title>80 · Tina Huang · 2026-08-26 · My FULL Hermes Agent Setup (HermesOS)</title>
 <link>https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</link>
-<guid isPermaLink="false">aios-t5-127</guid>
+<guid isPermaLink="false">aios-t5-80</guid>
 <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>Tina Huang · aired August 26, 2026
 BUILD · HIGH priority · T5 Hermes
@@ -106,9 +106,9 @@ Original episode: https://podcasts.apple.com/us/podcast/my-full-hermes-agent-set
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>128 · Practical AI · 2026-05-21 · Hermes Agent: Agents that grow with you</title>
+<title>81 · Practical AI · 2026-05-21 · Hermes Agent: Agents that grow with you</title>
 <link>https://share.transistor.fm/s/451da102</link>
-<guid isPermaLink="false">aios-t5-128</guid>
+<guid isPermaLink="false">aios-t5-81</guid>
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired May 21, 2026
 Method · HIGH priority · T5 Hermes
@@ -129,9 +129,9 @@ Original episode: https://share.transistor.fm/s/451da102</itunes:summary>
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>129 · Behind the Craft · 2026-08-02 · Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra</title>
+<title>82 · Behind the Craft · 2026-08-02 · Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra</title>
 <link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</link>
-<guid isPermaLink="false">aios-t5-129</guid>
+<guid isPermaLink="false">aios-t5-82</guid>
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired August 2, 2026
 Method · HIGH priority · T5 Hermes
@@ -152,9 +152,9 @@ Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>130 · This Week in AI · 2026-06-10 · Hermes Agent, NotebookLM &amp; LiveKit Founders on the AI Agent Race | TWiAI 17</title>
+<title>83 · This Week in AI · 2026-06-10 · Hermes Agent, NotebookLM &amp; LiveKit Founders on the AI Agent Race | TWiAI 17</title>
 <link>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</link>
-<guid isPermaLink="false">aios-t5-130</guid>
+<guid isPermaLink="false">aios-t5-83</guid>
 <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired June 10, 2026
 Method · MEDIUM priority · T5 Hermes
@@ -175,9 +175,9 @@ Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Her
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>131 · AI with Arun Show · 2026-08-22 · Hermes Agent: Assessing Memory, Reasoning, and Reliability in Open-Source AI</title>
+<title>84 · AI with Arun Show · 2026-08-22 · Hermes Agent: Assessing Memory, Reasoning, and Reliability in Open-Source AI</title>
 <link>https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</link>
-<guid isPermaLink="false">aios-t5-131</guid>
+<guid isPermaLink="false">aios-t5-84</guid>
 <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>AI with Arun Show · aired August 22, 2026
 Method · MEDIUM priority · T5 Hermes
@@ -198,9 +198,9 @@ Original episode: https://podcasters.spotify.com/pod/show/aiwitharunshow/episode
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>132 · The Sovereign Agent Podcast · 2026-07-28 · Stop Renting AI How Hermes Agent Turns Daily Tasks Into Permanent Enterprise Assets</title>
+<title>85 · The Sovereign Agent Podcast · 2026-07-28 · Stop Renting AI How Hermes Agent Turns Daily Tasks Into Permanent Enterprise Assets</title>
 <link>https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</link>
-<guid isPermaLink="false">aios-t5-132</guid>
+<guid isPermaLink="false">aios-t5-85</guid>
 <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Sovereign Agent Podcast · aired July 28, 2026
 Method · MEDIUM priority · T5 Hermes

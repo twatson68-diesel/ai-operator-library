@@ -25,14 +25,14 @@ Tim has outgrown introductory material. **Reject anything that announces its own
 
 **Second Brain is closed.** No note-taking, Obsidian vaults, LLM-wiki builds, or personal knowledge base construction. The L0 feed was retired on 2026-08-23.
 
-## Active interests (weight new research here)
+## Active interests
 
-1. **OpenClaw** — fleets, internals, permissioning, multiplayer, what breaks at scale
-2. **Collaborating agents** — orchestrator/worker, delegation, handoff, shared state, coordination failure, and skeptical takes
-3. **Graphs** — knowledge graphs as agent memory, graph vs vector, GraphRAG critiques, context graphs, entity resolution
-4. **Semantic layer** — added 2026-09-01. Governed metric definitions as the interface between agents and data: dbt Semantic Layer/MetricFlow, Cube, AtScale, LookML, Malloy, Snowflake Semantic Views, Databricks Metric Views; headless BI and metric stores; why text-to-SQL alone fails on a real warehouse; ontologies and business glossaries as the substrate; and critiques of metric-layer projects that failed. Directly relevant to his Salesforce + Tableau + warehouse stack — an agent that answers a revenue question has to get the metric definition right, not just the SQL.
+**Hermes use and build is the focus** as of 2026-09-07. Tim: "im particularly focused on hermes use and build right now." Weight hands-on Hermes material above everything else: setup walkthroughs, architecture and internals of the skills loop and memory, VPS/Docker/local-model deployment, skill authoring, subagent orchestration, gateway setup, cost control, and honest accounts of what broke. Nous Research people explaining design decisions always qualify — Jeffrey Quesnelle, Karan Malhotra, Teknium, Bowen Peng, Emozilla.
 
-Specialist feeds are now in scope for these: GraphGeeks, Data Engineering Podcast, The Data Exchange, Weaviate, MLOps Community, TWIML, AI Engineering Podcast, and for the semantic layer also the Analytics Engineering Podcast, Catalog & Cocktails, DataFramed and The Analytics Power Hour.
+Still live but secondary: **collaborating agents** (T2) and **graphs** (T3).
+
+Retired, do not re-add: Second Brain (2026-08-23), Memory (2026-09-05), and as of 2026-09-07 **OpenClaw**, **Semantic Layer**, **Context** and **Verification**. That last cut removed 48 episodes. OpenClaw going is notable — it was interest #2 four days earlier and includes the OpenClaw 2.0 episode added the day before. Do not treat a retired topic as merely dormant.
+
 
 ## Feed size rule
 
@@ -98,6 +98,8 @@ Dropped regardless of how good it is:
 - **AI-narrated shows with no human practitioner** — Neural intel Pod, Impact Vector, Agentic AI at Work, AI Odyssey, Rapid Synthesis, Colaberry AI Podcast, Intellectually Curious, AI Fire Daily, Awesome Agents, Models & Agents, My Weird Prompts. These rank well on agent keywords and are worthless.
 
 ## Feedback log
+
+- `2026-09-07` — "remove open claw, semantic layer, open claw, contest, verification. im particularly focused on hermes use and build right now." Retired **OpenClaw (12), Semantic Layer (19), Context (8), Verification (9) = 48 episodes**, all archived and reversible. Read "contest" as Context, the only plausible match. Library 132 → 85, core 42 → 26. Checked first that no Hermes material was buried inside the doomed layers — none was. FOUND A REAL GAP: 4 of the 48 lived in `tcr_adds.json`, a second episode source `emit_v2.py` merges that I had never checked during a retirement; the build threw `KeyError: 'VERIFICATION'` and caught it. Any future layer retirement must purge BOTH `v2.json` and `tcr_adds.json`. Also worth noting the trajectory: five topics retired in 16 days, and OpenClaw was killed one day after I added two OpenClaw episodes to it. Additions to a young interest may not be worth the verification cost until it has held for a few weeks.
 
 - `2026-09-06` — Weekly run #5. Pruned 13 newly finished episodes (all of Identity's remaining picks, three Context, three Skills, three Connections, one Verification, one Agent Teams) — 28 now archived as listened. 104 new items in the window but only 38 were real: **Tina Huang's feed dumped 66 back-catalogue YouTube re-uploads** with fresh pubDates, all career and beginner content ("stop being lazy", "Why You Can't Find A Job", "Vibe Coding 101"). Added 5: How I AI's Grok-Bot-vs-OpenClaw stack migration and ADB on OpenClaw 2.0's multiplayer workspace → OpenClaw; ADB with **Nufar Gaspar** on agentic loops → Automations; Joe Reis on "death of data teams" → Semantic Layer, filling the thin critique angle; How I AI's self-improving PM assistant → Skills. GATES: relevance gate killed four Build With AI money-making episodes and two Startup Ideas; model-release rule killed both ThursdAI GPT-6 episodes, ADB on Fable 5.1, and How I AI on GPT-6 Astra; roundup rule killed TCR's AI:AM Highlights and Super Data Science's ICYMI. RULE STRAIN: The Cognitive Revolution's MongoDB episode on retrieval and agent memory was rejected only because Memory was retired yesterday — the topic is dead but adjacent material will keep arriving, so this will recur. Dropped The Data Exchange's agent-cost episode despite good content: its site 404s and the Apple lookup returned nothing, so no verifiable episode page.
 
