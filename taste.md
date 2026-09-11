@@ -27,11 +27,17 @@ Tim has outgrown introductory material. **Reject anything that announces its own
 
 ## Active interests
 
-**Hermes use and build is the focus** as of 2026-09-07. Tim: "im particularly focused on hermes use and build right now." Weight hands-on Hermes material above everything else: setup walkthroughs, architecture and internals of the skills loop and memory, VPS/Docker/local-model deployment, skill authoring, subagent orchestration, gateway setup, cost control, and honest accounts of what broke. Nous Research people explaining design decisions always qualify — Jeffrey Quesnelle, Karan Malhotra, Teknium, Bowen Peng, Emozilla.
+Two focus topics as of 2026-09-10:
 
-Still live but secondary: **collaborating agents** (T2) and **graphs** (T3).
+1. **Token optimization** (T6) — what agents cost to run. Context-window efficiency, context rot, compaction thresholds, prompt caching and cache economics, model routing to cheaper models for cheap subtasks, token budgets and per-agent cost accounting, and where spend actually leaks: long tool outputs, verbose system prompts, retry storms, runaway crons, subagent fan-out. Measured results earn a slot — "cut boot tokens by N%", "$X/month to $Y". Long-context vs RAG counts when framed as a cost decision, not a quality one.
 
-Retired, do not re-add: Second Brain (2026-08-23), Memory (2026-09-05), and as of 2026-09-07 **OpenClaw**, **Semantic Layer**, **Context** and **Verification**. That last cut removed 48 episodes. OpenClaw going is notable — it was interest #2 four days earlier and includes the OpenClaw 2.0 episode added the day before. Do not treat a retired topic as merely dormant.
+2. **Claude Code best practices** (T7) — how experienced people actually run it. CLAUDE.md design, subagents and delegation, parallel agents and worktrees, hooks, slash commands, custom skills, output styles, MCP wiring, permissions and allowlists, plan mode, context management, session handoff, and honest accounts of what broke. Tool comparisons only when the lesson is about running Claude Code better.
+
+Secondary, still live: **collaborating agents** (T2) and **graphs** (T3).
+
+Retired — do not re-add, do not treat as dormant: Second Brain (08-23), Memory (09-05), OpenClaw (09-07), Semantic Layer (09-07), Context (09-07), Verification (09-07), **Hermes (09-10)**.
+
+**Pattern worth respecting: seven topics retired in 18 days, and Hermes was the declared focus for three of them before being cut.** Interests here turn over fast. Prefer a tight, high-signal set per topic over exhaustive coverage, and don't spend heavy verification effort deepening a topic that is only days old.
 
 
 ## Feed size rule
@@ -98,6 +104,8 @@ Dropped regardless of how good it is:
 - **AI-narrated shows with no human practitioner** — Neural intel Pod, Impact Vector, Agentic AI at Work, AI Odyssey, Rapid Synthesis, Colaberry AI Podcast, Intellectually Curious, AI Fire Daily, Awesome Agents, Models & Agents, My Weird Prompts. These rank well on agent keywords and are worthless.
 
 ## Feedback log
+
+- `2026-09-10` — "Remove Hermes and open claw as topics... New topics: token optimization; Claude code best practices." Retired **Hermes (16 episodes)**, archived and reversible; OpenClaw was already gone from the 09-07 cut, so nothing to do there. Registered **T6 Token Optimization** and **T7 Claude Code**. Hermes had been the declared focus for exactly three days, and 7 of its 16 episodes were added on 09-07 specifically to deepen it — which is now sunk effort. Adjusted the approach accordingly: `FOCUS` in emit_v2.py now gives each new topic 6 core slots rather than 10, and the rubric records that interests here turn over in days, so new topics get a tight high-signal set rather than an exhaustive sweep.
 
 - `2026-09-07` (later) — Backfilled Hermes from 9 to 16 after the retirement left it thin: Eric Siu's operator numbers and his "kneecapped" config episode, two Wes Roth install walkthroughs, How I AI with Alex Finn on 24/7 local hardware, Intelligent Machines 874 with Jeffrey Quesnelle, and Fix My Business on framework churn. Also weighted core toward the focus topic — `FOCUS = {"HERMES": 10}` in emit_v2.py gives Hermes 10 slots instead of 3, so it is now 15 of 35 core episodes instead of competing evenly with dormant layers. CORPUS REALITY, third confirmation: mainstream dev and homelab shows have ZERO Hermes-agent episodes — Latent Space, MLOps, TWIML, Changelog, SE Daily, Syntax, Self-Hosted, LINUX Unplugged, Talk Python all checked. The deepest build material is non-English (Spanish Atareao ATA 807 on config decisions, French Big Data Hebdo 231 on the five-layer harness and ~10ms memory retrieval). If he wants more depth, translation is the only remaining lever. Dropped Julian Goldie's VPS episode despite good content — its episode page 404s.
 - `2026-09-07` — "remove open claw, semantic layer, open claw, contest, verification. im particularly focused on hermes use and build right now." Retired **OpenClaw (12), Semantic Layer (19), Context (8), Verification (9) = 48 episodes**, all archived and reversible. Read "contest" as Context, the only plausible match. Library 132 → 85, core 42 → 26. Checked first that no Hermes material was buried inside the doomed layers — none was. FOUND A REAL GAP: 4 of the 48 lived in `tcr_adds.json`, a second episode source `emit_v2.py` merges that I had never checked during a retirement; the build threw `KeyError: 'VERIFICATION'` and caught it. Any future layer retirement must purge BOTH `v2.json` and `tcr_adds.json`. Also worth noting the trajectory: five topics retired in 16 days, and OpenClaw was killed one day after I added two OpenClaw episodes to it. Additions to a young interest may not be worth the verification cost until it has held for a few weeks.

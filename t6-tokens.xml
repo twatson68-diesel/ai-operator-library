@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · Token Ops</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Cutting what agents cost to run: context-window efficiency, prompt caching, compaction, token budgets, and where spend actually leaks. 14 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Cutting what agents cost to run: context-window efficiency, prompt caching, compaction, token budgets, and where spend actually leaks. 14 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t6-tokens-202609110451.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t6-tokens-202609110451.jpg</url><title>AI OS · Token Ops</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>74 · Latent Space · 2026-08-03 · The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
+<link>https://www.latent.space/p/inference-eng</link>
+<guid isPermaLink="false">aios-t6-74</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>Latent Space · Philip Kiely &amp; Ali Taha (Baseten) · aired August 3, 2026
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3
+
+Original episode: https://www.latent.space/p/inference-eng</description>
+<itunes:summary>Latent Space · Philip Kiely &amp; Ali Taha (Baseten) · aired August 3, 2026
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3
+
+Original episode: https://www.latent.space/p/inference-eng</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Philip Kiely &amp; Ali Taha (Baseten) &middot; aired August 3, 2026</p><p>BUILD &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3</p><p><a href="https://www.latent.space/p/inference-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/inference-eng</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3" length="97421971" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>14</itunes:episode>
+</item>
+<item>
+<title>75 · Chain of Thought · 2026-06-25 · Stop Token Maxxing: Find Where AI Actually Pays Off \</title>
+<link>https://share.transistor.fm/s/81534de0</link>
+<guid isPermaLink="false">aios-t6-75</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>Chain of Thought · Jiaona Zhang · aired June 25, 2026
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://media.transistor.fm/81534de0/fed7bc4f.mp3
+
+Original episode: https://share.transistor.fm/s/81534de0</description>
+<itunes:summary>Chain of Thought · Jiaona Zhang · aired June 25, 2026
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://media.transistor.fm/81534de0/fed7bc4f.mp3
+
+Original episode: https://share.transistor.fm/s/81534de0</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Chain of Thought</strong> &middot; Jiaona Zhang &middot; aired June 25, 2026</p><p>BUILD &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://media.transistor.fm/81534de0/fed7bc4f.mp3</p><p><a href="https://share.transistor.fm/s/81534de0">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/81534de0</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/81534de0/fed7bc4f.mp3" length="110887816" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>13</itunes:episode>
+</item>
+<item>
+<title>76 · Agentic Conversations (formerly MLOps Community) · 2026-09-04 · The Five-Layer Cake Approach to Scaling AI Without Wasting Money</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</link>
+<guid isPermaLink="false">aios-t6-76</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>Agentic Conversations (formerly MLOps Community) · Ambud Sharma (Principal Engineer, Pinterest) · aired September 4, 2026
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</description>
+<itunes:summary>Agentic Conversations (formerly MLOps Community) · Ambud Sharma (Principal Engineer, Pinterest) · aired September 4, 2026
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Agentic Conversations (formerly MLOps Community)</strong> &middot; Ambud Sharma (Principal Engineer, Pinterest) &middot; aired September 4, 2026</p><p>BUILD &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3" length="37364296" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>12</itunes:episode>
+</item>
+<item>
+<title>77 · Agentic Conversations (MLOps Community #348) · 2025-11-21 · Context Engineering, Context Rot, &amp; Agentic Search with the CEO of Chroma, Jeff Huber</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</link>
+<guid isPermaLink="false">aios-t6-77</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>Agentic Conversations (MLOps Community #348) · Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann · aired November 21, 2025
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</description>
+<itunes:summary>Agentic Conversations (MLOps Community #348) · Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann · aired November 21, 2025
+BUILD · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Agentic Conversations (MLOps Community #348)</strong> &middot; Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann &middot; aired November 21, 2025</p><p>BUILD &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3" length="43120848" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode>
+</item>
+<item>
+<title>78 · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
+<link>https://www.latent.space/p/harness-eng</link>
+<guid isPermaLink="false">aios-t6-78</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
+Method · HIGH priority · T6 Token Ops
+
+Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
+
+Original episode: https://www.latent.space/p/harness-eng</description>
+<itunes:summary>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
+Method · HIGH priority · T6 Token Ops
+
+Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
+
+Original episode: https://www.latent.space/p/harness-eng</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Ryan Lopopolo (OpenAI Frontier) &middot; aired April 7, 2026</p><p>Method &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.</p><p><a href="https://www.latent.space/p/harness-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/harness-eng</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/193478192/2c0fb135ac3f9193c58922fcaf1b81a8.mp3" length="52357357" type="audio/mpeg"/>
+<itunes:duration>4363</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
+<title>79 · The Joe Reis Show · 2026-05-14 · The Hidden Cost of AI Agents on Your Cloud Bill - Sanjay Agrawal</title>
+<link>https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</link>
+<guid isPermaLink="false">aios-t6-79</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>The Joe Reis Show · Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) · aired May 14, 2026
+Method · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</description>
+<itunes:summary>The Joe Reis Show · Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) · aired May 14, 2026
+Method · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Joe Reis Show</strong> &middot; Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) &middot; aired May 14, 2026</p><p>Method &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3" length="50866467" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>80 · The AI Daily Brief · 2026-06-04 · How Companies Are Becoming AI Token Efficient</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</link>
+<guid isPermaLink="false">aios-t6-80</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief · NLW (Nathaniel Whittemore), solo · aired June 4, 2026
+Method · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</description>
+<itunes:summary>The AI Daily Brief · NLW (Nathaniel Whittemore), solo · aired June 4, 2026
+Method · HIGH priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; NLW (Nathaniel Whittemore), solo &middot; aired June 4, 2026</p><p>Method &middot; HIGH priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3" length="24843492" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>81 · Latent Space · 2026-04-22 · Shopify's AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO</title>
+<link>https://www.latent.space/p/shopify</link>
+<guid isPermaLink="false">aios-t6-81</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>Latent Space · Mikhail Parakhin (CTO, Shopify) · aired April 22, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3
+
+Original episode: https://www.latent.space/p/shopify</description>
+<itunes:summary>Latent Space · Mikhail Parakhin (CTO, Shopify) · aired April 22, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3
+
+Original episode: https://www.latent.space/p/shopify</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Mikhail Parakhin (CTO, Shopify) &middot; aired April 22, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3</p><p><a href="https://www.latent.space/p/shopify">Open the original episode &rarr;</a><br/>https://www.latent.space/p/shopify</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3" length="52140035" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>82 · Chain of Thought \ · 2026-02-26 · AI Agents, Infrastructure &amp; Engineering</title>
+<link>https://share.transistor.fm/s/0fd18337</link>
+<guid isPermaLink="false">aios-t6-82</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>Chain of Thought \ · How Intercom Cut $250K/Month by Ditching GPT for Qwen · aired February 26, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://media.transistor.fm/0fd18337/b333c541.mp3
+
+Original episode: https://share.transistor.fm/s/0fd18337</description>
+<itunes:summary>Chain of Thought \ · How Intercom Cut $250K/Month by Ditching GPT for Qwen · aired February 26, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://media.transistor.fm/0fd18337/b333c541.mp3
+
+Original episode: https://share.transistor.fm/s/0fd18337</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Chain of Thought \</strong> &middot; How Intercom Cut $250K/Month by Ditching GPT for Qwen &middot; aired February 26, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://media.transistor.fm/0fd18337/b333c541.mp3</p><p><a href="https://share.transistor.fm/s/0fd18337">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/0fd18337</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/0fd18337/b333c541.mp3" length="51366083" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>83 · Super Data Science · 2026-07-17 · 1010: Fable 5 as Advisor: Anthropic's Two-Model Pattern for Smarter, Cheaper Agents</title>
+<link>https://www.superdatascience.com/1010</link>
+<guid isPermaLink="false">aios-t6-83</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<description>Super Data Science · Jon Krohn (solo) · aired July 17, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3
+
+Original episode: https://www.superdatascience.com/1010</description>
+<itunes:summary>Super Data Science · Jon Krohn (solo) · aired July 17, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3
+
+Original episode: https://www.superdatascience.com/1010</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Super Data Science</strong> &middot; Jon Krohn (solo) &middot; aired July 17, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3</p><p><a href="https://www.superdatascience.com/1010">Open the original episode &rarr;</a><br/>https://www.superdatascience.com/1010</p>]]></content:encoded>
+<enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3" length="20923682" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>84 · Super Data Science · 2026-08-21 · 1020: How to Choose Model Size and Effort Level: The Two Critical Dials</title>
+<link>https://www.superdatascience.com/1020</link>
+<guid isPermaLink="false">aios-t6-84</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<description>Super Data Science · Jon Krohn (solo; built on Anthropic post by Claude Code's Lydia Holly) · aired August 21, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3
+
+Original episode: https://www.superdatascience.com/1020</description>
+<itunes:summary>Super Data Science · Jon Krohn (solo; built on Anthropic post by Claude Code's Lydia Holly) · aired August 21, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3
+
+Original episode: https://www.superdatascience.com/1020</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Super Data Science</strong> &middot; Jon Krohn (solo; built on Anthropic post by Claude Code&#x27;s Lydia Holly) &middot; aired August 21, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3</p><p><a href="https://www.superdatascience.com/1020">Open the original episode &rarr;</a><br/>https://www.superdatascience.com/1020</p>]]></content:encoded>
+<enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3" length="24169844" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>85 · The TWIML AI Podcast · 2026-09-09 · Do AI Tokenomics Matter More Than Model Benchmarks? with Chris Potts - #776</title>
+<link>https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</link>
+<guid isPermaLink="false">aios-t6-85</guid>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<description>The TWIML AI Podcast · Chris Potts (Stanford professor; co-founder, Big Spin) · aired September 9, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3
+
+Original episode: https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</description>
+<itunes:summary>The TWIML AI Podcast · Chris Potts (Stanford professor; co-founder, Big Spin) · aired September 9, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3
+
+Original episode: https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The TWIML AI Podcast</strong> &middot; Chris Potts (Stanford professor; co-founder, Big Spin) &middot; aired September 9, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3</p><p><a href="https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks">Open the original episode &rarr;</a><br/>https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3" length="56922083" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>86 · The MAD Podcast with Matt Turck · 2026-05-28 · State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job</title>
+<link>https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</link>
+<guid isPermaLink="false">aios-t6-86</guid>
+<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+<description>The MAD Podcast with Matt Turck · Aaron Levie (CEO, Box) · aired May 28, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</description>
+<itunes:summary>The MAD Podcast with Matt Turck · Aaron Levie (CEO, Box) · aired May 28, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The MAD Podcast with Matt Turck</strong> &middot; Aaron Levie (CEO, Box) &middot; aired May 28, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3" length="69985592" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>87 · Superlinear · 2026-07-24 · Understanding Loops and Graphs in Modern Coding Agents</title>
+<link>https://www.buzzsprout.com/2632181/episodes/19544246</link>
+<guid isPermaLink="false">aios-t6-87</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>Superlinear · Christine Yip &amp; Brandon Kase (hosts) · aired July 24, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3
+
+Original episode: https://www.buzzsprout.com/2632181/episodes/19544246</description>
+<itunes:summary>Superlinear · Christine Yip &amp; Brandon Kase (hosts) · aired July 24, 2026
+Method · MEDIUM priority · T6 Token Ops
+
+Why it's here: https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3
+
+Original episode: https://www.buzzsprout.com/2632181/episodes/19544246</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Superlinear</strong> &middot; Christine Yip &amp; Brandon Kase (hosts) &middot; aired July 24, 2026</p><p>Method &middot; MEDIUM priority &middot; T6 Token Ops</p><p><strong>Why it's here:</strong> https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3</p><p><a href="https://www.buzzsprout.com/2632181/episodes/19544246">Open the original episode &rarr;</a><br/>https://www.buzzsprout.com/2632181/episodes/19544246</p>]]></content:encoded>
+<enclosure url="https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3" length="28482180" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>

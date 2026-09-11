@@ -4,44 +4,20 @@
 <title>AI Operator Library — Full</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>The complete library: all 92 episodes across the active layers and tracks. Follow this instead of the core feed only if you want everything.</description>
+<description>The complete library: all 101 episodes across the active layers and tracks. Follow this instead of the core feed only if you want everything.</description>
 <itunes:author>Private curated library</itunes:author>
-<itunes:summary>The complete library: all 92 episodes across the active layers and tracks. Follow this instead of the core feed only if you want everything.</itunes:summary>
+<itunes:summary>The complete library: all 101 episodes across the active layers and tracks. Follow this instead of the core feed only if you want everything.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>Private curated library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/cover-202609081336.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/cover-202609081336.jpg</url><title>AI Operator Library — Full</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/cover-202609110451.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/cover-202609110451.jpg</url><title>AI Operator Library — Full</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>01 · L1 · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
-<link>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</link>
+<title>01 · L1 · The Cognitive Revolution · 2026-04-19 · Vibe-Coding an Attention Firewall, w/ Steve Newman, creator of The Curve</title>
+<link>https://www.cognitiverevolution.ai/vibe-coding-an-attention-firewall-w-steve-newman-creator-of-the-curve/</link>
 <guid isPermaLink="false">timlib3f-01</guid>
 <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
-<description>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
-L1 Identity · BUILD · HIGH priority
-
-Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
-
-Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</description>
-<itunes:summary>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
-L1 Identity · BUILD · HIGH priority
-
-Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
-
-Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Greg Isenberg &middot; aired August 17, 2026</p><p>L1 Identity &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Greg&#x27;s system for turning Claude Code into an &#x27;AI employee&#x27; by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.</p><p><a href="https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</p>]]></content:encoded>
-<enclosure url="https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3" length="34675357" type="audio/mpeg"/>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/042c1de3824616f8.jpg"/>
-<itunes:duration>2890</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>92</itunes:episode>
-</item>
-<item>
-<title>02 · L1 · The Cognitive Revolution · 2026-04-19 · Vibe-Coding an Attention Firewall, w/ Steve Newman, creator of The Curve</title>
-<link>https://www.cognitiverevolution.ai/vibe-coding-an-attention-firewall-w-steve-newman-creator-of-the-curve/</link>
-<guid isPermaLink="false">timlib3f-02</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Steve Newman, creator of The Curve · aired April 19, 2026
 L1 Identity · BUILD · HIGH priority
 
@@ -59,13 +35,13 @@ Original episode: https://www.cognitiverevolution.ai/vibe-coding-an-attention-fi
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/5520bae66955a30d.jpg"/>
 <itunes:duration>7792</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>91</itunes:episode>
+<itunes:episode>101</itunes:episode>
 </item>
 <item>
-<title>03 · L1 · The AI Daily Brief · 2026-04-25 · How To Build a Personal Agentic Operating System</title>
+<title>02 · L1 · The AI Daily Brief · 2026-04-25 · How To Build a Personal Agentic Operating System</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-To-Build-a-Personal-Agentic-Operating-System-e3ifc1h</link>
-<guid isPermaLink="false">timlib3f-03</guid>
-<pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-02</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
 <description>The AI Daily Brief · Nufar Gaspar (creator of the Agent OS program; recurring AIDB operator guest) with Nathaniel Whittemore · aired April 25, 2026
 L1 Identity · Method · HIGH priority
 
@@ -83,13 +59,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-To-Bu
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/2c64675cb2fbd05a.jpg"/>
 <itunes:duration>00:28:36</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>90</itunes:episode>
+<itunes:episode>100</itunes:episode>
 </item>
 <item>
-<title>04 · L1 · Master Claude Chat, Cowork, Code · 2026-04-13 · 12. The AI Constitution (Designing Guardrails with CLAUDE.md)</title>
+<title>03 · L1 · Master Claude Chat, Cowork, Code · 2026-04-13 · 12. The AI Constitution (Designing Guardrails with CLAUDE.md)</title>
 <link>https://podcasts.apple.com/us/podcast/12-the-ai-constitution-designing-guardrails-with-claude-md/id1882007947?i=1000761100958</link>
-<guid isPermaLink="false">timlib3f-04</guid>
-<pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-03</guid>
+<pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · Host (solo; show also billed as &quot;Beyond Prompting&quot;) · aired April 13, 2026
 L1 Identity · Method · HIGH priority
 
@@ -107,13 +83,13 @@ Original episode: https://podcasts.apple.com/us/podcast/12-the-ai-constitution-d
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/013e1486d86c450f.jpg"/>
 <itunes:duration>00:38:09</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>89</itunes:episode>
+<itunes:episode>99</itunes:episode>
 </item>
 <item>
-<title>05 · L1 · The AI Daily Brief · 2026-05-25 · The 4 AI Team Members Execs Should Hire Right Now</title>
+<title>04 · L1 · The AI Daily Brief · 2026-05-25 · The 4 AI Team Members Execs Should Hire Right Now</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/The-4-AI-Team-Members-Execs-Should-Hire-Right-Now-e3jslkq</link>
-<guid isPermaLink="false">timlib3f-05</guid>
-<pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-04</guid>
+<pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
 <description>The AI Daily Brief · Nufar Gaspar (Agent OS creator) with Nathaniel Whittemore · aired May 25, 2026
 L1 Identity · Method · MEDIUM priority
 
@@ -131,13 +107,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/The-4-AI-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/e7987d5b7e9428a3.jpg"/>
 <itunes:duration>00:32:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>88</itunes:episode>
+<itunes:episode>98</itunes:episode>
 </item>
 <item>
-<title>06 · L3 · How I AI · 2026-07-08 · What a harness is and how to build one with Claude Agent SDK</title>
+<title>05 · L3 · How I AI · 2026-07-08 · What a harness is and how to build one with Claude Agent SDK</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/What-a-harness-is-and-how-to-build-one-with-Claude-Agent-SDK-e3lnv0k</link>
-<guid isPermaLink="false">timlib3f-06</guid>
-<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-05</guid>
+<pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired July 8, 2026
 L3 Skills · BUILD · HIGH priority
 
@@ -155,13 +131,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/What
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/0ae9e3b072bf0a93.jpg"/>
 <itunes:duration>00:24:35</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>87</itunes:episode>
+<itunes:episode>97</itunes:episode>
 </item>
 <item>
-<title>07 · L3 · Build With AI · 2026-04-01 · # 154 I Replaced an 8-Person Marketing Team With Claude Code (full tutorial)</title>
+<title>06 · L3 · Build With AI · 2026-04-01 · # 154 I Replaced an 8-Person Marketing Team With Claude Code (full tutorial)</title>
 <link>https://podcasts.apple.com/us/podcast/154-i-replaced-an-8-person-marketing-team-with/id1689819329?i=1000758592576</link>
-<guid isPermaLink="false">timlib3f-07</guid>
-<pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-06</guid>
+<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 <description>Build With AI · James Dickerson (&quot;The Boring Marketer,&quot; growth consultant) with Corey Ganim · aired April 1, 2026
 L3 Skills · BUILD · HIGH priority
 
@@ -179,13 +155,13 @@ Original episode: https://podcasts.apple.com/us/podcast/154-i-replaced-an-8-pers
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/d5946ee02264ff5e.jpg"/>
 <itunes:duration>4321</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>86</itunes:episode>
+<itunes:episode>96</itunes:episode>
 </item>
 <item>
-<title>08 · L3 · Practical AI · 2025-12-17 · Beyond chatbots: agents that tackle your SOPs</title>
+<title>07 · L3 · Practical AI · 2025-12-17 · Beyond chatbots: agents that tackle your SOPs</title>
 <link>https://practicalai.show/341</link>
-<guid isPermaLink="false">timlib3f-08</guid>
-<pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-07</guid>
+<pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
 <description>Practical AI · Jason Beutler (RoboSource) · aired December 17, 2025
 L3 Skills · BUILD · HIGH priority
 
@@ -203,13 +179,13 @@ Original episode: https://practicalai.show/341</itunes:summary>
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/93ab99a5e4562fa9.jpg"/>
 <itunes:duration>2753</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>85</itunes:episode>
+<itunes:episode>95</itunes:episode>
 </item>
 <item>
-<title>09 · L3 · How I AI · 2026-08-31 · How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)</title>
+<title>08 · L3 · How I AI · 2026-08-31 · How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-I-turned-Claude-into-a-self-improving-PM-assistant--Daniel-Blum-PM--Melio-e3nunqh</link>
-<guid isPermaLink="false">timlib3f-09</guid>
-<pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-08</guid>
+<pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · aired August 31, 2026
 L3 Skills · BUILD · HIGH priority
 
@@ -227,13 +203,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1787872242046-dbf113801c5b1.jpg"/>
 <itunes:duration>00:46:07</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>84</itunes:episode>
+<itunes:episode>94</itunes:episode>
 </item>
 <item>
-<title>10 · L3 · The AI Daily Brief · 2026-04-02 · Agent Skills Masterclass</title>
+<title>09 · L3 · The AI Daily Brief · 2026-04-02 · Agent Skills Masterclass</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/Agent-Skills-Masterclass-e3hasv7</link>
-<guid isPermaLink="false">timlib3f-10</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-09</guid>
+<pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
 <description>The AI Daily Brief · Nufar Gaspar (Agent OS creator) with Nathaniel Whittemore · aired April 2, 2026
 L3 Skills · Method · HIGH priority
 
@@ -251,13 +227,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agent-Ski
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/9fb4d9b37d2aefac.jpg"/>
 <itunes:duration>00:33:01</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>83</itunes:episode>
+<itunes:episode>93</itunes:episode>
 </item>
 <item>
-<title>11 · L3 · The Startup Ideas Podcast · 2026-08-19 · You need to be skillsmaxxing (10x your Claude/Codex)</title>
+<title>10 · L3 · The Startup Ideas Podcast · 2026-08-19 · You need to be skillsmaxxing (10x your Claude/Codex)</title>
 <link>https://podcasts.apple.com/us/podcast/you-need-to-be-skillsmaxxing-10x-your-claude-codex/id1593424985?i=1000784410060</link>
-<guid isPermaLink="false">timlib3f-11</guid>
-<pubDate>Sun, 09 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-10</guid>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Remy (AI with Remy) · aired August 19, 2026
 L3 Skills · Method · HIGH priority
 
@@ -275,13 +251,13 @@ Original episode: https://podcasts.apple.com/us/podcast/you-need-to-be-skillsmax
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/bced8713472a8791.jpg"/>
 <itunes:duration>1947</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>82</itunes:episode>
+<itunes:episode>92</itunes:episode>
 </item>
 <item>
-<title>12 · L3 · The Cognitive Revolution · 2026-04-08 · Calm AI for Crazy Days: Inside Granola's Design Philosophy, with co-founder Sam Stephenson</title>
+<title>11 · L3 · The Cognitive Revolution · 2026-04-08 · Calm AI for Crazy Days: Inside Granola's Design Philosophy, with co-founder Sam Stephenson</title>
 <link>https://www.cognitiverevolution.ai/calm-ai-for-crazy-days-inside-granola-s-design-philosophy-with-co-founder-sam-stephenson/</link>
-<guid isPermaLink="false">timlib3f-12</guid>
-<pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-11</guid>
+<pubDate>Sun, 09 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · co-founder Sam Stephenson · aired April 8, 2026
 L3 Skills · Method · HIGH priority
 
@@ -299,13 +275,13 @@ Original episode: https://www.cognitiverevolution.ai/calm-ai-for-crazy-days-insi
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/094e0e4d063f236e.jpg"/>
 <itunes:duration>5656</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>81</itunes:episode>
+<itunes:episode>91</itunes:episode>
 </item>
 <item>
-<title>13 · L3 · The Cognitive Revolution · 2026-01-14 · Snowflake VP of AI Baris Gultekin on Bringing AI to Data, Agent Design, Text-2-SQL, RAG &amp; More</title>
+<title>12 · L3 · The Cognitive Revolution · 2026-01-14 · Snowflake VP of AI Baris Gultekin on Bringing AI to Data, Agent Design, Text-2-SQL, RAG &amp; More</title>
 <link>https://www.cognitiverevolution.ai/bringing-ai-to-data-agent-design-text-2-sql-rag-more-w-snowflake-vp-of-ai-baris-gultekin/</link>
-<guid isPermaLink="false">timlib3f-13</guid>
-<pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-12</guid>
+<pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired January 14, 2026
 L3 Skills · Method · HIGH priority
 
@@ -323,13 +299,13 @@ Original episode: https://www.cognitiverevolution.ai/bringing-ai-to-data-agent-d
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/e8bdd89dd979a25a.jpg"/>
 <itunes:duration>5960</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>80</itunes:episode>
+<itunes:episode>90</itunes:episode>
 </item>
 <item>
-<title>14 · L3 · Build With AI · 2026-03-18 · # 150 I Built A $100K Research Assistant With Claude Code (for FREE)</title>
+<title>13 · L3 · Build With AI · 2026-03-18 · # 150 I Built A $100K Research Assistant With Claude Code (for FREE)</title>
 <link>https://podcasts.apple.com/us/podcast/150-i-built-a-%24100k-research-assistant-with-claude/id1689819329?i=1000755902942</link>
-<guid isPermaLink="false">timlib3f-14</guid>
-<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-13</guid>
+<pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
 <description>Build With AI · Adam Sandler (Viable Edge) with Corey Ganim · aired March 18, 2026
 L3 Skills · BUILD · MEDIUM priority
 
@@ -347,13 +323,13 @@ Original episode: https://podcasts.apple.com/us/podcast/150-i-built-a-%24100k-re
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/65bed7a3c17ca86b.jpg"/>
 <itunes:duration>3219</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>79</itunes:episode>
+<itunes:episode>89</itunes:episode>
 </item>
 <item>
-<title>15 · L3 · How I AI · 2026-08-17 · How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder</title>
+<title>14 · L3 · How I AI · 2026-08-17 · How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-a-solo-founder-used-Codex-and-ChatGPT-to-launch-a-fashion-brand-without-engineers--Yana-Welinder-e3nc7u2</link>
-<guid isPermaLink="false">timlib3f-15</guid>
-<pubDate>Sat, 08 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-14</guid>
+<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Yana Welinder, founder of Yana Bana · aired August 17, 2026
 L3 Skills · BUILD · MEDIUM priority
 
@@ -371,13 +347,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/d497eb9c0639146a.jpg"/>
 <itunes:duration>00:32:52</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>78</itunes:episode>
+<itunes:episode>88</itunes:episode>
 </item>
 <item>
-<title>16 · L3 · Latent Space · 2026-01-17 · Brex's AI Hail Mary</title>
+<title>15 · L3 · Latent Space · 2026-01-17 · Brex's AI Hail Mary</title>
 <link>https://www.latent.space/p/brexs-ai-hail-mary-with-cto-james</link>
-<guid isPermaLink="false">timlib3f-16</guid>
-<pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-15</guid>
+<pubDate>Sat, 08 Aug 2026 18:00:00 +0000</pubDate>
 <description>Latent Space · James Reggio (Brex CTO) · aired January 17, 2026
 L3 Skills · Method · MEDIUM priority
 
@@ -395,13 +371,13 @@ Original episode: https://www.latent.space/p/brexs-ai-hail-mary-with-cto-james</
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/4715622b700d1ee8.jpg"/>
 <itunes:duration>4406</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>77</itunes:episode>
+<itunes:episode>87</itunes:episode>
 </item>
 <item>
-<title>17 · L3 · The Cognitive Revolution · 2026-06-17 · Radically Better Reasoning: Elicit's Andreas Stuhlmüller &amp; Jungwon Byun on World Models for Research</title>
+<title>16 · L3 · The Cognitive Revolution · 2026-06-17 · Radically Better Reasoning: Elicit's Andreas Stuhlmüller &amp; Jungwon Byun on World Models for Research</title>
 <link>https://www.cognitiverevolution.ai/radically-better-reasoning-elicit-s-andreas-stuhlmuller-jungwon-byun-on-world-models-for-research/</link>
-<guid isPermaLink="false">timlib3f-17</guid>
-<pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-16</guid>
+<pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired June 17, 2026
 L3 Skills · Method · MEDIUM priority
 
@@ -419,13 +395,13 @@ Original episode: https://www.cognitiverevolution.ai/radically-better-reasoning-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/aada1e320b8c1861.jpg"/>
 <itunes:duration>6370</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>76</itunes:episode>
+<itunes:episode>86</itunes:episode>
 </item>
 <item>
-<title>18 · L5 · How I AI · 2026-02-02 · How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis</title>
+<title>17 · L5 · How I AI · 2026-02-02 · How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-this-PM-uses-MCPs-to-automate-his-meeting-prep--CRM-updates--and-customer-feedback-synthesis--Reid-Robinson-Zapier-e3e7q41</link>
-<guid isPermaLink="false">timlib3f-18</guid>
-<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-17</guid>
+<pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Reid Robinson (Principal AI Product Strategist, Zapier) · aired February 2, 2026
 L5 Connections · BUILD · HIGH priority
 
@@ -443,13 +419,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/83079e1007d8415f.jpg"/>
 <itunes:duration>00:40:28</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>75</itunes:episode>
+<itunes:episode>85</itunes:episode>
 </item>
 <item>
-<title>19 · L5 · How I AI · 2026-04-08 · I built a custom Slack inbox. It was easier than you'd think.</title>
+<title>18 · L5 · How I AI · 2026-04-08 · I built a custom Slack inbox. It was easier than you'd think.</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-built-a-custom-Slack-inbox--It-was-easier-than-youd-think---Yash-Tekriwal-Clay-e3h9ud2</link>
-<guid isPermaLink="false">timlib3f-19</guid>
-<pubDate>Fri, 07 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-18</guid>
+<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Yash Tekriwal (Head of Education, Clay) · aired April 8, 2026
 L5 Connections · BUILD · HIGH priority
 
@@ -467,13 +443,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-bu
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/c3c997cf50fe6d04.jpg"/>
 <itunes:duration>00:44:36</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>74</itunes:episode>
+<itunes:episode>84</itunes:episode>
 </item>
 <item>
-<title>20 · L5 · How I AI · 2025-12-29 · How Webflow's CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption</title>
+<title>19 · L5 · How I AI · 2025-12-29 · How Webflow's CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Webflows-CPO-built-an-AI-chief-of-staff-to-manage-her-calendar--prep-for-meetings--and-drive-AI-adoption--Rachel-Wolan-e3com7s</link>
-<guid isPermaLink="false">timlib3f-20</guid>
-<pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-19</guid>
+<pubDate>Fri, 07 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Rachel Wolan (Chief Product Officer, Webflow) · aired December 29, 2025
 L5 Connections · BUILD · HIGH priority
 
@@ -491,13 +467,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/cdc1470917dc58da.jpg"/>
 <itunes:duration>00:43:43</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>73</itunes:episode>
+<itunes:episode>83</itunes:episode>
 </item>
 <item>
-<title>21 · L5 · How I AI · 2025-12-15 · How Zapier's EA built an army of AI interns to automate meeting prep, strengthen team culture, and scale internal alignment</title>
+<title>20 · L5 · How I AI · 2025-12-15 · How Zapier's EA built an army of AI interns to automate meeting prep, strengthen team culture, and scale internal alignment</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Zapiers-EA-built-an-army-of-AI-interns-to-automate-meeting-prep--strengthen-team-culture--and-scale-internal-alignment--Cortney-Hickey-e3c2g6o</link>
-<guid isPermaLink="false">timlib3f-21</guid>
-<pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-20</guid>
+<pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · Cortney Hickey (Executive Assistant to the CEO, Zapier) · aired December 15, 2025
 L5 Connections · BUILD · HIGH priority
 
@@ -515,13 +491,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/08e2adc30e6c482e.jpg"/>
 <itunes:duration>00:44:32</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>72</itunes:episode>
+<itunes:episode>82</itunes:episode>
 </item>
 <item>
-<title>22 · L5 · The Cognitive Revolution · 2025-03-29 · Shortwave Rides the Tidal Wave: Inbox Agents, Hyper-Growth &amp; Hiring AI Managers, with CEO Andrew Lee</title>
+<title>21 · L5 · The Cognitive Revolution · 2025-03-29 · Shortwave Rides the Tidal Wave: Inbox Agents, Hyper-Growth &amp; Hiring AI Managers, with CEO Andrew Lee</title>
 <link>https://www.cognitiverevolution.ai/shortwave-rides-the-tidal-wave-inbox-agents-hyper-growth-hiring-ai-managers-with-ceo-andrew-lee/</link>
-<guid isPermaLink="false">timlib3f-22</guid>
-<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-21</guid>
+<pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · CEO Andrew Lee · aired March 29, 2025
 L5 Connections · Method · HIGH priority
 
@@ -539,13 +515,13 @@ Original episode: https://www.cognitiverevolution.ai/shortwave-rides-the-tidal-w
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/74caacf15272c206.jpg"/>
 <itunes:duration>6699</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>71</itunes:episode>
+<itunes:episode>81</itunes:episode>
 </item>
 <item>
-<title>23 · L5 · The Cognitive Revolution · 2025-10-22 · Always Bet on the Models: How Tasklet Puts the Agency in Agents, with CEO Andrew Lee</title>
+<title>22 · L5 · The Cognitive Revolution · 2025-10-22 · Always Bet on the Models: How Tasklet Puts the Agency in Agents, with CEO Andrew Lee</title>
 <link>https://www.cognitiverevolution.ai/always-bet-on-the-models-how-tasklet-puts-the-agency-in-agents-with-ceo-andrew-lee/</link>
-<guid isPermaLink="false">timlib3f-23</guid>
-<pubDate>Thu, 06 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-22</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · CEO Andrew Lee · aired October 22, 2025
 L5 Connections · Method · HIGH priority
 
@@ -563,13 +539,13 @@ Original episode: https://www.cognitiverevolution.ai/always-bet-on-the-models-ho
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/abbc3d1a65c78409.jpg"/>
 <itunes:duration>7986</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>70</itunes:episode>
+<itunes:episode>80</itunes:episode>
 </item>
 <item>
-<title>24 · L5 · How I AI · 2026-01-05 · Zapier's CEO shares his personal AI stack</title>
+<title>23 · L5 · How I AI · 2026-01-05 · Zapier's CEO shares his personal AI stack</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Zapiers-CEO-shares-his-personal-AI-stack--Wade-Foster-e3cv2n5</link>
-<guid isPermaLink="false">timlib3f-24</guid>
-<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-23</guid>
+<pubDate>Thu, 06 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Wade Foster (Zapier) · aired January 5, 2026
 L5 Connections · BUILD · MEDIUM priority
 
@@ -587,13 +563,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Zapi
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/ca5b9f902ef2083a.jpg"/>
 <itunes:duration>00:41:27</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>69</itunes:episode>
+<itunes:episode>79</itunes:episode>
 </item>
 <item>
-<title>25 · L5 · How I AI · 2025-06-02 · The AI playbook that saved ElevenLabs $100k+</title>
+<title>24 · L5 · How I AI · 2025-06-02 · The AI playbook that saved ElevenLabs $100k+</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-exact-AI-playbook-using-MCPs--custom-GPTs--Granola-that-saved-ElevenLabs-100k-and-helps-them-ship-daily--Luke-Harries-Head-of-Growth-e33jekk</link>
-<guid isPermaLink="false">timlib3f-25</guid>
-<pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-24</guid>
+<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · Luke Harries (ElevenLabs) · aired June 2, 2025
 L5 Connections · BUILD · MEDIUM priority
 
@@ -611,13 +587,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/e12de348af959a5b.jpg"/>
 <itunes:duration>00:44:24</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>68</itunes:episode>
+<itunes:episode>78</itunes:episode>
 </item>
 <item>
-<title>26 · L5 · The Cognitive Revolution · 2026-05-15 · Three Kinds of Software Survive: Tasklet's Andrew Lee on Competing to be a Horizontal Platform</title>
+<title>25 · L5 · The Cognitive Revolution · 2026-05-15 · Three Kinds of Software Survive: Tasklet's Andrew Lee on Competing to be a Horizontal Platform</title>
 <link>https://www.cognitiverevolution.ai/three-kinds-of-software-survive-tasklet-s-andrew-lee-on-competing-to-be-a-horizontal-platform/</link>
-<guid isPermaLink="false">timlib3f-26</guid>
-<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-25</guid>
+<pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired May 15, 2026
 L5 Connections · Method · MEDIUM priority
 
@@ -635,13 +611,13 @@ Original episode: https://www.cognitiverevolution.ai/three-kinds-of-software-sur
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/db9d91f7f313e7f2.jpg"/>
 <itunes:duration>5583</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>67</itunes:episode>
+<itunes:episode>77</itunes:episode>
 </item>
 <item>
-<title>27 · L5 · The Cognitive Revolution · 2025-10-05 · The Customer Service Revolution: Building Fin, with Eoghan McCabe &amp; Fergal Reid of Intercom</title>
+<title>26 · L5 · The Cognitive Revolution · 2025-10-05 · The Customer Service Revolution: Building Fin, with Eoghan McCabe &amp; Fergal Reid of Intercom</title>
 <link>https://www.cognitiverevolution.ai/the-customer-service-revolution-building-fin-with-eoghan-mccabe-fergal-reid-of-intercom/</link>
-<guid isPermaLink="false">timlib3f-27</guid>
-<pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-26</guid>
+<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Eoghan McCabe &amp; Fergal Reid of Intercom · aired October 5, 2025
 L5 Connections · Method · MEDIUM priority
 
@@ -659,13 +635,13 @@ Original episode: https://www.cognitiverevolution.ai/the-customer-service-revolu
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/597dbbc1dc451db0.jpg"/>
 <itunes:duration>5644</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>66</itunes:episode>
+<itunes:episode>76</itunes:episode>
 </item>
 <item>
-<title>28 · L7 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
+<title>27 · L7 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</link>
-<guid isPermaLink="false">timlib3f-28</guid>
-<pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-27</guid>
+<pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired May 27, 2026
 L7 Automations · BUILD · HIGH priority
 
@@ -683,13 +659,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/c631ce6971f69cbb.jpg"/>
 <itunes:duration>00:30:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>65</itunes:episode>
+<itunes:episode>75</itunes:episode>
 </item>
 <item>
-<title>29 · L7 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
+<title>28 · L7 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
 <link>https://podcasts.apple.com/us/podcast/158-claude-code-routines-clearly-explained-and-why-it/id1689819329?i=1000761397516</link>
-<guid isPermaLink="false">timlib3f-29</guid>
-<pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-28</guid>
+<pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
 <description>Build With AI · Corey Ganim (host, solo) · aired April 14, 2026
 L7 Automations · BUILD · HIGH priority
 
@@ -707,13 +683,13 @@ Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/b531555f1fd8074a.jpg"/>
 <itunes:duration>311</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>64</itunes:episode>
+<itunes:episode>74</itunes:episode>
 </item>
 <item>
-<title>30 · L7 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
+<title>29 · L7 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
 <link>https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/How-We-Built-Claudie--Our-AI-Project-Manager-Full-Walkthrough-e3ekprc</link>
-<guid isPermaLink="false">timlib3f-30</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-29</guid>
+<pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
 <description>AI &amp; I (Every) · Natalia Quintero (Head of AI Consulting, Every) with Dan Shipper · aired February 4, 2026
 L7 Automations · BUILD · HIGH priority
 
@@ -731,13 +707,13 @@ Original episode: https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gp
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/e9035f6458efdd5d.jpg"/>
 <itunes:duration>2835</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>63</itunes:episode>
+<itunes:episode>73</itunes:episode>
 </item>
 <item>
-<title>31 · L7 · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-09-03 · Agentic Loops for Knowledge Workers</title>
+<title>30 · L7 · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-09-03 · Agentic Loops for Knowledge Workers</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Loops-for-Knowledge-Workers-e3oaiu2</link>
-<guid isPermaLink="false">timlib3f-31</guid>
-<pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-30</guid>
+<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
 <description>The AI Daily Brief: Artificial Intelligence News and Analysis · aired September 3, 2026
 L7 Automations · BUILD · HIGH priority
 
@@ -755,13 +731,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-L
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41472609/41472609-1752234663609-8665756a468e5.jpg"/>
 <itunes:duration>00:57:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>62</itunes:episode>
+<itunes:episode>72</itunes:episode>
 </item>
 <item>
-<title>32 · L7 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
+<title>31 · L7 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
 <link>https://podcasts.apple.com/us/podcast/8-the-ai-that-works-while-you-sleep-scheduled-tasks/id1882007947?i=1000753740190</link>
-<guid isPermaLink="false">timlib3f-32</guid>
-<pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-31</guid>
+<pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · Host (solo) · aired March 7, 2026
 L7 Automations · Method · HIGH priority
 
@@ -779,13 +755,13 @@ Original episode: https://podcasts.apple.com/us/podcast/8-the-ai-that-works-whil
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/79e7b90af624b606.jpg"/>
 <itunes:duration>00:45:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>61</itunes:episode>
+<itunes:episode>71</itunes:episode>
 </item>
 <item>
-<title>33 · L7 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
+<title>32 · L7 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
 <link>https://podcasts.apple.com/us/podcast/how-to-build-an-ai-native-company-in-2026/id1593424985?i=1000783021863</link>
-<guid isPermaLink="false">timlib3f-33</guid>
-<pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-32</guid>
+<pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Allie K. Miller · aired August 12, 2026
 L7 Automations · Method · HIGH priority
 
@@ -803,13 +779,13 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-build-an-ai-nativ
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/e948031c2bbdc974.jpg"/>
 <itunes:duration>2908</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>60</itunes:episode>
+<itunes:episode>70</itunes:episode>
 </item>
 <item>
-<title>34 · L7 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
+<title>33 · L7 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
 <link>https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conversation-on-ai-agents-with-flo-crivello/</link>
-<guid isPermaLink="false">timlib3f-34</guid>
-<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-33</guid>
+<pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Flo Crivello · aired June 21, 2025
 L7 Automations · Method · HIGH priority
 
@@ -827,13 +803,13 @@ Original episode: https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conver
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/bf18a80f4b8da392.jpg"/>
 <itunes:duration>5075</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>59</itunes:episode>
+<itunes:episode>69</itunes:episode>
 </item>
 <item>
-<title>35 · L7 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
+<title>34 · L7 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
 <link>https://www.buzzsprout.com/2175779/episodes/19635247</link>
-<guid isPermaLink="false">timlib3f-35</guid>
-<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-34</guid>
+<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
 <description>Everyday AI · Jordan Wilson · aired August 12, 2026
 L7 Automations · BUILD · MEDIUM priority
 
@@ -851,13 +827,13 @@ Original episode: https://www.buzzsprout.com/2175779/episodes/19635247</itunes:s
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/31747b952b5da66f.jpg"/>
 <itunes:duration>2846</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>58</itunes:episode>
+<itunes:episode>68</itunes:episode>
 </item>
 <item>
-<title>36 · L8 · The Cognitive Revolution · 2026-06-10 · Babysitting the Machine: Glean's Rebecca Hinds on the Hidden Human Labor of AI at Work</title>
+<title>35 · L8 · The Cognitive Revolution · 2026-06-10 · Babysitting the Machine: Glean's Rebecca Hinds on the Hidden Human Labor of AI at Work</title>
 <link>https://www.cognitiverevolution.ai/babysitting-the-machine-glean-s-rebecca-hinds-on-the-hidden-human-labor-of-ai-at-work/</link>
-<guid isPermaLink="false">timlib3f-36</guid>
-<pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-35</guid>
+<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired June 10, 2026
 L8 Judgment · Method · HIGH priority
 
@@ -875,13 +851,13 @@ Original episode: https://www.cognitiverevolution.ai/babysitting-the-machine-gle
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/1330c73b2eee744a.jpg"/>
 <itunes:duration>6380</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>57</itunes:episode>
+<itunes:episode>67</itunes:episode>
 </item>
 <item>
-<title>37 · L8 · The Cognitive Revolution · 2025-08-02 · The Revolution in Services: General Catalyst's AI Rollup Strategy, with Marc Bhargava</title>
+<title>36 · L8 · The Cognitive Revolution · 2025-08-02 · The Revolution in Services: General Catalyst's AI Rollup Strategy, with Marc Bhargava</title>
 <link>https://www.cognitiverevolution.ai/the-revolution-in-services-general-catalysts-ai-rollup-strategy-with-marc-bhargava/</link>
-<guid isPermaLink="false">timlib3f-37</guid>
-<pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-36</guid>
+<pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Marc Bhargava · aired August 2, 2025
 L8 Judgment · Method · HIGH priority
 
@@ -899,13 +875,13 @@ Original episode: https://www.cognitiverevolution.ai/the-revolution-in-services-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/b2c9bb85e11befc2.jpg"/>
 <itunes:duration>5043</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>56</itunes:episode>
+<itunes:episode>66</itunes:episode>
 </item>
 <item>
-<title>38 · L8 · The Cognitive Revolution · 2025-11-27 · AI-Led Sales: How 1Mind's Superhumans Drive Exponential Growth, from the Agents of Scale Podcast</title>
+<title>37 · L8 · The Cognitive Revolution · 2025-11-27 · AI-Led Sales: How 1Mind's Superhumans Drive Exponential Growth, from the Agents of Scale Podcast</title>
 <link>https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-superhumans-drive-exponential-growth-from-the-agents-of-scale-podcast/</link>
-<guid isPermaLink="false">timlib3f-38</guid>
-<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-37</guid>
+<pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired November 27, 2025
 L8 Judgment · Method · MEDIUM priority
 
@@ -923,13 +899,13 @@ Original episode: https://www.cognitiverevolution.ai/ai-led-sales-how-1mind-s-su
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/887ecf98f6956955.jpg"/>
 <itunes:duration>3082</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>55</itunes:episode>
+<itunes:episode>65</itunes:episode>
 </item>
 <item>
-<title>39 · L8 · The Cognitive Revolution · 2025-01-29 · Aaron Levie, CEO of Box, on Box AI, Enterprise Enthusiasm, and the Evolution of SaaS</title>
+<title>38 · L8 · The Cognitive Revolution · 2025-01-29 · Aaron Levie, CEO of Box, on Box AI, Enterprise Enthusiasm, and the Evolution of SaaS</title>
 <link>https://www.cognitiverevolution.ai/aaron-levie-ceo-of-box-on-box-ai-enterprise-enthusiasm-and-the-evolution-of-saas/</link>
-<guid isPermaLink="false">timlib3f-39</guid>
-<pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-38</guid>
+<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Nathan Labenz interview · aired January 29, 2025
 L8 Judgment · Method · MEDIUM priority
 
@@ -947,37 +923,13 @@ Original episode: https://www.cognitiverevolution.ai/aaron-levie-ceo-of-box-on-b
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/51ce0c18f558057c.jpg"/>
 <itunes:duration>3215</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>54</itunes:episode>
+<itunes:episode>64</itunes:episode>
 </item>
 <item>
-<title>40 · Track · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
-<guid isPermaLink="false">timlib3f-40</guid>
-<pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
-<description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
-Track 2 Agent Teams · BUILD · HIGH priority
-
-Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</description>
-<itunes:summary>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
-Track 2 Agent Teams · BUILD · HIGH priority
-
-Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired June 17, 2026</p><p>Track 2 Agent Teams &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/0ee55f5bd030aa0e.jpg"/>
-<itunes:duration>00:29:06</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>53</itunes:episode>
-</item>
-<item>
-<title>41 · Track · MLOps Community Podcast · 2026-08-17 · How To Delegate To An Agent Like You Would An Employee?</title>
+<title>39 · Track · MLOps Community Podcast · 2026-08-17 · How To Delegate To An Agent Like You Would An Employee?</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/How-To-Delegate-To-An-Agent-Like-You-Would-An-Employee-e3nglg8</link>
-<guid isPermaLink="false">timlib3f-41</guid>
-<pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-39</guid>
+<pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
 <description>MLOps Community Podcast · OpenAI Codex developer-experience lead + ML engineering lead · aired August 17, 2026
 Track 2 Agent Teams · BUILD · HIGH priority
 
@@ -995,13 +947,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/How-To-
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3809022/3809022-1785789366189-1f35ba8f80f66.jpg"/>
 <itunes:duration>00:55:15</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>52</itunes:episode>
+<itunes:episode>63</itunes:episode>
 </item>
 <item>
-<title>42 · Track · The Startup Ideas Podcast · 2026-08-21 · Grok Bot: make a 1 person company with agents</title>
+<title>40 · Track · The Startup Ideas Podcast · 2026-08-21 · Grok Bot: make a 1 person company with agents</title>
 <link>https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person-company-with-agents/id1593424985?i=1000784916954</link>
-<guid isPermaLink="false">timlib3f-42</guid>
-<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-40</guid>
+<pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Billy Howell (The Rundown) · aired August 21, 2026
 Track 2 Agent Teams · BUILD · HIGH priority
 
@@ -1019,13 +971,13 @@ Original episode: https://podcasts.apple.com/us/podcast/grok-bot-make-a-1-person
 <itunes:image href="https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg"/>
 <itunes:duration>2661</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>51</itunes:episode>
+<itunes:episode>62</itunes:episode>
 </item>
 <item>
-<title>43 · Track · Latent Space · 2026-05-28 · The Age of Async Agents — Cognition's Walden Yan &amp; OpenInspect's Cole Murray</title>
+<title>41 · Track · Latent Space · 2026-05-28 · The Age of Async Agents — Cognition's Walden Yan &amp; OpenInspect's Cole Murray</title>
 <link>https://www.latent.space/p/cognition</link>
-<guid isPermaLink="false">timlib3f-43</guid>
-<pubDate>Sat, 01 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-41</guid>
+<pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
 <description>Latent Space · Walden Yan (Cognition), Cole Murray (OpenInspect) · aired May 28, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1043,37 +995,13 @@ Original episode: https://www.latent.space/p/cognition</itunes:summary>
 <itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/199607874/d8e216e78ecdbcd9c655825359d96895.jpg"/>
 <itunes:duration>4082</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>50</itunes:episode>
+<itunes:episode>61</itunes:episode>
 </item>
 <item>
-<title>44 · Track · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
-<link>https://www.latent.space/p/harness-eng</link>
-<guid isPermaLink="false">timlib3f-44</guid>
-<pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
-<description>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
-Track 2 Agent Teams · Method · HIGH priority
-
-Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
-
-Original episode: https://www.latent.space/p/harness-eng</description>
-<itunes:summary>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
-Track 2 Agent Teams · Method · HIGH priority
-
-Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
-
-Original episode: https://www.latent.space/p/harness-eng</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Ryan Lopopolo (OpenAI Frontier) &middot; aired April 7, 2026</p><p>Track 2 Agent Teams &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.</p><p><a href="https://www.latent.space/p/harness-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/harness-eng</p>]]></content:encoded>
-<enclosure url="https://api.substack.com/feed/podcast/193478192/2c0fb135ac3f9193c58922fcaf1b81a8.mp3" length="52357357" type="audio/mpeg"/>
-<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/193478192/142fb64d15eec61ae6e0f94ec7ee2b32.jpg"/>
-<itunes:duration>4363</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>49</itunes:episode>
-</item>
-<item>
-<title>45 · Track · Latent Space · 2026-04-15 · Notion's Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
+<title>42 · Track · Latent Space · 2026-04-15 · Notion's Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
 <link>https://www.latent.space/p/notion</link>
-<guid isPermaLink="false">timlib3f-45</guid>
-<pubDate>Sat, 01 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-42</guid>
+<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 <description>Latent Space · Simon Last (co-founder), Sarah Sachs (Notion AI) · aired April 15, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1091,13 +1019,13 @@ Original episode: https://www.latent.space/p/notion</itunes:summary>
 <itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/194195821/ee214f89894a45cabf7a528470753d02.jpg"/>
 <itunes:duration>4637</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>48</itunes:episode>
+<itunes:episode>60</itunes:episode>
 </item>
 <item>
-<title>46 · Track · MLOps Community Podcast #383 · 2026-06-09 · From Single-Player to Multi-Player: Operating AI Agents at Scale</title>
+<title>43 · Track · MLOps Community Podcast #383 · 2026-06-09 · From Single-Player to Multi-Player: Operating AI Agents at Scale</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/From-Single-Player-to-Multi-Player-Operating-AI-Agents-at-Scale-e3khpk8</link>
-<guid isPermaLink="false">timlib3f-46</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-43</guid>
+<pubDate>Sat, 01 Aug 2026 18:00:00 +0000</pubDate>
 <description>MLOps Community Podcast #383 · James Everingham (CEO, Guild.ai; ex-Meta Head of Dev Infra) · aired June 9, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1115,13 +1043,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/From-Si
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3809022/3809022-1781001536117-44f2f7025bcc3.jpg"/>
 <itunes:duration>00:55:54</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>47</itunes:episode>
+<itunes:episode>59</itunes:episode>
 </item>
 <item>
-<title>47 · Track · MLOps Community Podcast #368 · 2026-04-07 · Getting Humans Out of the Way: How to Work with Teams of Agents</title>
+<title>44 · Track · MLOps Community Podcast #368 · 2026-04-07 · Getting Humans Out of the Way: How to Work with Teams of Agents</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Getting-Humans-Out-of-the-Way-How-to-Work-with-Teams-of-Agents-e3hi4i7</link>
-<guid isPermaLink="false">timlib3f-47</guid>
-<pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-44</guid>
+<pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
 <description>MLOps Community Podcast #368 · Rob Ennals (creator of Broomy, open-source multi-agent IDE; ex-Meta/Google) · aired April 7, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1139,13 +1067,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Getting
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3809022/3809022-1775557933166-7cfbef1132c3f.jpg"/>
 <itunes:duration>00:50:30</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>46</itunes:episode>
+<itunes:episode>58</itunes:episode>
 </item>
 <item>
-<title>48 · Track · MLOps Community Podcast · 2026-06-19 · Sandboxing, Agent Harnesses, and Agent Teamwork</title>
+<title>45 · Track · MLOps Community Podcast · 2026-06-19 · Sandboxing, Agent Harnesses, and Agent Teamwork</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Sandboxing--Agent-Harnesses--and-Agent-Teamwork-e3kts75</link>
-<guid isPermaLink="false">timlib3f-48</guid>
-<pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-45</guid>
+<pubDate>Sat, 01 Aug 2026 06:00:00 +0000</pubDate>
 <description>MLOps Community Podcast · Shahram Anver (co-founder/CEO, Cleric; ex-Gojek platform eng) · aired June 19, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1163,13 +1091,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Sandbox
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3809022/3809022-1781870964816-bf50244e0512f.jpg"/>
 <itunes:duration>01:19:53</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>45</itunes:episode>
+<itunes:episode>57</itunes:episode>
 </item>
 <item>
-<title>49 · Track · How I AI · 2026-03-25 · How Stripe built &quot;minions&quot;—AI coding agents that ship 1,300 PRs weekly from Slack reactions</title>
+<title>46 · Track · How I AI · 2026-03-25 · How Stripe built &quot;minions&quot;—AI coding agents that ship 1,300 PRs weekly from Slack reactions</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Stripe-built-minionsAI-coding-agents-that-ship-1-300-PRs-weekly-from-Slack-reactions--Steve-Kaliski-Stripe-engineer-e3gqvee</link>
-<guid isPermaLink="false">timlib3f-49</guid>
-<pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-46</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Steve Kaliski (engineer, Stripe) · aired March 25, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1187,13 +1115,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1774390125182-d4868a81a843a.jpg"/>
 <itunes:duration>00:41:55</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>44</itunes:episode>
+<itunes:episode>56</itunes:episode>
 </item>
 <item>
-<title>50 · Track · TWIML AI Podcast #765 · 2026-04-16 · How Capital One Delivers Multi-Agent Systems with Rashmi Shetty</title>
+<title>47 · Track · TWIML AI Podcast #765 · 2026-04-16 · How Capital One Delivers Multi-Agent Systems with Rashmi Shetty</title>
 <link>https://twimlai.com/podcast/twimlai/how-capital-one-delivers-multi-agent-systems</link>
-<guid isPermaLink="false">timlib3f-50</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-47</guid>
+<pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
 <description>TWIML AI Podcast #765 · Rashmi Shetty (Sr. Director, Enterprise GenAI Platform, Capital One) · aired April 16, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1211,13 +1139,13 @@ Original episode: https://twimlai.com/podcast/twimlai/how-capital-one-delivers-m
 <itunes:image href="https://megaphone.imgix.net/podcasts/cadef49a-39d1-11f1-b82d-432e91561808/image/ba8400e710e1d226cb4771b9b5e1f1fa.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
 <itunes:duration>3258</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>43</itunes:episode>
+<itunes:episode>55</itunes:episode>
 </item>
 <item>
-<title>51 · Track · The Data Exchange · 2026-04-02 · Are Multi-Agent Systems More Complex Than They Need to Be?</title>
+<title>48 · Track · The Data Exchange · 2026-04-02 · Are Multi-Agent Systems More Complex Than They Need to Be?</title>
 <link>https://podcasts.apple.com/us/podcast/are-multi-agent-systems-more-complex-than-they-need-to-be/id1487704458?i=1000758837487</link>
-<guid isPermaLink="false">timlib3f-51</guid>
-<pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-48</guid>
+<pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
 <description>The Data Exchange · Arun Kumar (UC San Diego) · aired April 2, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1235,13 +1163,13 @@ Original episode: https://podcasts.apple.com/us/podcast/are-multi-agent-systems-
 <itunes:image href="https://storage.buzzsprout.com/ljk0yj7r22pi61grsmelnsoa9084?.jpg"/>
 <itunes:duration>3141</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>42</itunes:episode>
+<itunes:episode>54</itunes:episode>
 </item>
 <item>
-<title>52 · Track · AI Engineering Podcast (ep. 70) · 2025-11-24 · Context as Code, DevX as Leverage: Accelerating Software with Multi-Agent Workflows</title>
+<title>49 · Track · AI Engineering Podcast (ep. 70) · 2025-11-24 · Context as Code, DevX as Leverage: Accelerating Software with Multi-Agent Workflows</title>
 <link>https://www.aiengineeringpodcast.com/agor-multi-player-multi-agent-engineering-episode-70</link>
-<guid isPermaLink="false">timlib3f-52</guid>
-<pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-49</guid>
+<pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
 <description>AI Engineering Podcast (ep. 70) · Max Beauchemin (creator of Apache Airflow &amp; Superset; Agor) · aired November 24, 2025
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1259,13 +1187,13 @@ Original episode: https://www.aiengineeringpodcast.com/agor-multi-player-multi-a
 <itunes:image href="https://assets.podhome.fm/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/638557211890591941ai_engineering_podcast_logo.jpg"/>
 <itunes:duration>00:59:49</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>41</itunes:episode>
+<itunes:episode>53</itunes:episode>
 </item>
 <item>
-<title>53 · Track · How I AI · 2026-08-24 · I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)</title>
+<title>50 · Track · How I AI · 2026-08-24 · I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/I-spent-20-000-on-Devin-in-a-month--Heres-what-I-learned--Ryan-Carson-solo-founder-e3nheq6</link>
-<guid isPermaLink="false">timlib3f-53</guid>
-<pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-50</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <description>How I AI · Ryan Carson (solo founder, Untangle) · aired August 24, 2026
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1283,13 +1211,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/I-sp
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1787534950653-b7d8bc932cf03.jpg"/>
 <itunes:duration>00:44:13</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>40</itunes:episode>
+<itunes:episode>52</itunes:episode>
 </item>
 <item>
-<title>54 · Track · The Cognitive Revolution · 2025-08-16 · Autonomous Organizations: Vending Bench &amp; Beyond, w/ Lukas Petersson &amp; Axel Backlund of Andon Labs</title>
+<title>51 · Track · The Cognitive Revolution · 2025-08-16 · Autonomous Organizations: Vending Bench &amp; Beyond, w/ Lukas Petersson &amp; Axel Backlund of Andon Labs</title>
 <link>https://www.cognitiverevolution.ai/autonomous-organizations-vending-bench-beyond-w-lukas-petersson-axel-backlund-of-andon-labs/</link>
-<guid isPermaLink="false">timlib3f-54</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-51</guid>
+<pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Lukas Petersson &amp; Axel Backlund of Andon Labs · aired August 16, 2025
 Track 2 Agent Teams · Method · HIGH priority
 
@@ -1307,13 +1235,13 @@ Original episode: https://www.cognitiverevolution.ai/autonomous-organizations-ve
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/290b588f1163ce84.jpg"/>
 <itunes:duration>6523</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>39</itunes:episode>
+<itunes:episode>51</itunes:episode>
 </item>
 <item>
-<title>55 · Track · Build With AI · 2026-05-27 · # 167 I built an AI agent finance department (full build)</title>
+<title>52 · Track · Build With AI · 2026-05-27 · # 167 I built an AI agent finance department (full build)</title>
 <link>https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-finance-department-full-build/id1689819329?i=1000769740226</link>
-<guid isPermaLink="false">timlib3f-55</guid>
-<pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-52</guid>
+<pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
 <description>Build With AI · Mike Dion (senior corporate finance professional) with Corey Ganim · aired May 27, 2026
 Track 2 Agent Teams · BUILD · MEDIUM priority
 
@@ -1331,13 +1259,13 @@ Original episode: https://podcasts.apple.com/us/podcast/167-i-built-an-ai-agent-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/5749809deaadbcc2.jpg"/>
 <itunes:duration>2624</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>38</itunes:episode>
+<itunes:episode>50</itunes:episode>
 </item>
 <item>
-<title>56 · Track · Practical AI · 2026-08-06 · Models, Harnesses, and Multi-Agent Systems</title>
+<title>53 · Track · Practical AI · 2026-08-06 · Models, Harnesses, and Multi-Agent Systems</title>
 <link>https://practicalai.show/367</link>
-<guid isPermaLink="false">timlib3f-56</guid>
-<pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-53</guid>
+<pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
 <description>Practical AI · Daniel Whitenack &amp; Chris Benson · aired August 6, 2026
 Track 2 Agent Teams · Method · MEDIUM priority
 
@@ -1355,13 +1283,13 @@ Original episode: https://practicalai.show/367</itunes:summary>
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/f054c63dff12cde0.jpg"/>
 <itunes:duration>2998</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>37</itunes:episode>
+<itunes:episode>49</itunes:episode>
 </item>
 <item>
-<title>57 · Track · The Data Exchange · 2026-08-20 · An Agent Is Just an LLM in a For-Loop</title>
+<title>54 · Track · The Data Exchange · 2026-08-20 · An Agent Is Just an LLM in a For-Loop</title>
 <link>https://thedataexchange.media/maarten-grootendorst-orm-books/</link>
-<guid isPermaLink="false">timlib3f-57</guid>
-<pubDate>Wed, 29 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-54</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 <description>The Data Exchange · Maarten Grootendorst (author, *Hands-On Large Language Models*; creator of BERTopic) · aired August 20, 2026
 Track 2 Agent Teams · Method · MEDIUM priority
 
@@ -1379,13 +1307,13 @@ Original episode: https://thedataexchange.media/maarten-grootendorst-orm-books/<
 <itunes:image href="https://storage.buzzsprout.com/ljk0yj7r22pi61grsmelnsoa9084?.jpg"/>
 <itunes:duration>2117</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>36</itunes:episode>
+<itunes:episode>48</itunes:episode>
 </item>
 <item>
-<title>58 · Track · Latent Space · 2026-08-21 · Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
+<title>55 · Track · Latent Space · 2026-08-21 · Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
 <link>https://www.latent.space/p/simile</link>
-<guid isPermaLink="false">timlib3f-58</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-55</guid>
+<pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
 <description>Latent Space · Joon Sung Park (Simile AI) · aired August 21, 2026
 Track 2 Agent Teams · Method · MEDIUM priority
 
@@ -1403,13 +1331,13 @@ Original episode: https://www.latent.space/p/simile</itunes:summary>
 <itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/212197985/9eb9cac93739dd5757797f407ee21fcd.jpg"/>
 <itunes:duration>4178</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>35</itunes:episode>
+<itunes:episode>47</itunes:episode>
 </item>
 <item>
-<title>59 · Track · The Cognitive Revolution · 2025-07-02 · The AI Village: Previewing the Giga-Agent Future with Adam Binksmith, Founder of AI Digest</title>
+<title>56 · Track · The Cognitive Revolution · 2025-07-02 · The AI Village: Previewing the Giga-Agent Future with Adam Binksmith, Founder of AI Digest</title>
 <link>https://www.cognitiverevolution.ai/the-ai-village-previewing-the-giga-agent-future-with-adam-binksmith-founder-of-ai-digest/</link>
-<guid isPermaLink="false">timlib3f-59</guid>
-<pubDate>Tue, 28 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-56</guid>
+<pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Adam Binksmith, Founder of AI Digest · aired July 2, 2025
 Track 2 Agent Teams · Method · MEDIUM priority
 
@@ -1427,13 +1355,13 @@ Original episode: https://www.cognitiverevolution.ai/the-ai-village-previewing-t
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/b7886857f104a739.jpg"/>
 <itunes:duration>5122</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>34</itunes:episode>
+<itunes:episode>46</itunes:episode>
 </item>
 <item>
-<title>60 · Track · Data Engineering Podcast (ep. 514) · 2026-08-02 · Why Multi-Agent Systems Need Shared State, Graph Semantics, and Governance</title>
+<title>57 · Track · Data Engineering Podcast (ep. 514) · 2026-08-02 · Why Multi-Agent Systems Need Shared State, Graph Semantics, and Governance</title>
 <link>https://www.dataengineeringpodcast.com/omnigraph-lakehouse-versioned-multi-agent-graph-engine-episode-514</link>
-<guid isPermaLink="false">timlib3f-60</guid>
-<pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-57</guid>
+<pubDate>Wed, 29 Jul 2026 06:00:00 +0000</pubDate>
 <description>Data Engineering Podcast (ep. 514) · Ragnor Comerford (OmniGraph) · aired August 2, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1451,13 +1379,13 @@ Original episode: https://www.dataengineeringpodcast.com/omnigraph-lakehouse-ver
 <itunes:image href="https://assets.podhome.fm/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/638557928872209534cover.jpg"/>
 <itunes:duration>01:02:15</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>33</itunes:episode>
+<itunes:episode>45</itunes:episode>
 </item>
 <item>
-<title>61 · Track · Data Engineering Podcast (ep. 502) · 2026-02-22 · From Data Models to Mind Models: Designing AI Memory at Scale</title>
+<title>58 · Track · Data Engineering Podcast (ep. 502) · 2026-02-22 · From Data Models to Mind Models: Designing AI Memory at Scale</title>
 <link>https://www.dataengineeringpodcast.com/agentic-memory-design-and-application-episode-502</link>
-<guid isPermaLink="false">timlib3f-61</guid>
-<pubDate>Tue, 28 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-58</guid>
+<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
 <description>Data Engineering Podcast (ep. 502) · Vasilije &quot;Vas&quot; Markovich (founder, Cognee) · aired February 22, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1475,13 +1403,13 @@ Original episode: https://www.dataengineeringpodcast.com/agentic-memory-design-a
 <itunes:image href="https://assets.podhome.fm/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/638557928872209534cover.jpg"/>
 <itunes:duration>00:57:47</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>32</itunes:episode>
+<itunes:episode>44</itunes:episode>
 </item>
 <item>
-<title>62 · Track · The Data Exchange · 2026-07-02 · The Data Layer Enterprise AI Has Been Missing</title>
+<title>59 · Track · The Data Exchange · 2026-07-02 · The Data Layer Enterprise AI Has Been Missing</title>
 <link>https://thedataexchange.media/andrew-moore-lovelace/</link>
-<guid isPermaLink="false">timlib3f-62</guid>
-<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-59</guid>
+<pubDate>Tue, 28 Jul 2026 18:00:00 +0000</pubDate>
 <description>The Data Exchange · Andrew Moore (Lovelace; ex-Google Cloud AI, ex-CMU dean) · aired July 2, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1499,13 +1427,13 @@ Original episode: https://thedataexchange.media/andrew-moore-lovelace/</itunes:s
 <itunes:image href="https://storage.buzzsprout.com/ljk0yj7r22pi61grsmelnsoa9084?.jpg"/>
 <itunes:duration>3056</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>31</itunes:episode>
+<itunes:episode>43</itunes:episode>
 </item>
 <item>
-<title>63 · Track · The Data Exchange · 2025-11-26 · Building the Knowledge Layer Your Agents Need</title>
+<title>60 · Track · The Data Exchange · 2025-11-26 · Building the Knowledge Layer Your Agents Need</title>
 <link>https://podcasts.apple.com/us/podcast/building-the-knowledge-layer-your-agents-need/id1487704458?i=1000738515705</link>
-<guid isPermaLink="false">timlib3f-63</guid>
-<pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-60</guid>
+<pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
 <description>The Data Exchange · Philip Rathle (CTO, Neo4j) · aired November 26, 2025
 Track 3 Graphs · Method · HIGH priority
 
@@ -1523,13 +1451,13 @@ Original episode: https://podcasts.apple.com/us/podcast/building-the-knowledge-l
 <itunes:image href="https://storage.buzzsprout.com/ljk0yj7r22pi61grsmelnsoa9084?.jpg"/>
 <itunes:duration>2860</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>30</itunes:episode>
+<itunes:episode>42</itunes:episode>
 </item>
 <item>
-<title>64 · Track · Weaviate Podcast #139 · 2026-06-01 · Knowledge Engineering with Bradley Allen</title>
+<title>61 · Track · Weaviate Podcast #139 · 2026-06-01 · Knowledge Engineering with Bradley Allen</title>
 <link>https://podcasters.spotify.com/pod/show/weaviate/episodes/Knowledge-Engineering-with-Bradley-Allen---Weaviate-Podcast-139-e3k6alv</link>
-<guid isPermaLink="false">timlib3f-64</guid>
-<pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-61</guid>
+<pubDate>Tue, 28 Jul 2026 06:00:00 +0000</pubDate>
 <description>Weaviate Podcast #139 · Dr. Bradley Allen (knowledge engineering veteran) · aired June 1, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1547,13 +1475,13 @@ Original episode: https://podcasters.spotify.com/pod/show/weaviate/episodes/Know
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/34794122/34794122-1704376570442-9264e631e6abf.jpg"/>
 <itunes:duration>01:00:39</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>29</itunes:episode>
+<itunes:episode>41</itunes:episode>
 </item>
 <item>
-<title>65 · Track · TWIML AI Podcast #763 · 2026-03-10 · Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi</title>
+<title>62 · Track · TWIML AI Podcast #763 · 2026-03-10 · Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi</title>
 <link>https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-graphs-autonomous-software-development</link>
-<guid isPermaLink="false">timlib3f-65</guid>
-<pubDate>Mon, 27 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-62</guid>
+<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
 <description>TWIML AI Podcast #763 · Sid Pardeshi (co-founder/CTO, Blitzy) · aired March 10, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1571,13 +1499,13 @@ Original episode: https://twimlai.com/podcast/twimlai/agent-swarms-knowledge-gra
 <itunes:image href="https://megaphone.imgix.net/podcasts/ebebd774-1cd1-11f1-89d3-7b12c2607b16/image/f6c79e61b02ec1844bebe366c54212b7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
 <itunes:duration>4574</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>28</itunes:episode>
+<itunes:episode>40</itunes:episode>
 </item>
 <item>
-<title>66 · Track · GraphGeeks Graph Chat · 2026-04-30 · Graph Chat with William Lyon on AI Agents, Graph Memory, and the Return to Neo4j</title>
+<title>63 · Track · GraphGeeks Graph Chat · 2026-04-30 · Graph Chat with William Lyon on AI Agents, Graph Memory, and the Return to Neo4j</title>
 <link>https://podcasts.apple.com/us/podcast/graph-chat-with-william-lyon-on-ai-agents-graph-memory/id1741850482?i=1000764990131</link>
-<guid isPermaLink="false">timlib3f-66</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-63</guid>
+<pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · William Lyon (Neo4j product team) w/ Amy Hodler · aired April 30, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1595,13 +1523,13 @@ Original episode: https://podcasts.apple.com/us/podcast/graph-chat-with-william-
 <itunes:image href="https://media.redcircle.com/images/2026/4/30/20/8f7d7d9e-2f4d-4ecc-a47b-054a99c01e06_podcasts_1400x1400.jpg"/>
 <itunes:duration>498</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>27</itunes:episode>
+<itunes:episode>39</itunes:episode>
 </item>
 <item>
-<title>67 · Track · GraphGeeks Graph Chat · 2026-02-25 · Graph Chat: Neo4j's Philip Rathle on Neuro-symbolic AI and Infinigraph</title>
+<title>64 · Track · GraphGeeks Graph Chat · 2026-02-25 · Graph Chat: Neo4j's Philip Rathle on Neuro-symbolic AI and Infinigraph</title>
 <link>https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip-rathle-on-neuro-symbolic-ai/id1741850482?i=1000751577674</link>
-<guid isPermaLink="false">timlib3f-67</guid>
-<pubDate>Sun, 26 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-64</guid>
+<pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · Philip Rathle (CTO, Neo4j) w/ Amy Hodler · aired February 25, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1619,13 +1547,13 @@ Original episode: https://podcasts.apple.com/us/podcast/graph-chat-neo4js-philip
 <itunes:image href="https://media.redcircle.com/images/2026/2/25/19/e76e7157-a471-4865-9859-a9e76e6567c2_podcasts_1600x1600__simple_.jpg"/>
 <itunes:duration>1085</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>26</itunes:episode>
+<itunes:episode>38</itunes:episode>
 </item>
 <item>
-<title>68 · Track · GraphGeeks Graph Chat · 2026-02-05 · Graph Chat: Multimodal GraphRAG and Agentic Observability with David Hughes</title>
+<title>65 · Track · GraphGeeks Graph Chat · 2026-02-05 · Graph Chat: Multimodal GraphRAG and Agentic Observability with David Hughes</title>
 <link>https://podcasts.apple.com/us/podcast/graph-chat-multimodal-graphrag-and-agentic-observability/id1741850482?i=1000748384215</link>
-<guid isPermaLink="false">timlib3f-68</guid>
-<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-65</guid>
+<pubDate>Mon, 27 Jul 2026 06:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · David Hughes (Solutions Architect, Enterprise Knowledge) w/ Bryce Merkl Sasaki · aired February 5, 2026
 Track 3 Graphs · Method · HIGH priority
 
@@ -1643,13 +1571,13 @@ Original episode: https://podcasts.apple.com/us/podcast/graph-chat-multimodal-gr
 <itunes:image href="https://media.redcircle.com/images/2026/2/5/14/42232787-e297-4d7b-be1a-d1c125c6cf32_podcasts_1600x1600__simple_.jpg"/>
 <itunes:duration>564</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>25</itunes:episode>
+<itunes:episode>37</itunes:episode>
 </item>
 <item>
-<title>69 · Track · GraphGeeks Graph Chat · 2025-10-24 · Emerging AI Memory and Graphs with Dave Bechberger</title>
+<title>66 · Track · GraphGeeks Graph Chat · 2025-10-24 · Emerging AI Memory and Graphs with Dave Bechberger</title>
 <link>https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-graphs-with-dave-bechberger/id1741850482?i=1000733369179</link>
-<guid isPermaLink="false">timlib3f-69</guid>
-<pubDate>Sun, 26 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-66</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · Dave Bechberger (graph DB practitioner/author) w/ Amy Hodler · aired October 24, 2025
 Track 3 Graphs · Method · HIGH priority
 
@@ -1667,13 +1595,13 @@ Original episode: https://podcasts.apple.com/us/podcast/emerging-ai-memory-and-g
 <itunes:image href="https://media.redcircle.com/images/2024/8/23/21/64dde620-c973-47dd-9d2d-536915dad88e_2-48b1-8432-16406280cffe_graphgeeks-logo_small.jpg"/>
 <itunes:duration>2157</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>24</itunes:episode>
+<itunes:episode>36</itunes:episode>
 </item>
 <item>
-<title>70 · Track · MLOps Community Podcast #236 · 2024-05-28 · Managing Small Knowledge Graphs for Multi-agent Systems</title>
+<title>67 · Track · MLOps Community Podcast #236 · 2024-05-28 · Managing Small Knowledge Graphs for Multi-agent Systems</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Managing-Small-Knowledge-Graphs-for-Multi-agent-Systems--Tom-Smoker--236-e2k72go</link>
-<guid isPermaLink="false">timlib3f-70</guid>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-67</guid>
+<pubDate>Sun, 26 Jul 2026 18:00:00 +0000</pubDate>
 <description>MLOps Community Podcast #236 · Tom Smoker (technical founder, whyhow.ai) · aired May 28, 2024
 Track 3 Graphs · Method · HIGH priority
 
@@ -1691,13 +1619,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Managin
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3809022/3809022-1716908935898-9bb4ad6799971.jpg"/>
 <itunes:duration>01:04:40</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>23</itunes:episode>
+<itunes:episode>35</itunes:episode>
 </item>
 <item>
-<title>71 · Track · The Cognitive Revolution · 2025-11-20 · Escaping AI Slop: How Atlassian Gives AI Teammates Taste, Knowledge, &amp; Workflows, w- Sherif Mansour</title>
+<title>68 · Track · The Cognitive Revolution · 2025-11-20 · Escaping AI Slop: How Atlassian Gives AI Teammates Taste, Knowledge, &amp; Workflows, w- Sherif Mansour</title>
 <link>https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlassian-gives-ai-teammates-taste-knowledge-workflows-w-sherif-mansour/</link>
-<guid isPermaLink="false">timlib3f-71</guid>
-<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-68</guid>
+<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Sherif Mansour · aired November 20, 2025
 Track 3 Graphs · Method · HIGH priority
 
@@ -1715,13 +1643,13 @@ Original episode: https://www.cognitiverevolution.ai/escaping-ai-slop-how-atlass
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/4a030e7f1c3e02f5.jpg"/>
 <itunes:duration>6010</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>22</itunes:episode>
+<itunes:episode>34</itunes:episode>
 </item>
 <item>
-<title>72 · Track · GraphGeeks Graph Chat · 2026-08-10 · Why AI Agents Need Knowledge Graphs: A Chat with Glasswing Ventures' James Massaquoi</title>
+<title>69 · Track · GraphGeeks Graph Chat · 2026-08-10 · Why AI Agents Need Knowledge Graphs: A Chat with Glasswing Ventures' James Massaquoi</title>
 <link>https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowledge-graphs-a-chat-with-glasswing/id1741850482?i=1000782045600</link>
-<guid isPermaLink="false">timlib3f-72</guid>
-<pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-69</guid>
+<pubDate>Sun, 26 Jul 2026 06:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · James Massaquoi (Glasswing Ventures) w/ Amy Hodler · aired August 10, 2026
 Track 3 Graphs · Method · MEDIUM priority
 
@@ -1739,13 +1667,13 @@ Original episode: https://podcasts.apple.com/us/podcast/why-ai-agents-need-knowl
 <itunes:image href="https://media.redcircle.com/images/2024/8/23/21/64dde620-c973-47dd-9d2d-536915dad88e_2-48b1-8432-16406280cffe_graphgeeks-logo_small.jpg"/>
 <itunes:duration>529</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>21</itunes:episode>
+<itunes:episode>33</itunes:episode>
 </item>
 <item>
-<title>73 · Track · Practical AI · 2024-09-25 · GraphRAG (beyond the hype)</title>
+<title>70 · Track · Practical AI · 2024-09-25 · GraphRAG (beyond the hype)</title>
 <link>https://share.transistor.fm/s/d2299d84</link>
-<guid isPermaLink="false">timlib3f-73</guid>
-<pubDate>Sat, 25 Jul 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-70</guid>
+<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
 <description>Practical AI · Prashanth Rao (graph/AI engineer) · aired September 25, 2024
 Track 3 Graphs · Method · MEDIUM priority
 
@@ -1763,13 +1691,13 @@ Original episode: https://share.transistor.fm/s/d2299d84</itunes:summary>
 <itunes:image href="https://img.transistorcdn.com/WMlp2ug34XB6LDJ3-vnzti_-_y144LUlFW0Xzzn3fss/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wMTZi/ZWJmNWIwNDdmYTcw/NGJjMTExZjNjZmYy/M2ZjNS5wbmc.jpg"/>
 <itunes:duration>3302</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>20</itunes:episode>
+<itunes:episode>32</itunes:episode>
 </item>
 <item>
-<title>74 · Track · The AI Daily Brief · 2026-01-05 · Context Graphs: AI's Next Big Idea</title>
+<title>71 · Track · The AI Daily Brief · 2026-01-05 · Context Graphs: AI's Next Big Idea</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/Context-Graphs-AIs-Next-Big-Idea-e3d7hej</link>
-<guid isPermaLink="false">timlib3f-74</guid>
-<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-71</guid>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 <description>The AI Daily Brief · NLW (host) · aired January 5, 2026
 Track 3 Graphs · Method · MEDIUM priority
 
@@ -1787,13 +1715,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Context-G
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41472609/41472609-1752234663609-8665756a468e5.jpg"/>
 <itunes:duration>00:25:57</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>19</itunes:episode>
+<itunes:episode>31</itunes:episode>
 </item>
 <item>
-<title>75 · Track · GraphGeeks Graph Chat · 2026-08-18 · Graph AI Meets Construction Risk: Stamati Liapis (Enlaye) at ODSC</title>
+<title>72 · Track · GraphGeeks Graph Chat · 2026-08-18 · Graph AI Meets Construction Risk: Stamati Liapis (Enlaye) at ODSC</title>
 <link>https://podcasts.apple.com/us/podcast/graph-ai-meets-construction-risk-stamati-liapis-enlaye/id1741850482?i=1000784185285</link>
-<guid isPermaLink="false">timlib3f-75</guid>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-72</guid>
+<pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · Stamati Liapis (cofounder, Enlaye) · aired August 18, 2026
 Track 3 Graphs · Method · MEDIUM priority
 
@@ -1811,13 +1739,13 @@ Original episode: https://podcasts.apple.com/us/podcast/graph-ai-meets-construct
 <itunes:image href="https://media.redcircle.com/images/2024/8/23/21/64dde620-c973-47dd-9d2d-536915dad88e_2-48b1-8432-16406280cffe_graphgeeks-logo_small.jpg"/>
 <itunes:duration>592</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>18</itunes:episode>
+<itunes:episode>30</itunes:episode>
 </item>
 <item>
-<title>76 · Track · GraphGeeks Graph Chat · 2026-08-27 · From Vitamins to Painkillers: The Business of Graphs &amp; AI | Brad Bebee | GraphCon 2026</title>
+<title>73 · Track · GraphGeeks Graph Chat · 2026-08-27 · From Vitamins to Painkillers: The Business of Graphs &amp; AI | Brad Bebee | GraphCon 2026</title>
 <link>https://podcasts.apple.com/us/podcast/from-vitamins-to-painkillers-the-business-of-graphs/id1741850482?i=1000786339194</link>
-<guid isPermaLink="false">timlib3f-76</guid>
-<pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">timlib3f-73</guid>
+<pubDate>Sat, 25 Jul 2026 06:00:00 +0000</pubDate>
 <description>GraphGeeks Graph Chat · Brad Bebee (Director, AWS / Amazon Neptune) · aired August 27, 2026
 Track 3 Graphs · Method · MEDIUM priority
 
@@ -1835,388 +1763,676 @@ Original episode: https://podcasts.apple.com/us/podcast/from-vitamins-to-painkil
 <itunes:image href="https://media.redcircle.com/images/2024/8/23/21/64dde620-c973-47dd-9d2d-536915dad88e_2-48b1-8432-16406280cffe_graphgeeks-logo_small.jpg"/>
 <itunes:duration>955</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>29</itunes:episode>
+</item>
+<item>
+<title>74 · Track · Latent Space · 2026-08-03 · The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
+<link>https://www.latent.space/p/inference-eng</link>
+<guid isPermaLink="false">timlib3f-74</guid>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<description>Latent Space · Philip Kiely &amp; Ali Taha (Baseten) · aired August 3, 2026
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3
+
+Original episode: https://www.latent.space/p/inference-eng</description>
+<itunes:summary>Latent Space · Philip Kiely &amp; Ali Taha (Baseten) · aired August 3, 2026
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3
+
+Original episode: https://www.latent.space/p/inference-eng</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Philip Kiely &amp; Ali Taha (Baseten) &middot; aired August 3, 2026</p><p>Track 6 Token Optimization &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3</p><p><a href="https://www.latent.space/p/inference-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/inference-eng</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3" length="97421971" type="audio/mpeg"/>
+<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/209198968/3c0bb877670d79fe2147a4eec93b16d6.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>28</itunes:episode>
+</item>
+<item>
+<title>75 · Track · Chain of Thought · 2026-06-25 · Stop Token Maxxing: Find Where AI Actually Pays Off \</title>
+<link>https://share.transistor.fm/s/81534de0</link>
+<guid isPermaLink="false">timlib3f-75</guid>
+<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<description>Chain of Thought · Jiaona Zhang · aired June 25, 2026
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://media.transistor.fm/81534de0/fed7bc4f.mp3
+
+Original episode: https://share.transistor.fm/s/81534de0</description>
+<itunes:summary>Chain of Thought · Jiaona Zhang · aired June 25, 2026
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://media.transistor.fm/81534de0/fed7bc4f.mp3
+
+Original episode: https://share.transistor.fm/s/81534de0</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Chain of Thought</strong> &middot; Jiaona Zhang &middot; aired June 25, 2026</p><p>Track 6 Token Optimization &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://media.transistor.fm/81534de0/fed7bc4f.mp3</p><p><a href="https://share.transistor.fm/s/81534de0">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/81534de0</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/81534de0/fed7bc4f.mp3" length="110887816" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>27</itunes:episode>
+</item>
+<item>
+<title>76 · Track · Agentic Conversations (formerly MLOps Community) · 2026-09-04 · The Five-Layer Cake Approach to Scaling AI Without Wasting Money</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</link>
+<guid isPermaLink="false">timlib3f-76</guid>
+<pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+<description>Agentic Conversations (formerly MLOps Community) · Ambud Sharma (Principal Engineer, Pinterest) · aired September 4, 2026
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</description>
+<itunes:summary>Agentic Conversations (formerly MLOps Community) · Ambud Sharma (Principal Engineer, Pinterest) · aired September 4, 2026
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Agentic Conversations (formerly MLOps Community)</strong> &middot; Ambud Sharma (Principal Engineer, Pinterest) &middot; aired September 4, 2026</p><p>Track 6 Token Optimization &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/125198968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431176993-44100-2-7c81046dda6ca.mp3" length="37364296" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3809022/3809022-1785789366189-1f35ba8f80f66.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>26</itunes:episode>
+</item>
+<item>
+<title>77 · Track · Agentic Conversations (MLOps Community #348) · 2025-11-21 · Context Engineering, Context Rot, &amp; Agentic Search with the CEO of Chroma, Jeff Huber</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</link>
+<guid isPermaLink="false">timlib3f-77</guid>
+<pubDate>Fri, 24 Jul 2026 06:00:00 +0000</pubDate>
+<description>Agentic Conversations (MLOps Community #348) · Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann · aired November 21, 2025
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</description>
+<itunes:summary>Agentic Conversations (MLOps Community #348) · Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann · aired November 21, 2025
+Track 6 Token Optimization · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Agentic Conversations (MLOps Community #348)</strong> &middot; Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann &middot; aired November 21, 2025</p><p>Track 6 Token Optimization &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/111515473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412916747-44100-2-0cb0f712b55f3.mp3" length="43120848" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3809022/3809022-1763748498550-9bedf272241e1.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>25</itunes:episode>
+</item>
+<item>
+<title>78 · Track · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
+<link>https://www.latent.space/p/harness-eng</link>
+<guid isPermaLink="false">timlib3f-78</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+<description>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
+
+Original episode: https://www.latent.space/p/harness-eng</description>
+<itunes:summary>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
+
+Original episode: https://www.latent.space/p/harness-eng</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Ryan Lopopolo (OpenAI Frontier) &middot; aired April 7, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.</p><p><a href="https://www.latent.space/p/harness-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/harness-eng</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/193478192/2c0fb135ac3f9193c58922fcaf1b81a8.mp3" length="52357357" type="audio/mpeg"/>
+<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/193478192/142fb64d15eec61ae6e0f94ec7ee2b32.jpg"/>
+<itunes:duration>4363</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>24</itunes:episode>
+</item>
+<item>
+<title>79 · Track · The Joe Reis Show · 2026-05-14 · The Hidden Cost of AI Agents on Your Cloud Bill - Sanjay Agrawal</title>
+<link>https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</link>
+<guid isPermaLink="false">timlib3f-79</guid>
+<pubDate>Thu, 23 Jul 2026 18:00:00 +0000</pubDate>
+<description>The Joe Reis Show · Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) · aired May 14, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</description>
+<itunes:summary>The Joe Reis Show · Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) · aired May 14, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Joe Reis Show</strong> &middot; Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) &middot; aired May 14, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/4aba058c/podcast/play/119839055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423951933-44100-2-b964a693398ab.mp3" length="50866467" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/12437051/12437051-1755567691905-b204019474441.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>23</itunes:episode>
+</item>
+<item>
+<title>80 · Track · The AI Daily Brief · 2026-06-04 · How Companies Are Becoming AI Token Efficient</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</link>
+<guid isPermaLink="false">timlib3f-80</guid>
+<pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+<description>The AI Daily Brief · NLW (Nathaniel Whittemore), solo · aired June 4, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</description>
+<itunes:summary>The AI Daily Brief · NLW (Nathaniel Whittemore), solo · aired June 4, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief</strong> &middot; NLW (Nathaniel Whittemore), solo &middot; aired June 4, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3" length="24843492" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41472609/41472609-1752234663609-8665756a468e5.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>22</itunes:episode>
+</item>
+<item>
+<title>81 · Track · Latent Space · 2026-04-22 · Shopify's AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO</title>
+<link>https://www.latent.space/p/shopify</link>
+<guid isPermaLink="false">timlib3f-81</guid>
+<pubDate>Thu, 23 Jul 2026 06:00:00 +0000</pubDate>
+<description>Latent Space · Mikhail Parakhin (CTO, Shopify) · aired April 22, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3
+
+Original episode: https://www.latent.space/p/shopify</description>
+<itunes:summary>Latent Space · Mikhail Parakhin (CTO, Shopify) · aired April 22, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3
+
+Original episode: https://www.latent.space/p/shopify</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Mikhail Parakhin (CTO, Shopify) &middot; aired April 22, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3</p><p><a href="https://www.latent.space/p/shopify">Open the original episode &rarr;</a><br/>https://www.latent.space/p/shopify</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/195067855/708627edff5e672fd6cb54ad90b94b0c.mp3" length="52140035" type="audio/mpeg"/>
+<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/195067855/7da569b8c37f3547b1841771f43083fb.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>21</itunes:episode>
+</item>
+<item>
+<title>82 · Track · Chain of Thought \ · 2026-02-26 · AI Agents, Infrastructure &amp; Engineering</title>
+<link>https://share.transistor.fm/s/0fd18337</link>
+<guid isPermaLink="false">timlib3f-82</guid>
+<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+<description>Chain of Thought \ · How Intercom Cut $250K/Month by Ditching GPT for Qwen · aired February 26, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://media.transistor.fm/0fd18337/b333c541.mp3
+
+Original episode: https://share.transistor.fm/s/0fd18337</description>
+<itunes:summary>Chain of Thought \ · How Intercom Cut $250K/Month by Ditching GPT for Qwen · aired February 26, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://media.transistor.fm/0fd18337/b333c541.mp3
+
+Original episode: https://share.transistor.fm/s/0fd18337</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Chain of Thought \</strong> &middot; How Intercom Cut $250K/Month by Ditching GPT for Qwen &middot; aired February 26, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://media.transistor.fm/0fd18337/b333c541.mp3</p><p><a href="https://share.transistor.fm/s/0fd18337">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/0fd18337</p>]]></content:encoded>
+<enclosure url="https://media.transistor.fm/0fd18337/b333c541.mp3" length="51366083" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>20</itunes:episode>
+</item>
+<item>
+<title>83 · Track · Super Data Science · 2026-07-17 · 1010: Fable 5 as Advisor: Anthropic's Two-Model Pattern for Smarter, Cheaper Agents</title>
+<link>https://www.superdatascience.com/1010</link>
+<guid isPermaLink="false">timlib3f-83</guid>
+<pubDate>Wed, 22 Jul 2026 18:00:00 +0000</pubDate>
+<description>Super Data Science · Jon Krohn (solo) · aired July 17, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3
+
+Original episode: https://www.superdatascience.com/1010</description>
+<itunes:summary>Super Data Science · Jon Krohn (solo) · aired July 17, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3
+
+Original episode: https://www.superdatascience.com/1010</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Super Data Science</strong> &middot; Jon Krohn (solo) &middot; aired July 17, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3</p><p><a href="https://www.superdatascience.com/1010">Open the original episode &rarr;</a><br/>https://www.superdatascience.com/1010</p>]]></content:encoded>
+<enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1506755519.mp3" length="20923682" type="audio/mpeg"/>
+<itunes:image href="https://megaphone.imgix.net/podcasts/2dddcb6a-81b8-11f1-a16d-bf8a76089710/image/b25143610712c9bdeac57f63bb5166e1.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>19</itunes:episode>
+</item>
+<item>
+<title>84 · Track · Super Data Science · 2026-08-21 · 1020: How to Choose Model Size and Effort Level: The Two Critical Dials</title>
+<link>https://www.superdatascience.com/1020</link>
+<guid isPermaLink="false">timlib3f-84</guid>
+<pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+<description>Super Data Science · Jon Krohn (solo; built on Anthropic post by Claude Code's Lydia Holly) · aired August 21, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3
+
+Original episode: https://www.superdatascience.com/1020</description>
+<itunes:summary>Super Data Science · Jon Krohn (solo; built on Anthropic post by Claude Code's Lydia Holly) · aired August 21, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3
+
+Original episode: https://www.superdatascience.com/1020</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Super Data Science</strong> &middot; Jon Krohn (solo; built on Anthropic post by Claude Code&#x27;s Lydia Holly) &middot; aired August 21, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3</p><p><a href="https://www.superdatascience.com/1020">Open the original episode &rarr;</a><br/>https://www.superdatascience.com/1020</p>]]></content:encoded>
+<enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD6826796686.mp3" length="24169844" type="audio/mpeg"/>
+<itunes:image href="https://megaphone.imgix.net/podcasts/c4793882-9d2b-11f1-a4a4-7f99d4d74adb/image/b25143610712c9bdeac57f63bb5166e1.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>18</itunes:episode>
+</item>
+<item>
+<title>85 · Track · The TWIML AI Podcast · 2026-09-09 · Do AI Tokenomics Matter More Than Model Benchmarks? with Chris Potts - #776</title>
+<link>https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</link>
+<guid isPermaLink="false">timlib3f-85</guid>
+<pubDate>Wed, 22 Jul 2026 06:00:00 +0000</pubDate>
+<description>The TWIML AI Podcast · Chris Potts (Stanford professor; co-founder, Big Spin) · aired September 9, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3
+
+Original episode: https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</description>
+<itunes:summary>The TWIML AI Podcast · Chris Potts (Stanford professor; co-founder, Big Spin) · aired September 9, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
+
+Why it's here: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3
+
+Original episode: https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The TWIML AI Podcast</strong> &middot; Chris Potts (Stanford professor; co-founder, Big Spin) &middot; aired September 9, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3</p><p><a href="https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks">Open the original episode &rarr;</a><br/>https://twimlai.com/podcast/twimlai/do-ai-tokenomics-matter-more-than-model-benchmarks</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2214331662.mp3" length="56922083" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>17</itunes:episode>
 </item>
 <item>
-<title>77 · Track · The Growth Podcast · 2026-08-28 · How to build a Company Operating System with Hermes and OpenClaw</title>
-<link>https://www.news.aakashg.com/p/company-os-hermes-openclaw</link>
-<guid isPermaLink="false">timlib3f-77</guid>
-<pubDate>Fri, 24 Jul 2026 06:00:00 +0000</pubDate>
-<description>The Growth Podcast · Mikhail Shcheglov (CPO, OLX Classifieds) · aired August 28, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>86 · Track · The MAD Podcast with Matt Turck · 2026-05-28 · State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job</title>
+<link>https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</link>
+<guid isPermaLink="false">timlib3f-86</guid>
+<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+<description>The MAD Podcast with Matt Turck · Aaron Levie (CEO, Box) · aired May 28, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
 
-Why it's here: Five months running a company operating system on OpenClaw plus Hermes: a knowledge graph covering 54% of company context, tracked as a personal KPI, with the agent making backlog calls ahead of his PMs.
+Why it's here: https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3
 
-Original episode: https://www.news.aakashg.com/p/company-os-hermes-openclaw</description>
-<itunes:summary>The Growth Podcast · Mikhail Shcheglov (CPO, OLX Classifieds) · aired August 28, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</description>
+<itunes:summary>The MAD Podcast with Matt Turck · Aaron Levie (CEO, Box) · aired May 28, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
 
-Why it's here: Five months running a company operating system on OpenClaw plus Hermes: a knowledge graph covering 54% of company context, tracked as a personal KPI, with the agent making backlog calls ahead of his PMs.
+Why it's here: https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3
 
-Original episode: https://www.news.aakashg.com/p/company-os-hermes-openclaw</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Growth Podcast</strong> &middot; Mikhail Shcheglov (CPO, OLX Classifieds) &middot; aired August 28, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Five months running a company operating system on OpenClaw plus Hermes: a knowledge graph covering 54% of company context, tracked as a personal KPI, with the agent making backlog calls ahead of his PMs.</p><p><a href="https://www.news.aakashg.com/p/company-os-hermes-openclaw">Open the original episode &rarr;</a><br/>https://www.news.aakashg.com/p/company-os-hermes-openclaw</p>]]></content:encoded>
-<enclosure url="https://api.substack.com/feed/podcast/212868183/a34952ca3b9a098c9c086cecd9596853.mp3" length="63724702" type="audio/mpeg"/>
+Original episode: https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The MAD Podcast with Matt Turck</strong> &middot; Aaron Levie (CEO, Box) &middot; aired May 28, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f2ee4948/podcast/play/120652121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425038386-44100-2-0dcff486f8a18.mp3" length="69985592" type="audio/mpeg"/>
 
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>16</itunes:episode>
 </item>
 <item>
-<title>78 · Track · Tool Use - AI Conversations · 2026-04-14 · Hermes Agent has won. Here's why</title>
-<link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</link>
-<guid isPermaLink="false">timlib3f-78</guid>
-<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-<description>Tool Use - AI Conversations · aired April 14, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>87 · Track · Superlinear · 2026-07-24 · Understanding Loops and Graphs in Modern Coding Agents</title>
+<link>https://www.buzzsprout.com/2632181/episodes/19544246</link>
+<guid isPermaLink="false">timlib3f-87</guid>
+<pubDate>Tue, 21 Jul 2026 18:00:00 +0000</pubDate>
+<description>Superlinear · Christine Yip &amp; Brandon Kase (hosts) · aired July 24, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
 
-Why it's here: A Nous Research co-founder walks the three-layer memory model and the self-improving skills loop, then the concrete jobs people run on it — a video dubbing pipeline and CAD hardware sourcing.
+Why it's here: https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3
 
-Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</description>
-<itunes:summary>Tool Use - AI Conversations · aired April 14, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://www.buzzsprout.com/2632181/episodes/19544246</description>
+<itunes:summary>Superlinear · Christine Yip &amp; Brandon Kase (hosts) · aired July 24, 2026
+Track 6 Token Optimization · Method · MEDIUM priority
 
-Why it's here: A Nous Research co-founder walks the three-layer memory model and the self-improving skills loop, then the concrete jobs people run on it — a video dubbing pipeline and CAD hardware sourcing.
+Why it's here: https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3
 
-Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Tool Use - AI Conversations</strong> &middot; aired April 14, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> A Nous Research co-founder walks the three-layer memory model and the self-improving skills loop, then the concrete jobs people run on it — a video dubbing pipeline and CAD hardware sourcing.</p><p><a href="https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/tooluse/episodes/Hermes-Agent-has-won--Heres-why-e3ht3c3</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/118442819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F422052970-44100-2-25906159f3563.mp3" length="33939538" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42038728/42038728-1787501227780-3eff18785f5b.jpg"/>
-<itunes:duration>00:35:21</itunes:duration>
+Original episode: https://www.buzzsprout.com/2632181/episodes/19544246</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Superlinear</strong> &middot; Christine Yip &amp; Brandon Kase (hosts) &middot; aired July 24, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3</p><p><a href="https://www.buzzsprout.com/2632181/episodes/19544246">Open the original episode &rarr;</a><br/>https://www.buzzsprout.com/2632181/episodes/19544246</p>]]></content:encoded>
+<enclosure url="https://www.buzzsprout.com/2632181/episodes/19544246-understanding-loops-and-graphs-in-modern-coding-agents.mp3" length="28482180" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>15</itunes:episode>
 </item>
 <item>
-<title>79 · Track · The Great Spin Up · 2026-04-22 · Hermes Agents, Signal vs Noise, LLM Wikis,  Talking to Animals, the Abundance Paradox</title>
-<link>https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</link>
-<guid isPermaLink="false">timlib3f-79</guid>
-<pubDate>Thu, 23 Jul 2026 18:00:00 +0000</pubDate>
-<description>The Great Spin Up · aired April 22, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>88 · Track · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
+<guid isPermaLink="false">timlib3f-88</guid>
+<pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: River's build log: Hermes on a $10/month Hetzner VPS behind a Telegram gateway with open models via OpenRouter, including the SSH problems that came with it.
+Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
 
-Original episode: https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</description>
-<itunes:summary>The Great Spin Up · aired April 22, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</description>
+<itunes:summary>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: River's build log: Hermes on a $10/month Hetzner VPS behind a Telegram gateway with open models via OpenRouter, including the SSH problems that came with it.
+Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
 
-Original episode: https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Great Spin Up</strong> &middot; aired April 22, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> River&#x27;s build log: Hermes on a $10/month Hetzner VPS behind a Telegram gateway with open models via OpenRouter, including the SSH problems that came with it.</p><p><a href="https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/hermes-agents-signal-vs-noise-llm-wikis-talking-to/id1895110536?i=1000763028787</p>]]></content:encoded>
-<enclosure url="https://api.riverside.com/hosting-analytics/media/949043a52e89bf1077dcf214c248b4bac28ed79d42398bfc28571d861e40a921/eyJlcGlzb2RlSWQiOiJiNTUyNWUzMi0yYzAyLTRkOWMtOWJjNC02ZTI1YjZiMGY5YzQiLCJwb2RjYXN0SWQiOiIyMjY3YzU2ZS1hZTYzLTQ2ZTItYTUzZS1iM2MwYWZlNzdkZmQiLCJhY2NvdW50SWQiOiI2NzU5ZDE1ODA0YmM3ODBhODJiMjE0ZTkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNjllODdhNmQ2MTA3OWVhMGU4ZWFiYTU2L3RoZS1ncmVhdC1zcGluLXVwLWNvbXBvc2VyLTIwMjYtNC0yMl9fOS0zNi0xMy5tcDMifQ==.mp3" length="112471083" type="audio/mpeg"/>
-<itunes:image href="https://hosting-media.riverside.com/media/podcasts/2267c56e-ae63-46e2-a53e-b3c0afe77dfd/logos/9fa22cf0-640c-4473-b13d-261d98d112bc.png"/>
-<itunes:duration>01:18:06</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired June 17, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/0ee55f5bd030aa0e.jpg"/>
+<itunes:duration>00:29:06</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>14</itunes:episode>
 </item>
 <item>
-<title>80 · Track · Tina Huang · 2026-08-26 · My FULL Hermes Agent Setup (HermesOS)</title>
-<link>https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</link>
-<guid isPermaLink="false">timlib3f-80</guid>
-<pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
-<description>Tina Huang · aired August 26, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>89 · Track · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
+<link>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</link>
+<guid isPermaLink="false">timlib3f-89</guid>
+<pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Tina Huang's multi-agent 'HermesOS' layout on a one-click VPS, walked profile by profile — the closest thing to a full reference architecture on tape.
+Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
 
-Original episode: https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</description>
-<itunes:summary>Tina Huang · aired August 26, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</description>
+<itunes:summary>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Tina Huang's multi-agent 'HermesOS' layout on a one-click VPS, walked profile by profile — the closest thing to a full reference architecture on tape.
+Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
 
-Original episode: https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Tina Huang</strong> &middot; aired August 26, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Tina Huang&#x27;s multi-agent &#x27;HermesOS&#x27; layout on a one-click VPS, walked profile by profile — the closest thing to a full reference architecture on tape.</p><p><a href="https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/my-full-hermes-agent-setup-hermesos/id1811026238?i=1000786058329</p>]]></content:encoded>
-<enclosure url="https://traffic.megaphone.fm/PODAGEN3996715942.mp3" length="12952442" type="audio/mpeg"/>
-<itunes:image href="https://megaphone.imgix.net/podcasts/d8316678-a088-11f1-95b8-2b86044cd66d/image/7cbfb5d2762be4a3605a1e5b14a3ec0e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-<itunes:duration>1074</itunes:duration>
+Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Greg Isenberg &middot; aired August 17, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Greg&#x27;s system for turning Claude Code into an &#x27;AI employee&#x27; by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.</p><p><a href="https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3" length="34675357" type="audio/mpeg"/>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/042c1de3824616f8.jpg"/>
+<itunes:duration>2890</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>13</itunes:episode>
 </item>
 <item>
-<title>81 · Track · Leveling Up with Eric Siu · 2026-09-03 · Give Me 20 Minutes and I'll Show You How To Use Hermes To Scale Your Company</title>
-<link>https://podcasts.apple.com/us/podcast/give-me-20-minutes-and-ill-show-you-how-to-use-hermes/id741544976?i=1000780187660</link>
-<guid isPermaLink="false">timlib3f-81</guid>
-<pubDate>Thu, 23 Jul 2026 06:00:00 +0000</pubDate>
-<description>Leveling Up with Eric Siu · Eric Siu (agency founder) · aired September 3, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>90 · Track · Super Data Science · 2026-08-28 · 1022: CLAUDE.md, AGENTS.md, Skills, Hooks and Subagents: A Field Guide to Steering AI Agents</title>
+<link>https://www.superdatascience.com/1022</link>
+<guid isPermaLink="false">timlib3f-90</guid>
+<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+<description>Super Data Science · Jon Krohn (solo) · aired August 28, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Real operator numbers: X analytics at 3.1M views/month against a 1.6M pace, a CRO loop off a 1.80% baseline targeting +30% in four weeks, a Slack multiplayer bot fielding sales leads, and why he set up governance and permissioning before scaling.
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/give-me-20-minutes-and-ill-show-you-how-to-use-hermes/id741544976?i=1000780187660</description>
-<itunes:summary>Leveling Up with Eric Siu · Eric Siu (agency founder) · aired September 3, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://www.superdatascience.com/1022</description>
+<itunes:summary>Super Data Science · Jon Krohn (solo) · aired August 28, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Real operator numbers: X analytics at 3.1M views/month against a 1.6M pace, a CRO loop off a 1.80% baseline targeting +30% in four weeks, a Slack multiplayer bot fielding sales leads, and why he set up governance and permissioning before scaling.
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/give-me-20-minutes-and-ill-show-you-how-to-use-hermes/id741544976?i=1000780187660</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Leveling Up with Eric Siu</strong> &middot; Eric Siu (agency founder) &middot; aired September 3, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Real operator numbers: X analytics at 3.1M views/month against a 1.6M pace, a CRO loop off a 1.80% baseline targeting +30% in four weeks, a Slack multiplayer bot fielding sales leads, and why he set up governance and permissioning before scaling.</p><p><a href="https://podcasts.apple.com/us/podcast/give-me-20-minutes-and-ill-show-you-how-to-use-hermes/id741544976?i=1000780187660">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/give-me-20-minutes-and-ill-show-you-how-to-use-hermes/id741544976?i=1000780187660</p>]]></content:encoded>
-<enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ESHO5894203226.mp3" length="19843927" type="audio/mpeg"/>
-<itunes:image href="https://megaphone.imgix.net/podcasts/9c87db06-9390-11ed-8892-db945f862e11/image/Leveling-Up---Podcast-ArtArtboard-3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-<itunes:duration>1295</itunes:duration>
+Original episode: https://www.superdatascience.com/1022</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Super Data Science</strong> &middot; Jon Krohn (solo) &middot; aired August 28, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3</p><p><a href="https://www.superdatascience.com/1022">Open the original episode &rarr;</a><br/>https://www.superdatascience.com/1022</p>]]></content:encoded>
+<enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3" length="25364790" type="audio/mpeg"/>
+<itunes:image href="https://megaphone.imgix.net/podcasts/754b9778-a2b7-11f1-9838-3fe4bc7f1d64/image/b25143610712c9bdeac57f63bb5166e1.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>12</itunes:episode>
 </item>
 <item>
-<title>82 · Track · Leveling Up with Eric Siu · 2026-08-15 · Your Hermes Setup Is Kneecapped Without These Two Things</title>
-<link>https://podcasts.apple.com/us/podcast/your-hermes-setup-is-kneecapped-without-these-two-things/id741544976?i=1000783385401</link>
-<guid isPermaLink="false">timlib3f-82</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<description>Leveling Up with Eric Siu · Eric Siu · aired August 15, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>91 · Track · How I AI · 2026-01-26 · Advanced Claude Code techniques: context loading, mermaid diagrams, stop hooks, and more \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</link>
+<guid isPermaLink="false">timlib3f-91</guid>
+<pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
+<description>How I AI · John Lindquist · aired January 26, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: The two things he says a bare Hermes install is missing — short, specific, and about configuration rather than hype.
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/your-hermes-setup-is-kneecapped-without-these-two-things/id741544976?i=1000783385401</description>
-<itunes:summary>Leveling Up with Eric Siu · Eric Siu · aired August 15, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</description>
+<itunes:summary>How I AI · John Lindquist · aired January 26, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: The two things he says a bare Hermes install is missing — short, specific, and about configuration rather than hype.
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/your-hermes-setup-is-kneecapped-without-these-two-things/id741544976?i=1000783385401</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Leveling Up with Eric Siu</strong> &middot; Eric Siu &middot; aired August 15, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> The two things he says a bare Hermes install is missing — short, specific, and about configuration rather than hype.</p><p><a href="https://podcasts.apple.com/us/podcast/your-hermes-setup-is-kneecapped-without-these-two-things/id741544976?i=1000783385401">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/your-hermes-setup-is-kneecapped-without-these-two-things/id741544976?i=1000783385401</p>]]></content:encoded>
-<enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ESHO9143261970.mp3" length="7012934" type="audio/mpeg"/>
-<itunes:image href="https://megaphone.imgix.net/podcasts/9c87db06-9390-11ed-8892-db945f862e11/image/Leveling-Up---Podcast-ArtArtboard-3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-<itunes:duration>494</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; John Lindquist &middot; aired January 26, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3" length="54367711" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1769036452302-3393a03c682db.jpg"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>11</itunes:episode>
 </item>
 <item>
-<title>83 · Track · Wes Roth · 2026-09-04 · Hermes AI Setup (plus business skills)</title>
-<link>https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</link>
-<guid isPermaLink="false">timlib3f-83</guid>
-<pubDate>Wed, 22 Jul 2026 18:00:00 +0000</pubDate>
-<description>Wes Roth · Wes Roth · aired September 4, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>92 · Track · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</link>
+<guid isPermaLink="false">timlib3f-92</guid>
+<pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Thariq Shihipar · aired May 18, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Full install walkthrough plus authoring business-oriented skills on top of it. Skip the Hostinger promo in the description.
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</description>
-<itunes:summary>Wes Roth · Wes Roth · aired September 4, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</description>
+<itunes:summary>How I AI · Thariq Shihipar · aired May 18, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Full install walkthrough plus authoring business-oriented skills on top of it. Skip the Hostinger promo in the description.
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Wes Roth</strong> &middot; Wes Roth &middot; aired September 4, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Full install walkthrough plus authoring business-oriented skills on top of it. Skip the Hostinger promo in the description.</p><p><a href="https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</p>]]></content:encoded>
-<enclosure url="https://traffic.megaphone.fm/PODAGEN3748138244.mp3" length="38538693" type="audio/mpeg"/>
-<itunes:image href="https://megaphone.imgix.net/podcasts/36b30d26-a491-11f1-aa96-5fb239a2473c/image/7dce482a95398a2ae6cd2c44770b381c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-<itunes:duration>3673</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Thariq Shihipar &middot; aired May 18, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3" length="34532204" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1778948405763-1686c68a06d6d.jpg"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>84 · Track · How I AI · 2026-07-13 · This solo builder runs 24/7 local AI on his own hardware | Alex Finn</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/This-solo-builder-runs-247-local-AI-on-his-own-hardware--Alex-Finn-e3lo46b</link>
-<guid isPermaLink="false">timlib3f-84</guid>
-<pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
-<description>How I AI · Alex Finn (Vibe Code Academy) · aired July 13, 2026
-Track 5 Hermes · BUILD · HIGH priority
+<title>93 · Track · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</link>
+<guid isPermaLink="false">timlib3f-93</guid>
+<pubDate>Mon, 20 Jul 2026 06:00:00 +0000</pubDate>
+<description>Behind the Craft · Thariq Shihipar · aired July 19, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Runs local models 24/7 on his own hardware and explains the hardware, failover and cost tradeoffs against cloud providers.
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
 
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/This-solo-builder-runs-247-local-AI-on-his-own-hardware--Alex-Finn-e3lo46b</description>
-<itunes:summary>How I AI · Alex Finn (Vibe Code Academy) · aired July 13, 2026
-Track 5 Hermes · BUILD · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</description>
+<itunes:summary>Behind the Craft · Thariq Shihipar · aired July 19, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Runs local models 24/7 on his own hardware and explains the hardware, failover and cost tradeoffs against cloud providers.
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
 
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/This-solo-builder-runs-247-local-AI-on-his-own-hardware--Alex-Finn-e3lo46b</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Alex Finn (Vibe Code Academy) &middot; aired July 13, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Runs local models 24/7 on his own hardware and explains the hardware, failover and cost tradeoffs against cloud providers.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/This-solo-builder-runs-247-local-AI-on-his-own-hardware--Alex-Finn-e3lo46b">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/This-solo-builder-runs-247-local-AI-on-his-own-hardware--Alex-Finn-e3lo46b</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/122474123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427473939-44100-2-a9f059103163d.mp3" length="34405145" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1783730166915-055f8448341cf.jpg"/>
-<itunes:duration>00:35:50</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Thariq Shihipar &middot; aired July 19, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3" length="39636740" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>85 · Track · Practical AI · 2026-05-21 · Hermes Agent: Agents that grow with you</title>
-<link>https://share.transistor.fm/s/451da102</link>
-<guid isPermaLink="false">timlib3f-85</guid>
-<pubDate>Wed, 22 Jul 2026 06:00:00 +0000</pubDate>
-<description>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired May 21, 2026
-Track 5 Hermes · Method · HIGH priority
+<title>94 · Track · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</link>
+<guid isPermaLink="false">timlib3f-94</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<description>Behind the Craft · Kieran Klaassen · aired February 8, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Nous Research's CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
 
-Original episode: https://share.transistor.fm/s/451da102</description>
-<itunes:summary>Practical AI · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired May 21, 2026
-Track 5 Hermes · Method · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</description>
+<itunes:summary>Behind the Craft · Kieran Klaassen · aired February 8, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Nous Research's CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
 
-Original episode: https://share.transistor.fm/s/451da102</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Practical AI</strong> &middot; Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) &middot; aired May 21, 2026</p><p>Track 5 Hermes &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Nous Research&#x27;s CTO on the closed learning loop inside Hermes Agent: the agent writes its own skill documents from completed tasks and curates a persistent memory file, so capability compounds across sessions instead of resetting.</p><p><a href="https://share.transistor.fm/s/451da102">Open the original episode &rarr;</a><br/>https://share.transistor.fm/s/451da102</p>]]></content:encoded>
-<enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/451da102/629a058c.mp3" length="49677807" type="audio/mpeg"/>
-<itunes:image href="https://img.transistorcdn.com/Uv0nhpFA6Hu5saV8_kDVUfDu9dS97wCyLVQzT7nURrQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzNh/YmJkNzUyZTZkNjFi/OGFhOTA1NThlNTdk/N2Q3NS5wbmc.jpg"/>
-<itunes:duration>3102</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Kieran Klaassen &middot; aired February 8, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3" length="51711163" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>86 · Track · Behind the Craft · 2026-08-02 · Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra</title>
-<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</link>
-<guid isPermaLink="false">timlib3f-86</guid>
-<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-<description>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired August 2, 2026
-Track 5 Hermes · Method · HIGH priority
+<title>95 · Track · Tool Use - AI Conversations · 2026-01-20 · Advanced Claude Code Part 2 (ft Eric Buess)</title>
+<link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</link>
+<guid isPermaLink="false">timlib3f-95</guid>
+<pubDate>Sun, 19 Jul 2026 18:00:00 +0000</pubDate>
+<description>Tool Use - AI Conversations · Eric Buess; host Mike Bird · aired January 20, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3
 
-Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</description>
-<itunes:summary>Behind the Craft · Karan Malhotra (co-founder, Nous Research) · aired August 2, 2026
-Track 5 Hermes · Method · HIGH priority
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</description>
+<itunes:summary>Tool Use - AI Conversations · Eric Buess; host Mike Bird · aired January 20, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3
 
-Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Karan Malhotra (co-founder, Nous Research) &middot; aired August 2, 2026</p><p>Track 5 Hermes &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> The other Nous co-founder on why the self-improvement loop is the product, not a feature — how Hermes gets better the more you use it, and the open-weights bet underneath it.</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/Hermes-Co-Founder-on-Building-an-AI-Agent-That-Improves-Itself--Karan-Malhotra-e3mpqa8</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123578120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F428997642-44100-2-959440e09f2bb.mp3" length="44870007" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
-<itunes:duration>00:46:44</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Tool Use - AI Conversations</strong> &middot; Eric Buess; host Mike Bird &middot; aired January 20, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3" length="50367006" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42038728/42038728-1768915485203-5f95f9a3b22d9.jpg"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>87 · Track · Intelligent Machines (TWiT) · 2026-06-10 · IM 874: Google Knows I Love the Pepper Cannon</title>
-<link>https://twit.tv/shows/intelligent-machines/episodes/874</link>
-<guid isPermaLink="false">timlib3f-87</guid>
-<pubDate>Tue, 21 Jul 2026 18:00:00 +0000</pubDate>
-<description>Intelligent Machines (TWiT) · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired June 10, 2026
-Track 5 Hermes · Method · HIGH priority
+<title>96 · Track · Chaos Agents · 2026-04-14 · Superpowers, Subagents, and Why Coding Isn't the Job Anymore - With Jesse Vincent</title>
+<link>https://chaosagents.ai</link>
+<guid isPermaLink="false">timlib3f-96</guid>
+<pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
+<description>Chaos Agents · Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy · aired April 14, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Quesnelle on Hermes' real memory and skills implementation, local models versus cloud LLM cost, and the training constraints behind the design.
+Why it's here: https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3
 
-Original episode: https://twit.tv/shows/intelligent-machines/episodes/874</description>
-<itunes:summary>Intelligent Machines (TWiT) · Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) · aired June 10, 2026
-Track 5 Hermes · Method · HIGH priority
+Original episode: https://chaosagents.ai</description>
+<itunes:summary>Chaos Agents · Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy · aired April 14, 2026
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Quesnelle on Hermes' real memory and skills implementation, local models versus cloud LLM cost, and the training constraints behind the design.
+Why it's here: https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3
 
-Original episode: https://twit.tv/shows/intelligent-machines/episodes/874</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Intelligent Machines (TWiT)</strong> &middot; Jeffrey Quesnelle (co-founder &amp; CTO, Nous Research) &middot; aired June 10, 2026</p><p>Track 5 Hermes &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Quesnelle on Hermes&#x27; real memory and skills implementation, local models versus cloud LLM cost, and the training constraints behind the design.</p><p><a href="https://twit.tv/shows/intelligent-machines/episodes/874">Open the original episode &rarr;</a><br/>https://twit.tv/shows/intelligent-machines/episodes/874</p>]]></content:encoded>
-<enclosure url="https://twit.cachefly.net/audio/twig/twig0874/twig0874.mp3" length="160086886" type="audio/mpeg"/>
+Original episode: https://chaosagents.ai</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Chaos Agents</strong> &middot; Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy &middot; aired April 14, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3</p><p><a href="https://chaosagents.ai">Open the original episode &rarr;</a><br/>https://chaosagents.ai</p>]]></content:encoded>
+<enclosure url="https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3" length="50373168" type="audio/mpeg"/>
 
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>88 · Track · Wes Roth · 2026-09-08 · Hermes Agent is INSANE...</title>
-<link>https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</link>
-<guid isPermaLink="false">timlib3f-88</guid>
-<pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
-<description>Wes Roth · Wes Roth · aired September 8, 2026
-Track 5 Hermes · BUILD · MEDIUM priority
+<title>97 · Track · Forward Deployed · 2025-11-17 · Forward Deployed, Episode 2: Claude Code Skills and the Progressive Disclosure Problem</title>
+<link>https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</link>
+<guid isPermaLink="false">timlib3f-97</guid>
+<pubDate>Sun, 19 Jul 2026 06:00:00 +0000</pubDate>
+<description>Forward Deployed · Noah Brier &amp; Lance · aired November 17, 2025
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: His latest Hermes install pass, following the 09-04 setup episode. Sponsored segment up front, substance after.
+Why it's here: https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</description>
-<itunes:summary>Wes Roth · Wes Roth · aired September 8, 2026
-Track 5 Hermes · BUILD · MEDIUM priority
+Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</description>
+<itunes:summary>Forward Deployed · Noah Brier &amp; Lance · aired November 17, 2025
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: His latest Hermes install pass, following the 09-04 setup episode. Sponsored segment up front, substance after.
+Why it's here: https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3
 
-Original episode: https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Wes Roth</strong> &middot; Wes Roth &middot; aired September 8, 2026</p><p>Track 5 Hermes &middot; BUILD &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> His latest Hermes install pass, following the 09-04 setup episode. Sponsored segment up front, substance after.</p><p><a href="https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/hermes-ai-setup-plus-business-skills/id6806726491?i=1000786840188</p>]]></content:encoded>
-<enclosure url="https://traffic.megaphone.fm/PODAGEN9651128975.mp3" length="29444747" type="audio/mpeg"/>
-<itunes:image href="https://megaphone.imgix.net/podcasts/fc5fd7f4-a4a8-11f1-bef7-d34ac7b5c375/image/979d741f3d92c9d5e2ecc47f873f493c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-<itunes:duration>2916</itunes:duration>
+Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Forward Deployed</strong> &middot; Noah Brier &amp; Lance &middot; aired November 17, 2025</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3</p><p><a href="https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude">Open the original episode &rarr;</a><br/>https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3" length="47827206" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>89 · Track · This Week in AI · 2026-06-10 · Hermes Agent, NotebookLM &amp; LiveKit Founders on the AI Agent Race | TWiAI 17</title>
-<link>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</link>
-<guid isPermaLink="false">timlib3f-89</guid>
-<pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
-<description>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired June 10, 2026
-Track 5 Hermes · Method · MEDIUM priority
+<title>98 · Track · Before The Commit · 2025-12-30 · Episode 18: Claude Code Commands, Skills, Sub-agents, and more.</title>
+<link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</link>
+<guid isPermaLink="false">timlib3f-98</guid>
+<pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+<description>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.
+Why it's here: https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
 
-Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</description>
-<itunes:summary>This Week in AI · Founders of Hermes Agent, NotebookLM and LiveKit · aired June 10, 2026
-Track 5 Hermes · Method · MEDIUM priority
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</description>
+<itunes:summary>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
+Track 7 Claude Code · BUILD · HIGH priority
 
-Why it's here: Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.
+Why it's here: https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
 
-Original episode: https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</itunes:summary>
-<content:encoded><![CDATA[<p><strong>This Week in AI</strong> &middot; Founders of Hermes Agent, NotebookLM and LiveKit &middot; aired June 10, 2026</p><p>Track 5 Hermes &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> Three founders building competing pieces of the agent stack argue about where the durable layer sits — harness, memory, or voice transport.</p><p><a href="https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Hermes-Agent--NotebookLM--LiveKit-Founders-on-the-AI-Agent-Race--TWiAI-17-e3kk5h1</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/10803d078/podcast/play/121295841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-10%2F425898135-44100-2-00850ad918182.mp3" length="85317171" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44194350/44194350-1781113296025-971c5d3e13953.jpg"/>
-<itunes:duration>01:28:52</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Before The Commit</strong> &middot; Hosts Dustin &amp; Sam &middot; aired December 30, 2025</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka</p><p><a href="https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</p>]]></content:encoded>
+<enclosure url="https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9hZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYvZXBpc29kZXMvZWJlOTA5YzgtZDMyZS00YzdlLWI0ZTAtNDMxOWEyYzQ1Njk5LzQxNTIzNjU2NC00NDEwMC0yLWFlZjEzODJkNDI4MWIubXAzIn0=.mp3" length="66116544" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>90 · Track · AI with Arun Show · 2026-08-22 · Hermes Agent: Assessing Memory, Reasoning, and Reliability in Open-Source AI</title>
-<link>https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</link>
-<guid isPermaLink="false">timlib3f-90</guid>
-<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-<description>AI with Arun Show · aired August 22, 2026
-Track 5 Hermes · Method · MEDIUM priority
+<title>99 · Track · Before The Commit · 2025-11-18 · Episode 14: Devcontainers and Sandboxing with Claude Code</title>
+<link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</link>
+<guid isPermaLink="false">timlib3f-99</guid>
+<pubDate>Sat, 18 Jul 2026 18:00:00 +0000</pubDate>
+<description>Before The Commit · Hosts Danny Gershman &amp; Dustin Hilgaertner · aired November 18, 2025
+Track 7 Claude Code · BUILD · MEDIUM priority
 
-Why it's here: Sainik Ghosh of UC Berkeley demos the cross-session profile on travel preferences and automated resume screening, and warns about silent filtering failures you won't notice.
+Why it's here: https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
 
-Original episode: https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</description>
-<itunes:summary>AI with Arun Show · aired August 22, 2026
-Track 5 Hermes · Method · MEDIUM priority
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</description>
+<itunes:summary>Before The Commit · Hosts Danny Gershman &amp; Dustin Hilgaertner · aired November 18, 2025
+Track 7 Claude Code · BUILD · MEDIUM priority
 
-Why it's here: Sainik Ghosh of UC Berkeley demos the cross-session profile on travel preferences and automated resume screening, and warns about silent filtering failures you won't notice.
+Why it's here: https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
 
-Original episode: https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</itunes:summary>
-<content:encoded><![CDATA[<p><strong>AI with Arun Show</strong> &middot; aired August 22, 2026</p><p>Track 5 Hermes &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> Sainik Ghosh of UC Berkeley demos the cross-session profile on travel preferences and automated resume screening, and warns about silent filtering failures you won&#x27;t notice.</p><p><a href="https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/aiwitharunshow/episodes/Hermes-Agent-Assessing-Memory--Reasoning--and-Reliability-in-Open-Source-AI-e3no394</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/c866b5c/podcast/play/124570340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Fb88a4b18-21ff-45be-3898-fa1364b3d134.m4a" length="39050675" type="audio/x-m4a"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2001359/2001359-1722085666895-22b7cc0287ac1.jpg"/>
-<itunes:duration>00:20:13</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Before The Commit</strong> &middot; Hosts Danny Gershman &amp; Dustin Hilgaertner &middot; aired November 18, 2025</p><p>Track 7 Claude Code &middot; BUILD &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka</p><p><a href="https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</p>]]></content:encoded>
+<enclosure url="https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9hZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYvZXBpc29kZXMvYTMyZTI0NjgtODJjZS00NjhkLTk3M2YtNzhiYzZmNmEwYzk5LzQxMjcyNjA0OC00NDEwMC0yLTU4YjEzMTExMDVjMWQubXAzIn0=.mp3" length="63909719" type="audio/mpeg"/>
+
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>91 · Track · The Sovereign Agent Podcast · 2026-07-28 · Stop Renting AI How Hermes Agent Turns Daily Tasks Into Permanent Enterprise Assets</title>
-<link>https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</link>
-<guid isPermaLink="false">timlib3f-91</guid>
-<pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
-<description>The Sovereign Agent Podcast · aired July 28, 2026
-Track 5 Hermes · Method · MEDIUM priority
+<title>100 · Track · How I AI · 2026-04-20 · How Intercom 2x'd their engineering velocity in 9 months with Claude Code \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</link>
+<guid isPermaLink="false">timlib3f-100</guid>
+<pubDate>Sat, 18 Jul 2026 12:00:00 +0000</pubDate>
+<description>How I AI · Brian Scanlan · aired April 20, 2026
+Track 7 Claude Code · Method · MEDIUM priority
 
-Why it's here: The case against single-frontier-model lock-in: reusable skills as durable company assets rather than rented chat sessions.
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3
 
-Original episode: https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</description>
-<itunes:summary>The Sovereign Agent Podcast · aired July 28, 2026
-Track 5 Hermes · Method · MEDIUM priority
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</description>
+<itunes:summary>How I AI · Brian Scanlan · aired April 20, 2026
+Track 7 Claude Code · Method · MEDIUM priority
 
-Why it's here: The case against single-frontier-model lock-in: reusable skills as durable company assets rather than rented chat sessions.
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3
 
-Original episode: https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</itunes:summary>
-<content:encoded><![CDATA[<p><strong>The Sovereign Agent Podcast</strong> &middot; aired July 28, 2026</p><p>Track 5 Hermes &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> The case against single-frontier-model lock-in: reusable skills as durable company assets rather than rented chat sessions.</p><p><a href="https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets">Open the original episode &rarr;</a><br/>https://sovereign-agent.beehiiv.com/podcast/s/the_sovereign_agent_podcast/stop_renting_ai_how_hermes_agent_turns_daily_tasks_into_permanent_enterprise_assets</p>]]></content:encoded>
-<enclosure url="https://podcasts.beehiiv.com/2785ac3c-1550-4cf3-934d-1ff5e89213d3/019fa6e6-b053-7aaa-9dee-3d4dc3aba084/019fa6ea-0347-7968-b3dc-061073fc059b/019fa6ea-06ce-774d-8b74-c01092eff49f.mp3" length="35797378" type="audio/mpeg"/>
-<itunes:image href="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/88ed7356-51a6-45fe-b382-4593913fab01/Gemini_Generated_Image_9p17h59p17h59p17.png?t=1780163779"/>
-<itunes:duration>2203</itunes:duration>
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Brian Scanlan &middot; aired April 20, 2026</p><p>Track 7 Claude Code &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3" length="75606307" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1776469750710-b44f93df7568e.jpg"/>
+<itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>92 · Track · Fix My Business · 2026-08-25 · I've Tested 4 AI Platforms in 8 Months. Here's What I Learned.</title>
-<link>https://scott-todd.captivate.fm/episode/ive-tested-4-ai-platforms-in-8-months-heres-what-i-learned</link>
-<guid isPermaLink="false">timlib3f-92</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
-<description>Fix My Business · Scott Todd · aired August 25, 2026
-Track 5 Hermes · Method · MEDIUM priority
+<title>101 · Track · Tool Use - AI Conversations · 2025-08-12 · Advanced Claude Code (ft Ray Fernando and Eric Buess)</title>
+<link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</link>
+<guid isPermaLink="false">timlib3f-101</guid>
+<pubDate>Sat, 18 Jul 2026 06:00:00 +0000</pubDate>
+<description>Tool Use - AI Conversations · Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird · aired August 12, 2025
+Track 7 Claude Code · Method · MEDIUM priority
 
-Why it's here: The framework-churn failure mode — OpenClaw to Hermes to Buzz to Grok Bot in eight months — and his fix: markdown-in-Dropbox process docs so a new agent inherits the company's processes instead of starting at zero.
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3
 
-Original episode: https://scott-todd.captivate.fm/episode/ive-tested-4-ai-platforms-in-8-months-heres-what-i-learned</description>
-<itunes:summary>Fix My Business · Scott Todd · aired August 25, 2026
-Track 5 Hermes · Method · MEDIUM priority
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</description>
+<itunes:summary>Tool Use - AI Conversations · Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird · aired August 12, 2025
+Track 7 Claude Code · Method · MEDIUM priority
 
-Why it's here: The framework-churn failure mode — OpenClaw to Hermes to Buzz to Grok Bot in eight months — and his fix: markdown-in-Dropbox process docs so a new agent inherits the company's processes instead of starting at zero.
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3
 
-Original episode: https://scott-todd.captivate.fm/episode/ive-tested-4-ai-platforms-in-8-months-heres-what-i-learned</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Fix My Business</strong> &middot; Scott Todd &middot; aired August 25, 2026</p><p>Track 5 Hermes &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> The framework-churn failure mode — OpenClaw to Hermes to Buzz to Grok Bot in eight months — and his fix: markdown-in-Dropbox process docs so a new agent inherits the company&#x27;s processes instead of starting at zero.</p><p><a href="https://scott-todd.captivate.fm/episode/ive-tested-4-ai-platforms-in-8-months-heres-what-i-learned">Open the original episode &rarr;</a><br/>https://scott-todd.captivate.fm/episode/ive-tested-4-ai-platforms-in-8-months-heres-what-i-learned</p>]]></content:encoded>
-<enclosure url="https://episodes.captivate.fm/episode/9d456105-ee52-417f-a735-9995410f08c4.mp3" length="4265498" type="audio/mpeg"/>
-
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Tool Use - AI Conversations</strong> &middot; Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird &middot; aired August 12, 2025</p><p>Track 7 Claude Code &middot; Method &middot; MEDIUM priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3" length="46058683" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42038728/42038728-1755004671957-ba19aef1892d5.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>

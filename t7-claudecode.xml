@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>AI OS · Claude Code</title>
+<link>https://twatson68-diesel.github.io/ai-operator-library/</link>
+<language>en-us</language>
+<description>Running Claude Code well: CLAUDE.md design, subagents, hooks, skills, permissions, and the workflows experienced operators actually use. 14 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<itunes:author>AI Operator Library</itunes:author>
+<itunes:summary>Running Claude Code well: CLAUDE.md design, subagents, hooks, skills, permissions, and the workflows experienced operators actually use. 14 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202609110451.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202609110451.jpg</url><title>AI OS · Claude Code</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<item>
+<title>88 · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
+<guid isPermaLink="false">aios-t7-88</guid>
+<pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</description>
+<itunes:summary>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Claire Vo (host, solo build) &middot; aired June 17, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> Defines the four loop types (heartbeat, cron, hook, goal), the five things every loop needs before production (work trees, skills, connectors, subagents, state tracking), then builds two live loops — a self-scheduling 10:15 a.m. reviewer and a weekly loop that spawns subagents to validate its own output.</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
+<itunes:duration>00:29:06</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>14</itunes:episode>
+</item>
+<item>
+<title>89 · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
+<link>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</link>
+<guid isPermaLink="false">aios-t7-89</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<description>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
+
+Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</description>
+<itunes:summary>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: Greg's system for turning Claude Code into an 'AI employee' by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.
+
+Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Startup Ideas Podcast</strong> &middot; Greg Isenberg &middot; aired August 17, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> Greg&#x27;s system for turning Claude Code into an &#x27;AI employee&#x27; by giving it what you would give a new hire — a workspace, an onboarding doc, standing context — which is the Identity and Context layers built as one onboarding packet.</p><p><a href="https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3" length="34675357" type="audio/mpeg"/>
+<itunes:duration>2890</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>13</itunes:episode>
+</item>
+<item>
+<title>90 · Super Data Science · 2026-08-28 · 1022: CLAUDE.md, AGENTS.md, Skills, Hooks and Subagents: A Field Guide to Steering AI Agents</title>
+<link>https://www.superdatascience.com/1022</link>
+<guid isPermaLink="false">aios-t7-90</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<description>Super Data Science · Jon Krohn (solo) · aired August 28, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3
+
+Original episode: https://www.superdatascience.com/1022</description>
+<itunes:summary>Super Data Science · Jon Krohn (solo) · aired August 28, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3
+
+Original episode: https://www.superdatascience.com/1022</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Super Data Science</strong> &middot; Jon Krohn (solo) &middot; aired August 28, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3</p><p><a href="https://www.superdatascience.com/1022">Open the original episode &rarr;</a><br/>https://www.superdatascience.com/1022</p>]]></content:encoded>
+<enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3" length="25364790" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>12</itunes:episode>
+</item>
+<item>
+<title>91 · How I AI · 2026-01-26 · Advanced Claude Code techniques: context loading, mermaid diagrams, stop hooks, and more \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</link>
+<guid isPermaLink="false">aios-t7-91</guid>
+<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<description>How I AI · John Lindquist · aired January 26, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</description>
+<itunes:summary>How I AI · John Lindquist · aired January 26, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; John Lindquist &middot; aired January 26, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3" length="54367711" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode>
+</item>
+<item>
+<title>92 · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</link>
+<guid isPermaLink="false">aios-t7-92</guid>
+<pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Thariq Shihipar · aired May 18, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</description>
+<itunes:summary>How I AI · Thariq Shihipar · aired May 18, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Thariq Shihipar &middot; aired May 18, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3" length="34532204" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
+<title>93 · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</link>
+<guid isPermaLink="false">aios-t7-93</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<description>Behind the Craft · Thariq Shihipar · aired July 19, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</description>
+<itunes:summary>Behind the Craft · Thariq Shihipar · aired July 19, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Thariq Shihipar &middot; aired July 19, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3" length="39636740" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>94 · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</link>
+<guid isPermaLink="false">aios-t7-94</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<description>Behind the Craft · Kieran Klaassen · aired February 8, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</description>
+<itunes:summary>Behind the Craft · Kieran Klaassen · aired February 8, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Kieran Klaassen &middot; aired February 8, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3" length="51711163" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>95 · Tool Use - AI Conversations · 2026-01-20 · Advanced Claude Code Part 2 (ft Eric Buess)</title>
+<link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</link>
+<guid isPermaLink="false">aios-t7-95</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>Tool Use - AI Conversations · Eric Buess; host Mike Bird · aired January 20, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</description>
+<itunes:summary>Tool Use - AI Conversations · Eric Buess; host Mike Bird · aired January 20, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Tool Use - AI Conversations</strong> &middot; Eric Buess; host Mike Bird &middot; aired January 20, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3" length="50367006" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>96 · Chaos Agents · 2026-04-14 · Superpowers, Subagents, and Why Coding Isn't the Job Anymore - With Jesse Vincent</title>
+<link>https://chaosagents.ai</link>
+<guid isPermaLink="false">aios-t7-96</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>Chaos Agents · Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy · aired April 14, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3
+
+Original episode: https://chaosagents.ai</description>
+<itunes:summary>Chaos Agents · Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy · aired April 14, 2026
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3
+
+Original episode: https://chaosagents.ai</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Chaos Agents</strong> &middot; Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy &middot; aired April 14, 2026</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3</p><p><a href="https://chaosagents.ai">Open the original episode &rarr;</a><br/>https://chaosagents.ai</p>]]></content:encoded>
+<enclosure url="https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3" length="50373168" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>97 · Forward Deployed · 2025-11-17 · Forward Deployed, Episode 2: Claude Code Skills and the Progressive Disclosure Problem</title>
+<link>https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</link>
+<guid isPermaLink="false">aios-t7-97</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<description>Forward Deployed · Noah Brier &amp; Lance · aired November 17, 2025
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3
+
+Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</description>
+<itunes:summary>Forward Deployed · Noah Brier &amp; Lance · aired November 17, 2025
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3
+
+Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Forward Deployed</strong> &middot; Noah Brier &amp; Lance &middot; aired November 17, 2025</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3</p><p><a href="https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude">Open the original episode &rarr;</a><br/>https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3" length="47827206" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode>
+</item>
+<item>
+<title>98 · Before The Commit · 2025-12-30 · Episode 18: Claude Code Commands, Skills, Sub-agents, and more.</title>
+<link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</link>
+<guid isPermaLink="false">aios-t7-98</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<description>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
+
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</description>
+<itunes:summary>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
+BUILD · HIGH priority · T7 Claude Code
+
+Why it's here: https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
+
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Before The Commit</strong> &middot; Hosts Dustin &amp; Sam &middot; aired December 30, 2025</p><p>BUILD &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka</p><p><a href="https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</p>]]></content:encoded>
+<enclosure url="https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9hZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYvZXBpc29kZXMvZWJlOTA5YzgtZDMyZS00YzdlLWI0ZTAtNDMxOWEyYzQ1Njk5LzQxNTIzNjU2NC00NDEwMC0yLWFlZjEzODJkNDI4MWIubXAzIn0=.mp3" length="66116544" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
+<item>
+<title>99 · Before The Commit · 2025-11-18 · Episode 14: Devcontainers and Sandboxing with Claude Code</title>
+<link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</link>
+<guid isPermaLink="false">aios-t7-99</guid>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+<description>Before The Commit · Hosts Danny Gershman &amp; Dustin Hilgaertner · aired November 18, 2025
+BUILD · MEDIUM priority · T7 Claude Code
+
+Why it's here: https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
+
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</description>
+<itunes:summary>Before The Commit · Hosts Danny Gershman &amp; Dustin Hilgaertner · aired November 18, 2025
+BUILD · MEDIUM priority · T7 Claude Code
+
+Why it's here: https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
+
+Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Before The Commit</strong> &middot; Hosts Danny Gershman &amp; Dustin Hilgaertner &middot; aired November 18, 2025</p><p>BUILD &middot; MEDIUM priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka</p><p><a href="https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</p>]]></content:encoded>
+<enclosure url="https://api.riverside.com/hosting-analytics/media/f7c5372dbae0b2596b8f99ef66f9e0ffe074308cc3aa24ea2b69f8aeea50d920/eyJlcGlzb2RlSWQiOiJhMzJlMjQ2OC04MmNlLTQ2OGQtOTczZi03OGJjNmY2YTBjOTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9hZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYvZXBpc29kZXMvYTMyZTI0NjgtODJjZS00NjhkLTk3M2YtNzhiYzZmNmEwYzk5LzQxMjcyNjA0OC00NDEwMC0yLTU4YjEzMTExMDVjMWQubXAzIn0=.mp3" length="63909719" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>100 · How I AI · 2026-04-20 · How Intercom 2x'd their engineering velocity in 9 months with Claude Code \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</link>
+<guid isPermaLink="false">aios-t7-100</guid>
+<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+<description>How I AI · Brian Scanlan · aired April 20, 2026
+Method · MEDIUM priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</description>
+<itunes:summary>How I AI · Brian Scanlan · aired April 20, 2026
+Method · MEDIUM priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Brian Scanlan &middot; aired April 20, 2026</p><p>Method &middot; MEDIUM priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/118475669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F422172166-44100-2-7be130454e78f.mp3" length="75606307" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>101 · Tool Use - AI Conversations · 2025-08-12 · Advanced Claude Code (ft Ray Fernando and Eric Buess)</title>
+<link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</link>
+<guid isPermaLink="false">aios-t7-101</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>Tool Use - AI Conversations · Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird · aired August 12, 2025
+Method · MEDIUM priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</description>
+<itunes:summary>Tool Use - AI Conversations · Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird · aired August 12, 2025
+Method · MEDIUM priority · T7 Claude Code
+
+Why it's here: https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Tool Use - AI Conversations</strong> &middot; Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird &middot; aired August 12, 2025</p><p>Method &middot; MEDIUM priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/106770102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-12%2F405538821-44100-2-5894aa98aaa1c.mp3" length="46058683" type="audio/mpeg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
