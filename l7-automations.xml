@@ -4,15 +4,15 @@
 <title>AI OS · L7 Automations</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 8 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202609150406.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202609150406.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202609201111.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202609201111.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
 <title>27 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</link>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120583384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424944949-44100-2-5bf9048d90ac.mp3" length="29122977" type="audio/mpeg"/>
 <itunes:duration>00:30:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
 <title>28 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
@@ -57,7 +57,7 @@ Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines
 <enclosure url="https://media.transistor.fm/6972a421/b97f5f42.mp3" length="7460322" type="audio/mpeg"/>
 <itunes:duration>311</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
 <title>29 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
@@ -80,7 +80,7 @@ Original episode: https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gp
 <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/ec562607/3ce518e5.mp3" length="113461230" type="audio/mpeg"/>
 <itunes:duration>2835</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
 <title>30 · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-09-03 · Agentic Loops for Knowledge Workers</title>
@@ -103,7 +103,7 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-L
 <enclosure url="https://anchor.fm/s/f7cac464/podcast/play/125176194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431145568-44100-2-0e1697b267ed2.mp3" length="54805732" type="audio/mpeg"/>
 <itunes:duration>00:57:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
 <title>31 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
@@ -126,7 +126,7 @@ Original episode: https://podcasts.apple.com/us/podcast/8-the-ai-that-works-whil
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/116525964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-7%2F691fb70e-a7ef-e965-95f1-1cf3428790e8.m4a" length="87079379" type="audio/x-m4a"/>
 <itunes:duration>00:45:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
 <title>32 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
@@ -149,7 +149,7 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-build-an-ai-nativ
 <enclosure url="https://episode.flightcast.com/01KZVQSXWRWPAD2EK2Y8V5G8D5.mp3" length="34896353" type="audio/mpeg"/>
 <itunes:duration>2908</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
 <title>33 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
@@ -172,7 +172,7 @@ Original episode: https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conver
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9047546818.mp3?updated=1751620788" length="78209321" type="audio/mpeg"/>
 <itunes:duration>5075</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>2</itunes:episode>
+<itunes:episode>3</itunes:episode>
 </item>
 <item>
 <title>34 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
@@ -194,6 +194,29 @@ Original episode: https://www.buzzsprout.com/2175779/episodes/19635247</itunes:s
 <content:encoded><![CDATA[<p><strong>Everyday AI</strong> &middot; Jordan Wilson &middot; aired August 12, 2026</p><p>BUILD &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Walks through where scheduled tasks actually live in Claude, Gemini and ChatGPT — the feature is hard to find in all three, and this is the stepping stone from prompting to an unattended desktop worker.</p><p><a href="https://www.buzzsprout.com/2175779/episodes/19635247">Open the original episode &rarr;</a><br/>https://www.buzzsprout.com/2175779/episodes/19635247</p>]]></content:encoded>
 <enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19635247-ep-839-scheduling-ai-how-to-easily-make-ai-work-for-you-in-claude-gemini-and-chatgpt.mp3" length="34212629" type="audio/mpeg"/>
 <itunes:duration>2846</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>35 · Master Claude Chat, Cowork, Code · 2026-09-20 · 8. Scheduled and Delegated Work (Automating Recurring Processes with Claude)</title>
+<link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</link>
+<guid isPermaLink="false">aios-l7-35</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>Master Claude Chat, Cowork, Code · aired September 20, 2026
+BUILD · MEDIUM priority · L7 Automations
+
+Why it's here: Sho Shimoda on turning Cowork into a background operator — how scheduled tasks fire on cloud infrastructure and what delegated recurring work requires.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</description>
+<itunes:summary>Master Claude Chat, Cowork, Code · aired September 20, 2026
+BUILD · MEDIUM priority · L7 Automations
+
+Why it's here: Sho Shimoda on turning Cowork into a background operator — how scheduled tasks fire on cloud infrastructure and what delegated recurring work requires.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired September 20, 2026</p><p>BUILD &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Sho Shimoda on turning Cowork into a background operator — how scheduled tasks fire on cloud infrastructure and what delegated recurring work requires.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/125993602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-19%2F5bc09ed4-07cd-f000-5a84-e8f4b8fb2178.m4a" length="93170695" type="audio/x-m4a"/>
+<itunes:duration>00:48:14</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>
