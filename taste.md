@@ -3,7 +3,7 @@
 This is the rubric the weekly refresh scores against. It is meant to be edited. Tell me a change in plain language and I rewrite this file, republish it, and the next run uses the new rules.
 
 **Owner:** Tim Watson · CEO, SMART Asset Management (pallet/rack pooling, logistics) and SMART Pest Prevention
-**Last updated:** 2026-09-20 (weekly run #7)
+**Last updated:** 2026-09-24 (Voice UI track added)
 **Core feed (follow this):** https://ai-operator-library.pplx.app/feed.xml — top 3 per layer
 **Full feed:** https://ai-operator-library.pplx.app/full.xml — everything
 
@@ -27,11 +27,13 @@ Tim has outgrown introductory material. **Reject anything that announces its own
 
 ## Active interests
 
-Two focus topics as of 2026-09-10:
+Focus topics as of 2026-09-24:
 
 1. **Token optimization** (T6) — what agents cost to run. Context-window efficiency, context rot, compaction thresholds, prompt caching and cache economics, model routing to cheaper models for cheap subtasks, token budgets and per-agent cost accounting, and where spend actually leaks: long tool outputs, verbose system prompts, retry storms, runaway crons, subagent fan-out. Measured results earn a slot — "cut boot tokens by N%", "$X/month to $Y". Long-context vs RAG counts when framed as a cost decision, not a quality one.
 
 2. **Claude Code best practices** (T7) — how experienced people actually run it. CLAUDE.md design, subagents and delegation, parallel agents and worktrees, hooks, slash commands, custom skills, output styles, MCP wiring, permissions and allowlists, plan mode, context management, session handoff, and honest accounts of what broke. Tool comparisons only when the lesson is about running Claude Code better.
+
+3. **Conversational voice as a UI** (T8, added 2026-09-24): talking to his agents instead of typing. Turn-taking and endpointing, meaning when the agent decides he has finished speaking. Also barge-in and interruption handling, the latency budget from speech to first audio, speech-to-speech models vs STT→LLM→TTS pipelines, voice agent frameworks (Pipecat, LiveKit Agents, OpenAI Realtime, ElevenLabs Agents, Vapi), and designing the conversation itself: pacing, confirmations, how an agent reads back a list. Why it matters: he runs voice front ends on his own agents (Lex mobile, a voice iOS build) and has a standing rule that a voice agent waits until he finishes and answers at a deliberate pace. **Reject:** voice AI as a business (call-center ROI, selling voice agents), TTS model launches, voice cloning, and podcasts about podcasting.
 
 Secondary, still live: **collaborating agents** (T2) and **graphs** (T3).
 
@@ -104,6 +106,8 @@ Dropped regardless of how good it is:
 - **AI-narrated shows with no human practitioner** — Neural intel Pod, Impact Vector, Agentic AI at Work, AI Odyssey, Rapid Synthesis, Colaberry AI Podcast, Intellectually Curious, AI Fire Daily, Awesome Agents, Models & Agents, My Weird Prompts. These rank well on agent keywords and are worthless.
 
 ## Feedback log
+
+- `2026-09-24`: **Added T8 Voice UI, 15 episodes (#109-123)**, from 35 researched and 20 rejected. Scope is running a voice front end on his own agents. That means turn-taking and endpointing, barge-in, the latency budget, speech-to-speech vs chained pipelines, frameworks (Pipecat, LiveKit, ElevenLabs, Vapi) and conversation design. GATES: the **relevance gate did the most work**. Voice AI is dominated by call-center and sales-dialer content, so Perk's "10,000 calls a week", Convo AI's "Hidden Complexities of Enterprise Voice" and VUX World's chatbot-to-voice all fell as somebody else's business. Also dropped as thin or vendor-led: Hamming testing, Vodex, the Google Live API, and the Boson avatars episode. The AI-narrated rule killed 5, including two HackerNoon read-aloud articles; one of them, an AssemblyAI latency playbook, had genuinely good content. Two non-English episodes were dropped (Hebrew, French). CORE: FOCUS for VOICE was set to 3, not 5, after the first build put 10 voice episodes in core and pushed it to 57. Core now carries 6: the three live builds (Killian Lucas, LiveKit, Todoist Ramble) and the three turn-taking episodes. RULE STRAIN: Headcount Zero's Twilio + Realtime barge-in build was rejected on *suspicion* of AI narration, not confirmation. The ElevenLabs and OpenAI Realtime teams are thin: one ElevenLabs guest, zero from OpenAI Realtime.
 
 - `2026-09-20` — Weekly run #7. 37 new items in the window, 4 added, **prune skipped a second week**. Added: Agentic Conversations' "Why Cost Per Million Tokens Is A Useless KPI?" → Token Ops (Palo Alto Networks' AI-finance lead at FinOps X on why their AI-spend dashboards went useless); Superlinear's "Fall 2026 Workflow for Starting Projects with Coding Agents" → Claude Code (less harness engineering, more steering on decisions that compound); SED's "Scaling Agent Workloads at Vercel" → Agent Teams (what breaks past one-user-one-session); Master Claude ep. 8 "Scheduled and Delegated Work" → Automations. GATES: the news/roundup rule did the heavy lifting again — six AI Daily Brief episodes, ThursdAI and Cognitive Revolution's AI:AM all rejected. Level gate killed Startup Ideas' "Instinct AI: The AI Assistant for normal people". **RULE STRAIN: Master Claude shipped six Beyond Prompting episodes in seven days and only one earned a slot.** A single show flooding the window is a new pattern; if it repeats, cap per-show additions per run. NEW FEED: Agentic Conversations (the renamed MLOps feed) is producing genuine cost-accounting material — first addition from it. **MAC SCHEMA CHANGE: `ZDURATION` no longer exists on `ZMTEPISODE` in Apple Podcasts. `ZPLAYCOUNT` survives and remains the completion signal; the prune query must drop the duration column.**
 
