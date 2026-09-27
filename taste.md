@@ -3,7 +3,7 @@
 This is the rubric the weekly refresh scores against. It is meant to be edited. Tell me a change in plain language and I rewrite this file, republish it, and the next run uses the new rules.
 
 **Owner:** Tim Watson · CEO, SMART Asset Management (pallet/rack pooling, logistics) and SMART Pest Prevention
-**Last updated:** 2026-09-24 (Voice UI track added)
+**Last updated:** 2026-09-27 (weekly run #8)
 **Core feed (follow this):** https://ai-operator-library.pplx.app/feed.xml — top 3 per layer
 **Full feed:** https://ai-operator-library.pplx.app/full.xml — everything
 
@@ -106,6 +106,8 @@ Dropped regardless of how good it is:
 - **AI-narrated shows with no human practitioner** — Neural intel Pod, Impact Vector, Agentic AI at Work, AI Odyssey, Rapid Synthesis, Colaberry AI Podcast, Intellectually Curious, AI Fire Daily, Awesome Agents, Models & Agents, My Weird Prompts. These rank well on agent keywords and are worthless.
 
 ## Feedback log
+
+- `2026-09-27`: Weekly run #8. 36 new items in the window, 2 added. **Prune skipped a third week: the Mac's device tools did not respond.** Added: Master Claude ep. 10, "Governing Claude Code with Invisible JSON Files" → Claude Code (the .claude directory, settings precedence and merge across scopes); Agentic Conversations' "Skills over MCP on the streets of Tokyo" → Skills (a Nordstrom principal engineer on why tool descriptions can't encode how to chain tools, and why skills fill that gap). GATES: model-release coverage killed six episodes: the Opus 5.5 vs GPT-6 Sol comparisons across How I AI, ADB and ThursdAI, plus both Jev episodes. The company-history rule killed Latent Space's "OpenRouter: from Seed to Stripe", even though model routing is on-topic for Token Ops. The relevance gate killed Warp's "2,000 PRs a month", which is a software-factory story about running an engineering org. The per-show cap held: Master Claude shipped two, and one qualified. VOICE: 6 voice feeds scanned, and no new voice episodes appeared in the window.
 
 - `2026-09-24`: **Added T8 Voice UI, 15 episodes (#109-123)**, from 35 researched and 20 rejected. Scope is running a voice front end on his own agents. That means turn-taking and endpointing, barge-in, the latency budget, speech-to-speech vs chained pipelines, frameworks (Pipecat, LiveKit, ElevenLabs, Vapi) and conversation design. GATES: the **relevance gate did the most work**. Voice AI is dominated by call-center and sales-dialer content, so Perk's "10,000 calls a week", Convo AI's "Hidden Complexities of Enterprise Voice" and VUX World's chatbot-to-voice all fell as somebody else's business. Also dropped as thin or vendor-led: Hamming testing, Vodex, the Google Live API, and the Boson avatars episode. The AI-narrated rule killed 5, including two HackerNoon read-aloud articles; one of them, an AssemblyAI latency playbook, had genuinely good content. Two non-English episodes were dropped (Hebrew, French). CORE: FOCUS for VOICE was set to 3, not 5, after the first build put 10 voice episodes in core and pushed it to 57. Core now carries 6: the three live builds (Killian Lucas, LiveKit, Todoist Ramble) and the three turn-taking episodes. RULE STRAIN: Headcount Zero's Twilio + Realtime barge-in build was rejected on *suspicion* of AI narration, not confirmation. The ElevenLabs and OpenAI Realtime teams are thin: one ElevenLabs guest, zero from OpenAI Realtime.
 
