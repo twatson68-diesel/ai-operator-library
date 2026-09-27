@@ -38,10 +38,34 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Skills-
 <itunes:episode>54</itunes:episode>
 </item>
 <item>
+<title>107 · Track · Master Claude Chat, Cowork, Code · 2026-09-22 · 10. Governing Claude Code with Invisible JSON Files (The .claude Directory and Settings)</title>
+<link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--Governing-Claude-Code-with-Invisible-JSON-Files-The--claude-Directory-and-Settings-e3p42mb</link>
+<guid isPermaLink="false">timlib3c-107</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+<description>Master Claude Chat, Cowork, Code · aired September 22, 2026
+Track 7 Claude Code · Method · HIGH priority
+
+Why it's here: Sho Shimoda on the .claude directory: how settings files are structured, which file wins when rules conflict, and how settings merge across user, project and local scopes. This is where permissions and hooks actually live.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--Governing-Claude-Code-with-Invisible-JSON-Files-The--claude-Directory-and-Settings-e3p42mb</description>
+<itunes:summary>Master Claude Chat, Cowork, Code · aired September 22, 2026
+Track 7 Claude Code · Method · HIGH priority
+
+Why it's here: Sho Shimoda on the .claude directory: how settings files are structured, which file wins when rules conflict, and how settings merge across user, project and local scopes. This is where permissions and hooks actually live.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--Governing-Claude-Code-with-Invisible-JSON-Files-The--claude-Directory-and-Settings-e3p42mb</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired September 22, 2026</p><p>Track 7 Claude Code &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Sho Shimoda on the .claude directory: how settings files are structured, which file wins when rules conflict, and how settings merge across user, project and local scopes. This is where permissions and hooks actually live.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--Governing-Claude-Code-with-Invisible-JSON-Files-The--claude-Directory-and-Settings-e3p42mb">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--Governing-Claude-Code-with-Invisible-JSON-Files-The--claude-Directory-and-Settings-e3p42mb</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/126011531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fc0e96961-4457-1331-e5b2-256e92d0aa09.m4a" length="82058287" type="audio/x-m4a"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45488953/45488953-1772546984877-186f6d9c4d5a2.jpg"/>
+<itunes:duration>00:42:29</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>53</itunes:episode>
+</item>
+<item>
 <title>111 · Track · Tool Use - AI Conversations · 2024-09-18 · The Future of Voice Agents with Killian Lucas</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/The-Future-of-Voice-Agents-with-Killian-Lucas-e2pkgic</link>
 <guid isPermaLink="false">timlib3c-111</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · Killian Lucas (Open Interpreter) · aired September 18, 2024
 Track 8 Voice UI · BUILD · HIGH priority
 
@@ -59,13 +83,13 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/The-F
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42038728/42038728-1728870156848-269cbcd8c6804.jpg"/>
 <itunes:duration>00:49:55</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>53</itunes:episode>
+<itunes:episode>52</itunes:episode>
 </item>
 <item>
 <title>112 · Track · The Neuron: AI Explained · 2026-05-22 · BONUS: Building Real-Time AI Voice Agents with LiveKit's Ben Cherry</title>
 <link>https://podcasters.spotify.com/pod/show/the-neuron/episodes/BONUS-Building-Real-Time-AI-Voice-Agents-with-LiveKits-Ben-Cherry-e3joj68</link>
 <guid isPermaLink="false">timlib3c-112</guid>
-<pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+<pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
 <description>The Neuron: AI Explained · Ben Cherry (LiveKit) · aired May 22, 2026
 Track 8 Voice UI · BUILD · HIGH priority
 
@@ -83,13 +107,13 @@ Original episode: https://podcasters.spotify.com/pod/show/the-neuron/episodes/BO
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41023348/41023348-1713558859331-ee0e43d6222a6.jpg"/>
 <itunes:duration>01:09:02</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>52</itunes:episode>
+<itunes:episode>51</itunes:episode>
 </item>
 <item>
 <title>113 · Track · Just Now Possible · 2026-04-16 · Building Todoist Ramble: How Doist Turned Voice Braindumps into Real-Time Task Capture</title>
 <link>https://justnowpossible.podigee.io/23-building-todoist-ramble</link>
 <guid isPermaLink="false">timlib3c-113</guid>
-<pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+<pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
 <description>Just Now Possible · Ernesto Garcia, Thomas Jost, Hugo Fauquenoi (Doist) · aired April 16, 2026
 Track 8 Voice UI · BUILD · HIGH priority
 
@@ -107,13 +131,13 @@ Original episode: https://justnowpossible.podigee.io/23-building-todoist-ramble<
 <itunes:image href="https://images.podigee-cdn.net/0x,sYkLneREYGwJzw5phVjUwioZkQ1ROuuO-9Ew0lINL8Xs=/https://main.podigee-cdn.net/uploads/u78902/9f261ef2-4f74-4127-90e9-1352f67631c4.png"/>
 <itunes:duration>3640</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>51</itunes:episode>
+<itunes:episode>50</itunes:episode>
 </item>
 <item>
 <title>36 · L7 · Master Claude Chat, Cowork, Code · 2026-09-20 · 8. Scheduled and Delegated Work (Automating Recurring Processes with Claude)</title>
 <link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</link>
 <guid isPermaLink="false">timlib3c-36</guid>
-<pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
+<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · aired September 20, 2026
 L7 Automations · BUILD · MEDIUM priority
 
@@ -131,13 +155,13 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Sc
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45488953/45488953-1772546984877-186f6d9c4d5a2.jpg"/>
 <itunes:duration>00:48:14</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>50</itunes:episode>
+<itunes:episode>49</itunes:episode>
 </item>
 <item>
 <title>43 · Track · Software Engineering Daily · 2026-09-17 · Scaling Agent Workloads at Vercel</title>
 <link>https://softwareengineeringdaily.com/podcasts/scaling-agent-workloads-at-vercel/</link>
 <guid isPermaLink="false">timlib3c-43</guid>
-<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
 <description>Software Engineering Daily · aired September 17, 2026
 Track 2 Agent Teams · BUILD · HIGH priority
 
@@ -155,13 +179,61 @@ Original episode: https://softwareengineeringdaily.com/podcasts/scaling-agent-wo
 <itunes:image href="https://softwareengineeringdaily.com/wp-content/uploads/2026/07/sed_logo_2026.png"/>
 <itunes:duration>51:25</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>49</itunes:episode>
+<itunes:episode>48</itunes:episode>
+</item>
+<item>
+<title>86 · Track · Agentic Conversations (formally mlops.community) · 2026-09-14 · Why Cost Per Million Tokens Is A Useless KPI?</title>
+<link>https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</link>
+<guid isPermaLink="false">timlib3c-86</guid>
+<pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+<description>Agentic Conversations (formally mlops.community) · aired September 14, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: Palo Alto Networks' cloud-and-AI finance lead on why the AI-spend dashboards they built a year ago are now useless, recorded at FinOps X — the per-agent cost-accounting problem from the person who owns the budget.
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</description>
+<itunes:summary>Agentic Conversations (formally mlops.community) · aired September 14, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: Palo Alto Networks' cloud-and-AI finance lead on why the AI-spend dashboards they built a year ago are now useless, recorded at FinOps X — the per-agent cost-accounting problem from the person who owns the budget.
+
+Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Agentic Conversations (formally mlops.community)</strong> &middot; aired September 14, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Palo Alto Networks&#x27; cloud-and-AI finance lead on why the AI-spend dashboards they built a year ago are now useless, recorded at FinOps X — the per-agent cost-accounting problem from the person who owns the budget.</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/125712133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F431858486-44100-2-00886f85e90a.mp3" length="37269001" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3809022/3809022-1785789366189-1f35ba8f80f66.jpg"/>
+<itunes:duration>00:38:49</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>47</itunes:episode>
+</item>
+<item>
+<title>106 · Track · Superlinear · 2026-09-18 · The Fall 2026 Workflow for Starting Projects with Coding Agents</title>
+<link>https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</link>
+<guid isPermaLink="false">timlib3c-106</guid>
+<pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
+<description>Superlinear · aired September 18, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: Walks an actual project's agent conversation to show less harness engineering and less prescribing, spending the effort instead on the few early decisions that compound through the whole build.
+
+Original episode: https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</description>
+<itunes:summary>Superlinear · aired September 18, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: Walks an actual project's agent conversation to show less harness engineering and less prescribing, spending the effort instead on the few early decisions that compound through the whole build.
+
+Original episode: https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Superlinear</strong> &middot; aired September 18, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Walks an actual project&#x27;s agent conversation to show less harness engineering and less prescribing, spending the effort instead on the few early decisions that compound through the whole build.</p><p><a href="https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</p>]]></content:encoded>
+<enclosure url="https://www.buzzsprout.com/2632181/episodes/19826193-the-fall-2026-workflow-for-starting-projects-with-coding-agents.mp3" length="55522925" type="audio/mpeg"/>
+<itunes:image href="https://storage.buzzsprout.com/thr3rwaezjs34lrm3nvxqni0l2or?.jpg"/>
+<itunes:duration>4622</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>46</itunes:episode>
 </item>
 <item>
 <title>59 · Track · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-09-07 · The Multiplayer AI Sprint: Build Your Team’s First Shared Agent</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/The-Multiplayer-AI-Sprint-Build-Your-Teams-First-Shared-Agent-e3of7al</link>
 <guid isPermaLink="false">timlib3c-59</guid>
-<pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <description>The AI Daily Brief: Artificial Intelligence News and Analysis · aired September 7, 2026
 Track 2 Agent Teams · Method · MEDIUM priority
 
@@ -179,13 +251,13 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/The-Multi
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41472609/41472609-1752234663609-8665756a468e5.jpg"/>
 <itunes:duration>00:25:44</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>48</itunes:episode>
+<itunes:episode>45</itunes:episode>
 </item>
 <item>
 <title>82 · Track · Superlinear · 2026-09-11 · New Model Dropped? 4 Ways to De-slop Your Project</title>
 <link>https://podcasts.apple.com/us/podcast/new-model-dropped-4-ways-to-de-slop-your-project/id6794345650?i=1000789042416</link>
 <guid isPermaLink="false">timlib3c-82</guid>
-<pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 18:00:00 +0000</pubDate>
 <description>Superlinear · aired September 11, 2026
 Track 6 Token Optimization · BUILD · HIGH priority
 
@@ -203,13 +275,37 @@ Original episode: https://podcasts.apple.com/us/podcast/new-model-dropped-4-ways
 <itunes:image href="https://storage.buzzsprout.com/thr3rwaezjs34lrm3nvxqni0l2or?.jpg"/>
 <itunes:duration>2812</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>47</itunes:episode>
+<itunes:episode>44</itunes:episode>
+</item>
+<item>
+<title>105 · Track · Master Claude Chat, Cowork, Code · 2026-09-12 · 2. The Claude Surface Map (Pick the Right Claude by Reach)</title>
+<link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</link>
+<guid isPermaLink="false">timlib3c-105</guid>
+<pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+<description>Master Claude Chat, Cowork, Code · aired September 12, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: Sho Shimoda's surface map for choosing between Chat, Cowork and Code by reach, so work lands on the cheapest surface that can actually complete it.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</description>
+<itunes:summary>Master Claude Chat, Cowork, Code · aired September 12, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: Sho Shimoda's surface map for choosing between Chat, Cowork and Code by reach, so work lands on the cheapest surface that can actually complete it.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired September 12, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Sho Shimoda&#x27;s surface map for choosing between Chat, Cowork and Code by reach, so work lands on the cheapest surface that can actually complete it.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/125615766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Faca6fd80-c342-6da9-52a2-06673e036f54.m4a" length="79760332" type="audio/x-m4a"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45488953/45488953-1772546984877-186f6d9c4d5a2.jpg"/>
+<itunes:duration>00:41:18</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>43</itunes:episode>
 </item>
 <item>
 <title>78 · Track · Latent Space · 2026-08-03 · The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
 <link>https://www.latent.space/p/inference-eng</link>
 <guid isPermaLink="false">timlib3c-78</guid>
-<pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
 <description>Latent Space · Philip Kiely &amp; Ali Taha (Baseten) · aired August 3, 2026
 Track 6 Token Optimization · BUILD · HIGH priority
 
@@ -227,13 +323,13 @@ Original episode: https://www.latent.space/p/inference-eng</itunes:summary>
 <itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/209198968/3c0bb877670d79fe2147a4eec93b16d6.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>46</itunes:episode>
+<itunes:episode>42</itunes:episode>
 </item>
 <item>
 <title>79 · Track · Chain of Thought · 2026-06-25 · Stop Token Maxxing: Find Where AI Actually Pays Off \</title>
 <link>https://share.transistor.fm/s/81534de0</link>
 <guid isPermaLink="false">timlib3c-79</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
 <description>Chain of Thought · Jiaona Zhang · aired June 25, 2026
 Track 6 Token Optimization · BUILD · HIGH priority
 
@@ -251,13 +347,13 @@ Original episode: https://share.transistor.fm/s/81534de0</itunes:summary>
 
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>45</itunes:episode>
+<itunes:episode>41</itunes:episode>
 </item>
 <item>
 <title>80 · Track · Agentic Conversations (formerly MLOps Community) · 2026-09-04 · The Five-Layer Cake Approach to Scaling AI Without Wasting Money</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Five-Layer-Cake-Approach-to-Scaling-AI-Without-Wasting-Money-e3ob95o</link>
 <guid isPermaLink="false">timlib3c-80</guid>
-<pubDate>Sun, 09 Aug 2026 18:00:00 +0000</pubDate>
+<pubDate>Sat, 08 Aug 2026 18:00:00 +0000</pubDate>
 <description>Agentic Conversations (formerly MLOps Community) · Ambud Sharma (Principal Engineer, Pinterest) · aired September 4, 2026
 Track 6 Token Optimization · BUILD · HIGH priority
 
@@ -275,13 +371,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/The-Fiv
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3809022/3809022-1785789366189-1f35ba8f80f66.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>44</itunes:episode>
+<itunes:episode>40</itunes:episode>
 </item>
 <item>
 <title>81 · Track · Agentic Conversations (MLOps Community #348) · 2025-11-21 · Context Engineering, Context Rot, &amp; Agentic Search with the CEO of Chroma, Jeff Huber</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Context-Engineering--Context-Rot---Agentic-Search-with-the-CEO-of-Chroma--Jeff-Huber-e3b9mch</link>
 <guid isPermaLink="false">timlib3c-81</guid>
-<pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+<pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
 <description>Agentic Conversations (MLOps Community #348) · Jeff Huber (CEO, Chroma) — host Demetrios Brinkmann · aired November 21, 2025
 Track 6 Token Optimization · BUILD · HIGH priority
 
@@ -299,37 +395,13 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Context
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3809022/3809022-1763748498550-9bedf272241e1.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>43</itunes:episode>
-</item>
-<item>
-<title>83 · Track · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
-<link>https://www.latent.space/p/harness-eng</link>
-<guid isPermaLink="false">timlib3c-83</guid>
-<pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
-<description>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
-Track 6 Token Optimization · Method · HIGH priority
-
-Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
-
-Original episode: https://www.latent.space/p/harness-eng</description>
-<itunes:summary>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
-Track 6 Token Optimization · Method · HIGH priority
-
-Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
-
-Original episode: https://www.latent.space/p/harness-eng</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Ryan Lopopolo (OpenAI Frontier) &middot; aired April 7, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.</p><p><a href="https://www.latent.space/p/harness-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/harness-eng</p>]]></content:encoded>
-<enclosure url="https://api.substack.com/feed/podcast/193478192/2c0fb135ac3f9193c58922fcaf1b81a8.mp3" length="52357357" type="audio/mpeg"/>
-<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/193478192/142fb64d15eec61ae6e0f94ec7ee2b32.jpg"/>
-<itunes:duration>4363</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>42</itunes:episode>
+<itunes:episode>39</itunes:episode>
 </item>
 <item>
 <title>94 · Track · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
 <guid isPermaLink="false">timlib3c-94</guid>
-<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
 Track 7 Claude Code · BUILD · HIGH priority
 
@@ -347,13 +419,13 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/art/0ee55f5bd030aa0e.jpg"/>
 <itunes:duration>00:29:06</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>41</itunes:episode>
+<itunes:episode>38</itunes:episode>
 </item>
 <item>
 <title>96 · Track · Super Data Science · 2026-08-28 · 1022: CLAUDE.md, AGENTS.md, Skills, Hooks and Subagents: A Field Guide to Steering AI Agents</title>
 <link>https://www.superdatascience.com/1022</link>
 <guid isPermaLink="false">timlib3c-96</guid>
-<pubDate>Sat, 08 Aug 2026 18:00:00 +0000</pubDate>
+<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
 <description>Super Data Science · Jon Krohn (solo) · aired August 28, 2026
 Track 7 Claude Code · BUILD · HIGH priority
 
@@ -371,13 +443,13 @@ Original episode: https://www.superdatascience.com/1022</itunes:summary>
 <itunes:image href="https://megaphone.imgix.net/podcasts/754b9778-a2b7-11f1-9838-3fe4bc7f1d64/image/b25143610712c9bdeac57f63bb5166e1.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>40</itunes:episode>
+<itunes:episode>37</itunes:episode>
 </item>
 <item>
 <title>97 · Track · How I AI · 2026-01-26 · Advanced Claude Code techniques: context loading, mermaid diagrams, stop hooks, and more \</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</link>
 <guid isPermaLink="false">timlib3c-97</guid>
-<pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
+<pubDate>Fri, 07 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · John Lindquist · aired January 26, 2026
 Track 7 Claude Code · BUILD · HIGH priority
 
@@ -393,78 +465,6 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Adva
 <content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; John Lindquist &middot; aired January 26, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</p>]]></content:encoded>
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3" length="54367711" type="audio/mpeg"/>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1769036452302-3393a03c682db.jpg"/>
-<itunes:duration></itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>39</itunes:episode>
-</item>
-<item>
-<title>98 · Track · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
-<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</link>
-<guid isPermaLink="false">timlib3c-98</guid>
-<pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
-<description>How I AI · Thariq Shihipar · aired May 18, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</description>
-<itunes:summary>How I AI · Thariq Shihipar · aired May 18, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
-
-Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</itunes:summary>
-<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Thariq Shihipar &middot; aired May 18, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3" length="34532204" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1778948405763-1686c68a06d6d.jpg"/>
-<itunes:duration></itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>38</itunes:episode>
-</item>
-<item>
-<title>99 · Track · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
-<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</link>
-<guid isPermaLink="false">timlib3c-99</guid>
-<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-<description>Behind the Craft · Thariq Shihipar · aired July 19, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
-
-Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</description>
-<itunes:summary>Behind the Craft · Thariq Shihipar · aired July 19, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
-
-Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Thariq Shihipar &middot; aired July 19, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3" length="39636740" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
-<itunes:duration></itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>37</itunes:episode>
-</item>
-<item>
-<title>100 · Track · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
-<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</link>
-<guid isPermaLink="false">timlib3c-100</guid>
-<pubDate>Fri, 07 Aug 2026 18:00:00 +0000</pubDate>
-<description>Behind the Craft · Kieran Klaassen · aired February 8, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
-
-Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</description>
-<itunes:summary>Behind the Craft · Kieran Klaassen · aired February 8, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
-
-Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Kieran Klaassen &middot; aired February 8, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3" length="51711163" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>36</itunes:episode>
@@ -950,10 +950,34 @@ Original episode: https://thedataexchange.media/andrew-moore-lovelace/</itunes:s
 <itunes:episode>16</itunes:episode>
 </item>
 <item>
+<title>83 · Track · Latent Space · 2026-04-07 · Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony</title>
+<link>https://www.latent.space/p/harness-eng</link>
+<guid isPermaLink="false">timlib3c-83</guid>
+<pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+<description>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
+
+Original episode: https://www.latent.space/p/harness-eng</description>
+<itunes:summary>Latent Space · Ryan Lopopolo (OpenAI Frontier) · aired April 7, 2026
+Track 6 Token Optimization · Method · HIGH priority
+
+Why it's here: Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.
+
+Original episode: https://www.latent.space/p/harness-eng</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space</strong> &middot; Ryan Lopopolo (OpenAI Frontier) &middot; aired April 7, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Hard numbers: &gt;1M-LOC codebase with zero human-written and zero human-reviewed code at ~1B tokens/day (~$2–3k/day) — the harness is the control system.</p><p><a href="https://www.latent.space/p/harness-eng">Open the original episode &rarr;</a><br/>https://www.latent.space/p/harness-eng</p>]]></content:encoded>
+<enclosure url="https://api.substack.com/feed/podcast/193478192/2c0fb135ac3f9193c58922fcaf1b81a8.mp3" length="52357357" type="audio/mpeg"/>
+<itunes:image href="https://substackcdn.com/feed/podcast/1084089/post/193478192/142fb64d15eec61ae6e0f94ec7ee2b32.jpg"/>
+<itunes:duration>4363</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>15</itunes:episode>
+</item>
+<item>
 <title>84 · Track · The Joe Reis Show · 2026-05-14 · The Hidden Cost of AI Agents on Your Cloud Bill - Sanjay Agrawal</title>
 <link>https://podcasters.spotify.com/pod/show/joereis/episodes/The-Hidden-Cost-of-AI-Agents-on-Your-Cloud-Bill---Sanjay-Agrawal-e3j7msf</link>
 <guid isPermaLink="false">timlib3c-84</guid>
-<pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+<pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Joe Reis Show · Sanjay Agrawal (CEO, Revefi; co-founder, ThoughtSpot) · aired May 14, 2026
 Track 6 Token Optimization · Method · HIGH priority
 
@@ -971,13 +995,13 @@ Original episode: https://podcasters.spotify.com/pod/show/joereis/episodes/The-H
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/12437051/12437051-1755567691905-b204019474441.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>15</itunes:episode>
+<itunes:episode>14</itunes:episode>
 </item>
 <item>
 <title>85 · Track · The AI Daily Brief · 2026-06-04 · How Companies Are Becoming AI Token Efficient</title>
 <link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Companies-Are-Becoming-AI-Token-Efficient-e3kbm85</link>
 <guid isPermaLink="false">timlib3c-85</guid>
-<pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
+<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
 <description>The AI Daily Brief · NLW (Nathaniel Whittemore), solo · aired June 4, 2026
 Track 6 Token Optimization · Method · HIGH priority
 
@@ -994,30 +1018,6 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-Compa
 <enclosure url="https://anchor.fm/s/f7cac464/podcast/play/121018053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425526383-44100-2-33562354187ed.mp3" length="24843492" type="audio/mpeg"/>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41472609/41472609-1752234663609-8665756a468e5.jpg"/>
 <itunes:duration></itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>14</itunes:episode>
-</item>
-<item>
-<title>86 · Track · Agentic Conversations (formally mlops.community) · 2026-09-14 · Why Cost Per Million Tokens Is A Useless KPI?</title>
-<link>https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</link>
-<guid isPermaLink="false">timlib3c-86</guid>
-<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-<description>Agentic Conversations (formally mlops.community) · aired September 14, 2026
-Track 6 Token Optimization · Method · HIGH priority
-
-Why it's here: Palo Alto Networks' cloud-and-AI finance lead on why the AI-spend dashboards they built a year ago are now useless, recorded at FinOps X — the per-agent cost-accounting problem from the person who owns the budget.
-
-Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</description>
-<itunes:summary>Agentic Conversations (formally mlops.community) · aired September 14, 2026
-Track 6 Token Optimization · Method · HIGH priority
-
-Why it's here: Palo Alto Networks' cloud-and-AI finance lead on why the AI-spend dashboards they built a year ago are now useless, recorded at FinOps X — the per-agent cost-accounting problem from the person who owns the budget.
-
-Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Agentic Conversations (formally mlops.community)</strong> &middot; aired September 14, 2026</p><p>Track 6 Token Optimization &middot; Method &middot; HIGH priority</p><p><strong>Why it's here:</strong> Palo Alto Networks&#x27; cloud-and-AI finance lead on why the AI-spend dashboards they built a year ago are now useless, recorded at FinOps X — the per-agent cost-accounting problem from the person who owns the budget.</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Why-Cost-Per-Million-Tokens-Is-A-Useless-KPI-e3oqua5</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/125712133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F431858486-44100-2-00886f85e90a.mp3" length="37269001" type="audio/mpeg"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3809022/3809022-1785789366189-1f35ba8f80f66.jpg"/>
-<itunes:duration>00:38:49</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>13</itunes:episode>
 </item>
@@ -1094,10 +1094,82 @@ Original episode: https://www.superdatascience.com/1010</itunes:summary>
 <itunes:episode>10</itunes:episode>
 </item>
 <item>
+<title>98 · Track · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
+<link>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</link>
+<guid isPermaLink="false">timlib3c-98</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<description>How I AI · Thariq Shihipar · aired May 18, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</description>
+<itunes:summary>How I AI · Thariq Shihipar · aired May 18, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</itunes:summary>
+<content:encoded><![CDATA[<p><strong>How I AI</strong> &middot; Thariq Shihipar &middot; aired May 18, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3" length="34532204" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43412682/43412682-1778948405763-1686c68a06d6d.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode>
+</item>
+<item>
+<title>99 · Track · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</link>
+<guid isPermaLink="false">timlib3c-99</guid>
+<pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
+<description>Behind the Craft · Thariq Shihipar · aired July 19, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</description>
+<itunes:summary>Behind the Craft · Thariq Shihipar · aired July 19, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Thariq Shihipar &middot; aired July 19, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3" length="39636740" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>100 · Track · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
+<link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</link>
+<guid isPermaLink="false">timlib3c-100</guid>
+<pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+<description>Behind the Craft · Kieran Klaassen · aired February 8, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</description>
+<itunes:summary>Behind the Craft · Kieran Klaassen · aired February 8, 2026
+Track 7 Claude Code · BUILD · HIGH priority
+
+Why it's here: https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3
+
+Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Behind the Craft</strong> &middot; Kieran Klaassen &middot; aired February 8, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3</p><p><a href="https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3" length="51711163" type="audio/mpeg"/>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40755531/40755531-1710425611383-544c3b1963805.jpg"/>
+<itunes:duration></itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
 <title>101 · Track · Tool Use - AI Conversations · 2026-01-20 · Advanced Claude Code Part 2 (ft Eric Buess)</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</link>
 <guid isPermaLink="false">timlib3c-101</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · Eric Buess; host Mike Bird · aired January 20, 2026
 Track 7 Claude Code · BUILD · HIGH priority
 
@@ -1115,13 +1187,13 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advan
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42038728/42038728-1768915485203-5f95f9a3b22d9.jpg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
 <title>102 · Track · Chaos Agents · 2026-04-14 · Superpowers, Subagents, and Why Coding Isn't the Job Anymore - With Jesse Vincent</title>
 <link>https://chaosagents.ai</link>
 <guid isPermaLink="false">timlib3c-102</guid>
-<pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <description>Chaos Agents · Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy · aired April 14, 2026
 Track 7 Claude Code · BUILD · HIGH priority
 
@@ -1139,13 +1211,13 @@ Original episode: https://chaosagents.ai</itunes:summary>
 
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
 <title>103 · Track · Forward Deployed · 2025-11-17 · Forward Deployed, Episode 2: Claude Code Skills and the Progressive Disclosure Problem</title>
 <link>https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</link>
 <guid isPermaLink="false">timlib3c-103</guid>
-<pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+<pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
 <description>Forward Deployed · Noah Brier &amp; Lance · aired November 17, 2025
 Track 7 Claude Code · BUILD · HIGH priority
 
@@ -1162,78 +1234,6 @@ Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-c
 <enclosure url="https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3" length="47827206" type="audio/mpeg"/>
 
 <itunes:duration></itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
-</item>
-<item>
-<title>104 · Track · Before The Commit · 2025-12-30 · Episode 18: Claude Code Commands, Skills, Sub-agents, and more.</title>
-<link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</link>
-<guid isPermaLink="false">timlib3c-104</guid>
-<pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
-<description>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
-
-Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</description>
-<itunes:summary>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka
-
-Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Before The Commit</strong> &middot; Hosts Dustin &amp; Sam &middot; aired December 30, 2025</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVka</p><p><a href="https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</p>]]></content:encoded>
-<enclosure url="https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9hZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYvZXBpc29kZXMvZWJlOTA5YzgtZDMyZS00YzdlLWI0ZTAtNDMxOWEyYzQ1Njk5LzQxNTIzNjU2NC00NDEwMC0yLWFlZjEzODJkNDI4MWIubXAzIn0=.mp3" length="66116544" type="audio/mpeg"/>
-
-<itunes:duration></itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
-</item>
-<item>
-<title>105 · Track · Master Claude Chat, Cowork, Code · 2026-09-12 · 2. The Claude Surface Map (Pick the Right Claude by Reach)</title>
-<link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</link>
-<guid isPermaLink="false">timlib3c-105</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<description>Master Claude Chat, Cowork, Code · aired September 12, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: Sho Shimoda's surface map for choosing between Chat, Cowork and Code by reach, so work lands on the cheapest surface that can actually complete it.
-
-Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</description>
-<itunes:summary>Master Claude Chat, Cowork, Code · aired September 12, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: Sho Shimoda's surface map for choosing between Chat, Cowork and Code by reach, so work lands on the cheapest surface that can actually complete it.
-
-Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired September 12, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Sho Shimoda&#x27;s surface map for choosing between Chat, Cowork and Code by reach, so work lands on the cheapest surface that can actually complete it.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</p>]]></content:encoded>
-<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/125615766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Faca6fd80-c342-6da9-52a2-06673e036f54.m4a" length="79760332" type="audio/x-m4a"/>
-<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45488953/45488953-1772546984877-186f6d9c4d5a2.jpg"/>
-<itunes:duration>00:41:18</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
-</item>
-<item>
-<title>106 · Track · Superlinear · 2026-09-18 · The Fall 2026 Workflow for Starting Projects with Coding Agents</title>
-<link>https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</link>
-<guid isPermaLink="false">timlib3c-106</guid>
-<pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
-<description>Superlinear · aired September 18, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: Walks an actual project's agent conversation to show less harness engineering and less prescribing, spending the effort instead on the few early decisions that compound through the whole build.
-
-Original episode: https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</description>
-<itunes:summary>Superlinear · aired September 18, 2026
-Track 7 Claude Code · BUILD · HIGH priority
-
-Why it's here: Walks an actual project's agent conversation to show less harness engineering and less prescribing, spending the effort instead on the few early decisions that compound through the whole build.
-
-Original episode: https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</itunes:summary>
-<content:encoded><![CDATA[<p><strong>Superlinear</strong> &middot; aired September 18, 2026</p><p>Track 7 Claude Code &middot; BUILD &middot; HIGH priority</p><p><strong>Why it's here:</strong> Walks an actual project&#x27;s agent conversation to show less harness engineering and less prescribing, spending the effort instead on the few early decisions that compound through the whole build.</p><p><a href="https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364">Open the original episode &rarr;</a><br/>https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</p>]]></content:encoded>
-<enclosure url="https://www.buzzsprout.com/2632181/episodes/19826193-the-fall-2026-workflow-for-starting-projects-with-coding-agents.mp3" length="55522925" type="audio/mpeg"/>
-<itunes:image href="https://storage.buzzsprout.com/thr3rwaezjs34lrm3nvxqni0l2or?.jpg"/>
-<itunes:duration>4622</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>4</itunes:episode>
 </item>
