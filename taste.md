@@ -3,7 +3,7 @@
 This is the rubric the weekly refresh scores against. It is meant to be edited. Tell me a change in plain language and I rewrite this file, republish it, and the next run uses the new rules.
 
 **Owner:** Tim Watson · CEO, SMART Asset Management (pallet/rack pooling, logistics) and SMART Pest Prevention
-**Last updated:** 2026-09-27 (weekly run #8)
+**Last updated:** 2026-10-04 (weekly run #9)
 **Core feed (follow this):** https://ai-operator-library.pplx.app/feed.xml — top 3 per layer
 **Full feed:** https://ai-operator-library.pplx.app/full.xml — everything
 
@@ -106,6 +106,8 @@ Dropped regardless of how good it is:
 - **AI-narrated shows with no human practitioner** — Neural intel Pod, Impact Vector, Agentic AI at Work, AI Odyssey, Rapid Synthesis, Colaberry AI Podcast, Intellectually Curious, AI Fire Daily, Awesome Agents, Models & Agents, My Weird Prompts. These rank well on agent keywords and are worthless.
 
 ## Feedback log
+
+- `2026-10-04`: Weekly run #9. 44 new items in the window, 3 added. **Prune skipped a fourth week**: the device tools described fine, but both bash calls timed out at 120s. Added: Latent Space's "Claude Code's Next Era: Thariq Shihipar" → Claude Code (first appearance of a watched Anthropic Claude Code person this cycle); Super Data Science #1031 "Tokenomics" → Token Ops (Dell engineers, about 2B tokens burned in one weekend); Agentic Conversations' "The Caveman Prompting Challenge" → Token Ops (terse-prompt savings and where output breaks). GATES: the model-release rule did the most work. OpenAI DevDay, Jev and Opus 5.5 coverage accounted for 11 rejections across How I AI, ADB, Startup Ideas, Nate B. Jones and ThursdAI. The **per-show cap fired on Master Claude**: four episodes this week, including "14. Memory, Compaction and Checkpoints", which is genuinely on-topic for both T6 and T7. It was held because T7 is already at 20. Near-miss: ADB's "How to Build Team Agents" with Nufar Gaspar (T2). RULE STRAIN: **T6 is at 19 and T7 at 20, both over the 16 ceiling.** Tim was asked on 09-27 whether to trim T7 and hasn't answered.
 
 - `2026-09-27` (on request: "podcasts on using Codex and Claude Code together"): Added 3. Nate B. Jones' "GLM-5.3 Setup in Claude Code and Codex: Cut Your Bill" → Token Ops (a cheap-model routing rule and six-line handoffs across both tools). Nate B. Jones' "Claude Code vs Codex: Steer or Dispatch" → Claude Code. AI & I's "Why We Switched From Claude Code to Codex" → Claude Code (a non-engineer spending 80% of his day in Codex). GATES: of ~128 episode-search hits, nearly all were head-to-head shootouts or model-release coverage, so the **model-release rule did the most work**. Nobody has recorded a good episode on the official codex-plugin-cc workflow yet. Rejected: Zvi's "Claude Code, Codex and Agentic Coding" series (AI-narrated read-aloud); several AI-generated daily shows (AI Coding Daily, The Codex Changelog, Claude Code Daily); Portuguese RDD10+ on cross-model code review (non-English); Agent Native's Buzz episode (vendor walkthrough); Interconnects' "Use multiple models" (mostly chat models, January). Held at 2 per show, which dropped Nate's "The Decision That Compounds" (same model scored 78% vs 42% depending on harness). RULE STRAIN: T7 is now 19, over the 16 ceiling.
 
