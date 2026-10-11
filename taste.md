@@ -3,7 +3,7 @@
 This is the rubric the weekly refresh scores against. It is meant to be edited. Tell me a change in plain language and I rewrite this file, republish it, and the next run uses the new rules.
 
 **Owner:** Tim Watson · CEO, SMART Asset Management (pallet/rack pooling, logistics) and SMART Pest Prevention
-**Last updated:** 2026-10-04 (weekly run #9)
+**Last updated:** 2026-10-11 (weekly run #10, first under the new automation system)
 **Core feed (follow this):** https://ai-operator-library.pplx.app/feed.xml — top 3 per layer
 **Full feed:** https://ai-operator-library.pplx.app/full.xml — everything
 
@@ -106,6 +106,8 @@ Dropped regardless of how good it is:
 - **AI-narrated shows with no human practitioner** — Neural intel Pod, Impact Vector, Agentic AI at Work, AI Odyssey, Rapid Synthesis, Colaberry AI Podcast, Intellectually Curious, AI Fire Daily, Awesome Agents, Models & Agents, My Weird Prompts. These rank well on agent keywords and are worthless.
 
 ## Feedback log
+
+- `2026-10-11`: Weekly run #10. **Prune ran for the first time since 09-06: 15 finished episodes withheld from core** (Skills 4, Connections 3, Automations 3, Judgment 2, Claude Code 1, Agent Teams 1, Graphs 1). The title-matching fix from 09-27 earned its keep: Apple's cached numbers differed from current numbers on several episodes (Apple "40" is now #97, "09" is now #8), so number matching would have retired the wrong ones. 3 Apple titles went unmatched; all three are Hermes episodes retired with the track on 09-10, which is correct. Read-back used base64 over bash because the filesystem tool did not respond. 36 new items in the window, 3 added: Agentic Conversations' "How a Logistics Giant Keeps AI Data Locked Down" → Token Ops (C.H. Robinson's FinOps-for-AI lead); Master Claude ep. 15, "Prompt Caching and Durable State" → Token Ops; The Every Podcast's "Why Every Traded Personal Agents for One Company Agent" → Agent Teams. GATES: the relevance gate killed Future of Voice AI's customer-service voice-agent architecture episode (enterprise CX); the model-release rule killed Jev, Gemini 4 Argon and Haiku 5.5 coverage. The per-show cap held Master Claude to one of three. Near-miss: ADB's "A System for Testing New AI Models" with Nufar Gaspar. RULE STRAIN: Token Ops 21, Agent Teams 21 and Claude Code 20 are all over the 16 ceiling. The trim question to Tim (09-27) is still open.
 
 - `2026-10-04`: Weekly run #9. 44 new items in the window, 3 added. **Prune skipped a fourth week**: the device tools described fine, but both bash calls timed out at 120s. Added: Latent Space's "Claude Code's Next Era: Thariq Shihipar" → Claude Code (first appearance of a watched Anthropic Claude Code person this cycle); Super Data Science #1031 "Tokenomics" → Token Ops (Dell engineers, about 2B tokens burned in one weekend); Agentic Conversations' "The Caveman Prompting Challenge" → Token Ops (terse-prompt savings and where output breaks). GATES: the model-release rule did the most work. OpenAI DevDay, Jev and Opus 5.5 coverage accounted for 11 rejections across How I AI, ADB, Startup Ideas, Nate B. Jones and ThursdAI. The **per-show cap fired on Master Claude**: four episodes this week, including "14. Memory, Compaction and Checkpoints", which is genuinely on-topic for both T6 and T7. It was held because T7 is already at 20. Near-miss: ADB's "How to Build Team Agents" with Nufar Gaspar (T2). RULE STRAIN: **T6 is at 19 and T7 at 20, both over the 16 ceiling.** Tim was asked on 09-27 whether to trim T7 and hasn't answered.
 
