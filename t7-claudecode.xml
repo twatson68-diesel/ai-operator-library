@@ -4,15 +4,15 @@
 <title>AI OS · Claude Code</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Running Claude Code well: CLAUDE.md design, subagents, hooks, skills, permissions, and the workflows experienced operators actually use. 20 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Running Claude Code well: CLAUDE.md design, subagents, hooks, skills, permissions, and the workflows experienced operators actually use. 21 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Running Claude Code well: CLAUDE.md design, subagents, hooks, skills, permissions, and the workflows experienced operators actually use. 20 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Running Claude Code well: CLAUDE.md design, subagents, hooks, skills, permissions, and the workflows experienced operators actually use. 21 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610111105.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610111105.jpg</url><title>AI OS · Claude Code</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610181109.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610181109.jpg</url><title>AI OS · Claude Code</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
 <title>100 · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/121559197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426259555-44100-2-1b61a314a7bc8.mp3" length="27949347" type="audio/mpeg"/>
 <itunes:duration>00:29:06</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>20</itunes:episode>
+<itunes:episode>21</itunes:episode>
 </item>
 <item>
 <title>101 · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
@@ -57,7 +57,7 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-b
 <enclosure url="https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3" length="34675357" type="audio/mpeg"/>
 <itunes:duration>2890</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>19</itunes:episode>
+<itunes:episode>20</itunes:episode>
 </item>
 <item>
 <title>102 · Super Data Science · 2026-08-28 · 1022: CLAUDE.md, AGENTS.md, Skills, Hooks and Subagents: A Field Guide to Steering AI Agents</title>
@@ -80,7 +80,7 @@ Original episode: https://www.superdatascience.com/1022</itunes:summary>
 <enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD1106908588.mp3" length="25364790" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>18</itunes:episode>
+<itunes:episode>19</itunes:episode>
 </item>
 <item>
 <title>103 · How I AI · 2026-01-26 · Advanced Claude Code techniques: context loading, mermaid diagrams, stop hooks, and more \</title>
@@ -103,7 +103,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Adva
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/114260439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416454431-44100-2-1706c824b30b7.mp3" length="54367711" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>17</itunes:episode>
+<itunes:episode>18</itunes:episode>
 </item>
 <item>
 <title>104 · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
@@ -126,7 +126,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120015123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424187974-44100-2-6efb6e4bf7bd2.mp3" length="34532204" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>16</itunes:episode>
+<itunes:episode>17</itunes:episode>
 </item>
 <item>
 <title>105 · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
@@ -149,7 +149,7 @@ Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/
 <enclosure url="https://anchor.fm/s/f38497cc/podcast/play/123001257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428185031-44100-2-e426dd37abcde.mp3" length="39636740" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>15</itunes:episode>
+<itunes:episode>16</itunes:episode>
 </item>
 <item>
 <title>106 · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
@@ -172,7 +172,7 @@ Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/
 <enclosure url="https://anchor.fm/s/f38497cc/podcast/play/114917333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417318367-44100-2-c5bf2250e7bd9.mp3" length="51711163" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>14</itunes:episode>
+<itunes:episode>15</itunes:episode>
 </item>
 <item>
 <title>107 · Tool Use - AI Conversations · 2026-01-20 · Advanced Claude Code Part 2 (ft Eric Buess)</title>
@@ -195,7 +195,7 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advan
 <enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/114264188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2F416459730-44100-2-9f241c9c8effb.mp3" length="50367006" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>13</itunes:episode>
+<itunes:episode>14</itunes:episode>
 </item>
 <item>
 <title>108 · Chaos Agents · 2026-04-14 · Superpowers, Subagents, and Why Coding Isn't the Job Anymore - With Jesse Vincent</title>
@@ -218,7 +218,7 @@ Original episode: https://chaosagents.ai</itunes:summary>
 <enclosure url="https://episodes.captivate.fm/episode/5487f1c1-f5b6-4be4-9cca-df5608566c30.mp3" length="50373168" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>13</itunes:episode>
 </item>
 <item>
 <title>109 · Forward Deployed · 2025-11-17 · Forward Deployed, Episode 2: Claude Code Skills and the Progressive Disclosure Problem</title>
@@ -241,7 +241,7 @@ Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-c
 <enclosure url="https://api.substack.com/feed/podcast/179088941/343c840cf1bcc536e818db45346d97a0.mp3" length="47827206" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
+<itunes:episode>12</itunes:episode>
 </item>
 <item>
 <title>110 · Before The Commit · 2025-12-30 · Episode 18: Claude Code Commands, Skills, Sub-agents, and more.</title>
@@ -264,7 +264,7 @@ Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episod
 <enclosure url="https://api.riverside.com/hosting-analytics/media/1254846aa0ce7f6f8b849b1ec52b55d176e9d8a18c2eb14cf3a494f7f647470c/eyJlcGlzb2RlSWQiOiJlYmU5MDljOC1kMzJlLTRjN2UtYjRlMC00MzE5YTJjNDU2OTkiLCJwb2RjYXN0SWQiOiJhZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYiLCJhY2NvdW50SWQiOiI2YTA2NTAzZTk5ZWYxODlmOTJjZjNlMWIiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9hZjFkMmZiOS1kYzRhLTQyOTAtYWQwZS02OTgzMTM5NmFiZGYvZXBpc29kZXMvZWJlOTA5YzgtZDMyZS00YzdlLWI0ZTAtNDMxOWEyYzQ1Njk5LzQxNTIzNjU2NC00NDEwMC0yLWFlZjEzODJkNDI4MWIubXAzIn0=.mp3" length="66116544" type="audio/mpeg"/>
 <itunes:duration></itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>11</itunes:episode>
 </item>
 <item>
 <title>111 · Master Claude Chat, Cowork, Code · 2026-09-12 · 2. The Claude Surface Map (Pick the Right Claude by Reach)</title>
@@ -287,7 +287,7 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--Th
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/125615766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Faca6fd80-c342-6da9-52a2-06673e036f54.m4a" length="79760332" type="audio/x-m4a"/>
 <itunes:duration>00:41:18</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
 <title>112 · Superlinear · 2026-09-18 · The Fall 2026 Workflow for Starting Projects with Coding Agents</title>
@@ -310,7 +310,7 @@ Original episode: https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-f
 <enclosure url="https://www.buzzsprout.com/2632181/episodes/19826193-the-fall-2026-workflow-for-starting-projects-with-coding-agents.mp3" length="55522925" type="audio/mpeg"/>
 <itunes:duration>4622</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
 <title>113 · Master Claude Chat, Cowork, Code · 2026-09-22 · 10. Governing Claude Code with Invisible JSON Files (The .claude Directory and Settings)</title>
@@ -333,7 +333,7 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--G
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/126011531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fc0e96961-4457-1331-e5b2-256e92d0aa09.m4a" length="82058287" type="audio/x-m4a"/>
 <itunes:duration>00:42:29</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
 <title>114 · AI News &amp; Strategy Daily with Nate B. Jones · 2026-06-10 · Claude Code vs Codex: Steer or Dispatch Your AI Agents</title>
@@ -356,7 +356,7 @@ Original episode: https://natesnewsletter.substack.com/p/claude-code-vs-codex-ag
 <enclosure url="https://sphinx.acast.com/p/open/s/69ab3b7c7036d739021982df/e/6a27266ac022d9c4feb86c97/media.mp3" length="23341386" type="audio/mpeg"/>
 <itunes:duration>16:12</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
 <title>115 · Latent Space: The AI Engineer Podcast · 2026-09-29 · Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
@@ -379,13 +379,36 @@ Original episode: https://www.latent.space/p/thariq</itunes:summary>
 <enclosure url="https://api.substack.com/feed/podcast/217893105/df59f83c2e6844288112278c28b8e538.mp3" length="88782965" type="audio/mpeg"/>
 <itunes:duration>5549</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>116 · Master Claude Chat, Cowork, Code · 2026-10-14 · 19. Preventing Context Pollution with Subagents (Delegating Heavy Lifting)</title>
+<link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--Preventing-Context-Pollution-with-Subagents-Delegating-Heavy-Lifting-e3q935v</link>
+<guid isPermaLink="false">aios-t7-116</guid>
+<pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
+<description>Master Claude Chat, Cowork, Code · aired October 14, 2026
+Method · HIGH priority · T7 Claude Code
+
+Why it's here: Sho Shimoda on using subagents to keep search-heavy work out of the main conversation. Dozens of file reads, repeated searches and false leads dilute the main context, so a subagent does the digging and returns only the answer. It's context hygiene and a token saving in one.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--Preventing-Context-Pollution-with-Subagents-Delegating-Heavy-Lifting-e3q935v</description>
+<itunes:summary>Master Claude Chat, Cowork, Code · aired October 14, 2026
+Method · HIGH priority · T7 Claude Code
+
+Why it's here: Sho Shimoda on using subagents to keep search-heavy work out of the main conversation. Dozens of file reads, repeated searches and false leads dilute the main context, so a subagent does the digging and returns only the answer. It's context hygiene and a token saving in one.
+
+Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--Preventing-Context-Pollution-with-Subagents-Delegating-Heavy-Lifting-e3q935v</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired October 14, 2026</p><p>Method &middot; HIGH priority &middot; T7 Claude Code</p><p><strong>Why it's here:</strong> Sho Shimoda on using subagents to keep search-heavy work out of the main conversation. Dozens of file reads, repeated searches and false leads dilute the main context, so a subagent does the digging and returns only the answer. It&#x27;s context hygiene and a token saving in one.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--Preventing-Context-Pollution-with-Subagents-Delegating-Heavy-Lifting-e3q935v">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--Preventing-Context-Pollution-with-Subagents-Delegating-Heavy-Lifting-e3q935v</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/127224447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fdb80b47c-a0cb-b8bb-5adc-6873c0c5e81a.m4a" length="102307352" type="audio/x-m4a"/>
+<itunes:duration>00:52:58</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>116 · Before The Commit · 2025-11-18 · Episode 14: Devcontainers and Sandboxing with Claude Code</title>
+<title>117 · Before The Commit · 2025-11-18 · Episode 14: Devcontainers and Sandboxing with Claude Code</title>
 <link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</link>
-<guid isPermaLink="false">aios-t7-116</guid>
-<pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t7-117</guid>
+<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 <description>Before The Commit · Hosts Danny Gershman &amp; Dustin Hilgaertner · aired November 18, 2025
 BUILD · MEDIUM priority · T7 Claude Code
 
@@ -405,10 +428,10 @@ Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episod
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>117 · How I AI · 2026-04-20 · How Intercom 2x'd their engineering velocity in 9 months with Claude Code \</title>
+<title>118 · How I AI · 2026-04-20 · How Intercom 2x'd their engineering velocity in 9 months with Claude Code \</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</link>
-<guid isPermaLink="false">aios-t7-117</guid>
-<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t7-118</guid>
+<pubDate>Sun, 16 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Brian Scanlan · aired April 20, 2026
 Method · MEDIUM priority · T7 Claude Code
 
@@ -428,10 +451,10 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>118 · Tool Use - AI Conversations · 2025-08-12 · Advanced Claude Code (ft Ray Fernando and Eric Buess)</title>
+<title>119 · Tool Use - AI Conversations · 2025-08-12 · Advanced Claude Code (ft Ray Fernando and Eric Buess)</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</link>
-<guid isPermaLink="false">aios-t7-118</guid>
-<pubDate>Sun, 16 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t7-119</guid>
+<pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird · aired August 12, 2025
 Method · MEDIUM priority · T7 Claude Code
 
@@ -451,10 +474,10 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advan
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>119 · AI &amp; I · 2026-05-06 · Why We Switched From Claude Code to Codex</title>
+<title>120 · AI &amp; I · 2026-05-06 · Why We Switched From Claude Code to Codex</title>
 <link>https://share.transistor.fm/s/b1d25449</link>
-<guid isPermaLink="false">aios-t7-119</guid>
-<pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-t7-120</guid>
+<pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
 <description>AI &amp; I · aired May 6, 2026
 Method · MEDIUM priority · T7 Claude Code
 
