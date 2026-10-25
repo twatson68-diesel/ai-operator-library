@@ -4,19 +4,19 @@
 <title>AI OS · Voice Ui</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Talking to your agents instead of typing: turn-taking, endpointing, interruptions, latency, and designing the conversation itself. 16 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Talking to your agents instead of typing: turn-taking, endpointing, interruptions, latency, and designing the conversation itself. 17 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Talking to your agents instead of typing: turn-taking, endpointing, interruptions, latency, and designing the conversation itself. 16 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Talking to your agents instead of typing: turn-taking, endpointing, interruptions, latency, and designing the conversation itself. 17 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t8-voice-202610250302.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t8-voice-202610250302.jpg</url><title>AI OS · Voice Ui</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t8-voice-202610251106.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t8-voice-202610251106.jpg</url><title>AI OS · Voice Ui</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>127 · Tool Use - AI Conversations · 2024-09-18 · The Future of Voice Agents with Killian Lucas</title>
+<title>129 · Tool Use - AI Conversations · 2024-09-18 · The Future of Voice Agents with Killian Lucas</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/The-Future-of-Voice-Agents-with-Killian-Lucas-e2pkgic</link>
-<guid isPermaLink="false">aios-t8-127</guid>
+<guid isPermaLink="false">aios-t8-129</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · Killian Lucas (Open Interpreter) · aired September 18, 2024
 BUILD · HIGH priority · T8 Voice Ui
@@ -34,12 +34,12 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/The-F
 <enclosure url="https://anchor.fm/s/fb2a98a0/podcast/play/92995596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-14%2F388044425-44100-2-a0c12ac04384a.mp3" length="47931140" type="audio/mpeg"/>
 <itunes:duration>00:49:55</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>16</itunes:episode>
+<itunes:episode>17</itunes:episode>
 </item>
 <item>
-<title>128 · The Neuron: AI Explained · 2026-05-22 · BONUS: Building Real-Time AI Voice Agents with LiveKit's Ben Cherry</title>
+<title>130 · The Neuron: AI Explained · 2026-05-22 · BONUS: Building Real-Time AI Voice Agents with LiveKit's Ben Cherry</title>
 <link>https://podcasters.spotify.com/pod/show/the-neuron/episodes/BONUS-Building-Real-Time-AI-Voice-Agents-with-LiveKits-Ben-Cherry-e3joj68</link>
-<guid isPermaLink="false">aios-t8-128</guid>
+<guid isPermaLink="false">aios-t8-130</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Neuron: AI Explained · Ben Cherry (LiveKit) · aired May 22, 2026
 BUILD · HIGH priority · T8 Voice Ui
@@ -57,12 +57,12 @@ Original episode: https://podcasters.spotify.com/pod/show/the-neuron/episodes/BO
 <enclosure url="https://anchor.fm/s/f51d3fd0/podcast/play/120392328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-22%2F424693962-44100-2-4fb3142cef211.mp3" length="66285817" type="audio/mpeg"/>
 <itunes:duration>01:09:02</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>15</itunes:episode>
+<itunes:episode>16</itunes:episode>
 </item>
 <item>
-<title>129 · Just Now Possible · 2026-04-16 · Building Todoist Ramble: How Doist Turned Voice Braindumps into Real-Time Task Capture</title>
+<title>131 · Just Now Possible · 2026-04-16 · Building Todoist Ramble: How Doist Turned Voice Braindumps into Real-Time Task Capture</title>
 <link>https://justnowpossible.podigee.io/23-building-todoist-ramble</link>
-<guid isPermaLink="false">aios-t8-129</guid>
+<guid isPermaLink="false">aios-t8-131</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>Just Now Possible · Ernesto Garcia, Thomas Jost, Hugo Fauquenoi (Doist) · aired April 16, 2026
 BUILD · HIGH priority · T8 Voice Ui
@@ -80,12 +80,12 @@ Original episode: https://justnowpossible.podigee.io/23-building-todoist-ramble<
 <enclosure url="https://audio.podigee-cdn.net/2441829-m-15d6c9fbd26df14c4e433c4736b6e992.mp3?source=feed" length="51223766" type="audio/mpeg"/>
 <itunes:duration>3640</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>14</itunes:episode>
+<itunes:episode>15</itunes:episode>
 </item>
 <item>
-<title>130 · Just Now Possible · 2026-10-15 · Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis</title>
+<title>132 · Just Now Possible · 2026-10-15 · Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis</title>
 <link>https://justnowpossible.podigee.io/33-collecting-360-degree-feedback-your360</link>
-<guid isPermaLink="false">aios-t8-130</guid>
+<guid isPermaLink="false">aios-t8-132</guid>
 <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>Just Now Possible · aired October 15, 2026
 BUILD · HIGH priority · T8 Voice Ui
@@ -103,12 +103,12 @@ Original episode: https://justnowpossible.podigee.io/33-collecting-360-degree-fe
 <enclosure url="https://audio.podigee-cdn.net/2615114-m-d51dc128ae59aed7323e982e47c8791a.mp3?source=feed" length="57409448" type="audio/mpeg"/>
 <itunes:duration>4081</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>13</itunes:episode>
+<itunes:episode>14</itunes:episode>
 </item>
 <item>
-<title>131 · The TWIML AI Podcast · 2025-07-15 · Building Voice AI Agents That Don’t Suck with Kwindla Kramer - #739</title>
+<title>133 · The TWIML AI Podcast · 2025-07-15 · Building Voice AI Agents That Don’t Suck with Kwindla Kramer - #739</title>
 <link>https://twimlai.com/podcast/twimlai/building-voice-ai-agents-that-dont-suck/</link>
-<guid isPermaLink="false">aios-t8-131</guid>
+<guid isPermaLink="false">aios-t8-133</guid>
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>The TWIML AI Podcast · Kwindla Kramer (Daily / Pipecat) · aired July 15, 2025
 Method · HIGH priority · T8 Voice Ui
@@ -126,12 +126,12 @@ Original episode: https://twimlai.com/podcast/twimlai/building-voice-ai-agents-t
 <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN9079687304.mp3?updated=1752614441" length="70066484" type="audio/mpeg"/>
 <itunes:duration>4382</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>12</itunes:episode>
+<itunes:episode>13</itunes:episode>
 </item>
 <item>
-<title>132 · Agents at work · 2025-07-24 · Agents at Work 15: The Voice of AI Agents w/ Tom Shapland (LiveKit)</title>
+<title>134 · Agents at work · 2025-07-24 · Agents at Work 15: The Voice of AI Agents w/ Tom Shapland (LiveKit)</title>
 <link>https://podcasters.spotify.com/pod/show/agentsatwork/episodes/Agents-at-Work-15-The-Voice-of-AI-Agents-w-Tom-Shapland-LiveKit-e35vi9a</link>
-<guid isPermaLink="false">aios-t8-132</guid>
+<guid isPermaLink="false">aios-t8-134</guid>
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>Agents at work · Tom Shapland (LiveKit) · aired July 24, 2025
 Method · HIGH priority · T8 Voice Ui
@@ -149,12 +149,12 @@ Original episode: https://podcasters.spotify.com/pod/show/agentsatwork/episodes/
 <enclosure url="https://anchor.fm/s/1012e974c/podcast/play/105940714/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F404476157-44100-2-d4c43c3feb94.mp3" length="44983692" type="audio/mpeg"/>
 <itunes:duration>00:46:51</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>11</itunes:episode>
+<itunes:episode>12</itunes:episode>
 </item>
 <item>
-<title>133 · Convo AI World · 2025-09-24 · Open-Source Voice Activity Detection with TEN Framework's Ziyi Lin</title>
+<title>135 · Convo AI World · 2025-09-24 · Open-Source Voice Activity Detection with TEN Framework's Ziyi Lin</title>
 <link>https://podcast.convoai.world/episode/open-source-voice-activity-detection-with-ten-frameworks-ziyi-lin/</link>
-<guid isPermaLink="false">aios-t8-133</guid>
+<guid isPermaLink="false">aios-t8-135</guid>
 <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>Convo AI World · Ziyi Lin (TEN Framework) · aired September 24, 2025
 Method · HIGH priority · T8 Voice Ui
@@ -172,12 +172,12 @@ Original episode: https://podcast.convoai.world/episode/open-source-voice-activi
 <enclosure url="https://dts.podtrac.com/redirect.mp3/podcast.convoai.world/episodes/ep-007_convo-ai-world-podcast.mp3" length="16221222" type="audio/mpeg"/>
 <itunes:duration>00:33:38</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>10</itunes:episode>
+<itunes:episode>11</itunes:episode>
 </item>
 <item>
-<title>134 · Smart Speakers Podcast · 2025-04-07 · The 500ms Dash—Nikhil Gupta, VAPI</title>
+<title>136 · Smart Speakers Podcast · 2025-04-07 · The 500ms Dash—Nikhil Gupta, VAPI</title>
 <link>https://www.smartspeakers.fm/p/the-500ms-dashnikhil-gupta-vapi</link>
-<guid isPermaLink="false">aios-t8-134</guid>
+<guid isPermaLink="false">aios-t8-136</guid>
 <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>Smart Speakers Podcast · Nikhil Gupta (Vapi) · aired April 7, 2025
 Method · HIGH priority · T8 Voice Ui
@@ -195,12 +195,12 @@ Original episode: https://www.smartspeakers.fm/p/the-500ms-dashnikhil-gupta-vapi
 <enclosure url="https://api.substack.com/feed/podcast/160666471/9c6fb629be18f54663c7598502bbfcd6.mp3" length="41418230" type="audio/mpeg"/>
 <itunes:duration>2589</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>135 · The MAD Podcast with Matt Turck · 2026-02-19 · Voice AI’s Big Moment: Why Everything Is Changing Now (ft. Neil Zeghidour, Gradium AI)</title>
+<title>137 · The MAD Podcast with Matt Turck · 2026-02-19 · Voice AI’s Big Moment: Why Everything Is Changing Now (ft. Neil Zeghidour, Gradium AI)</title>
 <link>https://podcasters.spotify.com/pod/show/firstmark/episodes/Voice-AIs-Big-Moment-Why-Everything-Is-Changing-Now-ft--Neil-Zeghidour--Gradium-AI-e3f9l04</link>
-<guid isPermaLink="false">aios-t8-135</guid>
+<guid isPermaLink="false">aios-t8-137</guid>
 <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>The MAD Podcast with Matt Turck · Neil Zeghidour (Gradium AI, ex-Kyutai) · aired February 19, 2026
 Method · HIGH priority · T8 Voice Ui
@@ -218,12 +218,12 @@ Original episode: https://podcasters.spotify.com/pod/show/firstmark/episodes/Voi
 <enclosure url="https://anchor.fm/s/f2ee4948/podcast/play/115708356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F418375762-44100-2-474c5d0f5d1ee.mp3" length="79511718" type="audio/mpeg"/>
 <itunes:duration>01:22:49</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>136 · Agentic Conversations · 2026-05-01 · Voice Agent Use Cases</title>
+<title>138 · Agentic Conversations · 2026-05-01 · Voice Agent Use Cases</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Voice-Agent-Use-Cases-e3ileg6</link>
-<guid isPermaLink="false">aios-t8-136</guid>
+<guid isPermaLink="false">aios-t8-138</guid>
 <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>Agentic Conversations · Anurag Beniwal (ElevenLabs) · aired May 1, 2026
 Method · HIGH priority · T8 Voice Ui
@@ -241,12 +241,12 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Voice-A
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/119240646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2F423136952-44100-2-d67b1521393a6.mp3" length="49039986" type="audio/mpeg"/>
 <itunes:duration>00:51:04</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>137 · Convo AI World · 2026-06-11 · Why Voice AI Is More Than Latency: AssemblyAI on Building Production Speech Systems</title>
+<title>139 · Convo AI World · 2026-06-11 · Why Voice AI Is More Than Latency: AssemblyAI on Building Production Speech Systems</title>
 <link>https://podcast.convoai.world/episode/why-voice-ai-is-more-than-latency-assemblyai-on-building-production-speech-systems/</link>
-<guid isPermaLink="false">aios-t8-137</guid>
+<guid isPermaLink="false">aios-t8-139</guid>
 <pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>Convo AI World · Luka Chkhetiani (AssemblyAI) · aired June 11, 2026
 Method · HIGH priority · T8 Voice Ui
@@ -264,12 +264,12 @@ Original episode: https://podcast.convoai.world/episode/why-voice-ai-is-more-tha
 <enclosure url="https://dts.podtrac.com/redirect.mp3/podcast.convoai.world/episodes/ep-029_convo-ai-world-podcast.mp3" length="76589512" type="audio/mpeg"/>
 <itunes:duration>01:03:49</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>138 · Deep Learning with PolyAI · 2025-09-25 · Why do LLMs ramble on and on? (with Oliver Shoulson, Lead Dialogue Designer at PolyAI)</title>
+<title>140 · Deep Learning with PolyAI · 2025-09-25 · Why do LLMs ramble on and on? (with Oliver Shoulson, Lead Dialogue Designer at PolyAI)</title>
 <link>https://www.buzzsprout.com/2261452/episodes/17905933-why-do-llms-ramble-on-and-on-with-oliver-shoulson-lead-dialogue-designer-at-polyai</link>
-<guid isPermaLink="false">aios-t8-138</guid>
+<guid isPermaLink="false">aios-t8-140</guid>
 <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
 <description>Deep Learning with PolyAI · Oliver Shoulson (PolyAI) · aired September 25, 2025
 Method · HIGH priority · T8 Voice Ui
@@ -287,12 +287,12 @@ Original episode: https://www.buzzsprout.com/2261452/episodes/17905933-why-do-ll
 <enclosure url="https://www.buzzsprout.com/2261452/episodes/17905933-why-do-llms-ramble-on-and-on-with-oliver-shoulson-lead-dialogue-designer-at-polyai.mp3" length="23805190" type="audio/mpeg"/>
 <itunes:duration>1981</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>139 · The Future of Voice AI · 2025-04-24 · Why Calls with AI Agents Fail | Tom Shapland (CEO, Canonical AI)</title>
+<title>141 · The Future of Voice AI · 2025-04-24 · Why Calls with AI Agents Fail | Tom Shapland (CEO, Canonical AI)</title>
 <link>https://voice-ai-newsletter.krisp.ai/p/why-calls-with-ai-agents-fail-tom</link>
-<guid isPermaLink="false">aios-t8-139</guid>
+<guid isPermaLink="false">aios-t8-141</guid>
 <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
 <description>The Future of Voice AI · Tom Shapland (Canonical AI) · aired April 24, 2025
 Method · HIGH priority · T8 Voice Ui
@@ -310,12 +310,12 @@ Original episode: https://voice-ai-newsletter.krisp.ai/p/why-calls-with-ai-agent
 <enclosure url="https://api.substack.com/feed/podcast/161620838/cd255588db8dbdacb44661d15a51501d.mp3" length="26038576" type="audio/mpeg"/>
 <itunes:duration>1627</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>140 · Agentic Conversations · 2025-02-22 · The Challenge with Voice Agents</title>
+<title>142 · Agentic Conversations · 2025-02-22 · The Challenge with Voice Agents</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Challenge-with-Voice-Agents-e2v7kj7</link>
-<guid isPermaLink="false">aios-t8-140</guid>
+<guid isPermaLink="false">aios-t8-142</guid>
 <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
 <description>Agentic Conversations · Paul van der Boor, Floris Fok (Prosus) · aired February 22, 2025
 Method · MEDIUM priority · T8 Voice Ui
@@ -333,12 +333,12 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/The-Cha
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/98865191/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-22%2F395336812-44100-2-5e30b9d18237d.mp3" length="45715538" type="audio/mpeg"/>
 <itunes:duration>00:47:37</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>141 · Generative AI in the Real World · 2026-09-10 · Pete Warden on Local Voice AI</title>
+<title>143 · Generative AI in the Real World · 2026-09-10 · Pete Warden on Local Voice AI</title>
 <link>https://podcasters.spotify.com/pod/show/generativeaiintherealword/episodes/Pete-Warden-on-Local-Voice-AI-e3ok2bp</link>
-<guid isPermaLink="false">aios-t8-141</guid>
+<guid isPermaLink="false">aios-t8-143</guid>
 <pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
 <description>Generative AI in the Real World · Pete Warden (Moonshine AI / Useful Sensors) · aired September 10, 2026
 Method · MEDIUM priority · T8 Voice Ui
@@ -356,12 +356,12 @@ Original episode: https://podcasters.spotify.com/pod/show/generativeaiintherealw
 <enclosure url="https://anchor.fm/s/10848eca8/podcast/play/125486905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F431558396-44100-2-a6d2095c4c8a1.mp3" length="46592417" type="audio/mpeg"/>
 <itunes:duration>00:48:32</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>2</itunes:episode>
+<itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>142 · Agentic Conversations · 2025-11-18 · Reliable Voice Agents</title>
+<title>144 · Agentic Conversations · 2025-11-18 · Reliable Voice Agents</title>
 <link>https://podcasters.spotify.com/pod/show/mlops/episodes/Reliable-Voice-Agents-e3b4ikp</link>
-<guid isPermaLink="false">aios-t8-142</guid>
+<guid isPermaLink="false">aios-t8-144</guid>
 <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
 <description>Agentic Conversations · Brooke Hopkins (Coval) · aired November 18, 2025
 Method · MEDIUM priority · T8 Voice Ui
@@ -378,6 +378,29 @@ Original episode: https://podcasters.spotify.com/pod/show/mlops/episodes/Reliabl
 <content:encoded><![CDATA[<p><strong>Agentic Conversations</strong> &middot; Brooke Hopkins (Coval) &middot; aired November 18, 2025</p><p>Method &middot; MEDIUM priority &middot; T8 Voice Ui</p><p><strong>Why it's here:</strong> Coval, built on ex-Waymo simulation infrastructure, on testing voice agents with simulated callers before users find the failures, and why smart voice systems still feel dumb.</p><p><a href="https://podcasters.spotify.com/pod/show/mlops/episodes/Reliable-Voice-Agents-e3b4ikp">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/mlops/episodes/Reliable-Voice-Agents-e3b4ikp</p>]]></content:encoded>
 <enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/111347801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-18%2F412694374-44100-2-af5bc3e3fa699.mp3" length="36822621" type="audio/mpeg"/>
 <itunes:duration>00:38:21</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>145 · Convo AI World · 2026-10-20 · Small Models, Specific Jobs: ScaleDown on Building Efficient Voice AI</title>
+<link>https://podcast.convoai.world/episode/small-models-specific-jobs-scaledown-on-building-efficient-voice-ai/</link>
+<guid isPermaLink="false">aios-t8-145</guid>
+<pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
+<description>Convo AI World · aired October 20, 2026
+Method · MEDIUM priority · T8 Voice Ui
+
+Why it's here: ScaleDown on breaking a voice agent into specific jobs and giving each one the smallest model that can do it, rather than running one big model end to end. It's the speed and token-cost trade-off inside a voice pipeline.
+
+Original episode: https://podcast.convoai.world/episode/small-models-specific-jobs-scaledown-on-building-efficient-voice-ai/</description>
+<itunes:summary>Convo AI World · aired October 20, 2026
+Method · MEDIUM priority · T8 Voice Ui
+
+Why it's here: ScaleDown on breaking a voice agent into specific jobs and giving each one the smallest model that can do it, rather than running one big model end to end. It's the speed and token-cost trade-off inside a voice pipeline.
+
+Original episode: https://podcast.convoai.world/episode/small-models-specific-jobs-scaledown-on-building-efficient-voice-ai/</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Convo AI World</strong> &middot; aired October 20, 2026</p><p>Method &middot; MEDIUM priority &middot; T8 Voice Ui</p><p><strong>Why it's here:</strong> ScaleDown on breaking a voice agent into specific jobs and giving each one the smallest model that can do it, rather than running one big model end to end. It&#x27;s the speed and token-cost trade-off inside a voice pipeline.</p><p><a href="https://podcast.convoai.world/episode/small-models-specific-jobs-scaledown-on-building-efficient-voice-ai/">Open the original episode &rarr;</a><br/>https://podcast.convoai.world/episode/small-models-specific-jobs-scaledown-on-building-efficient-voice-ai/</p>]]></content:encoded>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/podcast.convoai.world/episodes/ep-033_convo-ai-world-podcast.mp3" length="72224000" type="audio/mpeg"/>
+<itunes:duration>01:15:14</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>
