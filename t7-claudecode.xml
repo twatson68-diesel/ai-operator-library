@@ -11,12 +11,12 @@
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610181109.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610181109.jpg</url><title>AI OS · Claude Code</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610250302.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/t7-claudecode-202610250302.jpg</url><title>AI OS · Claude Code</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
-<title>100 · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
+<title>106 · How I AI · 2026-06-17 · How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-to-design-AI-agent-loops-schedules--goals--and-subagents-in-Claude-Code-and-Codex-e3ks6mt</link>
-<guid isPermaLink="false">aios-t7-100</guid>
+<guid isPermaLink="false">aios-t7-106</guid>
 <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Claire Vo (host, solo build) · aired June 17, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -37,9 +37,9 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:episode>21</itunes:episode>
 </item>
 <item>
-<title>101 · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
+<title>107 · The Startup Ideas Podcast · 2026-08-17 · How to use Claude Code better than 99% of People</title>
 <link>https://podcasts.apple.com/us/podcast/how-to-use-claude-code-better-than-99-of-people/id1593424985?i=1000783920538</link>
-<guid isPermaLink="false">aios-t7-101</guid>
+<guid isPermaLink="false">aios-t7-107</guid>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Greg Isenberg · aired August 17, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -60,9 +60,9 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-use-claude-code-b
 <itunes:episode>20</itunes:episode>
 </item>
 <item>
-<title>102 · Super Data Science · 2026-08-28 · 1022: CLAUDE.md, AGENTS.md, Skills, Hooks and Subagents: A Field Guide to Steering AI Agents</title>
+<title>108 · Super Data Science · 2026-08-28 · 1022: CLAUDE.md, AGENTS.md, Skills, Hooks and Subagents: A Field Guide to Steering AI Agents</title>
 <link>https://www.superdatascience.com/1022</link>
-<guid isPermaLink="false">aios-t7-102</guid>
+<guid isPermaLink="false">aios-t7-108</guid>
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <description>Super Data Science · Jon Krohn (solo) · aired August 28, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -83,9 +83,9 @@ Original episode: https://www.superdatascience.com/1022</itunes:summary>
 <itunes:episode>19</itunes:episode>
 </item>
 <item>
-<title>103 · How I AI · 2026-01-26 · Advanced Claude Code techniques: context loading, mermaid diagrams, stop hooks, and more \</title>
+<title>109 · How I AI · 2026-01-26 · Advanced Claude Code techniques: context loading, mermaid diagrams, stop hooks, and more \</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/Advanced-Claude-Code-techniques-context-loading--mermaid-diagrams--stop-hooks--and-more--John-Lindquist-e3dtf0n</link>
-<guid isPermaLink="false">aios-t7-103</guid>
+<guid isPermaLink="false">aios-t7-109</guid>
 <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
 <description>How I AI · John Lindquist · aired January 26, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -106,9 +106,9 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/Adva
 <itunes:episode>18</itunes:episode>
 </item>
 <item>
-<title>104 · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
+<title>110 · How I AI · 2026-05-18 · HTML is the new Markdown: How Anthropic engineers are building with Claude Code \</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML-is-the-new-Markdown-How-Anthropic-engineers-are-building-with-Claude-Code--Thariq-Shihipar-e3jd2qj</link>
-<guid isPermaLink="false">aios-t7-104</guid>
+<guid isPermaLink="false">aios-t7-110</guid>
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
 <description>How I AI · Thariq Shihipar · aired May 18, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -129,9 +129,9 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/HTML
 <itunes:episode>17</itunes:episode>
 </item>
 <item>
-<title>105 · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
+<title>111 · Behind the Craft · 2026-07-19 · How I Plan, Build, and Run Loops with Claude Code in 40 Minutes \</title>
 <link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-I-Plan--Build--and-Run-Loops-with-Claude-Code-in-40-Minutes--Thariq-Shihipar-e3m86v9</link>
-<guid isPermaLink="false">aios-t7-105</guid>
+<guid isPermaLink="false">aios-t7-111</guid>
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>Behind the Craft · Thariq Shihipar · aired July 19, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -152,9 +152,9 @@ Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/
 <itunes:episode>16</itunes:episode>
 </item>
 <item>
-<title>106 · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
+<title>112 · Behind the Craft · 2026-02-08 · How to Make Claude Code Better Every Time You Use It \</title>
 <link>https://podcasters.spotify.com/pod/show/peter-yang42/episodes/How-to-Make-Claude-Code-Better-Every-Time-You-Use-It--Kieran-Klaassen-e3ehggl</link>
-<guid isPermaLink="false">aios-t7-106</guid>
+<guid isPermaLink="false">aios-t7-112</guid>
 <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>Behind the Craft · Kieran Klaassen · aired February 8, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -175,9 +175,9 @@ Original episode: https://podcasters.spotify.com/pod/show/peter-yang42/episodes/
 <itunes:episode>15</itunes:episode>
 </item>
 <item>
-<title>107 · Tool Use - AI Conversations · 2026-01-20 · Advanced Claude Code Part 2 (ft Eric Buess)</title>
+<title>113 · Tool Use - AI Conversations · 2026-01-20 · Advanced Claude Code Part 2 (ft Eric Buess)</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-Part-2-ft-Eric-Buess-e3dtils</link>
-<guid isPermaLink="false">aios-t7-107</guid>
+<guid isPermaLink="false">aios-t7-113</guid>
 <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · Eric Buess; host Mike Bird · aired January 20, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -198,9 +198,9 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advan
 <itunes:episode>14</itunes:episode>
 </item>
 <item>
-<title>108 · Chaos Agents · 2026-04-14 · Superpowers, Subagents, and Why Coding Isn't the Job Anymore - With Jesse Vincent</title>
+<title>114 · Chaos Agents · 2026-04-14 · Superpowers, Subagents, and Why Coding Isn't the Job Anymore - With Jesse Vincent</title>
 <link>https://chaosagents.ai</link>
-<guid isPermaLink="false">aios-t7-108</guid>
+<guid isPermaLink="false">aios-t7-114</guid>
 <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
 <description>Chaos Agents · Jesse Vincent (creator of Superpowers); hosts Sara Chipps &amp; Becca Lewy · aired April 14, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -221,9 +221,9 @@ Original episode: https://chaosagents.ai</itunes:summary>
 <itunes:episode>13</itunes:episode>
 </item>
 <item>
-<title>109 · Forward Deployed · 2025-11-17 · Forward Deployed, Episode 2: Claude Code Skills and the Progressive Disclosure Problem</title>
+<title>115 · Forward Deployed · 2025-11-17 · Forward Deployed, Episode 2: Claude Code Skills and the Progressive Disclosure Problem</title>
 <link>https://www.forwarddeployed.com/p/forward-deployed-episode-2-claude</link>
-<guid isPermaLink="false">aios-t7-109</guid>
+<guid isPermaLink="false">aios-t7-115</guid>
 <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <description>Forward Deployed · Noah Brier &amp; Lance · aired November 17, 2025
 BUILD · HIGH priority · T7 Claude Code
@@ -244,9 +244,9 @@ Original episode: https://www.forwarddeployed.com/p/forward-deployed-episode-2-c
 <itunes:episode>12</itunes:episode>
 </item>
 <item>
-<title>110 · Before The Commit · 2025-12-30 · Episode 18: Claude Code Commands, Skills, Sub-agents, and more.</title>
+<title>116 · Before The Commit · 2025-12-30 · Episode 18: Claude Code Commands, Skills, Sub-agents, and more.</title>
 <link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-18-Claude-Code-Commands--Skills--Sub-agents--and-more-e3d05pt</link>
-<guid isPermaLink="false">aios-t7-110</guid>
+<guid isPermaLink="false">aios-t7-116</guid>
 <pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>Before The Commit · Hosts Dustin &amp; Sam · aired December 30, 2025
 BUILD · HIGH priority · T7 Claude Code
@@ -267,9 +267,9 @@ Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episod
 <itunes:episode>11</itunes:episode>
 </item>
 <item>
-<title>111 · Master Claude Chat, Cowork, Code · 2026-09-12 · 2. The Claude Surface Map (Pick the Right Claude by Reach)</title>
+<title>117 · Master Claude Chat, Cowork, Code · 2026-09-12 · 2. The Claude Surface Map (Pick the Right Claude by Reach)</title>
 <link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--The-Claude-Surface-Map-Pick-the-Right-Claude-by-Reach-e3oo06m</link>
-<guid isPermaLink="false">aios-t7-111</guid>
+<guid isPermaLink="false">aios-t7-117</guid>
 <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · aired September 12, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -290,9 +290,9 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/2--Th
 <itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>112 · Superlinear · 2026-09-18 · The Fall 2026 Workflow for Starting Projects with Coding Agents</title>
+<title>118 · Superlinear · 2026-09-18 · The Fall 2026 Workflow for Starting Projects with Coding Agents</title>
 <link>https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-for-starting-projects-with/id6794345650?i=1000790504364</link>
-<guid isPermaLink="false">aios-t7-112</guid>
+<guid isPermaLink="false">aios-t7-118</guid>
 <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
 <description>Superlinear · aired September 18, 2026
 BUILD · HIGH priority · T7 Claude Code
@@ -313,9 +313,9 @@ Original episode: https://podcasts.apple.com/us/podcast/the-fall-2026-workflow-f
 <itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>113 · Master Claude Chat, Cowork, Code · 2026-09-22 · 10. Governing Claude Code with Invisible JSON Files (The .claude Directory and Settings)</title>
+<title>119 · Master Claude Chat, Cowork, Code · 2026-09-22 · 10. Governing Claude Code with Invisible JSON Files (The .claude Directory and Settings)</title>
 <link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--Governing-Claude-Code-with-Invisible-JSON-Files-The--claude-Directory-and-Settings-e3p42mb</link>
-<guid isPermaLink="false">aios-t7-113</guid>
+<guid isPermaLink="false">aios-t7-119</guid>
 <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · aired September 22, 2026
 Method · HIGH priority · T7 Claude Code
@@ -336,9 +336,9 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/10--G
 <itunes:episode>8</itunes:episode>
 </item>
 <item>
-<title>114 · AI News &amp; Strategy Daily with Nate B. Jones · 2026-06-10 · Claude Code vs Codex: Steer or Dispatch Your AI Agents</title>
+<title>120 · AI News &amp; Strategy Daily with Nate B. Jones · 2026-06-10 · Claude Code vs Codex: Steer or Dispatch Your AI Agents</title>
 <link>https://natesnewsletter.substack.com/p/claude-code-vs-codex-agents</link>
-<guid isPermaLink="false">aios-t7-114</guid>
+<guid isPermaLink="false">aios-t7-120</guid>
 <pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
 <description>AI News &amp; Strategy Daily with Nate B. Jones · aired June 10, 2026
 Method · HIGH priority · T7 Claude Code
@@ -359,9 +359,9 @@ Original episode: https://natesnewsletter.substack.com/p/claude-code-vs-codex-ag
 <itunes:episode>7</itunes:episode>
 </item>
 <item>
-<title>115 · Latent Space: The AI Engineer Podcast · 2026-09-29 · Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
+<title>121 · Latent Space: The AI Engineer Podcast · 2026-09-29 · Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
 <link>https://www.latent.space/p/thariq</link>
-<guid isPermaLink="false">aios-t7-115</guid>
+<guid isPermaLink="false">aios-t7-121</guid>
 <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
 <description>Latent Space: The AI Engineer Podcast · aired September 29, 2026
 Method · HIGH priority · T7 Claude Code
@@ -382,9 +382,9 @@ Original episode: https://www.latent.space/p/thariq</itunes:summary>
 <itunes:episode>6</itunes:episode>
 </item>
 <item>
-<title>116 · Master Claude Chat, Cowork, Code · 2026-10-14 · 19. Preventing Context Pollution with Subagents (Delegating Heavy Lifting)</title>
+<title>122 · Master Claude Chat, Cowork, Code · 2026-10-14 · 19. Preventing Context Pollution with Subagents (Delegating Heavy Lifting)</title>
 <link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--Preventing-Context-Pollution-with-Subagents-Delegating-Heavy-Lifting-e3q935v</link>
-<guid isPermaLink="false">aios-t7-116</guid>
+<guid isPermaLink="false">aios-t7-122</guid>
 <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · aired October 14, 2026
 Method · HIGH priority · T7 Claude Code
@@ -405,9 +405,9 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/19--P
 <itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>117 · Before The Commit · 2025-11-18 · Episode 14: Devcontainers and Sandboxing with Claude Code</title>
+<title>123 · Before The Commit · 2025-11-18 · Episode 14: Devcontainers and Sandboxing with Claude Code</title>
 <link>https://podcasters.spotify.com/pod/show/beforethecommit/episodes/Episode-14-Devcontainers-and-Sandboxing-with-Claude-Code-e3b59ni</link>
-<guid isPermaLink="false">aios-t7-117</guid>
+<guid isPermaLink="false">aios-t7-123</guid>
 <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 <description>Before The Commit · Hosts Danny Gershman &amp; Dustin Hilgaertner · aired November 18, 2025
 BUILD · MEDIUM priority · T7 Claude Code
@@ -428,9 +428,9 @@ Original episode: https://podcasters.spotify.com/pod/show/beforethecommit/episod
 <itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>118 · How I AI · 2026-04-20 · How Intercom 2x'd their engineering velocity in 9 months with Claude Code \</title>
+<title>124 · How I AI · 2026-04-20 · How Intercom 2x'd their engineering velocity in 9 months with Claude Code \</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/How-Intercom-2xd-their-engineering-velocity-in-9-months-with-Claude-Code--Brian-Scanlan-e3hu3el</link>
-<guid isPermaLink="false">aios-t7-118</guid>
+<guid isPermaLink="false">aios-t7-124</guid>
 <pubDate>Sun, 16 Aug 2026 18:00:00 +0000</pubDate>
 <description>How I AI · Brian Scanlan · aired April 20, 2026
 Method · MEDIUM priority · T7 Claude Code
@@ -451,9 +451,9 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-
 <itunes:episode>3</itunes:episode>
 </item>
 <item>
-<title>119 · Tool Use - AI Conversations · 2025-08-12 · Advanced Claude Code (ft Ray Fernando and Eric Buess)</title>
+<title>125 · Tool Use - AI Conversations · 2025-08-12 · Advanced Claude Code (ft Ray Fernando and Eric Buess)</title>
 <link>https://podcasters.spotify.com/pod/show/tooluse/episodes/Advanced-Claude-Code-ft-Ray-Fernando-and-Eric-Buess-e36os7m</link>
-<guid isPermaLink="false">aios-t7-119</guid>
+<guid isPermaLink="false">aios-t7-125</guid>
 <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
 <description>Tool Use - AI Conversations · Ray Fernando (ex-Apple engineer), Eric Buess; host Mike Bird · aired August 12, 2025
 Method · MEDIUM priority · T7 Claude Code
@@ -474,9 +474,9 @@ Original episode: https://podcasters.spotify.com/pod/show/tooluse/episodes/Advan
 <itunes:episode>2</itunes:episode>
 </item>
 <item>
-<title>120 · AI &amp; I · 2026-05-06 · Why We Switched From Claude Code to Codex</title>
+<title>126 · AI &amp; I · 2026-05-06 · Why We Switched From Claude Code to Codex</title>
 <link>https://share.transistor.fm/s/b1d25449</link>
-<guid isPermaLink="false">aios-t7-120</guid>
+<guid isPermaLink="false">aios-t7-126</guid>
 <pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
 <description>AI &amp; I · aired May 6, 2026
 Method · MEDIUM priority · T7 Claude Code

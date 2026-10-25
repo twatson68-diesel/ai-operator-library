@@ -4,15 +4,15 @@
 <title>AI OS · L7 Automations</title>
 <link>https://twatson68-diesel.github.io/ai-operator-library/</link>
 <language>en-us</language>
-<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
+<description>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 15 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</description>
 <itunes:author>AI Operator Library</itunes:author>
-<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 9 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
+<itunes:summary>Scheduled and unattended runs. Don't touch this until layers 1-6 hold. 15 episodes, strongest first. Part of the AI Operator Library. Audio streams from each show's original host.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Technology"/>
 <itunes:owner><itunes:name>AI Operator Library</itunes:name><itunes:email>noreply@example.com</itunes:email></itunes:owner>
-<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202610181109.jpg"/>
-<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202610181109.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
+<itunes:image href="https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202610250302.jpg"/>
+<image><url>https://twatson68-diesel.github.io/ai-operator-library/covers/l7-automations-202610250302.jpg</url><title>AI OS · L7 Automations</title><link>https://twatson68-diesel.github.io/ai-operator-library/</link></image>
 <item>
 <title>28 · How I AI · 2026-05-27 · The Codex feature that works while you sleep</title>
 <link>https://podcasters.spotify.com/pod/show/pen-name/episodes/The-Codex-feature-that-works-while-you-sleep-e3judoo</link>
@@ -34,7 +34,7 @@ Original episode: https://podcasters.spotify.com/pod/show/pen-name/episodes/The-
 <enclosure url="https://anchor.fm/s/1035b1568/podcast/play/120583384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424944949-44100-2-5bf9048d90ac.mp3" length="29122977" type="audio/mpeg"/>
 <itunes:duration>00:30:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>9</itunes:episode>
+<itunes:episode>15</itunes:episode>
 </item>
 <item>
 <title>29 · Build With AI · 2026-04-14 · # 158 Claude Code Routines Clearly Explained (and why it matters)</title>
@@ -57,7 +57,7 @@ Original episode: https://podcasts.apple.com/us/podcast/158-claude-code-routines
 <enclosure url="https://media.transistor.fm/6972a421/b97f5f42.mp3" length="7460322" type="audio/mpeg"/>
 <itunes:duration>311</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>8</itunes:episode>
+<itunes:episode>14</itunes:episode>
 </item>
 <item>
 <title>30 · AI &amp; I (Every) · 2026-02-04 · How We Built 'Claudie,' Our AI Project Manager (Full Walkthrough)</title>
@@ -80,7 +80,7 @@ Original episode: https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gp
 <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/ec562607/3ce518e5.mp3" length="113461230" type="audio/mpeg"/>
 <itunes:duration>2835</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>7</itunes:episode>
+<itunes:episode>13</itunes:episode>
 </item>
 <item>
 <title>31 · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-09-03 · Agentic Loops for Knowledge Workers</title>
@@ -103,13 +103,36 @@ Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-L
 <enclosure url="https://anchor.fm/s/f7cac464/podcast/play/125176194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431145568-44100-2-0e1697b267ed2.mp3" length="54805732" type="audio/mpeg"/>
 <itunes:duration>00:57:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>6</itunes:episode>
+<itunes:episode>12</itunes:episode>
 </item>
 <item>
-<title>32 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
-<link>https://podcasts.apple.com/us/podcast/8-the-ai-that-works-while-you-sleep-scheduled-tasks/id1882007947?i=1000753740190</link>
+<title>32 · Latent Space: The AI Engineer Podcast · 2026-09-30 · Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week</title>
+<link>https://www.latent.space/p/devday-2026</link>
 <guid isPermaLink="false">aios-l7-32</guid>
 <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+<description>Latent Space: The AI Engineer Podcast · aired September 30, 2026
+BUILD · HIGH priority · L7 Automations
+
+Why it's here: Ari Weinstein, who leads OpenAI's computer-use team, on what's under each Dot. It's a full cloud Linux machine, not just a browser, so it can run desktop apps that have no API. It reads pages through the accessibility tree and the page code rather than screenshots, and batches actions in JavaScript. GPT-6.1 Sol runs computer use at one-seventh of Astra's cost.
+
+Original episode: https://www.latent.space/p/devday-2026</description>
+<itunes:summary>Latent Space: The AI Engineer Podcast · aired September 30, 2026
+BUILD · HIGH priority · L7 Automations
+
+Why it's here: Ari Weinstein, who leads OpenAI's computer-use team, on what's under each Dot. It's a full cloud Linux machine, not just a browser, so it can run desktop apps that have no API. It reads pages through the accessibility tree and the page code rather than screenshots, and batches actions in JavaScript. GPT-6.1 Sol runs computer use at one-seventh of Astra's cost.
+
+Original episode: https://www.latent.space/p/devday-2026</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Latent Space: The AI Engineer Podcast</strong> &middot; aired September 30, 2026</p><p>BUILD &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Ari Weinstein, who leads OpenAI&#x27;s computer-use team, on what&#x27;s under each Dot. It&#x27;s a full cloud Linux machine, not just a browser, so it can run desktop apps that have no API. It reads pages through the accessibility tree and the page code rather than screenshots, and batches actions in JavaScript. GPT-6.1 Sol runs computer use at one-seventh of Astra&#x27;s cost.</p><p><a href="https://www.latent.space/p/devday-2026">Open the original episode &rarr;</a><br/>https://www.latent.space/p/devday-2026</p>]]></content:encoded>
+<enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a15fdf-6bb9-7393-8967-3f47437afb62/01a15fdf-6df3-7cf4-b7f9-28e5016f6e87.mp3" length="37713136" type="audio/mpeg"/>
+<itunes:duration>2352</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode>
+</item>
+<item>
+<title>33 · Master Claude Chat, Cowork, Code · 2026-03-07 · 8. The AI That Works While You Sleep (Scheduled Tasks &amp; Autonomous Workflows)</title>
+<link>https://podcasts.apple.com/us/podcast/8-the-ai-that-works-while-you-sleep-scheduled-tasks/id1882007947?i=1000753740190</link>
+<guid isPermaLink="false">aios-l7-33</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · Host (solo) · aired March 7, 2026
 Method · HIGH priority · L7 Automations
 
@@ -126,13 +149,13 @@ Original episode: https://podcasts.apple.com/us/podcast/8-the-ai-that-works-whil
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/116525964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-7%2F691fb70e-a7ef-e965-95f1-1cf3428790e8.m4a" length="87079379" type="audio/x-m4a"/>
 <itunes:duration>00:45:05</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>10</itunes:episode>
 </item>
 <item>
-<title>33 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
+<title>34 · The Startup Ideas Podcast · 2026-08-12 · How to Build an AI-Native Company in 2026</title>
 <link>https://podcasts.apple.com/us/podcast/how-to-build-an-ai-native-company-in-2026/id1593424985?i=1000783021863</link>
-<guid isPermaLink="false">aios-l7-33</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-34</guid>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Startup Ideas Podcast · Allie K. Miller · aired August 12, 2026
 Method · HIGH priority · L7 Automations
 
@@ -149,13 +172,82 @@ Original episode: https://podcasts.apple.com/us/podcast/how-to-build-an-ai-nativ
 <enclosure url="https://episode.flightcast.com/01KZVQSXWRWPAD2EK2Y8V5G8D5.mp3" length="34896353" type="audio/mpeg"/>
 <itunes:duration>2908</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>9</itunes:episode>
 </item>
 <item>
-<title>34 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
+<title>35 · Sources with Alex Heath · 2026-10-01 · OpenAI’s Dots lead on the future of ChatGPT</title>
+<link>https://sources.news/p/openai-dots-lead-future-chatgpt</link>
+<guid isPermaLink="false">aios-l7-35</guid>
+<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<description>Sources with Alex Heath · aired October 1, 2026
+Method · HIGH priority · L7 Automations
+
+Why it's here: Alexander Embiricos, OpenAI's Dots product lead, on the design choices. Each Dot gets its own cloud computer, context is shared across ChatGPT, Slack and Teams, and Dots ask before taking action by default. He also explains why OpenAI thinks most people need only one personal agent. It's the permission model to compare against your Chief of Staff setup.
+
+Original episode: https://sources.news/p/openai-dots-lead-future-chatgpt</description>
+<itunes:summary>Sources with Alex Heath · aired October 1, 2026
+Method · HIGH priority · L7 Automations
+
+Why it's here: Alexander Embiricos, OpenAI's Dots product lead, on the design choices. Each Dot gets its own cloud computer, context is shared across ChatGPT, Slack and Teams, and Dots ask before taking action by default. He also explains why OpenAI thinks most people need only one personal agent. It's the permission model to compare against your Chief of Staff setup.
+
+Original episode: https://sources.news/p/openai-dots-lead-future-chatgpt</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Sources with Alex Heath</strong> &middot; aired October 1, 2026</p><p>Method &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Alexander Embiricos, OpenAI&#x27;s Dots product lead, on the design choices. Each Dot gets its own cloud computer, context is shared across ChatGPT, Slack and Teams, and Dots ask before taking action by default. He also explains why OpenAI thinks most people need only one personal agent. It&#x27;s the permission model to compare against your Chief of Staff setup.</p><p><a href="https://sources.news/p/openai-dots-lead-future-chatgpt">Open the original episode &rarr;</a><br/>https://sources.news/p/openai-dots-lead-future-chatgpt</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/prfx.byspotify.com/e/api.substack.com/feed/podcast/218202798/b09a3a7764339c5e5474fdecbce23172.mp3" length="43669766" type="audio/mpeg"/>
+<itunes:duration>2729</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode>
+</item>
+<item>
+<title>36 · Turing Post · 2026-10-08 · I Tried OpenAI Dots: How Much Can I Hand Over?</title>
+<link>https://inference.mave.digital/ep-62</link>
+<guid isPermaLink="false">aios-l7-36</guid>
+<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<description>Turing Post · aired October 8, 2026
+Method · HIGH priority · L7 Automations
+
+Why it's here: Ksenia Se sets up her own Dot at DevDay and tests how much she can actually hand over: carrying context between conversations, permissions, and where human oversight comes back in. She also compares it directly with Grok Bot, Meta's Muse and Anthropic's Cowork, which you already run.
+
+Original episode: https://inference.mave.digital/ep-62</description>
+<itunes:summary>Turing Post · aired October 8, 2026
+Method · HIGH priority · L7 Automations
+
+Why it's here: Ksenia Se sets up her own Dot at DevDay and tests how much she can actually hand over: carrying context between conversations, permissions, and where human oversight comes back in. She also compares it directly with Grok Bot, Meta's Muse and Anthropic's Cowork, which you already run.
+
+Original episode: https://inference.mave.digital/ep-62</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Turing Post</strong> &middot; aired October 8, 2026</p><p>Method &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Ksenia Se sets up her own Dot at DevDay and tests how much she can actually hand over: carrying context between conversations, permissions, and where human oversight comes back in. She also compares it directly with Grok Bot, Meta&#x27;s Muse and Anthropic&#x27;s Cowork, which you already run.</p><p><a href="https://inference.mave.digital/ep-62">Open the original episode &rarr;</a><br/>https://inference.mave.digital/ep-62</p>]]></content:encoded>
+<enclosure url="https://api.mave.digital/storage/podcasts/dec2fdb6-0cce-4eea-8388-c83acd219cc2/episodes/f386013c-f4f5-460a-ad2a-2c0ab89a533a.mp3" length="15067786" type="audio/mpeg"/>
+<itunes:duration>941</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode>
+</item>
+<item>
+<title>37 · The Every Podcast · 2026-09-30 · How Sam Altman Uses Dots to Take Back His Time</title>
+<link>https://every.to/podcast/how-sam-altman-uses-dots-to-take-back-his-time</link>
+<guid isPermaLink="false">aios-l7-37</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<description>The Every Podcast · Sam Altman · aired September 30, 2026
+Method · HIGH priority · L7 Automations
+
+Why it's here: Sam Altman on the job his Dot actually does: it triages the morning's fires and flags only what's truly urgent, so his early-morning creative window survives. He also leaves it feature notes on walks, and it builds five or six versions for him to review. The same triage-and-flag pattern as your Chief of Staff inbox.
+
+Original episode: https://every.to/podcast/how-sam-altman-uses-dots-to-take-back-his-time</description>
+<itunes:summary>The Every Podcast · Sam Altman · aired September 30, 2026
+Method · HIGH priority · L7 Automations
+
+Why it's here: Sam Altman on the job his Dot actually does: it triages the morning's fires and flags only what's truly urgent, so his early-morning creative window survives. He also leaves it feature notes on walks, and it builds five or six versions for him to review. The same triage-and-flag pattern as your Chief of Staff inbox.
+
+Original episode: https://every.to/podcast/how-sam-altman-uses-dots-to-take-back-his-time</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The Every Podcast</strong> &middot; Sam Altman &middot; aired September 30, 2026</p><p>Method &middot; HIGH priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Sam Altman on the job his Dot actually does: it triages the morning&#x27;s fires and flags only what&#x27;s truly urgent, so his early-morning creative window survives. He also leaves it feature notes on walks, and it builds five or six versions for him to review. The same triage-and-flag pattern as your Chief of Staff inbox.</p><p><a href="https://every.to/podcast/how-sam-altman-uses-dots-to-take-back-his-time">Open the original episode &rarr;</a><br/>https://every.to/podcast/how-sam-altman-uses-dots-to-take-back-his-time</p>]]></content:encoded>
+<enclosure url="https://episode.flightcast.com/01M3SP9F8QKB4V4J9RPKX41XFM.mp3" length="23876023" type="audio/mpeg"/>
+<itunes:duration>1990</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
+<title>38 · The Cognitive Revolution · 2025-06-21 · Living Lindy: a No-BS Conversation on AI Agents with Flo Crivello</title>
 <link>https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conversation-on-ai-agents-with-flo-crivello/</link>
-<guid isPermaLink="false">aios-l7-34</guid>
-<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-38</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
 <description>The Cognitive Revolution · Flo Crivello · aired June 21, 2025
 Method · HIGH priority · L7 Automations
 
@@ -172,13 +264,13 @@ Original episode: https://www.cognitiverevolution.ai/living-lindy-a-no-bs-conver
 <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP9047546818.mp3?updated=1751620788" length="78209321" type="audio/mpeg"/>
 <itunes:duration>5075</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>5</itunes:episode>
 </item>
 <item>
-<title>35 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
+<title>39 · Everyday AI · 2026-08-12 · Ep 839: Scheduling AI: how to easily make AI work for you in Claude, Gemini and ChatGPT</title>
 <link>https://www.buzzsprout.com/2175779/episodes/19635247</link>
-<guid isPermaLink="false">aios-l7-35</guid>
-<pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-39</guid>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
 <description>Everyday AI · Jordan Wilson · aired August 12, 2026
 BUILD · MEDIUM priority · L7 Automations
 
@@ -195,13 +287,13 @@ Original episode: https://www.buzzsprout.com/2175779/episodes/19635247</itunes:s
 <enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19635247-ep-839-scheduling-ai-how-to-easily-make-ai-work-for-you-in-claude-gemini-and-chatgpt.mp3" length="34212629" type="audio/mpeg"/>
 <itunes:duration>2846</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<itunes:episode>2</itunes:episode>
+<itunes:episode>4</itunes:episode>
 </item>
 <item>
-<title>36 · Master Claude Chat, Cowork, Code · 2026-09-20 · 8. Scheduled and Delegated Work (Automating Recurring Processes with Claude)</title>
+<title>40 · Master Claude Chat, Cowork, Code · 2026-09-20 · 8. Scheduled and Delegated Work (Automating Recurring Processes with Claude)</title>
 <link>https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</link>
-<guid isPermaLink="false">aios-l7-36</guid>
-<pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+<guid isPermaLink="false">aios-l7-40</guid>
+<pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
 <description>Master Claude Chat, Cowork, Code · aired September 20, 2026
 BUILD · MEDIUM priority · L7 Automations
 
@@ -217,6 +309,52 @@ Original episode: https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Sc
 <content:encoded><![CDATA[<p><strong>Master Claude Chat, Cowork, Code</strong> &middot; aired September 20, 2026</p><p>BUILD &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Sho Shimoda on turning Cowork into a background operator — how scheduled tasks fire on cloud infrastructure and what delegated recurring work requires.</p><p><a href="https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/1kpips1/episodes/8--Scheduled-and-Delegated-Work-Automating-Recurring-Processes-with-Claude-e3p3h62</p>]]></content:encoded>
 <enclosure url="https://anchor.fm/s/10fbb38c4/podcast/play/125993602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-19%2F5bc09ed4-07cd-f000-5a84-e8f4b8fb2178.m4a" length="93170695" type="audio/x-m4a"/>
 <itunes:duration>00:48:14</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode>
+</item>
+<item>
+<title>41 · Lenny's Podcast: Product | Career | Growth · 2026-10-04 · OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux</title>
+<link>https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering</link>
+<guid isPermaLink="false">aios-l7-41</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>Lenny's Podcast: Product | Career | Growth · aired October 4, 2026
+Method · MEDIUM priority · L7 Automations
+
+Why it's here: Tibo Sottiaux, OpenAI's head of ChatGPT and Codex, on how Dots are structured and how they tie Codex and ChatGPT together. He covers guardrails and secondary monitoring, the agent that spotted a production outage before a live demo, and why he thinks hand-built agent workflows are a passing phase.
+
+Original episode: https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering</description>
+<itunes:summary>Lenny's Podcast: Product | Career | Growth · aired October 4, 2026
+Method · MEDIUM priority · L7 Automations
+
+Why it's here: Tibo Sottiaux, OpenAI's head of ChatGPT and Codex, on how Dots are structured and how they tie Codex and ChatGPT together. He covers guardrails and secondary monitoring, the agent that spotted a production outage before a live demo, and why he thinks hand-built agent workflows are a passing phase.
+
+Original episode: https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering</itunes:summary>
+<content:encoded><![CDATA[<p><strong>Lenny&#x27;s Podcast: Product | Career | Growth</strong> &middot; aired October 4, 2026</p><p>Method &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> Tibo Sottiaux, OpenAI&#x27;s head of ChatGPT and Codex, on how Dots are structured and how they tie Codex and ChatGPT together. He covers guardrails and secondary monitoring, the agent that spotted a production outage before a live demo, and why he thinks hand-built agent workflows are a passing phase.</p><p><a href="https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering">Open the original episode &rarr;</a><br/>https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering</p>]]></content:encoded>
+<enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/217274136/13e3f49711c936b294b6ef27d4160818.mp3" length="35885835" type="audio/mpeg"/>
+<itunes:duration>2243</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode>
+</item>
+<item>
+<title>42 · The AI Daily Brief: Artificial Intelligence News and Analysis · 2026-10-04 · How to Choose Your Personal AI Agent</title>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Choose-Your-Personal-AI-Agent-e3prr4p</link>
+<guid isPermaLink="false">aios-l7-42</guid>
+<pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
+<description>The AI Daily Brief: Artificial Intelligence News and Analysis · aired October 4, 2026
+Method · MEDIUM priority · L7 Automations
+
+Why it's here: NLW's decision framework for picking a personal agent among Dots, Muse, Grok Bot and the open-source options: work versus personal use, model choice, setup effort and where your data goes. Useful if you're deciding whether a Dot belongs in your stack beside Cowork.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Choose-Your-Personal-AI-Agent-e3prr4p</description>
+<itunes:summary>The AI Daily Brief: Artificial Intelligence News and Analysis · aired October 4, 2026
+Method · MEDIUM priority · L7 Automations
+
+Why it's here: NLW's decision framework for picking a personal agent among Dots, Muse, Grok Bot and the open-source options: work versus personal use, model choice, setup effort and where your data goes. Useful if you're deciding whether a Dot belongs in your stack beside Cowork.
+
+Original episode: https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Choose-Your-Personal-AI-Agent-e3prr4p</itunes:summary>
+<content:encoded><![CDATA[<p><strong>The AI Daily Brief: Artificial Intelligence News and Analysis</strong> &middot; aired October 4, 2026</p><p>Method &middot; MEDIUM priority &middot; L7 Automations</p><p><strong>Why it's here:</strong> NLW&#x27;s decision framework for picking a personal agent among Dots, Muse, Grok Bot and the open-source options: work versus personal use, model choice, setup effort and where your data goes. Useful if you&#x27;re deciding whether a Dot belongs in your stack beside Cowork.</p><p><a href="https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Choose-Your-Personal-AI-Agent-e3prr4p">Open the original episode &rarr;</a><br/>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Choose-Your-Personal-AI-Agent-e3prr4p</p>]]></content:encoded>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/126790233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F433292526-44100-2-f9872d8da355c.mp3" length="23539460" type="audio/mpeg"/>
+<itunes:duration>00:24:31</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>
